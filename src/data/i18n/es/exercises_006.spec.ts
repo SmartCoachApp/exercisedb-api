@@ -18,7 +18,7 @@ describe('exercises_006.json — Spanish translations for exercises 500-599', ()
   })
 
   it('has no extra IDs beyond the batch', () => {
-    const batchIds = new Set(batch.map(e => e.exerciseId))
+    const batchIds = new Set(batch.map((e) => e.exerciseId))
     for (const id of Object.keys(typed)) {
       expect(batchIds.has(id)).toBe(true)
     }

@@ -74,9 +74,9 @@ describe('FileLoader', () => {
 
     it('has no extra entries beyond source data', async () => {
       const catalogs = await FileLoader.loadCatalogTranslations('es')
-      const bodyParts = (await FileLoader.loadBodyParts()).map(bp => bp.name)
-      const muscles = (await FileLoader.loadMuscles()).map(m => m.name)
-      const equipments = (await FileLoader.loadEquipments()).map(eq => eq.name)
+      const bodyParts = (await FileLoader.loadBodyParts()).map((bp) => bp.name)
+      const muscles = (await FileLoader.loadMuscles()).map((m) => m.name)
+      const equipments = (await FileLoader.loadEquipments()).map((eq) => eq.name)
 
       expect(Object.keys(catalogs.bodyParts).length).toBe(bodyParts.length)
       expect(Object.keys(catalogs.muscles).length).toBe(muscles.length)
@@ -112,7 +112,7 @@ describe('FileLoader', () => {
     it('translation exerciseIds exist in source data', async () => {
       const translations = await FileLoader.loadExerciseTranslations('es')
       const exercises = await FileLoader.loadExercises()
-      const exerciseIds = new Set(exercises.map(e => e.exerciseId))
+      const exerciseIds = new Set(exercises.map((e) => e.exerciseId))
 
       for (const id of Object.keys(translations)) {
         expect(exerciseIds.has(id)).toBe(true)
@@ -122,7 +122,7 @@ describe('FileLoader', () => {
     it('translation instruction counts match source data', async () => {
       const translations = await FileLoader.loadExerciseTranslations('es')
       const exercises = await FileLoader.loadExercises()
-      const exerciseMap = new Map(exercises.map(e => [e.exerciseId, e]))
+      const exerciseMap = new Map(exercises.map((e) => [e.exerciseId, e]))
 
       for (const [id, trans] of Object.entries(translations)) {
         const original = exerciseMap.get(id)

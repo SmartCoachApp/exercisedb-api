@@ -59,9 +59,9 @@ export class EquipmentController implements Routes {
         const response = await this.equipmentService.getEquipments()
 
         if (lang !== 'en') {
-          const names = response.map(e => e.name)
+          const names = response.map((e) => e.name)
           const translated = await TranslationService.translateCatalogList(names, 'equipments', lang)
-          const translatedResponse = translated.map(name => ({ name }))
+          const translatedResponse = translated.map((name) => ({ name }))
           return ctx.json({ success: true, data: translatedResponse })
         }
 

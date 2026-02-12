@@ -59,9 +59,9 @@ export class BodyPartController implements Routes {
         const response = await this.bodyPartService.getBodyParts()
 
         if (lang !== 'en') {
-          const names = response.map(bp => bp.name)
+          const names = response.map((bp) => bp.name)
           const translated = await TranslationService.translateCatalogList(names, 'bodyParts', lang)
-          const translatedResponse = translated.map(name => ({ name }))
+          const translatedResponse = translated.map((name) => ({ name }))
           return ctx.json({ success: true, data: translatedResponse })
         }
 

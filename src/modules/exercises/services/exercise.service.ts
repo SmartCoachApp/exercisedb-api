@@ -20,9 +20,7 @@ export class ExerciseService {
   }
   async searchExercises(params: SearchExercisesArgs) {
     const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     const query: GetExercisesArgs = {
       offset: params.offset,
@@ -46,9 +44,7 @@ export class ExerciseService {
   }
   async getAllExercises(params: GetAllExercisesArgs) {
     const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     const query: GetExercisesArgs = {
       offset: params.offset,
@@ -63,9 +59,7 @@ export class ExerciseService {
   async filterExercises(params: FilterExercisesArgs) {
     const lang = params.lang ?? 'en'
 
-    let exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    let exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     // Resolve filter values to target language when using translated data
     let targetMuscles = params.targetMuscles
@@ -116,9 +110,7 @@ export class ExerciseService {
   // Get exercises by body part
   async getExercisesByBodyPart(params: GetExercisesByBodyPartArgs) {
     const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     // Path params are always English; resolve to target language for comparison against translated data
     let bodyPart = params.bodyPart
@@ -142,9 +134,7 @@ export class ExerciseService {
   // Get exercises by equipment
   async getExercisesByEquipment(params: GetExercisesByEquipmentArgs) {
     const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     let equipment = params.equipment
     if (lang !== 'en') {
@@ -167,9 +157,7 @@ export class ExerciseService {
   // Get exercises by muscle (with option to include secondary muscles)
   async getExercisesByMuscle(params: GetExercisesByMuscleArgs) {
     const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en'
-      ? await TranslationService.getTranslatedExerciseData(lang)
-      : undefined
+    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     let muscle = params.muscle
     if (lang !== 'en') {

@@ -59,9 +59,9 @@ export class MuscleController implements Routes {
         const response = await this.muscleService.getMuscles()
 
         if (lang !== 'en') {
-          const names = response.map(m => m.name)
+          const names = response.map((m) => m.name)
           const translated = await TranslationService.translateCatalogList(names, 'muscles', lang)
-          const translatedResponse = translated.map(name => ({ name }))
+          const translatedResponse = translated.map((name) => ({ name }))
           return ctx.json({ success: true, data: translatedResponse })
         }
 

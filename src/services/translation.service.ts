@@ -17,10 +17,10 @@ export class TranslationService {
       ...exercise,
       name: exerciseTranslation?.name ?? exercise.name,
       instructions: exerciseTranslation?.instructions ?? exercise.instructions,
-      targetMuscles: exercise.targetMuscles.map(m => catalogTranslations.muscles[m] ?? m),
-      secondaryMuscles: exercise.secondaryMuscles.map(m => catalogTranslations.muscles[m] ?? m),
-      bodyParts: exercise.bodyParts.map(bp => catalogTranslations.bodyParts[bp] ?? bp),
-      equipments: exercise.equipments.map(eq => catalogTranslations.equipments[eq] ?? eq)
+      targetMuscles: exercise.targetMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
+      secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
+      bodyParts: exercise.bodyParts.map((bp) => catalogTranslations.bodyParts[bp] ?? bp),
+      equipments: exercise.equipments.map((eq) => catalogTranslations.equipments[eq] ?? eq)
     }
   }
 
@@ -32,16 +32,16 @@ export class TranslationService {
       FileLoader.loadExerciseTranslations(lang)
     ])
 
-    return exercises.map(exercise => {
+    return exercises.map((exercise) => {
       const exerciseTranslation = exerciseTranslations[exercise.exerciseId]
       return {
         ...exercise,
         name: exerciseTranslation?.name ?? exercise.name,
         instructions: exerciseTranslation?.instructions ?? exercise.instructions,
-        targetMuscles: exercise.targetMuscles.map(m => catalogTranslations.muscles[m] ?? m),
-        secondaryMuscles: exercise.secondaryMuscles.map(m => catalogTranslations.muscles[m] ?? m),
-        bodyParts: exercise.bodyParts.map(bp => catalogTranslations.bodyParts[bp] ?? bp),
-        equipments: exercise.equipments.map(eq => catalogTranslations.equipments[eq] ?? eq)
+        targetMuscles: exercise.targetMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
+        secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
+        bodyParts: exercise.bodyParts.map((bp) => catalogTranslations.bodyParts[bp] ?? bp),
+        equipments: exercise.equipments.map((eq) => catalogTranslations.equipments[eq] ?? eq)
       }
     })
   }
@@ -56,7 +56,7 @@ export class TranslationService {
     const catalogTranslations = await FileLoader.loadCatalogTranslations(lang)
     const translationMap = catalogTranslations[catalogType]
 
-    return items.map(item => translationMap[item] ?? item)
+    return items.map((item) => translationMap[item] ?? item)
   }
 
   static async resolveFilterValue(
@@ -89,7 +89,7 @@ export class TranslationService {
   ): Promise<string[]> {
     if (lang === 'en') return values
 
-    return Promise.all(values.map(v => this.resolveFilterValue(v, catalogType, lang)))
+    return Promise.all(values.map((v) => this.resolveFilterValue(v, catalogType, lang)))
   }
 
   static async resolveFilterValuesToTargetLang(
@@ -102,15 +102,13 @@ export class TranslationService {
     const catalogTranslations = await FileLoader.loadCatalogTranslations(lang)
     const translationMap = catalogTranslations[catalogType]
 
-    return values.map(value => {
+    return values.map((value) => {
       // If value is an English key, translate it to target language
       const translated = translationMap[value]
       if (translated) return translated
 
       // Case-insensitive check for English key
-      const entry = Object.entries(translationMap).find(
-        ([key]) => key.toLowerCase() === value.toLowerCase()
-      )
+      const entry = Object.entries(translationMap).find(([key]) => key.toLowerCase() === value.toLowerCase())
       if (entry) return entry[1]
 
       // Already in target language or unknown, return as-is

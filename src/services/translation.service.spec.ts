@@ -28,10 +28,7 @@ const mockExercise: Exercise = {
   bodyParts: ['neck'],
   equipments: ['band'],
   secondaryMuscles: ['shoulders'],
-  instructions: [
-    'Step:1 Stand with your feet shoulder-width apart.',
-    'Step:2 Keep your arms straight and relaxed.'
-  ]
+  instructions: ['Step:1 Stand with your feet shoulder-width apart.', 'Step:2 Keep your arms straight and relaxed.']
 }
 
 describe('TranslationService', () => {
@@ -246,7 +243,11 @@ describe('TranslationService', () => {
     it('works for equipments', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
 
-      const result = await TranslationService.resolveFilterValuesToTargetLang(['dumbbell', 'barbell'], 'equipments', 'es')
+      const result = await TranslationService.resolveFilterValuesToTargetLang(
+        ['dumbbell', 'barbell'],
+        'equipments',
+        'es'
+      )
       expect(result).toEqual(['mancuerna', 'barra'])
     })
   })

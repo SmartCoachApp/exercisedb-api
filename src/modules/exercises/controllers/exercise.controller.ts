@@ -113,7 +113,8 @@ export class ExerciseController implements Routes {
         path: '/exercises',
         tags: ['EXERCISES'],
         summary: 'Get all exercises with optional search',
-        description: 'Retrieve all exercises with optional fuzzy search filtering. Supports ?lang=es for Spanish results.',
+        description:
+          'Retrieve all exercises with optional fuzzy search filtering. Supports ?lang=es for Spanish results.',
         operationId: 'getExercises',
         request: {
           query: PaginationQuerySchema.extend({
@@ -153,7 +154,14 @@ export class ExerciseController implements Routes {
         }
       }),
       async (ctx) => {
-        const { offset = 0, limit = 10, search, sortBy = 'targetMuscles', sortOrder = 'desc', lang = 'en' } = ctx.req.valid('query')
+        const {
+          offset = 0,
+          limit = 10,
+          search,
+          sortBy = 'targetMuscles',
+          sortOrder = 'desc',
+          lang = 'en'
+        } = ctx.req.valid('query')
         const { origin, pathname } = new URL(ctx.req.url)
 
         const { totalExercises, totalPages, currentPage, exercises } = await this.exerciseService.getAllExercises({
@@ -195,7 +203,8 @@ export class ExerciseController implements Routes {
         path: '/exercises/filter',
         tags: ['EXERCISES'],
         summary: 'Advanced exercise filtering',
-        description: 'Advance Filter exercises by multiple criteria with fuzzy search support. Supports ?lang=es for Spanish results. Filter values accept both English and Spanish terms when lang=es.',
+        description:
+          'Advance Filter exercises by multiple criteria with fuzzy search support. Supports ?lang=es for Spanish results. Filter values accept both English and Spanish terms when lang=es.',
         operationId: 'filterExercises',
         request: {
           query: PaginationQuerySchema.extend({
@@ -379,7 +388,8 @@ export class ExerciseController implements Routes {
         path: '/bodyparts/{bodyPartName}/exercises',
         tags: ['EXERCISES'],
         summary: 'GetExercisesByBodyparts',
-        description: 'Retrieve exercises that target a specific body part. Path param is always English. Supports ?lang=es for Spanish results.',
+        description:
+          'Retrieve exercises that target a specific body part. Path param is always English. Supports ?lang=es for Spanish results.',
         operationId: 'getExercisesByBodyPart',
         request: {
           params: z.object({
@@ -420,7 +430,14 @@ export class ExerciseController implements Routes {
           })
 
         const langParam = lang !== 'en' ? `lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(origin, pathname, currentPage, totalPages, limit, langParam)
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          langParam
+        )
 
         return ctx.json({
           success: true,
@@ -441,7 +458,8 @@ export class ExerciseController implements Routes {
         path: '/equipments/{equipmentName}/exercises',
         tags: ['EXERCISES'],
         summary: 'GetExercisesByEquipment',
-        description: 'Retrieve exercises that use specific equipment. Path param is always English. Supports ?lang=es for Spanish results.',
+        description:
+          'Retrieve exercises that use specific equipment. Path param is always English. Supports ?lang=es for Spanish results.',
         operationId: 'getExercisesByEquipment',
         request: {
           params: z.object({
@@ -482,7 +500,14 @@ export class ExerciseController implements Routes {
           })
 
         const langParam = lang !== 'en' ? `lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(origin, pathname, currentPage, totalPages, limit, langParam)
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          langParam
+        )
 
         return ctx.json({
           success: true,
@@ -504,7 +529,8 @@ export class ExerciseController implements Routes {
         path: '/muscles/{muscleName}/exercises',
         tags: ['EXERCISES'],
         summary: 'Get exercises by muscle',
-        description: 'Retrieve exercises that target a specific muscle, optionally including secondary muscle matches. Path param is always English. Supports ?lang=es for Spanish results.',
+        description:
+          'Retrieve exercises that target a specific muscle, optionally including secondary muscle matches. Path param is always English. Supports ?lang=es for Spanish results.',
         operationId: 'getExercisesByMuscle',
         request: {
           params: z.object({

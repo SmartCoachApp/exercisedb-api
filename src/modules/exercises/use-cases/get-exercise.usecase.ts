@@ -149,9 +149,15 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
     }
   }
 
-  async execute({ offset, limit, query = {}, sort = {}, exerciseData: preloadedData }: GetExercisesArgs): Promise<GetExercisesReturnArgs> {
+  async execute({
+    offset,
+    limit,
+    query = {},
+    sort = {},
+    exerciseData: preloadedData
+  }: GetExercisesArgs): Promise<GetExercisesReturnArgs> {
     try {
-      const exerciseData = preloadedData ?? await this.getExerciseData()
+      const exerciseData = preloadedData ?? (await this.getExerciseData())
       console.log({ query, offset, limit, sort, exrLenght: exerciseData.length })
       // Apply filters
       const filtered = this.filterByQuery(exerciseData, query)

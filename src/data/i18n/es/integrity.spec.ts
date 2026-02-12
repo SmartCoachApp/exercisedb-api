@@ -19,14 +19,26 @@ import batch15 from './exercises_015.json'
 import type { ExerciseTranslations } from '../types'
 
 const allBatches: ExerciseTranslations[] = [
-  batch01, batch02, batch03, batch04, batch05,
-  batch06, batch07, batch08, batch09, batch10,
-  batch11, batch12, batch13, batch14, batch15
+  batch01,
+  batch02,
+  batch03,
+  batch04,
+  batch05,
+  batch06,
+  batch07,
+  batch08,
+  batch09,
+  batch10,
+  batch11,
+  batch12,
+  batch13,
+  batch14,
+  batch15
 ]
 
 const merged: ExerciseTranslations = Object.assign({}, ...allBatches)
-const exerciseIds = new Set(exercises.map(e => e.exerciseId))
-const exerciseMap = new Map(exercises.map(e => [e.exerciseId, e]))
+const exerciseIds = new Set(exercises.map((e) => e.exerciseId))
+const exerciseMap = new Map(exercises.map((e) => [e.exerciseId, e]))
 
 describe('Spanish i18n — full data integrity', () => {
   it('merged translations cover every exercise in the source data', () => {
@@ -97,26 +109,26 @@ describe('Spanish i18n — full data integrity', () => {
   })
 
   it('catalog translations cover all body parts from source', () => {
-    const bodyParts = [...new Set(exercises.flatMap(e => e.bodyParts))]
-    const missing = bodyParts.filter(bp => !catalogs.bodyParts[bp])
+    const bodyParts = [...new Set(exercises.flatMap((e) => e.bodyParts))]
+    const missing = bodyParts.filter((bp) => !catalogs.bodyParts[bp])
     expect(missing).toEqual([])
   })
 
   it('catalog translations cover all target muscles from source', () => {
-    const muscles = [...new Set(exercises.flatMap(e => e.targetMuscles))]
-    const missing = muscles.filter(m => !catalogs.muscles[m])
+    const muscles = [...new Set(exercises.flatMap((e) => e.targetMuscles))]
+    const missing = muscles.filter((m) => !catalogs.muscles[m])
     expect(missing).toEqual([])
   })
 
   it('catalog translations cover all secondary muscles from source', () => {
-    const secondaryMuscles = [...new Set(exercises.flatMap(e => e.secondaryMuscles))]
-    const missing = secondaryMuscles.filter(m => !catalogs.muscles[m])
+    const secondaryMuscles = [...new Set(exercises.flatMap((e) => e.secondaryMuscles))]
+    const missing = secondaryMuscles.filter((m) => !catalogs.muscles[m])
     expect(missing).toEqual([])
   })
 
   it('catalog translations cover all equipments from source', () => {
-    const equipments = [...new Set(exercises.flatMap(e => e.equipments))]
-    const missing = equipments.filter(eq => !catalogs.equipments[eq])
+    const equipments = [...new Set(exercises.flatMap((e) => e.equipments))]
+    const missing = equipments.filter((eq) => !catalogs.equipments[eq])
     expect(missing).toEqual([])
   })
 
