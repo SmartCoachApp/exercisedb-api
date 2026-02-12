@@ -6,3 +6,4 @@ seed
 .vercel
 staging.vercel
 production.vercel
+.hydra/

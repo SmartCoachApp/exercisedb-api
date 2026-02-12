@@ -1,9 +1,11 @@
 import { Exercise } from '../../../data/types'
+import type { SupportedLanguage } from '../../../data/i18n/types'
 
 export { Exercise } from '../../../data/types'
 
 export interface FetchExerciseByIdReq {
   exerciseId: string
+  lang?: SupportedLanguage
 }
 export interface GetExercisesArgs {
   offset?: number
@@ -18,6 +20,7 @@ export interface GetExercisesArgs {
     [key: string]: any
   }
   sort?: Record<string, 1 | -1>
+  exerciseData?: Exercise[]
 }
 export interface GetExercisesReturnArgs {
   exercises: Exercise[]
@@ -31,6 +34,7 @@ export interface SearchExercisesArgs {
   limit?: number
   query: string
   threshold?: number
+  lang?: SupportedLanguage
 }
 
 export interface GetAllExercisesArgs {
@@ -38,6 +42,7 @@ export interface GetAllExercisesArgs {
   limit?: number
   search?: string
   sort?: Record<string, 1 | -1>
+  lang?: SupportedLanguage
 }
 
 export interface GetExercisesByMuscleArgs {
@@ -45,18 +50,21 @@ export interface GetExercisesByMuscleArgs {
   limit?: number
   muscle: string
   includeSecondary?: boolean
+  lang?: SupportedLanguage
 }
 
 export interface GetExercisesByEquipmentArgs {
   offset?: number
   limit?: number
   equipment: string
+  lang?: SupportedLanguage
 }
 
 export interface GetExercisesByBodyPartArgs {
   offset?: number
   limit?: number
   bodyPart: string
+  lang?: SupportedLanguage
 }
 
 export interface FilterExercisesArgs {
@@ -67,10 +75,12 @@ export interface FilterExercisesArgs {
   equipments?: string[]
   bodyParts?: string[]
   sort?: Record<string, 1 | -1>
+  lang?: SupportedLanguage
 }
 
 export interface GetExerciseSerivceArgs {
   offset?: number
   limit?: number
   search?: string
+  lang?: SupportedLanguage
 }

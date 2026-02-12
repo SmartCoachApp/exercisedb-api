@@ -24,7 +24,7 @@ export const Meteors = ({ number }: { number: number }) => {
 Home.get('/', (c) => {
   const title = 'ExerciseDB API'
   const description =
-    'Access detailed data on over 1300+ exercises with the ExerciseDB API. This API offers extensive information on each exercise, including target body parts, equipment needed, GIFs for visual guidance, and step-by-step instructions.'
+    'Access detailed data on over 1300+ exercises with the ExerciseDB API. This API offers extensive information on each exercise, including target body parts, equipment needed, GIFs for visual guidance, and step-by-step instructions. Multi-language support available (English, Spanish).'
   const keywords =
     'exercisedb api, fitness exercise database api, fitness API, exercise database, workout API, fitness data API, muscle exercises, exercise gif api, gym API, exercise videos, exercise images, exercise instructions, gym workouts api ,  workouts exercises, home workouts, muscle gain workouts, weight loss exercises'
 
@@ -147,6 +147,20 @@ Home.get('/', (c) => {
                 </div>
               </div>
             </a>
+
+            <div class="p-4 sm:p-8 hover:bg-opacity-5 hover:bg-white rounded-lg duration-100 sm:col-span-4">
+              <div class="flex flex-col">
+                <span class="text-xs uppercase bg-opacity-15 rounded text-center max-w-fit px-2 py-1 font-bold tracking-wide bg-yellow-500 text-yellow-500">
+                  Multi-language
+                </span>
+                <span class="text-neutral-200 font-bold text-lg sm:text-xl md:text-2xl mt-2">i18n Support</span>
+                <div class="text-neutral-500 mt-2">
+                  All endpoints support Spanish translations via the <code class="text-neutral-400">?lang=es</code> query parameter.
+                  Exercise names, instructions, muscles, body parts, and equipment are all translated. Filter and search work in both
+                  languages.
+                </div>
+              </div>
+            </div>
 
             <div class="p-4 sm:p-8 hover:bg-opacity-5 hover:bg-white rounded-lg duration-100 sm:col-span-4">
               <div class="flex flex-col">

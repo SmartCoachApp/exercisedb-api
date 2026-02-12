@@ -29,6 +29,11 @@ export const PaginationQuerySchema = z.object({
     type: 'number',
     example: 10,
     default: 10
+  }),
+  lang: z.enum(['en', 'es']).optional().default('en').openapi({
+    title: 'Language',
+    description: 'Response language (en=English, es=Spanish)',
+    example: 'en'
   })
 })
 

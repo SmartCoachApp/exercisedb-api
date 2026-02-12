@@ -66,6 +66,8 @@ export class App {
           title: 'ExerciseDB API - v1 (Open Source)',
           description: `**ExerciseDB API v1** is a fully open-source and developer-friendly fitness exercise database featuring over 1,500 structured exercises with **GIF-based visual media**. It includes detailed metadata like target muscles, equipment, and body parts, designed for fast integration into fitness apps, personal trainer platforms, and health tools.
 
+**🌐 Multi-language support**: All endpoints accept an optional \`lang\` query parameter. Use \`?lang=es\` for Spanish translations of exercise names, instructions, muscles, body parts, and equipment. Filter endpoints accept values in both English and Spanish when \`lang=es\`.
+
 **📝 NOTE**: This version is public, free to use, and includes both the **code and dataset metadata** — making it perfect for personal projects, prototypes, learning, and community-driven apps.
 
 🔗 Useful Links:

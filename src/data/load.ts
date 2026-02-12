@@ -2,6 +2,7 @@ import { promises as fs } from 'fs'
 import path from 'path'
 import { Equipment, Exercise, Muscle, BodyPart } from './types'
 import { HTTPException } from 'hono/http-exception'
+import type { SupportedLanguage, CatalogTranslations, ExerciseTranslations } from './i18n/types'
 
 export class FileLoader {
   private static dataPath = path.resolve(process.cwd(), 'src', 'data')
@@ -40,5 +41,37 @@ export class FileLoader {
 
   public static loadMuscles(): Promise<Muscle[]> {
     return this.loadJSON<Muscle[]>('muscles.json')
+  }
+
+  public static async loadCatalogTranslations(lang: SupportedLanguage): Promise<CatalogTranslations> {
+    const cacheKey = `catalogs_${lang}`
+    if (this.cache.has(cacheKey)) {
+      return this.cache.get(cacheKey) as CatalogTranslations
+    }
+
+    const data = await this.loadJSON<CatalogTranslations>(`i18n/${lang}/catalogs.json`)
+    this.cache.set(cacheKey, data)
+    return data
+  }
+
+  public static async loadExerciseTranslations(lang: SupportedLanguage): Promise<ExerciseTranslations> {
+    const cacheKey = `exercises_${lang}`
+    if (this.cache.has(cacheKey)) {
+      return this.cache.get(cacheKey) as ExerciseTranslations
+    }
+
+    const merged: ExerciseTranslations = {}
+    for (let i = 1; i <= 15; i++) {
+      const filename = `i18n/${lang}/exercises_${String(i).padStart(3, '0')}.json`
+      try {
+        const batch = await this.loadJSON<ExerciseTranslations>(filename)
+        Object.assign(merged, batch)
+      } catch {
+        // File may not exist yet during incremental translation
+      }
+    }
+
+    this.cache.set(cacheKey, merged)
+    return merged
   }
 }
