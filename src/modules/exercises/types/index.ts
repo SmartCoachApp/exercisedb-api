@@ -13,9 +13,9 @@ export interface GetExercisesArgs {
   query?: {
     search?: string
     searchThreshold?: number
-    targetMuscles?: string[]
-    equipments?: string[]
-    bodyParts?: string[]
+    target?: string
+    equipment?: string
+    bodyPart?: string
     includeSecondaryMuscles?: boolean
     [key: string]: any
   }
@@ -71,9 +71,9 @@ export interface FilterExercisesArgs {
   offset?: number
   limit?: number
   search?: string
-  targetMuscles?: string[]
-  equipments?: string[]
-  bodyParts?: string[]
+  target?: string
+  equipment?: string
+  bodyPart?: string
   sort?: Record<string, 1 | -1>
   lang?: SupportedLanguage
 }

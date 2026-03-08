@@ -1,215 +1,233 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import { ExerciseService } from './exercise.service'
-import { TranslationService } from '../../../services/translation.service'
 import { FileLoader } from '../../../data/load'
+import { signedUrlService } from '../../../services/signed-url.service'
 import type { Exercise } from '../../../data/types'
 import type { CatalogTranslations, ExerciseTranslations } from '../../../data/i18n/types'
 
+const mockImages = { '180': '', '360': '', '720': '', '1080': '' }
+
 const mockCatalog: CatalogTranslations = {
   bodyParts: { chest: 'pecho', back: 'espalda', 'upper arms': 'brazos superiores' },
-  muscles: { biceps: 'bíceps', triceps: 'tríceps', chest: 'pecho', traps: 'trapecios' },
-  equipments: { dumbbell: 'mancuerna', barbell: 'barra', band: 'banda' }
+  targets: { biceps: 'bíceps', triceps: 'tríceps', pectorals: 'pectorales', traps: 'trapecios' },
+  equipment: { dumbbell: 'mancuerna', barbell: 'barra', band: 'banda' }
 }
 
 const mockExerciseTranslations: ExerciseTranslations = {
-  ex001: { name: 'Press de banca', instructions: ['Paso 1: Acuéstate', 'Paso 2: Empuja'] },
-  ex002: { name: 'Curl de bíceps', instructions: ['Paso 1: Sostén', 'Paso 2: Flexiona'] }
+  '0001': {
+    name: 'Press de banca',
+    description: 'Ejercicio de press de banca con barra.',
+    instructions: ['Paso 1: Acuéstate', 'Paso 2: Empuja']
+  },
+  '0002': {
+    name: 'Curl de bíceps',
+    description: 'Ejercicio de curl de bíceps con mancuerna.',
+    instructions: ['Paso 1: Sostén', 'Paso 2: Flexiona']
+  }
 }
 
 const mockExercises: Exercise[] = [
   {
-    exerciseId: 'ex001',
+    id: '0001',
     name: 'Bench Press',
-    gifUrl: 'https://example.com/bench.gif',
-    targetMuscles: ['chest'],
-    bodyParts: ['chest'],
-    equipments: ['barbell'],
+    bodyPart: 'chest',
+    equipment: 'barbell',
+    target: 'pectorals',
     secondaryMuscles: ['triceps'],
-    instructions: ['Step 1: Lie down', 'Step 2: Push up']
+    instructions: ['Step 1: Lie down', 'Step 2: Push up'],
+    description: 'A chest exercise using a barbell.',
+    difficulty: 'intermediate',
+    category: 'strength'
   },
   {
-    exerciseId: 'ex002',
+    id: '0002',
     name: 'Bicep Curl',
-    gifUrl: 'https://example.com/curl.gif',
-    targetMuscles: ['biceps'],
-    bodyParts: ['upper arms'],
-    equipments: ['dumbbell'],
+    bodyPart: 'upper arms',
+    equipment: 'dumbbell',
+    target: 'biceps',
     secondaryMuscles: ['traps'],
-    instructions: ['Step 1: Hold', 'Step 2: Curl']
+    instructions: ['Step 1: Hold', 'Step 2: Curl'],
+    description: 'A biceps exercise using a dumbbell.',
+    difficulty: 'beginner',
+    category: 'strength'
   }
 ]
 
 beforeEach(() => {
   vi.restoreAllMocks()
   vi.spyOn(FileLoader, 'loadExercises').mockResolvedValue(mockExercises)
+  vi.spyOn(FileLoader, 'loadBodyParts').mockResolvedValue(['chest', 'back', 'upper arms'])
+  vi.spyOn(FileLoader, 'loadTargets').mockResolvedValue(['pectorals', 'biceps', 'triceps'])
+  vi.spyOn(FileLoader, 'loadEquipments').mockResolvedValue(['barbell', 'dumbbell', 'band'])
   vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalog)
   vi.spyOn(FileLoader, 'loadExerciseTranslations').mockResolvedValue(mockExerciseTranslations)
+  vi.spyOn(signedUrlService, 'generateImageUrls').mockResolvedValue(mockImages)
 })
 
-describe('ExerciseService i18n integration', () => {
+describe('ExerciseService', () => {
   const service = new ExerciseService()
 
-  describe('searchExercises', () => {
-    it('returns English results when lang is en', async () => {
-      const result = await service.searchExercises({ query: 'bench', lang: 'en' })
-      expect(result.exercises[0]?.name).toBe('Bench Press')
-    })
-
-    it('returns translated results when lang is es', async () => {
-      const result = await service.searchExercises({ query: 'Press de banca', lang: 'es' })
-      // Should search against translated data
-      expect(result.exercises.length).toBeGreaterThan(0)
-      expect(result.exercises[0].name).toBe('Press de banca')
-    })
-
-    it('defaults to English when lang not specified', async () => {
-      const result = await service.searchExercises({ query: 'bench' })
-      expect(result.exercises[0]?.name).toBe('Bench Press')
-    })
-  })
-
   describe('getAllExercises', () => {
-    it('returns English results when lang is en', async () => {
-      const result = await service.getAllExercises({ lang: 'en' })
-      expect(result.exercises[0].name).toBe('Bench Press')
-      expect(result.exercises[0].targetMuscles).toEqual(['chest'])
+    it('returns paginated exercises with images in English', async () => {
+      const result = await service.getAllExercises({ offset: 0, limit: 10, lang: 'en' })
+      expect(result.data).toHaveLength(2)
+      expect(result.data[0].name).toBe('Bench Press')
+      expect(result.data[0].images).toEqual(mockImages)
+      expect(result.totalItems).toBe(2)
+      expect(result.totalPages).toBe(1)
+      expect(result.currentPage).toBe(1)
     })
 
-    it('returns translated results when lang is es', async () => {
+    it('returns translated exercises in Spanish', async () => {
       const result = await service.getAllExercises({ lang: 'es' })
-      expect(result.exercises[0].name).toBe('Press de banca')
-      expect(result.exercises[0].targetMuscles).toEqual(['pecho'])
-      expect(result.exercises[0].equipments).toEqual(['barra'])
+      expect(result.data[0].name).toBe('Press de banca')
+      expect(result.data[0].target).toBe('pectorales')
+      expect(result.data[0].equipment).toBe('barra')
     })
 
-    it('preserves gifUrl and exerciseId when translating', async () => {
-      const result = await service.getAllExercises({ lang: 'es' })
-      expect(result.exercises[0].exerciseId).toBe('ex001')
-      expect(result.exercises[0].gifUrl).toBe('https://example.com/bench.gif')
-    })
-  })
-
-  describe('filterExercises', () => {
-    it('filters with English muscle names when lang is en', async () => {
-      const result = await service.filterExercises({
-        targetMuscles: ['chest'],
-        lang: 'en'
-      })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Bench Press')
-    })
-
-    it('accepts English filter values when lang is es', async () => {
-      const result = await service.filterExercises({
-        targetMuscles: ['chest'],
-        lang: 'es'
-      })
-      // 'chest' gets resolved to 'pecho' for comparison against translated data
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Press de banca')
-    })
-
-    it('accepts Spanish filter values when lang is es', async () => {
-      const result = await service.filterExercises({
-        targetMuscles: ['pecho'],
-        lang: 'es'
-      })
-      // 'pecho' is already in target language, matches translated data directly
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Press de banca')
-    })
-
-    it('filters by equipment with translation', async () => {
-      const result = await service.filterExercises({
-        equipments: ['dumbbell'],
-        lang: 'es'
-      })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Curl de bíceps')
-      expect(result.exercises[0].equipments).toEqual(['mancuerna'])
-    })
-
-    it('filters by body parts with translation', async () => {
-      const result = await service.filterExercises({
-        bodyParts: ['upper arms'],
-        lang: 'es'
-      })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].bodyParts).toEqual(['brazos superiores'])
+    it('paginates correctly', async () => {
+      const result = await service.getAllExercises({ offset: 0, limit: 1, lang: 'en' })
+      expect(result.data).toHaveLength(1)
+      expect(result.totalItems).toBe(2)
+      expect(result.totalPages).toBe(2)
+      expect(result.currentPage).toBe(1)
     })
   })
 
   describe('getExercisesByBodyPart', () => {
-    it('returns English results when lang is en', async () => {
+    it('returns exercises matching body part in English', async () => {
       const result = await service.getExercisesByBodyPart({ bodyPart: 'chest', lang: 'en' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Bench Press')
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Bench Press')
+      expect(result.data[0].images).toEqual(mockImages)
     })
 
     it('resolves English path param and returns translated results for lang=es', async () => {
       const result = await service.getExercisesByBodyPart({ bodyPart: 'chest', lang: 'es' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Press de banca')
-      expect(result.exercises[0].bodyParts).toEqual(['pecho'])
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Press de banca')
+      expect(result.data[0].bodyPart).toBe('pecho')
+    })
+
+    it('returns empty when body part not found', async () => {
+      const result = await service.getExercisesByBodyPart({ bodyPart: 'legs', lang: 'en' })
+      expect(result.data).toHaveLength(0)
+      expect(result.totalItems).toBe(0)
+    })
+  })
+
+  describe('getExercisesByTarget', () => {
+    it('returns exercises matching target muscle', async () => {
+      const result = await service.getExercisesByTarget({ target: 'pectorals', lang: 'en' })
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Bench Press')
+    })
+
+    it('returns translated results for lang=es', async () => {
+      const result = await service.getExercisesByTarget({ target: 'biceps', lang: 'es' })
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Curl de bíceps')
     })
   })
 
   describe('getExercisesByEquipment', () => {
-    it('returns English results when lang is en', async () => {
-      const result = await service.getExercisesByEquipment({ equipment: 'barbell', lang: 'en' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Bench Press')
+    it('returns exercises matching equipment', async () => {
+      const result = await service.getExercisesByEquipment({ equipment: 'dumbbell', lang: 'en' })
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Bicep Curl')
     })
 
     it('resolves English path param and returns translated results for lang=es', async () => {
       const result = await service.getExercisesByEquipment({ equipment: 'barbell', lang: 'es' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Press de banca')
-      expect(result.exercises[0].equipments).toEqual(['barra'])
+      expect(result.data).toHaveLength(1)
+      expect(result.data[0].name).toBe('Press de banca')
+      expect(result.data[0].equipment).toBe('barra')
     })
   })
 
-  describe('getExercisesByMuscle', () => {
-    it('returns English results when lang is en', async () => {
-      const result = await service.getExercisesByMuscle({ muscle: 'chest', lang: 'en' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Bench Press')
+  describe('searchByName', () => {
+    it('returns exercises matching name fuzzy search', async () => {
+      const result = await service.searchByName({ name: 'bench', lang: 'en' })
+      expect(result.data.length).toBeGreaterThan(0)
+      expect(result.data[0].name).toBe('Bench Press')
+      expect(result.data[0].images).toEqual(mockImages)
     })
 
-    it('resolves English path param and returns translated results for lang=es', async () => {
-      const result = await service.getExercisesByMuscle({ muscle: 'chest', lang: 'es' })
-      expect(result.exercises).toHaveLength(1)
-      expect(result.exercises[0].name).toBe('Press de banca')
-      expect(result.exercises[0].targetMuscles).toEqual(['pecho'])
+    it('returns empty when name does not match', async () => {
+      const result = await service.searchByName({ name: 'zzznomatch999', lang: 'en' })
+      expect(result.data).toHaveLength(0)
+      expect(result.totalItems).toBe(0)
     })
 
-    it('handles includeSecondary with translation', async () => {
-      const result = await service.getExercisesByMuscle({
-        muscle: 'traps',
-        includeSecondary: true,
-        lang: 'es'
-      })
-      // ex002 has traps as secondary muscle -> 'trapecios' in es
-      expect(result.exercises.length).toBeGreaterThan(0)
+    it('searches translated names for lang=es', async () => {
+      const result = await service.searchByName({ name: 'Press de banca', lang: 'es' })
+      expect(result.data.length).toBeGreaterThan(0)
+      expect(result.data[0].name).toBe('Press de banca')
+    })
+
+    it('URL-decodes the name before searching', async () => {
+      const result = await service.searchByName({ name: 'bench%20press', lang: 'en' })
+      expect(result.data.length).toBeGreaterThan(0)
     })
   })
 
   describe('getExerciseById', () => {
-    it('returns English exercise when lang is en', async () => {
-      const result = await service.getExerciseById({ exerciseId: 'ex001', lang: 'en' })
+    it('returns exercise with images in English', async () => {
+      const result = await service.getExerciseById({ id: '0001', lang: 'en' })
       expect(result.name).toBe('Bench Press')
+      expect(result.images).toEqual(mockImages)
     })
 
-    it('returns translated exercise when lang is es', async () => {
-      const result = await service.getExerciseById({ exerciseId: 'ex001', lang: 'es' })
+    it('returns translated exercise in Spanish', async () => {
+      const result = await service.getExerciseById({ id: '0001', lang: 'es' })
       expect(result.name).toBe('Press de banca')
       expect(result.instructions).toEqual(['Paso 1: Acuéstate', 'Paso 2: Empuja'])
-      expect(result.targetMuscles).toEqual(['pecho'])
+      expect(result.target).toBe('pectorales')
+      expect(result.images).toEqual(mockImages)
     })
 
     it('defaults to English when lang not specified', async () => {
-      const result = await service.getExerciseById({ exerciseId: 'ex001' })
+      const result = await service.getExerciseById({ id: '0001' })
       expect(result.name).toBe('Bench Press')
+    })
+  })
+
+  describe('getBodyPartList', () => {
+    it('returns English body parts', async () => {
+      const result = await service.getBodyPartList('en')
+      expect(result).toEqual(['chest', 'back', 'upper arms'])
+    })
+
+    it('returns translated body parts for lang=es', async () => {
+      const result = await service.getBodyPartList('es')
+      expect(result).toContain('pecho')
+      expect(result).toContain('espalda')
+    })
+  })
+
+  describe('getTargetList', () => {
+    it('returns English targets', async () => {
+      const result = await service.getTargetList('en')
+      expect(result).toEqual(['pectorals', 'biceps', 'triceps'])
+    })
+
+    it('returns translated targets for lang=es', async () => {
+      const result = await service.getTargetList('es')
+      expect(result).toContain('pectorales')
+      expect(result).toContain('bíceps')
+    })
+  })
+
+  describe('getEquipmentList', () => {
+    it('returns English equipment', async () => {
+      const result = await service.getEquipmentList('en')
+      expect(result).toEqual(['barbell', 'dumbbell', 'band'])
+    })
+
+    it('returns translated equipment for lang=es', async () => {
+      const result = await service.getEquipmentList('es')
+      expect(result).toContain('barra')
+      expect(result).toContain('mancuerna')
     })
   })
 })

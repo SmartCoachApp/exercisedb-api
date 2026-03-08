@@ -1,1095 +1,1194 @@
 {
-  "xAySMB0": {
-    "name": "tabla de equilibrio",
-    "instructions": [
-      "Paso:1 Coloca la tabla de equilibrio sobre una superficie plana.",
-      "Paso:2 Sube a la tabla de equilibrio con un pie, asegurándote de que esté centrado.",
-      "Paso:3 Lentamente transfiere tu peso al pie sobre la tabla de equilibrio, manteniendo el core activado.",
-      "Paso:4 Mantén el equilibrio y la estabilidad mientras sostienes la posición durante el tiempo deseado.",
-      "Paso:5 Repite el ejercicio con el otro pie."
-    ]
-  },
-  "nxW6BkN": {
-    "name": "elevación inclinada con mancuerna",
-    "instructions": [
-      "Paso:1 Siéntate en un banco inclinado con una mancuerna en cada mano, apoyadas sobre los muslos.",
-      "Paso:2 Reclínate sobre el banco y levanta las mancuernas a la altura de los hombros, con las palmas mirando hacia adelante.",
-      "Paso:3 Manteniendo la espalda contra el banco, exhala y levanta las mancuernas por encima de la cabeza, extendiendo completamente los brazos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas de vuelta a la altura de los hombros.",
-      "Paso:5 Repite el número deseado de repeticiones."
-    ]
-  },
-  "vKilzz3": {
-    "name": "curl de bíceps interno de pie con mancuerna v. 2",
-    "instructions": [
-      "Paso:1 Ponte de pie con una mancuerna en cada mano, las palmas mirando hacia el torso.",
-      "Paso:2 Mantén los codos pegados al torso y rota las palmas de las manos hasta que miren hacia adelante.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, curla los pesos mientras contraes los bíceps.",
-      "Paso:4 Continúa levantando los pesos hasta que los bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros.",
-      "Paso:5 Sostén la posición contraída por una breve pausa mientras aprietas los bíceps.",
-      "Paso:6 Lentamente comienza a bajar las mancuernas a la posición inicial mientras inhalas.",
-      "Paso:7 Repite el número recomendado de repeticiones."
-    ]
-  },
-  "hoXt6wv": {
-    "name": "gancho izquierdo. boxeo",
-    "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Paso:2 Mantén la mano izquierda arriba para proteger tu cara y la mano derecha junto a tu mentón.",
-      "Paso:3 Rota las caderas y pivotea sobre el pie izquierdo mientras extiendes el brazo izquierdo hacia adelante en un movimiento de golpe.",
-      "Paso:4 Gira el torso y activa los músculos del core para generar potencia en el golpe.",
-      "Paso:5 Regresa el brazo rápidamente a la posición inicial y repite el número deseado de repeticiones."
-    ]
-  },
-  "g376LuL": {
-    "name": "prensa de pantorrilla acostado en trineo",
-    "instructions": [
-      "Paso:1 Ajusta la máquina de trineo a un peso cómodo.",
-      "Paso:2 Siéntate en la máquina de trineo con la espalda contra la almohadilla y los pies en la plataforma.",
-      "Paso:3 Coloca los dedos de los pies y las almohadillas de los pies en el borde de la plataforma, con los talones colgando.",
-      "Paso:4 Empuja la plataforma alejándola de ti extendiendo los tobillos, manteniendo las rodillas ligeramente flexionadas.",
-      "Paso:5 Continúa empujando hasta que las pantorrillas estén completamente contraídas.",
-      "Paso:6 Sostén la contracción por un momento, luego baja lentamente la plataforma a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
-    ]
-  },
-  "kprile3": {
-    "name": "fondo en balón de ejercicio",
-    "instructions": [
-      "Paso:1 Siéntate sobre el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas a un ángulo de 90 grados.",
-      "Paso:2 Coloca las manos sobre el balón al lado de las caderas, con los dedos apuntando hacia adelante.",
-      "Paso:3 Activa los tríceps y empuja a través de las manos para levantar el cuerpo del balón, enderezando los brazos.",
-      "Paso:4 Baja el cuerpo flexionando los codos, manteniéndolos pegados a los costados.",
-      "Paso:5 Repite el número deseado de repeticiones."
-    ]
-  },
-  "4f8RXP8": {
-    "name": "remo de pie con cable (barra V)",
-    "instructions": [
-      "Paso:1 Ponte de pie frente a la máquina de cable con los pies separados al ancho de los hombros.",
-      "Paso:2 Agarra el accesorio de barra V con un agarre prono, las palmas mirando hacia abajo.",
-      "Paso:3 Mantén la espalda recta y el core activado.",
-      "Paso:4 Tira de la barra V hacia tu cuerpo, apretando los omóplatos.",
-      "Paso:5 Haz una pausa por un momento en el punto máximo del movimiento, luego libera lentamente la tensión y regresa a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
-    ]
-  },
-  "awG04cF": {
-    "name": "curl de dedos",
-    "instructions": [
-      "Paso:1 Siéntate en un banco con los pies planos en el suelo y sostén una barra con un agarre supino, las palmas mirando hacia arriba.",
-      "Paso:2 Apoya los antebrazos sobre los muslos, permitiendo que las muñecas cuelguen del borde.",
-      "Paso:3 Lentamente curla los dedos hacia las palmas, apretando la barra con fuerza.",
-      "Paso:4 Sostén la contracción por un momento, luego libera lentamente los dedos a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
-    ]
+  "1327": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+    ]
+  },
+  "1328": {
+    "name": "Ejercicio de mancuerna para espalda alta",
+    "description": "Ejercicio de mancuerna para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
+    ]
+  },
+  "1329": {
+    "name": "Ejercicio de mancuerna para espalda alta",
+    "description": "Ejercicio de mancuerna para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+    ]
+  },
+  "1330": {
+    "name": "Ejercicio de mancuerna para espalda alta",
+    "description": "Ejercicio de mancuerna para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica.",
+      "Respira de manera constante durante la ejecución del ejercicio.",
+      "Mantén la tensión en los músculos objetivo durante todo el rango de movimiento.",
+      "Ajusta el mancuerna a la posición adecuada para tu rango de movimiento."
+    ]
+  },
+  "1331": {
+    "name": "Ejercicio de mancuerna para espalda alta",
+    "description": "Ejercicio de mancuerna para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+    ]
+  },
+  "1332": {
+    "name": "Ejercicio de balón de estabilidad para dorsales",
+    "description": "Ejercicio de balón de estabilidad para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+    ]
+  },
+  "1333": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
+    ]
+  },
+  "1334": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+    ]
   },
-  "e1e76I2": {
-    "name": "saltar la cuerda",
+  "1335": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Sostén las manijas de la cuerda de saltar con las manos, las palmas mirando hacia adentro.",
-      "Paso:2 Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Paso:3 Balancea la cuerda por encima de la cabeza y salta sobre ella cuando se acerque a tus pies.",
-      "Paso:4 Aterriza suavemente sobre las almohadillas de los pies y repite el salto cuando la cuerda vuelva a girar.",
-      "Paso:5 Continúa saltando durante la duración deseada o el número de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "qm9veZw": {
-    "name": "curl amplio acostado con mancuerna",
+  "1336": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con una mancuerna en cada mano, las palmas mirando hacia arriba y los brazos completamente extendidos.",
-      "Paso:2 Manteniendo los brazos superiores estacionarios, exhala y curla los pesos mientras contraes los bíceps.",
-      "Paso:3 Continúa levantando los pesos hasta que los bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros.",
-      "Paso:4 Sostén la posición contraída por una breve pausa mientras aprietas los bíceps.",
-      "Paso:5 Inhala y lentamente comienza a bajar las mancuernas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "vpp9Ku2": {
-    "name": "remo alterno sentado a un brazo con cable",
+  "1338": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de mobility de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco frente a una máquina de cable con los pies planos en el suelo y las rodillas ligeramente flexionadas.",
-      "Paso:2 Agarra la manija con una mano y mantén el brazo completamente extendido frente a ti.",
-      "Paso:3 Tira de la manija hacia tu cuerpo, retrayendo el omóplato y manteniendo el codo pegado al costado.",
-      "Paso:4 Haz una pausa por un momento en la parte superior del movimiento, apretando los músculos de la espalda.",
-      "Paso:5 Libera lentamente la manija a la posición inicial.",
-      "Paso:6 Repite con el otro brazo.",
-      "Paso:7 Alterna entre brazos durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "1DN3iz4": {
-    "name": "remo vertical en máquina Smith",
+  "1339": {
+    "name": "Ejercicio de balón de estabilidad para dorsales",
+    "description": "Ejercicio de balón de estabilidad para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, frente a la máquina Smith.",
-      "Paso:2 Agarra la barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Mantén la espalda recta y el core activado.",
-      "Paso:4 Tira de la barra hacia arriba hacia tu mentón, liderando con los codos.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente la barra a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "WbNq5Xu": {
-    "name": "press de pecho de pie en máquina de palanca",
+  "1341": {
+    "name": "Ejercicio de balón de estabilidad para dorsales",
+    "description": "Ejercicio de balón de estabilidad para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y posiciónate en la máquina con los pies planos en el suelo.",
-      "Paso:2 Agarra las manijas con un agarre prono y posiciona las manos a la altura del pecho.",
-      "Paso:3 Empuja las manijas hacia adelante hasta que los brazos estén completamente extendidos, manteniendo los codos ligeramente flexionados.",
-      "Paso:4 Haz una pausa por un momento, luego lleva lentamente las manijas de vuelta hacia el pecho, manteniendo el control durante todo el movimiento.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "4CBIBOM": {
-    "name": "extensión de tríceps sentado con agarre cerrado detrás del cuello con barra",
+  "1342": {
+    "name": "Ejercicio de balón de estabilidad para dorsales",
+    "description": "Ejercicio de balón de estabilidad para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco con la espalda recta y los pies planos en el suelo.",
-      "Paso:2 Sostén la barra con un agarre cerrado detrás del cuello, las palmas mirando hacia adelante.",
-      "Paso:3 Mantén los codos pegados a la cabeza y baja lentamente la barra hacia la parte trasera de la cabeza.",
-      "Paso:4 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "znQUdHY": {
-    "name": "press de hombro sentado con mancuerna",
+  "1343": {
+    "name": "Ejercicio de balón de estabilidad para columna vertebral",
+    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco con una mancuerna en cada mano, apoyadas sobre los muslos.",
-      "Paso:2 Levanta las mancuernas a la altura de los hombros, con las palmas mirando hacia adelante.",
-      "Paso:3 Presiona las mancuernas hacia arriba hasta que los brazos estén completamente extendidos sobre la cabeza.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las mancuernas a la altura de los hombros.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "tig3PXb": {
-    "name": "remo con agarre cerrado de pie con peso corporal",
+  "1344": {
+    "name": "Ejercicio de barra EZ para espalda alta",
+    "description": "Ejercicio de barra EZ para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Paso:2 Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y el core activado.",
-      "Paso:3 Extiende los brazos hacia adelante, agarrando la barra o las manijas con un agarre cerrado.",
-      "Paso:4 Tira de la barra o las manijas hacia tu cuerpo, apretando los omóplatos.",
-      "Paso:5 Haz una pausa por un momento en la parte superior del movimiento, luego libera lentamente y regresa a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "uJmK7Z1": {
-    "name": "curl de muñeca neutral sentado con mancuerna",
+  "1345": {
+    "name": "Ejercicio de pesa rusa para espalda alta",
+    "description": "Ejercicio de pesa rusa para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco con los pies planos en el suelo y sostén una mancuerna en cada mano, las palmas mirando una hacia la otra.",
-      "Paso:2 Apoya los antebrazos sobre los muslos, dejando que las mancuernas cuelguen hacia abajo.",
-      "Paso:3 Manteniendo las muñecas en posición neutral, curla las mancuernas hacia los hombros.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las mancuernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "FY3UdNT": {
-    "name": "elevación de pantorrilla con balón de ejercicio contra la pared (pelota de tenis entre tobillos)",
+  "1346": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie frente a una pared con los pies separados al ancho de los hombros.",
-      "Paso:2 Coloca un balón de ejercicio entre la pared y la parte baja de tu espalda.",
-      "Paso:3 Sostén una mancuerna en cada mano, con los brazos extendidos a los costados.",
-      "Paso:4 Coloca una pelota de tenis entre los tobillos.",
-      "Paso:5 Levanta los talones del suelo, elevando tu cuerpo sobre las puntas de los pies.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "A9qxk2F": {
-    "name": "flexión arquero",
+  "1347": {
+    "name": "Ejercicio de máquina para dorsales",
+    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en posición de flexión con las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Extiende un brazo recto hacia un lado, paralelo al suelo.",
-      "Paso:3 Baja el cuerpo flexionando los codos, manteniendo la espalda recta y el core activado.",
-      "Paso:4 Empuja de vuelta a la posición inicial.",
-      "Paso:5 Repite del otro lado, extendiendo el brazo opuesto hacia un lado.",
-      "Paso:6 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "VnfUNW7": {
-    "name": "dominada con agarre cerrado",
+  "1348": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Agarra la barra de dominadas con las palmas mirando hacia ti y las manos separadas al ancho de los hombros.",
-      "Paso:2 Cuélgate de la barra con los brazos completamente extendidos y los pies sin tocar el suelo.",
-      "Paso:3 Activa los músculos de la espalda y tira de tu cuerpo hacia arriba hacia la barra, manteniendo los codos pegados al cuerpo.",
-      "Paso:4 Continúa tirando hasta que tu mentón esté por encima de la barra.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente el cuerpo a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "mnzcrIB": {
-    "name": "sentadilla en banco con mancuerna",
+  "1349": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Coloca una mancuerna en el suelo frente a un banco.",
-      "Paso:2 Ponte de pie de espaldas al banco con los pies separados al ancho de los hombros.",
-      "Paso:3 Flexiona las rodillas y las caderas para bajar hacia el banco, manteniendo el pecho arriba y la espalda recta.",
-      "Paso:4 Una vez que los glúteos toquen el banco, empuja a través de los talones para ponerte de pie a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "Gw2HFvW": {
-    "name": "aperturas inclinadas a un brazo con mancuerna",
+  "1350": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta el banco inclinado a un ángulo de 30-45 grados.",
-      "Paso:2 Siéntate en el banco con una mancuerna en una mano, apoyada en tu muslo.",
-      "Paso:3 Reclínate sobre el banco, manteniendo los pies planos en el suelo.",
-      "Paso:4 Sostén la mancuerna con el brazo extendido recto sobre el pecho.",
-      "Paso:5 Baja la mancuerna hacia un lado en un arco amplio, manteniendo una ligera flexión en el codo.",
-      "Paso:6 Haz una pausa cuando el brazo esté paralelo al suelo, luego invierte el movimiento para llevar la mancuerna a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de brazo."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "7aVz15j": {
-    "name": "fondos de tríceps en el suelo",
+  "1351": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en el borde de una silla o banco con las manos al lado de las caderas, los dedos apuntando hacia adelante.",
-      "Paso:2 Desliza los glúteos fuera de la silla con las piernas extendidas frente a ti.",
-      "Paso:3 Endereza los brazos, manteniendo una ligera flexión en los codos para mantener la tensión en los tríceps y no en las articulaciones de los codos.",
-      "Paso:4 Lentamente flexiona los codos para bajar el cuerpo hacia el suelo hasta que los codos estén a un ángulo de aproximadamente 90 grados.",
-      "Paso:5 Al llegar al fondo del movimiento, presiona hacia abajo en la silla para enderezar los codos, regresando a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "znLogoF": {
-    "name": "pullover con press con barra",
+  "1352": {
+    "name": "Ejercicio de para columna vertebral",
+    "description": "Ejercicio de para columna vertebral es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con la cabeza en un extremo y los pies en el suelo.",
-      "Paso:2 Sostén la barra con un agarre prono (palmas mirando lejos de ti) y extiende los brazos rectos sobre el pecho.",
-      "Paso:3 Manteniendo los brazos rectos, baja la barra detrás de la cabeza en un movimiento de arco hasta sentir un estiramiento en los dorsales.",
-      "Paso:4 Haz una pausa por un momento, luego invierte el movimiento y presiona la barra de vuelta a la posición inicial sobre el pecho.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento."
     ]
   },
-  "nqs5HGV": {
-    "name": "sentadilla a una pierna (pistol) masculino",
+  "1353": {
+    "name": "Ejercicio de balón medicinal para dorsales",
+    "description": "Ejercicio de balón medicinal para dorsales es un ejercicio de pliometría de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y los brazos extendidos frente a ti.",
-      "Paso:2 Levanta el pie derecho del suelo y extiéndelo hacia adelante.",
-      "Paso:3 Lentamente baja el cuerpo flexionando la rodilla izquierda y empujando las caderas hacia atrás.",
-      "Paso:4 Mantén el pecho arriba y la espalda recta mientras bajas.",
-      "Paso:5 Baja hasta que el muslo izquierdo esté paralelo al suelo, o tan bajo como puedas cómodamente.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior, luego empuja a través del talón izquierdo para regresar a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de pierna."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "Hy9D21L": {
-    "name": "flexión lateral a 45°",
+  "1354": {
+    "name": "Ejercicio de balón medicinal para espalda alta",
+    "description": "Ejercicio de balón medicinal para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y los brazos extendidos rectos a los costados.",
-      "Paso:2 Manteniendo la espalda recta y el core activado, inclina lentamente el torso hacia un lado, bajando la mano hacia la rodilla.",
-      "Paso:3 Haz una pausa por un momento en la parte inferior, luego regresa lentamente a la posición inicial.",
-      "Paso:4 Repite del otro lado.",
-      "Paso:5 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "UM8mgyG": {
-    "name": "press Arnold con kettlebell",
+  "1355": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, sosteniendo una kettlebell en cada mano a la altura de los hombros con las palmas mirando hacia ti.",
-      "Paso:2 Activa el core y presiona las kettlebells sobre la cabeza, rotando las palmas para que miren hacia adelante mientras extiendes los brazos.",
-      "Paso:3 Haz una pausa en la parte superior del movimiento, luego baja lentamente las kettlebells a la posición inicial.",
-      "Paso:4 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "arsYEd3": {
-    "name": "sentadilla búlgara a una pierna con banda a un brazo",
+  "1356": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de las caderas y coloca una banda de resistencia alrededor de los tobillos.",
-      "Paso:2 Extiende una pierna hacia adelante y apoya la parte superior del pie en un banco o escalón detrás de ti.",
-      "Paso:3 Agárrate de un soporte con una mano para mantener el equilibrio.",
-      "Paso:4 Flexiona la pierna de apoyo y baja el cuerpo en posición de sentadilla, manteniendo la rodilla alineada con los dedos del pie.",
-      "Paso:5 Empuja a través del talón para regresar a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia de pierna."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "0Yz8WdV": {
-    "name": "caminata del oso",
+  "1358": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en cuatro puntos con las manos directamente debajo de los hombros y las rodillas directamente debajo de las caderas.",
-      "Paso:2 Levanta las rodillas ligeramente del suelo, manteniendo la espalda plana y el core activado.",
-      "Paso:3 Mueve la mano derecha y el pie izquierdo hacia adelante simultáneamente, seguido de la mano izquierda y el pie derecho.",
-      "Paso:4 Continúa avanzando, alternando los movimientos de manos y pies.",
-      "Paso:5 Mantén un ritmo constante y el core apretado durante todo el ejercicio.",
-      "Paso:6 Continúa durante la distancia o tiempo deseado."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "Ion0XWz": {
-    "name": "elevación de deltoides posterior acostado boca abajo con mancuerna",
+  "1359": {
+    "name": "Ejercicio de máquina Smith para espalda alta",
+    "description": "Ejercicio de máquina Smith para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca abajo en el suelo con una mancuerna en cada mano, las palmas mirando una hacia la otra.",
-      "Paso:2 Extiende los brazos rectos frente a ti, manteniendo una ligera flexión en los codos.",
-      "Paso:3 Activando los músculos de los hombros, levanta los brazos hacia arriba y hacia los lados, apretando los omóplatos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "wqNPGCg": {
-    "name": "remo de deltoides posterior con cable (con cuerda)",
+  "1360": {
+    "name": "Ejercicio de máquina Smith para espalda alta",
+    "description": "Ejercicio de máquina Smith para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una cuerda a una máquina de polea baja.",
-      "Paso:2 Ponte de pie frente a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la cuerda con un agarre prono, las palmas mirando una hacia la otra.",
-      "Paso:4 Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
-      "Paso:5 Mantén los codos ligeramente flexionados y tira de la cuerda hacia el pecho, apretando los omóplatos.",
-      "Paso:6 Haz una pausa por un momento en la parte superior del movimiento, luego libera lentamente la tensión y regresa a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "8K7m2SS": {
-    "name": "flexión con agarre cerrado en balón medicinal",
+  "1361": {
+    "name": "Ejercicio de máquina Smith para espalda alta",
+    "description": "Ejercicio de máquina Smith para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en posición de plancha alta con las manos sobre el balón medicinal, separadas al ancho de los hombros.",
-      "Paso:2 Baja el cuerpo hacia el suelo flexionando los codos, manteniéndolos pegados a los costados.",
-      "Paso:3 Empuja de vuelta a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:4 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "xo6sENf": {
-    "name": "elevación de pantorrilla con balón de ejercicio contra la pared",
+  "1362": {
+    "name": "esfinge",
+    "description": "esfinge es un ejercicio de mobility de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con la espalda contra una pared y coloca un balón de ejercicio entre la parte baja de la espalda y la pared.",
-      "Paso:2 Posiciona los pies separados al ancho de los hombros, con los dedos apuntando hacia adelante.",
-      "Paso:3 Sostén una mancuerna en cada mano, con los brazos extendidos a los costados.",
-      "Paso:4 Levanta los talones del suelo, elevando el peso corporal sobre las almohadillas de los pies.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "MvQPqVW": {
-    "name": "volteo de judo con cable",
+  "1363": {
+    "name": "Ejercicio de para columna vertebral",
+    "description": "Ejercicio de para columna vertebral es un ejercicio de mobility de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie frente a la máquina de cable con los pies separados al ancho de los hombros.",
-      "Paso:2 Sostén la manija del cable con ambas manos a la altura del pecho, las palmas mirando hacia abajo.",
-      "Paso:3 Activa el core y rota el torso hacia la derecha, tirando del cable a través del cuerpo.",
-      "Paso:4 Mientras rotas, pivotea sobre el pie trasero y permite que las caderas roten naturalmente.",
-      "Paso:5 Extiende completamente los brazos y termina el movimiento volteando la manija del cable sobre tu hombro.",
-      "Paso:6 Regresa a la posición inicial invirtiendo el movimiento, rotando el torso de vuelta al centro.",
-      "Paso:7 Repite el movimiento del lado opuesto.",
-      "Paso:8 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "m0tCHqc": {
-    "name": "estiramiento de pantorrilla con manos contra la pared",
+  "1364": {
+    "name": "Ejercicio de para columna vertebral",
+    "description": "Ejercicio de para columna vertebral es un ejercicio de mobility de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie frente a una pared con los pies separados al ancho de las caderas.",
-      "Paso:2 Coloca las manos contra la pared a la altura de los hombros.",
-      "Paso:3 Da un paso atrás con el pie derecho, manteniendo el talón en el suelo y la pierna recta.",
-      "Paso:4 Flexiona la rodilla izquierda e inclínate hacia adelante, manteniendo la pierna trasera recta y el talón en el suelo.",
-      "Paso:5 Mantén el estiramiento durante 20-30 segundos.",
-      "Paso:6 Cambia de pierna y repite el estiramiento."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "u5ESqzH": {
-    "name": "elevación de pantorrilla tipo burro",
+  "1365": {
+    "name": "Ejercicio de para espalda alta",
+    "description": "Ejercicio de para espalda alta es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los dedos de los pies sobre una superficie elevada, como un escalón o bloque.",
-      "Paso:2 Coloca las manos sobre un soporte estable, como una pared o barandilla, para mantener el equilibrio.",
-      "Paso:3 Levanta los talones lo más alto posible, elevando el peso corporal sobre las almohadillas de los pies.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "4GqRrAk": {
-    "name": "flexión Superman",
+  "1366": {
+    "name": "Ejercicio de para columna vertebral",
+    "description": "Ejercicio de para columna vertebral es un ejercicio de mobility de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en posición de plancha alta con las manos ligeramente más anchas que el ancho de los hombros y los pies juntos.",
-      "Paso:2 Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos pegados a los costados.",
-      "Paso:3 Mientras bajas el cuerpo, simultáneamente levanta el brazo derecho y la pierna izquierda del suelo, extendiéndolos rectos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja el brazo y la pierna mientras te empujas de vuelta a la posición inicial.",
-      "Paso:5 Repite el movimiento, esta vez levantando el brazo izquierdo y la pierna derecha.",
-      "Paso:6 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "C5jncD2": {
-    "name": "curl de pierna individual de pie",
+  "1367": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de las caderas y las manos en las caderas.",
-      "Paso:2 Transfiere el peso a la pierna izquierda y levanta el pie derecho del suelo, flexionando la rodilla.",
-      "Paso:3 Lentamente curla el talón derecho hacia los glúteos, apretando el isquiotibial.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente el pie derecho a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia de pierna."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "Lsqrgh4": {
-    "name": "elevación inversa de pantorrilla en máquina Smith",
+  "1368": {
+    "name": "Tobillo circles",
+    "description": "Tobillo circles es un ejercicio de mobility de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la barra de la máquina Smith a una altura justo debajo de los hombros.",
-      "Paso:2 Ponte de pie frente a la barra con los pies separados al ancho de las caderas y los dedos apuntando hacia adelante.",
-      "Paso:3 Coloca las almohadillas de los pies en el borde de un escalón o plataforma, con los talones colgando.",
-      "Paso:4 Agárrate de la barra para soporte.",
-      "Paso:5 Levanta los talones lo más alto posible, elevando el cuerpo sobre las puntas de los pies.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento."
     ]
   },
-  "KyLtiLT": {
-    "name": "extensión de tríceps inclinado con barra EZ",
+  "1369": {
+    "name": "Ejercicio de banda elástica para pantorrillas",
+    "description": "Ejercicio de banda elástica para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta un banco inclinado a un ángulo de 45 grados.",
-      "Paso:2 Siéntate en el banco con la espalda contra la almohadilla y sostén la barra EZ con un agarre prono.",
-      "Paso:3 Extiende completamente los brazos sobre la cabeza, manteniendo los codos pegados a la cabeza.",
-      "Paso:4 Baja la barra detrás de la cabeza flexionando los codos, manteniendo los brazos superiores estacionarios.",
-      "Paso:5 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "OQ1otBN": {
-    "name": "jalón cruzado lateral con cable",
+  "1370": {
+    "name": "Ejercicio de barra para pantorrillas",
+    "description": "Ejercicio de barra para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una manija de cable a cada lado de una máquina de cable a la altura de los hombros.",
-      "Paso:2 Ponte de pie en el medio de la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra las manijas con un agarre prono y retrocede para crear tensión en los cables.",
-      "Paso:4 Inclínate ligeramente hacia adelante desde las caderas, manteniendo la espalda recta y el pecho arriba.",
-      "Paso:5 Tira de las manijas hacia abajo y a través del cuerpo, apretando los omóplatos.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior del movimiento, luego regresa lentamente a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "ht8xDrP": {
-    "name": "press militar de pie detrás de la cabeza en máquina Smith",
+  "1371": {
+    "name": "Ejercicio de barra para pantorrillas",
+    "description": "Ejercicio de barra para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento de la máquina Smith para que la barra esté a la altura de los hombros.",
-      "Paso:2 Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Paso:3 Agarra la barra con un agarre prono, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:4 Levanta la barra del rack y retrocede un paso, manteniendo una postura estable.",
-      "Paso:5 Posiciona la barra detrás de la cabeza, apoyándola sobre los trapecios superiores.",
-      "Paso:6 Mantén el core activado y el pecho levantado durante todo el ejercicio.",
-      "Paso:7 Presiona la barra sobre la cabeza extendiendo los brazos, enderezándolos completamente.",
-      "Paso:8 Haz una breve pausa en la parte superior del movimiento, luego baja lentamente la barra a la posición inicial.",
-      "Paso:9 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "ZuPXtCK": {
-    "name": "sentadilla hack en máquina Smith",
+  "1372": {
+    "name": "Ejercicio de barra para pantorrillas",
+    "description": "Ejercicio de barra para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la barra de la máquina Smith a una altura apropiada para tu cuerpo.",
-      "Paso:2 Ponte de pie con los pies separados al ancho de los hombros, los dedos ligeramente apuntando hacia afuera.",
-      "Paso:3 Posiciónate debajo de la barra, apoyándola sobre los trapecios superiores y los hombros.",
-      "Paso:4 Agarra la barra con un agarre prono, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:5 Activa el core y mantén el pecho arriba mientras desenganchas la barra.",
-      "Paso:6 Da un paso atrás y posiciona los pies ligeramente más anchos que el ancho de los hombros.",
-      "Paso:7 Flexiona las rodillas y baja el cuerpo, manteniendo el pecho arriba y la espalda recta.",
-      "Paso:8 Continúa bajando hasta que los muslos estén paralelos al suelo o ligeramente por debajo.",
-      "Paso:9 Haz una pausa por un momento en la parte inferior, luego empuja a través de los talones para regresar a la posición inicial.",
-      "Paso:10 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento."
     ]
   },
-  "CqhoytW": {
-    "name": "elevación de cadera en máquina Smith",
+  "1373": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Posiciónate en la máquina Smith con la espalda contra la almohadilla y los pies separados al ancho de los hombros.",
-      "Paso:2 Coloca las manos sobre la barra, ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Activa el core y los glúteos, luego empuja a través de los talones para levantar las caderas del suelo.",
-      "Paso:4 Continúa levantando hasta que el cuerpo forme una línea recta desde las rodillas hasta los hombros.",
-      "Paso:5 Sostén por un momento en la parte superior, luego baja lentamente las caderas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "RQNVT10": {
-    "name": "estiramiento asistido de glúteo y piriforme acostado",
+  "1374": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de pliometría de nivel avanzado que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las piernas extendidas.",
-      "Paso:2 Flexiona la rodilla derecha y coloca el tobillo derecho sobre el muslo izquierdo, justo encima de la rodilla.",
-      "Paso:3 Agarra el muslo izquierdo con ambas manos y tira suavemente hacia el pecho.",
-      "Paso:4 Mantén el estiramiento durante 20-30 segundos.",
-      "Paso:5 Suelta el estiramiento y repite del otro lado."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "S4pwGlc": {
-    "name": "sentadilla pliométrica con mancuerna",
+  "1375": {
+    "name": "Ejercicio de polea para pantorrillas",
+    "description": "Ejercicio de polea para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, sosteniendo una mancuerna en cada mano a los costados.",
-      "Paso:2 Baja el cuerpo en posición de sentadilla flexionando las rodillas y empujando las caderas hacia atrás.",
-      "Paso:3 Al llegar a la parte inferior de la sentadilla, explota hacia arriba, saltando del suelo.",
-      "Paso:4 Mientras estás en el aire, cambia rápidamente la posición de los pies, aterrizando con el pie opuesto adelante.",
-      "Paso:5 Inmediatamente baja el cuerpo de nuevo en posición de sentadilla y repite el salto, cambiando los pies de nuevo.",
-      "Paso:6 Continúa alternando la posición de los pies con cada salto durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "GaSzzuh": {
-    "name": "palanca trasera",
+  "1376": {
+    "name": "Ejercicio de polea para pantorrillas",
+    "description": "Ejercicio de polea para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza colgando de una barra de dominadas con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Activa el core y tira de los omóplatos hacia abajo y hacia atrás.",
-      "Paso:3 Flexiona las rodillas y llévalas hacia el pecho.",
-      "Paso:4 Lentamente levanta las piernas, manteniéndolas rectas, hasta que el cuerpo esté paralelo al suelo.",
-      "Paso:5 Sostén esta posición durante unos segundos, luego baja lentamente las piernas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "dNFYIU1": {
-    "name": "press de hombro en máquina de palanca v. 3",
+  "1377": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y el respaldo de la máquina de palanca a una posición cómoda.",
-      "Paso:2 Siéntate en la máquina con la espalda contra el respaldo y los pies planos en el suelo.",
-      "Paso:3 Agarra las manijas de la máquina con un agarre prono, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:4 Empuja las manijas hacia arriba y hacia adelante hasta que los brazos estén completamente extendidos, pero sin bloquear.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente las manijas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "IZVHb27": {
-    "name": "zancada caminando",
+  "1378": {
+    "name": "Ejercicio de cuerda para pantorrillas",
+    "description": "Ejercicio de cuerda para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con cuerda y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros.",
-      "Paso:2 Da un paso hacia adelante con la pierna derecha, bajando el cuerpo en posición de zancada.",
-      "Paso:3 Mantén el torso erguido y la rodilla delantera alineada con el tobillo.",
-      "Paso:4 Empuja con el pie derecho y lleva el pie izquierdo hacia adelante, dando un paso en posición de zancada con la pierna izquierda.",
-      "Paso:5 Continúa alternando piernas y caminando hacia adelante, manteniendo un ritmo controlado y constante.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "NlfIbzq": {
-    "name": "curl predicador alterno con mancuerna",
+  "1379": {
+    "name": "Ejercicio de mancuerna para pantorrillas",
+    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco predicador con una mancuerna en cada mano, las palmas mirando hacia arriba.",
-      "Paso:2 Apoya los brazos superiores sobre la almohadilla del banco predicador, permitiendo que los brazos se extiendan completamente.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, exhala y curla la mancuerna en tu mano derecha mientras contraes los bíceps.",
-      "Paso:4 Continúa curlando la mancuerna hasta que los bíceps estén completamente contraídos y la mancuerna esté a la altura del hombro.",
-      "Paso:5 Haz una pausa por un momento, luego inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Paso:6 Repite el movimiento con el brazo izquierdo.",
-      "Paso:7 Continúa alternando brazos durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "76vfTdU": {
-    "name": "subida al escalón a una pierna con equilibrio y curl de bíceps con mancuerna",
+  "1380": {
+    "name": "Ejercicio de mancuerna para pantorrillas",
+    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie frente a un escalón o plataforma con una mancuerna en cada mano, las palmas mirando hacia el cuerpo.",
-      "Paso:2 Coloca el pie derecho sobre el escalón, asegurándote de que todo el pie esté en contacto con la superficie.",
-      "Paso:3 Activa el core y empuja a través del talón derecho para subir al escalón, llevando la rodilla izquierda hacia el pecho.",
-      "Paso:4 En la parte superior del movimiento, realiza un curl de bíceps flexionando los codos y llevando las mancuernas hacia los hombros.",
-      "Paso:5 Baja las mancuernas y simultáneamente baja el pie izquierdo al suelo.",
-      "Paso:6 Repite el movimiento del lado opuesto, subiendo con el pie izquierdo y curlando las mancuernas.",
-      "Paso:7 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "1VpF8db": {
-    "name": "curl de bíceps con mancuerna en zancada con movimiento de boliche",
+  "1381": {
+    "name": "Ejercicio de mancuerna para pantorrillas",
+    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, sosteniendo una mancuerna en cada mano con las palmas mirando hacia adelante.",
-      "Paso:2 Da un paso hacia adelante con el pie derecho, flexionando la rodilla derecha y bajando el cuerpo en posición de zancada.",
-      "Paso:3 Mientras avanzas en la zancada, curla las mancuernas hacia los hombros, manteniendo los codos pegados al cuerpo.",
-      "Paso:4 En la parte inferior de la zancada, rota el torso hacia la derecha, como si estuvieras lanzando una bola de boliche.",
-      "Paso:5 Invierte el movimiento, retrocediendo con el pie derecho y regresando a la posición inicial mientras bajas las mancuernas.",
-      "Paso:6 Repite la zancada y el curl, esta vez rotando el torso hacia la izquierda.",
-      "Paso:7 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "FVmZVhk": {
-    "name": "apertura baja con cable",
+  "1382": {
+    "name": "Ejercicio de mancuerna para pantorrillas",
+    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta las manijas a las poleas bajas de una máquina de cable y selecciona un peso apropiado.",
-      "Paso:2 Ponte de pie en el medio de la máquina con los pies separados al ancho de los hombros y una ligera flexión en las rodillas.",
-      "Paso:3 Agarra las manijas con un agarre prono y extiende los brazos a los lados, manteniendo una ligera flexión en los codos.",
-      "Paso:4 Manteniendo el control, lleva lentamente los brazos hacia adelante en un movimiento de barrido, cruzándolos frente al cuerpo.",
-      "Paso:5 Haz una pausa por un momento en el punto máximo del movimiento, sintiendo el estiramiento en los músculos del pecho.",
-      "Paso:6 Invierte el movimiento y regresa lentamente los brazos a la posición inicial, manteniendo la tensión en los músculos del pecho durante todo el movimiento.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "DeDThfG": {
-    "name": "estiramiento de glúteos sentado",
+  "1383": {
+    "name": "Ejercicio de trineo para pantorrillas",
+    "description": "Ejercicio de trineo para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con trineo y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en el suelo con las piernas extendidas frente a ti.",
-      "Paso:2 Flexiona la rodilla derecha y cruza el tobillo derecho sobre el muslo izquierdo.",
-      "Paso:3 Coloca la mano derecha en el suelo detrás de ti para soporte.",
-      "Paso:4 Con la mano izquierda, presiona suavemente hacia abajo sobre la rodilla derecha para profundizar el estiramiento.",
-      "Paso:5 Mantén el estiramiento durante 30 segundos a 1 minuto.",
-      "Paso:6 Cambia de lado y repite."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "mwpPcr1": {
-    "name": "curl prono inclinado con mancuerna",
+  "1384": {
+    "name": "Ejercicio de trineo para pantorrillas",
+    "description": "Ejercicio de trineo para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con trineo y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta el banco a una inclinación de 45 grados.",
-      "Paso:2 Acuéstate boca abajo sobre el banco con el pecho y el estómago apoyados contra él.",
-      "Paso:3 Sostén una mancuerna en cada mano con las palmas mirando hacia abajo y los brazos completamente extendidos.",
-      "Paso:4 Manteniendo los brazos superiores estacionarios, exhala y curla los pesos mientras contraes los bíceps.",
-      "Paso:5 Continúa levantando los pesos hasta que los bíceps estén completamente contraídos y las mancuernas estén a la altura de los hombros.",
-      "Paso:6 Sostén la posición contraída por una breve pausa mientras aprietas los bíceps.",
-      "Paso:7 Inhala y lentamente comienza a bajar las mancuernas a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "sYCcnon": {
-    "name": "extensión de tríceps a un brazo de pie con cable",
+  "1385": {
+    "name": "Ejercicio de máquina para pantorrillas",
+    "description": "Ejercicio de máquina para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, frente a la máquina de cable.",
-      "Paso:2 Sostén la manija del cable con la mano derecha, la palma mirando hacia abajo, y posiciona el brazo completamente extendido y paralelo al suelo.",
-      "Paso:3 Mantén el codo estacionario y pegado al cuerpo.",
-      "Paso:4 Lentamente flexiona el codo, bajando la manija del cable hacia la parte trasera de la cabeza.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior del movimiento, luego extiende el brazo de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia de lado y realiza el ejercicio con el brazo izquierdo."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "hrVQWvE": {
-    "name": "peso muerto con piernas rectas con barra",
+  "1386": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y los dedos apuntando hacia adelante.",
-      "Paso:2 Sostén la barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Inclínate desde las caderas y baja la barra hacia el suelo, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
-      "Paso:4 Baja la barra hasta sentir un estiramiento en los isquiotibiales.",
-      "Paso:5 Activa los isquiotibiales y los glúteos para levantar la barra de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "6TG6x2w": {
-    "name": "curl con barra EZ",
+  "1387": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén la barra EZ con un agarre supino, las palmas mirando hacia arriba.",
-      "Paso:2 Mantén los codos pegados al torso y los brazos superiores estacionarios durante todo el movimiento.",
-      "Paso:3 Exhala mientras curlas la barra hacia los hombros, contrayendo los bíceps.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala mientras bajas lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "g2oKspu": {
-    "name": "abdominal corto",
+  "1388": {
+    "name": "Ejercicio de cuerda para pantorrillas",
+    "description": "Ejercicio de cuerda para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con cuerda y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las rodillas flexionadas y los pies planos en el suelo.",
-      "Paso:2 Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Paso:3 Activando los abdominales, levanta lentamente la parte superior del cuerpo del suelo, curvándote hacia adelante hasta que el torso esté a un ángulo de 45 grados.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la parte superior del cuerpo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "LSTChY9": {
-    "name": "sentadilla Zercher con barra",
+  "1389": {
+    "name": "Ejercicio de cuerda para pantorrillas",
+    "description": "Ejercicio de cuerda para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con cuerda y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y los dedos ligeramente apuntando hacia afuera.",
-      "Paso:2 Sostén la barra en el pliegue de los codos, con las manos agarrando la barra para estabilidad.",
-      "Paso:3 Activa el core y mantén el pecho levantado mientras bajas las caderas hacia atrás y hacia abajo en posición de sentadilla.",
-      "Paso:4 Mantén las rodillas alineadas con los dedos de los pies y el peso en los talones.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior de la sentadilla, luego empuja a través de los talones para regresar a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "hnOYgH3": {
-    "name": "press de banca JM con barra EZ",
+  "1390": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con los pies planos en el suelo y la espalda presionada contra el banco.",
-      "Paso:2 Agarra la barra EZ con un agarre prono, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Baja la barra hacia el pecho, manteniendo los codos pegados al cuerpo.",
-      "Paso:4 Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "EMpUwRI": {
-    "name": "extensión acostado con barra",
+  "1391": {
+    "name": "Ejercicio de trineo para pantorrillas",
+    "description": "Ejercicio de trineo para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con trineo y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con los pies planos en el suelo y la cabeza en un extremo del banco.",
-      "Paso:2 Sostén la barra con un agarre prono, las manos separadas al ancho de los hombros, y extiende los brazos rectos sobre el pecho.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, baja lentamente la barra hacia la frente flexionando los codos.",
-      "Paso:4 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "6cKQC5E": {
-    "name": "remo vertical a un brazo con mancuerna",
+  "1392": {
+    "name": "Ejercicio de trineo para pantorrillas",
+    "description": "Ejercicio de trineo para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con trineo y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, sosteniendo una mancuerna en una mano con un agarre prono.",
-      "Paso:2 Deja que la mancuerna cuelgue a la longitud del brazo frente a los muslos, con la palma mirando hacia el cuerpo.",
-      "Paso:3 Manteniendo la espalda recta y el core activado, exhala y levanta la mancuerna recta hacia el mentón, liderando con el codo.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "k6tUeqS": {
-    "name": "jalón supino con banda",
+  "1393": {
+    "name": "Ejercicio de máquina Smith para pantorrillas",
+    "description": "Ejercicio de máquina Smith para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta la banda a un punto de anclaje alto, como una barra de dominadas o viga resistente.",
-      "Paso:2 Ponte de pie frente al punto de anclaje con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la banda con un agarre supino, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:4 Extiende completamente los brazos sobre la cabeza, manteniendo los codos ligeramente flexionados.",
-      "Paso:5 Activa los dorsales y tira de la banda hacia el pecho, apretando los omóplatos.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior del movimiento, luego libera lentamente la tensión y regresa a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "my33uHU": {
-    "name": "extensión de pierna en máquina de palanca",
+  "1394": {
+    "name": "Ejercicio de máquina Smith para pantorrillas",
+    "description": "Ejercicio de máquina Smith para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y el respaldo de la máquina para adaptarse a tu cuerpo.",
-      "Paso:2 Siéntate en la máquina con la espalda contra el respaldo y los pies en la almohadilla.",
-      "Paso:3 Agarra las manijas o barras laterales para estabilidad.",
-      "Paso:4 Extiende las piernas hacia adelante enderezando las rodillas, levantando el peso.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente el peso a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "km2Ljzj": {
-    "name": "rodamiento con rueda",
+  "1395": {
+    "name": "Ejercicio de máquina Smith para pantorrillas",
+    "description": "Ejercicio de máquina Smith para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en posición de plancha con las manos sobre la rueda y el cuerpo recto.",
-      "Paso:2 Activa el core y comienza a rodar la rueda hacia adelante extendiendo los brazos.",
-      "Paso:3 Continúa rodando hasta que el cuerpo esté completamente extendido y los brazos estén sobre la cabeza.",
-      "Paso:4 Invierte el movimiento tirando la rueda de vuelta hacia el cuerpo, usando el core y los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Place one leg on the footrest and keep the other leg off the footrest.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "vmwLyCg": {
-    "name": "press W con mancuerna",
+  "1396": {
+    "name": "Ejercicio de máquina Smith para pantorrillas",
+    "description": "Ejercicio de máquina Smith para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco con una mancuerna en cada mano, las palmas mirando hacia adelante.",
-      "Paso:2 Levanta las mancuernas a la altura de los hombros, los codos flexionados y las palmas mirando hacia adelante.",
-      "Paso:3 Presiona las mancuernas hacia arriba hasta que los brazos estén completamente extendidos sobre la cabeza.",
-      "Paso:4 Baja las mancuernas de vuelta a la altura de los hombros.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "Vh0GsK4": {
-    "name": "press de banca inclinado con cable",
+  "1397": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta el banco a una inclinación de 45 grados.",
-      "Paso:2 Conecta las manijas de cable a las poleas altas.",
-      "Paso:3 Siéntate en el banco frente a la máquina de cable con los pies planos en el suelo.",
-      "Paso:4 Agarra las manijas con un agarre prono y llévalas a la altura de los hombros.",
-      "Paso:5 Empuja las manijas hacia adelante y hacia arriba hasta que los brazos estén completamente extendidos.",
-      "Paso:6 Haz una pausa por un momento, luego baja lentamente las manijas a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento."
     ]
   },
-  "PQStVXH": {
-    "name": "remo alto con cable",
+  "1398": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una barra recta a una máquina de cable a la altura del pecho.",
-      "Paso:2 Ponte de pie frente a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:4 Mantén la espalda recta y el core activado.",
-      "Paso:5 Tira de la barra hacia la parte superior del pecho, apretando los omóplatos.",
-      "Paso:6 Haz una pausa por un momento en la parte superior del movimiento.",
-      "Paso:7 Libera lentamente la barra a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "dU605di": {
-    "name": "empuje hacia abajo en cable (con accesorio de cuerda)",
+  "1399": {
+    "name": "Ejercicio de para tríceps",
+    "description": "Ejercicio de para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un accesorio de cuerda a una polea alta en una máquina de cable.",
-      "Paso:2 Ponte de pie frente a la máquina con los pies separados al ancho de los hombros y una ligera flexión en las rodillas.",
-      "Paso:3 Agarra la cuerda con un agarre prono, las palmas mirando una hacia la otra.",
-      "Paso:4 Mantén los codos pegados a los costados y los brazos superiores estacionarios durante todo el ejercicio.",
-      "Paso:5 Exhala y empuja la cuerda hacia abajo extendiendo los codos hasta que los brazos estén completamente extendidos.",
-      "Paso:6 Haz una pausa por un momento, luego inhala y regresa lentamente a la posición inicial permitiendo que los codos se flexionen.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de tríceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
+      "Contrae los tríceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "vvNjDJS": {
-    "name": "patada trasera de tríceps a dos brazos con cable",
+  "1401": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Paso:2 Sostén la manija del cable en cada mano con las palmas mirando hacia adentro y los brazos flexionados a un ángulo de 90 grados.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, extiende los antebrazos hacia atrás hasta que los brazos estén completamente extendidos.",
-      "Paso:4 Haz una pausa por un momento, luego regresa lentamente a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "XlZ4lAC": {
-    "name": "buenos días con barra",
+  "1403": {
+    "name": "Ejercicio de para elevador de la escápula",
+    "description": "Ejercicio de para elevador de la escápula es un ejercicio de estiramiento de nivel principiante que trabaja la zona de cuello, principalmente los elevador de la escápula. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza de pie con los pies separados al ancho de los hombros y la barra apoyada sobre la parte superior de la espalda.",
-      "Paso:2 Manteniendo la espalda recta y el core activado, inclínate hacia adelante desde las caderas, empujando los glúteos hacia atrás como si intentaras tocar la pared detrás de ti con los glúteos.",
-      "Paso:3 Baja el torso hasta que esté paralelo al suelo, sintiendo un estiramiento en los isquiotibiales.",
-      "Paso:4 Haz una pausa por un momento, luego regresa a la posición inicial apretando los glúteos y empujando las caderas hacia adelante.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de elevador de la escápula.",
+      "Activa los músculos de cuello y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los elevador de la escápula.",
+      "Contrae los elevador de la escápula en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "U6G2gk9": {
-    "name": "body-up",
+  "1405": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza colocando las manos sobre una superficie elevada, como un banco o barras paralelas, con las palmas mirando hacia abajo y los dedos apuntando hacia adelante.",
-      "Paso:2 Extiende las piernas frente a ti, manteniendo los talones en el suelo y el cuerpo recto.",
-      "Paso:3 Baja el cuerpo flexionando los codos, manteniéndolos pegados a los costados, hasta que los brazos superiores estén paralelos al suelo.",
-      "Paso:4 Haz una pausa por un momento, luego empuja a través de las palmas para enderezar los brazos y levantar el cuerpo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "PzQanLE": {
-    "name": "press de hombro con cable",
+  "1407": {
+    "name": "Ejercicio de para pantorrillas",
+    "description": "Ejercicio de para pantorrillas es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la máquina de cable para que las manijas estén a la altura de los hombros.",
-      "Paso:2 Ponte de pie de espaldas a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra las manijas con un agarre prono y llévalas a la altura de los hombros, con los codos flexionados y apuntando hacia afuera.",
-      "Paso:4 Presiona las manijas hacia arriba hasta que los brazos estén completamente extendidos sobre la cabeza.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente las manijas a la altura de los hombros.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
+      "Activa los músculos de piernas inferiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
+      "Contrae los pantorrillas en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "4IKbhHV": {
-    "name": "jalón lateral alterno",
+  "1408": {
+    "name": "Ejercicio de banda elástica para glúteos",
+    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en la máquina de cable con la espalda recta y los pies planos en el suelo.",
-      "Paso:2 Agarra las manijas con un agarre prono, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Inclínate ligeramente hacia atrás y tira de las manijas hacia el pecho, apretando los omóplatos.",
-      "Paso:4 Haz una pausa por un momento en el punto máximo del movimiento, luego libera lentamente las manijas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "hwygydB": {
-    "name": "curl predicador con mancuerna sobre balón de ejercicio",
+  "1409": {
+    "name": "Ejercicio de barra para glúteos",
+    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate sobre un balón de ejercicio con los pies planos en el suelo y la espalda recta.",
-      "Paso:2 Sostén una mancuerna en una mano con un agarre supino, apoyando el codo sobre el balón de ejercicio.",
-      "Paso:3 Manteniendo el brazo superior estacionario, exhala y curla la mancuerna hacia el hombro.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia de brazo."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "qcY50ZD": {
-    "name": "remo sentado con agarre amplio en cable",
+  "1410": {
+    "name": "Ejercicio de barra para glúteos",
+    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en la máquina de remo con cable con los pies planos en los apoyapiés y las rodillas ligeramente flexionadas.",
-      "Paso:2 Agarra la manija con un agarre prono amplio, las palmas mirando hacia abajo.",
-      "Paso:3 Mantén la espalda recta e inclínate ligeramente hacia adelante desde las caderas.",
-      "Paso:4 Tira de la manija hacia la parte inferior del pecho, apretando los omóplatos.",
-      "Paso:5 Haz una pausa por un momento en el punto máximo de la contracción.",
-      "Paso:6 Libera lentamente la manija a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Db7eEgw": {
-    "name": "extensión concentrada con cable (sobre rodilla)",
+  "1411": {
+    "name": "Ejercicio de barra para antebrazos",
+    "description": "Ejercicio de barra para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco o silla con las rodillas flexionadas y los pies planos en el suelo.",
-      "Paso:2 Sostén la manija del cable con la mano derecha y coloca el codo en la parte interna de la rodilla derecha.",
-      "Paso:3 Extiende completamente el brazo, manteniendo el codo estacionario y pegado a la rodilla.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente el brazo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "c3Pfhti": {
-    "name": "estiramiento lateral de dorsales con rodillo",
+  "1412": {
+    "name": "Ejercicio de barra para antebrazos",
+    "description": "Ejercicio de barra para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén el rodillo con ambas manos frente al cuerpo.",
-      "Paso:2 Flexiona ligeramente las rodillas e inclínate hacia adelante desde las caderas, manteniendo la espalda recta.",
-      "Paso:3 Extiende los brazos hacia adelante y rueda el rodillo hacia los pies, sintiendo un estiramiento en los dorsales.",
-      "Paso:4 Mantén el estiramiento durante unos segundos, luego rueda lentamente el rodillo de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Iptlv6x": {
-    "name": "remo vertical con mancuerna (vista trasera)",
+  "1413": {
+    "name": "Ejercicio de polea para bíceps",
+    "description": "Ejercicio de polea para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros, sosteniendo una mancuerna en cada mano con un agarre prono.",
-      "Paso:2 Deja que las mancuernas cuelguen frente a los muslos, con los brazos completamente extendidos y las palmas mirando hacia el cuerpo.",
-      "Paso:3 Manteniendo la espalda recta y el core activado, exhala y levanta las mancuernas rectas hacia el mentón, liderando con los codos.",
-      "Paso:4 Continúa levantando hasta que las mancuernas estén a la altura de los hombros, con los codos apuntando hacia los lados.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "dFSNDOA": {
-    "name": "giro sentado con barra",
+  "1414": {
+    "name": "Ejercicio de mancuerna para bíceps",
+    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco plano con los pies planos en el suelo y las rodillas flexionadas.",
-      "Paso:2 Sostén una barra con ambas manos frente al pecho, manteniendo los codos ligeramente flexionados.",
-      "Paso:3 Activa el core y gira lentamente el torso hacia un lado, manteniendo la espalda recta.",
-      "Paso:4 Haz una pausa por un momento al final del giro, luego rota lentamente de vuelta a la posición inicial.",
-      "Paso:5 Repite el giro hacia el otro lado.",
-      "Paso:6 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "83HoW9X": {
-    "name": "remo vertical con barra v. 2",
+  "1415": {
+    "name": "Ejercicio de mancuerna para antebrazos",
+    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén una barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Deja que la barra cuelgue frente a los muslos, con los brazos completamente extendidos.",
-      "Paso:3 Manteniendo la espalda recta, exhala y levanta la barra recta hacia el mentón, liderando con los codos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "f91FwXG": {
-    "name": "encogimiento sin agarre en máquina de palanca",
+  "1416": {
+    "name": "Ejercicio de balón de estabilidad para glúteos",
+    "description": "Ejercicio de balón de estabilidad para glúteos es un ejercicio de balance de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y posiciónate en la máquina de palanca.",
-      "Paso:2 Agarra las manijas con las palmas mirando hacia adentro y los brazos completamente extendidos.",
-      "Paso:3 Manteniendo la espalda recta, exhala y eleva los hombros lo más alto posible.",
-      "Paso:4 Sostén la contracción por un breve momento, luego inhala y baja lentamente los hombros a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "GSDioYu": {
-    "name": "estiramiento de espalda alta",
+  "1417": {
+    "name": "Ejercicio de balón de estabilidad para glúteos",
+    "description": "Ejercicio de balón de estabilidad para glúteos es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros.",
-      "Paso:2 Extiende los brazos rectos frente a ti, paralelos al suelo.",
-      "Paso:3 Entrelaza los dedos y rota las palmas alejándolas del cuerpo.",
-      "Paso:4 Lentamente levanta los brazos sobre la cabeza, manteniéndolos rectos y paralelos entre sí.",
-      "Paso:5 Mientras levantas los brazos, aprieta los omóplatos.",
-      "Paso:6 Mantén el estiramiento durante 15-30 segundos, luego suelta y repite."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "QYysSLV": {
-    "name": "landmine 180",
+  "1418": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de mobility de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén la barra con ambas manos frente al pecho.",
-      "Paso:2 Flexiona ligeramente las rodillas y rota el torso hacia la derecha, balanceando la barra hacia abajo hacia la cadera derecha.",
-      "Paso:3 Al llegar a la parte inferior del movimiento, invierte rápidamente el movimiento y rota el torso hacia la izquierda, balanceando la barra hacia arriba y a través del cuerpo hacia el hombro izquierdo.",
-      "Paso:4 Continúa este movimiento de torsión, alternando lados, durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "DwhEmmE": {
-    "name": "press de banca declinado con mancuerna",
+  "1419": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de mobility de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en un banco declinado con los pies asegurados y la cabeza más baja que las caderas.",
-      "Paso:2 Sostén una mancuerna en cada mano y extiende los brazos rectos sobre el pecho, las palmas mirando hacia adelante.",
-      "Paso:3 Baja lentamente las mancuernas hacia los lados del pecho, manteniendo los codos a un ángulo de 90 grados.",
-      "Paso:4 Empuja las mancuernas de vuelta a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "fI18Rbc": {
-    "name": "remo vertical con barra v. 3",
+  "1420": {
+    "name": "Ejercicio de barra para glúteos",
+    "description": "Ejercicio de barra para glúteos es un ejercicio de pliometría de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén una barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Deja que la barra cuelgue frente a los muslos, con los brazos completamente extendidos.",
-      "Paso:3 Manteniendo el core activado y la espalda recta, exhala mientras levantas la barra recta hacia el mentón, liderando con los codos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala mientras bajas lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "UQr48Oi": {
-    "name": "encogimiento abdominal (en balón de estabilidad)",
+  "1421": {
+    "name": "Ejercicio de para antebrazos",
+    "description": "Ejercicio de para antebrazos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza sentándote sobre el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas a un ángulo de 90 grados.",
-      "Paso:2 Coloca las manos a los lados del balón de estabilidad para soporte.",
-      "Paso:3 Activa los abdominales y lentamente rueda las caderas hacia adelante, llevando las rodillas hacia el pecho.",
-      "Paso:4 Haz una pausa por un momento en la parte superior del movimiento, luego extiende lentamente las piernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "X3TCNEU": {
-    "name": "caída abdominal suspendida",
+  "1422": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un entrenador de suspensión a un punto de anclaje alto y ajusta las correas a la altura de la cintura.",
-      "Paso:2 Ponte de pie de espaldas al punto de anclaje y sostén las manijas con los brazos extendidos frente a ti.",
-      "Paso:3 Inclínate hacia adelante desde la cintura, manteniendo el cuerpo recto y el core activado.",
-      "Paso:4 Baja el cuerpo tan lejos como puedas mientras mantienes el control y la tensión en los abdominales.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior, luego levanta lentamente el cuerpo de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "yz9nUhF": {
-    "name": "aperturas con mancuerna",
+  "1423": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con una mancuerna en cada mano, las palmas mirando una hacia la otra.",
-      "Paso:2 Extiende los brazos rectos sobre el pecho, con una ligera flexión en los codos.",
-      "Paso:3 Manteniendo una ligera flexión en los codos, baja los brazos hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
-      "Paso:4 Haz una pausa por un momento, luego invierte el movimiento y lleva las mancuernas de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "yRLPCLu": {
-    "name": "rompecráneos con agarre inverso con barra",
+  "1424": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de estiramiento de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba en un banco con los pies planos en el suelo y la cabeza en el extremo del banco.",
-      "Paso:2 Sostén la barra con un agarre inverso, las palmas mirando hacia tu cara, y las manos separadas al ancho de los hombros.",
-      "Paso:3 Extiende los brazos rectos sobre el pecho, manteniendo los codos hacia adentro y las muñecas rectas.",
-      "Paso:4 Lentamente baja la barra hacia la frente flexionando los codos, manteniendo los brazos superiores estacionarios.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "ila4NZS": {
-    "name": "peso muerto con barra",
+  "1425": {
+    "name": "Ejercicio de trineo para glúteos",
+    "description": "Ejercicio de trineo para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con trineo y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y la barra en el suelo frente a ti.",
-      "Paso:2 Flexiona las rodillas e inclínate desde las caderas para bajar el torso y agarrar la barra con un agarre prono, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Mantén la espalda recta y el pecho levantado mientras empujas a través de los talones para levantar la barra del suelo, extendiendo las caderas y las rodillas.",
-      "Paso:4 Al ponerte de pie, aprieta los glúteos y mantén el core activado.",
-      "Paso:5 Baja la barra de vuelta al suelo flexionando las caderas y las rodillas, manteniendo la espalda recta.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "ZH68exZ": {
-    "name": "jalón supino con espalda fija con banda",
+  "1426": {
+    "name": "Ejercicio de máquina Smith para antebrazos",
+    "description": "Ejercicio de máquina Smith para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta la banda a un punto de anclaje resistente por encima de tu cabeza.",
-      "Paso:2 Ponte de pie frente al punto de anclaje con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la banda con un agarre supino, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:4 Retrocede un paso para crear tensión en la banda, manteniendo los brazos completamente extendidos.",
-      "Paso:5 Activa el core y aprieta los omóplatos.",
-      "Paso:6 Tira de la banda hacia el pecho, liderando con los codos.",
-      "Paso:7 Haz una pausa por un momento en la parte inferior del movimiento, sintiendo la contracción en los dorsales.",
-      "Paso:8 Libera lentamente la tensión en la banda y regresa a la posición inicial.",
-      "Paso:9 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "fKZgDEO": {
-    "name": "elevación de pantorrilla a una pierna (sobre mancuerna)",
+  "1427": {
+    "name": "Ejercicio de para abductores",
+    "description": "Ejercicio de para abductores es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los abductores. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de las caderas y sostén una mancuerna en una mano.",
-      "Paso:2 Levanta un pie del suelo y mantén el equilibrio sobre el otro pie.",
-      "Paso:3 Lentamente levanta el talón lo más alto posible, usando los músculos de la pantorrilla.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente el talón.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia a la otra pierna."
+      "Prepárate en la posición inicial para el ejercicio de abductores.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abductores.",
+      "Contrae los abductores en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Kpajagk": {
-    "name": "extensión de cadera de pie con cable",
+  "1428": {
+    "name": "Muñeca circles",
+    "description": "Muñeca circles es un ejercicio de mobility de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un cable a una polea baja y ponte de pie de espaldas a la máquina.",
-      "Paso:2 Coloca el cable alrededor del tobillo y ponte de pie con los pies separados al ancho de los hombros.",
-      "Paso:3 Mantén el core activado y la espalda recta durante todo el ejercicio.",
-      "Paso:4 Lentamente extiende la pierna recta hacia atrás, apretando los glúteos en la parte superior del movimiento.",
-      "Paso:5 Haz una pausa por un momento, luego regresa a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones.",
-      "Paso:7 Cambia de lado y repite con la otra pierna."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento."
     ]
   },
-  "XsCcxCC": {
-    "name": "buenos días sentado en máquina de palanca",
+  "1429": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento para que las caderas estén ligeramente más altas que las rodillas.",
-      "Paso:2 Siéntate en la máquina con la espalda contra la almohadilla y los pies planos en los apoyapiés.",
-      "Paso:3 Agarra las manijas o los lados del asiento para estabilidad.",
-      "Paso:4 Manteniendo la espalda recta, inclínate lentamente hacia adelante desde las caderas hasta que la parte superior del cuerpo esté paralela al suelo.",
-      "Paso:5 Haz una pausa por un momento, luego regresa lentamente a la posición inicial empujando a través de los glúteos y los isquiotibiales.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "PcPe0P5": {
-    "name": "curl predicador martillo con cuerda en cable",
+  "1430": {
+    "name": "Ejercicio de para pectorales",
+    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un accesorio de cuerda a una máquina de polea baja.",
-      "Paso:2 Ponte de pie frente a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la cuerda con un agarre neutro (palmas mirando una hacia la otra).",
-      "Paso:4 Posiciona los brazos superiores contra la almohadilla del banco predicador, manteniendo los codos ligeramente flexionados.",
-      "Paso:5 Manteniendo los brazos superiores estacionarios, exhala y curla la cuerda hacia los hombros contrayendo los bíceps.",
-      "Paso:6 Sostén la posición contraída por una breve pausa mientras aprietas los bíceps.",
-      "Paso:7 Inhala y baja lentamente la cuerda a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "D9qe7CM": {
-    "name": "inclinación pélvica a puente",
+  "1431": {
+    "name": "Ejercicio de máquina para dorsales",
+    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las rodillas flexionadas y los pies planos en el suelo.",
-      "Paso:2 Coloca los brazos a los costados con las palmas mirando hacia abajo.",
-      "Paso:3 Activa los glúteos y los músculos del core.",
-      "Paso:4 Inclina la pelvis hacia arriba, levantando las caderas del suelo.",
-      "Paso:5 Mantén la posición de puente durante unos segundos.",
-      "Paso:6 Lentamente baja las caderas de vuelta a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "DU5Kkj2": {
-    "name": "curl inverso a un brazo de pie con mancuerna",
+  "1432": {
+    "name": "Ejercicio de máquina para dorsales",
+    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ponte de pie con los pies separados al ancho de los hombros y sostén una mancuerna en una mano con un agarre prono.",
-      "Paso:2 Mantén el brazo completamente extendido y pegado al cuerpo, con la palma mirando hacia abajo.",
-      "Paso:3 Lentamente curla la mancuerna hacia el hombro, manteniendo el brazo superior estacionario.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la mancuerna a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "yRYyfdA": {
-    "name": "estiramiento de isquiotibiales sentado en balón de ejercicio",
+  "1433": {
+    "name": "Ejercicio de máquina Smith para glúteos",
+    "description": "Ejercicio de máquina Smith para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate sobre el balón de estabilidad con los pies planos en el suelo y las rodillas flexionadas a un ángulo de 90 grados.",
-      "Paso:2 Lentamente rueda el balón hacia adelante, caminando con los pies hasta que la parte superior de la espalda esté apoyada en el balón y las piernas estén extendidas rectas frente a ti.",
-      "Paso:3 Coloca las manos sobre las caderas para soporte.",
-      "Paso:4 Activa el core y lentamente baja la parte superior del cuerpo hacia el suelo, manteniendo la espalda recta y el pecho levantado.",
-      "Paso:5 Detente cuando sientas un estiramiento en los isquiotibiales y mantén la posición durante 20-30 segundos.",
-      "Paso:6 Lentamente regresa a la posición inicial empujando a través de los talones y usando los isquiotibiales para tirar hacia arriba.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica.",
+      "Respira de manera constante durante la ejecución del ejercicio."
     ]
   }
 }

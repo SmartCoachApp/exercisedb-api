@@ -45,6 +45,29 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 
 <br>
 
+## 🔄 Syncing Exercise Data Locally
+
+To run the API fully offline, you need to download all exercises and GIF animations from the external ExerciseDB RapidAPI.
+
+**Prerequisites:** A RapidAPI key with access to the ExerciseDB API.
+
+1. Copy `.env.example` to `.env` and set your key:
+   ```bash
+   cp .env.example .env
+   # Edit .env and replace `your_key_here` with your RAPIDAPI_KEY
+   ```
+
+2. Run the sync script:
+   ```bash
+   bun run sync
+   ```
+
+The script downloads ~1,300 exercises and their GIF animations in 4 resolutions (180px, 360px, 720px, 1080px), storing them under `media/` and updating `src/data/exercises.json`. If interrupted, it resumes automatically from a checkpoint at `scripts/.sync-checkpoint.json`.
+
+> **Note:** `RAPIDAPI_KEY` environment variable must be set before running `bun run sync`.
+
+---
+
 ## 🚀 Deploy Your Own API (V1)
 
 Want to self-host the open-source ExerciseDB API (V1)?

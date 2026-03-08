@@ -1,84 +1,129 @@
 # Exercises API
 
-REST API that serves a database of 1,500+ fitness exercises with metadata, search, filtering, and pagination.
+REST API exposing 1,324 exercises following the ExerciseDB v2 URL pattern. Requires API key authentication. Every exercise response includes GCS Signed URLs for all 4 image resolutions.
 
 ## User Capabilities
 
-- Users can list all exercises with pagination (`GET /api/v1/exercises`)
-- Users can search exercises with fuzzy matching across name, muscles, equipment, and body parts (`GET /api/v1/exercises/search?q=...`)
-- Users can filter exercises by multiple criteria simultaneously: muscles, equipment, body parts (`GET /api/v1/exercises/filter`)
-- Users can get a single exercise by ID (`GET /api/v1/exercises/{exerciseId}`)
-- Users can get exercises for a specific body part (`GET /api/v1/bodyparts/{bodyPartName}/exercises`)
-- Users can get exercises that use specific equipment (`GET /api/v1/equipments/{equipmentName}/exercises`)
-- Users can get exercises targeting a specific muscle, optionally including secondary muscles (`GET /api/v1/muscles/{muscleName}/exercises`)
-- Users can list all available body parts, muscles, and equipment (`GET /api/v1/bodyparts`, `/muscles`, `/equipments`)
-- Users can request any endpoint with `?lang=es` to get results in Spanish (names, instructions, muscles, body parts, equipment)
-- Users can search and filter using terms in either English or Spanish when `lang=es`
-- Users can browse interactive API documentation (`GET /docs`)
-- Users can access the OpenAPI 3.1.0 spec (`GET /swagger`)
+- Consumers can list all exercises with pagination (`GET /api/v1/exercises`)
+- Consumers can search exercises by name with fuzzy matching (`GET /api/v1/exercises/name/{name}`)
+- Consumers can filter exercises by body part (`GET /api/v1/exercises/bodyPart/{bodyPart}`)
+- Consumers can filter exercises by target muscle (`GET /api/v1/exercises/target/{target}`)
+- Consumers can filter exercises by equipment (`GET /api/v1/exercises/equipment/{equipment}`)
+- Consumers can get a single exercise by its 4-digit ID (`GET /api/v1/exercises/exercise/{id}`)
+- Consumers can retrieve catalog lists: body parts, target muscles, equipment types
+- Consumers can request any endpoint with `?lang=es` to receive results in Spanish
+- Consumers can browse interactive API documentation at `/docs`
 
-## Exercise Data Shape
+## Endpoints
 
-Each exercise contains:
-- `exerciseId` - Unique string ID (e.g., "trmte8s")
-- `name` - Exercise name in English (e.g., "band shrug")
-- `gifUrl` - URL to animated GIF demonstration
-- `equipments` - Array of required equipment names
-- `bodyParts` - Array of targeted body part names
-- `targetMuscles` - Array of primary muscle names
-- `secondaryMuscles` - Array of supporting muscle names
-- `instructions` - Array of step-by-step instruction strings
+### List & Filter
 
-## Pagination
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/v1/exercises` | All exercises, paginated |
+| GET | `/api/v1/exercises/bodyPart/{bodyPart}` | Filter by body part (case-insensitive) |
+| GET | `/api/v1/exercises/target/{target}` | Filter by target muscle (case-insensitive) |
+| GET | `/api/v1/exercises/equipment/{equipment}` | Filter by equipment (case-insensitive) |
+| GET | `/api/v1/exercises/name/{name}` | Fuzzy search by name |
 
-- All list endpoints support `offset` and `limit` query params
-- Max 100 items per page, default 10
-- Response includes `metadata` with `totalExercises`, `totalPages`, `currentPage`, `previousPage` (URL), `nextPage` (URL)
+Common query params (all list endpoints): `offset` (default 0), `limit` (default 10, max 100), `lang` (`en`/`es`).
 
-## Search
+### Single Exercise
 
-- Fuzzy search powered by Fuse.js
-- Weighted scoring: name (40%), targetMuscles (25%), bodyParts (20%), equipments (15%), secondaryMuscles (10%)
-- Configurable threshold (0 = exact, 1 = loose). Default: 0.3
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/v1/exercises/exercise/{id}` | Single exercise by 4-digit ID |
 
-## Filtering
+### Catalogs
 
-- Multi-muscle: AND logic (exercise must target ALL specified muscles)
-- Multi-equipment: AND logic (exercise must use ALL specified equipment)
-- Multi-body-part: OR logic (exercise targets ANY specified body part)
-- Optional secondary muscle inclusion
-- Sortable by: name, exerciseId, targetMuscles, bodyParts, equipments
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/v1/exercises/bodyPartList` | All 10 body parts |
+| GET | `/api/v1/exercises/targetList` | All 19 target muscles |
+| GET | `/api/v1/exercises/equipmentList` | All 28 equipment types |
+
+## Response Shapes
+
+### Exercise Object
+
+Every exercise in any response (list or single) includes all 4 image resolutions as GCS Signed URLs (TTL: 24h):
+
+```json
+{
+  "id": "0001",
+  "name": "3/4 sit-up",
+  "bodyPart": "waist",
+  "equipment": "body weight",
+  "target": "abs",
+  "secondaryMuscles": ["hip flexors", "lower back"],
+  "instructions": ["Lie flat on your back...", "Engaging your abs..."],
+  "description": "The 3/4 sit-up is an abdominal exercise...",
+  "difficulty": "beginner",
+  "category": "strength",
+  "images": {
+    "180": "https://storage.googleapis.com/smart-coach-exercises-media/...",
+    "360": "https://storage.googleapis.com/smart-coach-exercises-media/...",
+    "720": "https://storage.googleapis.com/smart-coach-exercises-media/...",
+    "1080": "https://storage.googleapis.com/smart-coach-exercises-media/..."
+  }
+}
+```
+
+### List Response
+
+```json
+{
+  "success": true,
+  "metadata": {
+    "totalItems": 1324,
+    "totalPages": 133,
+    "currentPage": 1,
+    "previousPage": null,
+    "nextPage": "/api/v1/exercises?offset=10&limit=10"
+  },
+  "data": [{ "...exercise..." }]
+}
+```
+
+### Single Item Response
+
+```json
+{ "success": true, "data": { "...exercise..." } }
+```
+
+### Catalog Response
+
+```json
+{ "success": true, "data": ["back", "cardio", "chest", "..."] }
+```
 
 ## Constraints
 
 - Read-only API (GET only)
-- CORS open to all origins
-- No authentication required (auth middleware exists but is disabled)
-- Data is static JSON loaded into memory on first request
+- Path params (bodyPart, target, equipment, id) always accept English values regardless of `lang`
+- Fuzzy search (`/name/{name}`) uses Fuse.js; path segment is URL-decoded before matching
+- CORS restricted to the smart-coach-pwa domain
+- Data is static JSON loaded into memory on startup
 
-## Architecture
+## Status Codes
 
-- **Framework**: Hono with OpenAPI integration
-- **Validation**: Zod schemas
-- **Pattern**: Clean Architecture (Controller -> Service -> UseCase -> FileLoader)
-- **i18n**: TranslationService translates responses; bilingual filter resolution for Spanish
-- **Deployment**: Vercel serverless + Bun runtime for dev
-- **Documentation**: Scalar UI + OpenAPI 3.1.0
+| Code | Meaning |
+|------|---------|
+| 200 | Success |
+| 400 | Invalid query params |
+| 401 | Missing or invalid API key |
+| 404 | Exercise not found |
+| 500 | Server error |
 
-## Related specs
+## Related Specs
 
-- [Data Layer](./data-layer.md) - how exercise data is stored and loaded
-- [Internationalization](./i18n.md) - multi-language support (Spanish)
+- [Auth](./auth.md) — API key validation middleware
+- [Data Model](./data-model.md) — exercise fields and source field mapping
+- [GCS Media](./gcs-media.md) — Signed URL generation for `images` object
+- [Internationalization](./i18n.md) — `lang=es` translation
 
 ## Source
 
-- [src/modules/exercises/controllers/exercise.controller.ts](../src/modules/exercises/controllers/exercise.controller.ts)
-- [src/modules/exercises/services/exercise.service.ts](../src/modules/exercises/services/exercise.service.ts)
-- [src/modules/exercises/use-cases/get-exercise.usecase.ts](../src/modules/exercises/use-cases/get-exercise.usecase.ts)
-- [src/modules/exercises/models/exercise.model.ts](../src/modules/exercises/models/exercise.model.ts)
-- [src/modules/bodyparts/controllers/bodypart.controller.ts](../src/modules/bodyparts/controllers/bodypart.controller.ts)
-- [src/modules/muscles/controllers/muscle.controller.ts](../src/modules/muscles/controllers/muscle.controller.ts)
-- [src/modules/equipments/controllers/equipment.controller.ts](../src/modules/equipments/controllers/equipment.controller.ts)
-- [src/services/translation.service.ts](../src/services/translation.service.ts)
-- [src/data/i18n/types.ts](../src/data/i18n/types.ts)
-- [src/app.ts](../src/app.ts)
+- `src/modules/exercises/`
+- `src/app.ts`
+- `src/data/exercises.json`

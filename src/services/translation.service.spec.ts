@@ -6,13 +6,14 @@ import type { CatalogTranslations, ExerciseTranslations } from '../data/i18n/typ
 
 const mockCatalogTranslations: CatalogTranslations = {
   bodyParts: { neck: 'cuello', chest: 'pecho', back: 'espalda' },
-  muscles: { traps: 'trapecios', shoulders: 'hombros', biceps: 'bíceps' },
-  equipments: { band: 'banda', dumbbell: 'mancuerna', barbell: 'barra' }
+  targets: { traps: 'trapecios', delts: 'deltoides', biceps: 'bíceps' },
+  equipment: { band: 'banda', dumbbell: 'mancuerna', barbell: 'barra' }
 }
 
 const mockExerciseTranslations: ExerciseTranslations = {
-  trmte8s: {
+  '0123': {
     name: 'encogimiento con banda',
+    description: 'Ejercicio de encogimiento con banda para los trapecios.',
     instructions: [
       'Paso 1: Párate con los pies separados al ancho de los hombros.',
       'Paso 2: Mantén los brazos rectos y relajados.'
@@ -21,14 +22,16 @@ const mockExerciseTranslations: ExerciseTranslations = {
 }
 
 const mockExercise: Exercise = {
-  exerciseId: 'trmte8s',
+  id: '0123',
   name: 'band shrug',
-  gifUrl: 'https://static.exercisedb.dev/media/trmte8s.gif',
-  targetMuscles: ['traps'],
-  bodyParts: ['neck'],
-  equipments: ['band'],
-  secondaryMuscles: ['shoulders'],
-  instructions: ['Step:1 Stand with your feet shoulder-width apart.', 'Step:2 Keep your arms straight and relaxed.']
+  bodyPart: 'neck',
+  equipment: 'band',
+  target: 'traps',
+  secondaryMuscles: ['delts'],
+  instructions: ['Step 1: Stand with your feet shoulder-width apart.', 'Step 2: Keep your arms straight and relaxed.'],
+  description: 'The band shrug is a trapezius exercise using a band.',
+  difficulty: 'beginner',
+  category: 'strength'
 }
 
 describe('TranslationService', () => {
@@ -53,10 +56,10 @@ describe('TranslationService', () => {
         'Paso 1: Párate con los pies separados al ancho de los hombros.',
         'Paso 2: Mantén los brazos rectos y relajados.'
       ])
-      expect(result.targetMuscles).toEqual(['trapecios'])
-      expect(result.secondaryMuscles).toEqual(['hombros'])
-      expect(result.bodyParts).toEqual(['cuello'])
-      expect(result.equipments).toEqual(['banda'])
+      expect(result.target).toBe('trapecios')
+      expect(result.secondaryMuscles).toEqual(['deltoides'])
+      expect(result.bodyPart).toBe('cuello')
+      expect(result.equipment).toBe('banda')
     })
 
     it('falls back to English when translation is missing for an exercise', async () => {
@@ -68,17 +71,18 @@ describe('TranslationService', () => {
       expect(result.name).toBe('band shrug')
       expect(result.instructions).toEqual(mockExercise.instructions)
       // Catalog fields should still translate
-      expect(result.targetMuscles).toEqual(['trapecios'])
+      expect(result.target).toBe('trapecios')
     })
 
-    it('preserves gifUrl and exerciseId', async () => {
+    it('preserves id and difficulty', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
       vi.spyOn(FileLoader, 'loadExerciseTranslations').mockResolvedValue(mockExerciseTranslations)
 
       const result = await TranslationService.translateExercise(mockExercise, 'es')
 
-      expect(result.exerciseId).toBe('trmte8s')
-      expect(result.gifUrl).toBe('https://static.exercisedb.dev/media/trmte8s.gif')
+      expect(result.id).toBe('0123')
+      expect(result.difficulty).toBe('beginner')
+      expect(result.category).toBe('strength')
     })
   })
 
@@ -114,17 +118,17 @@ describe('TranslationService', () => {
       expect(result).toEqual(['cuello', 'pecho'])
     })
 
-    it('translates muscles', async () => {
+    it('translates targets', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
 
-      const result = await TranslationService.translateCatalogList(['traps', 'biceps'], 'muscles', 'es')
+      const result = await TranslationService.translateCatalogList(['traps', 'biceps'], 'targets', 'es')
       expect(result).toEqual(['trapecios', 'bíceps'])
     })
 
-    it('translates equipments', async () => {
+    it('translates equipment', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
 
-      const result = await TranslationService.translateCatalogList(['band', 'dumbbell'], 'equipments', 'es')
+      const result = await TranslationService.translateCatalogList(['band', 'dumbbell'], 'equipment', 'es')
       expect(result).toEqual(['banda', 'mancuerna'])
     })
 
@@ -233,19 +237,19 @@ describe('TranslationService', () => {
       expect(result).toEqual(['unknown'])
     })
 
-    it('works for muscles', async () => {
+    it('works for targets', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
 
-      const result = await TranslationService.resolveFilterValuesToTargetLang(['biceps', 'traps'], 'muscles', 'es')
+      const result = await TranslationService.resolveFilterValuesToTargetLang(['biceps', 'traps'], 'targets', 'es')
       expect(result).toEqual(['bíceps', 'trapecios'])
     })
 
-    it('works for equipments', async () => {
+    it('works for equipment', async () => {
       vi.spyOn(FileLoader, 'loadCatalogTranslations').mockResolvedValue(mockCatalogTranslations)
 
       const result = await TranslationService.resolveFilterValuesToTargetLang(
         ['dumbbell', 'barbell'],
-        'equipments',
+        'equipment',
         'es'
       )
       expect(result).toEqual(['mancuerna', 'barra'])
@@ -268,7 +272,7 @@ describe('TranslationService', () => {
 
       const result = await TranslationService.getTranslatedExerciseData('es')
       expect(result[0].name).toBe('encogimiento con banda')
-      expect(result[0].targetMuscles).toEqual(['trapecios'])
+      expect(result[0].target).toBe('trapecios')
     })
   })
 })

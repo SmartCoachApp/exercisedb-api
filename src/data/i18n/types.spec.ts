@@ -12,12 +12,12 @@ describe('i18n types', () => {
   it('CatalogTranslations has correct structure', () => {
     const catalog: CatalogTranslations = {
       bodyParts: { chest: 'pecho' },
-      muscles: { biceps: 'bíceps' },
-      equipments: { dumbbell: 'mancuerna' }
+      targets: { biceps: 'bíceps' },
+      equipment: { dumbbell: 'mancuerna' }
     }
     expect(catalog.bodyParts.chest).toBe('pecho')
-    expect(catalog.muscles.biceps).toBe('bíceps')
-    expect(catalog.equipments.dumbbell).toBe('mancuerna')
+    expect(catalog.targets.biceps).toBe('bíceps')
+    expect(catalog.equipment.dumbbell).toBe('mancuerna')
   })
 
   it('ExerciseTranslation has name and instructions', () => {
@@ -29,7 +29,7 @@ describe('i18n types', () => {
     expect(translation.instructions).toHaveLength(2)
   })
 
-  it('ExerciseTranslations is a record keyed by exerciseId', () => {
+  it('ExerciseTranslations is a record keyed by exercise id', () => {
     const translations: ExerciseTranslations = {
       trmte8s: {
         name: 'encogimiento con banda',

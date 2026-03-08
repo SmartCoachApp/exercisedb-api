@@ -1,6 +1,6 @@
 import { FileLoader } from '../data/load'
 import type { Exercise } from '../data/types'
-import type { SupportedLanguage, CatalogTranslations, ExerciseTranslations } from '../data/i18n/types'
+import type { SupportedLanguage } from '../data/i18n/types'
 
 export class TranslationService {
   static async translateExercise(exercise: Exercise, lang: SupportedLanguage): Promise<Exercise> {
@@ -11,16 +11,17 @@ export class TranslationService {
       FileLoader.loadExerciseTranslations(lang)
     ])
 
-    const exerciseTranslation = exerciseTranslations[exercise.exerciseId]
+    const exerciseTranslation = exerciseTranslations[exercise.id]
 
     return {
       ...exercise,
       name: exerciseTranslation?.name ?? exercise.name,
+      description: exerciseTranslation?.description ?? exercise.description,
       instructions: exerciseTranslation?.instructions ?? exercise.instructions,
-      targetMuscles: exercise.targetMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
-      secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
-      bodyParts: exercise.bodyParts.map((bp) => catalogTranslations.bodyParts[bp] ?? bp),
-      equipments: exercise.equipments.map((eq) => catalogTranslations.equipments[eq] ?? eq)
+      target: catalogTranslations.targets[exercise.target] ?? exercise.target,
+      secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
+      bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
+      equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment
     }
   }
 
@@ -33,22 +34,23 @@ export class TranslationService {
     ])
 
     return exercises.map((exercise) => {
-      const exerciseTranslation = exerciseTranslations[exercise.exerciseId]
+      const exerciseTranslation = exerciseTranslations[exercise.id]
       return {
         ...exercise,
         name: exerciseTranslation?.name ?? exercise.name,
+        description: exerciseTranslation?.description ?? exercise.description,
         instructions: exerciseTranslation?.instructions ?? exercise.instructions,
-        targetMuscles: exercise.targetMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
-        secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.muscles[m] ?? m),
-        bodyParts: exercise.bodyParts.map((bp) => catalogTranslations.bodyParts[bp] ?? bp),
-        equipments: exercise.equipments.map((eq) => catalogTranslations.equipments[eq] ?? eq)
+        target: catalogTranslations.targets[exercise.target] ?? exercise.target,
+        secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
+        bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
+        equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment
       }
     })
   }
 
   static async translateCatalogList(
     items: string[],
-    catalogType: 'bodyParts' | 'muscles' | 'equipments',
+    catalogType: 'bodyParts' | 'targets' | 'equipment',
     lang: SupportedLanguage
   ): Promise<string[]> {
     if (lang === 'en') return items
@@ -61,7 +63,7 @@ export class TranslationService {
 
   static async resolveFilterValue(
     value: string,
-    catalogType: 'bodyParts' | 'muscles' | 'equipments',
+    catalogType: 'bodyParts' | 'targets' | 'equipment',
     lang: SupportedLanguage
   ): Promise<string> {
     if (lang === 'en') return value
@@ -84,7 +86,7 @@ export class TranslationService {
 
   static async resolveFilterValues(
     values: string[],
-    catalogType: 'bodyParts' | 'muscles' | 'equipments',
+    catalogType: 'bodyParts' | 'targets' | 'equipment',
     lang: SupportedLanguage
   ): Promise<string[]> {
     if (lang === 'en') return values
@@ -94,7 +96,7 @@ export class TranslationService {
 
   static async resolveFilterValuesToTargetLang(
     values: string[],
-    catalogType: 'bodyParts' | 'muscles' | 'equipments',
+    catalogType: 'bodyParts' | 'targets' | 'equipment',
     lang: SupportedLanguage
   ): Promise<string[]> {
     if (lang === 'en') return values

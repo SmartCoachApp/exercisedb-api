@@ -6,6 +6,8 @@ import { Home } from './pages/home'
 import { Routes } from '#common/types'
 import type { HTTPException } from 'hono/http-exception'
 import { cors } from 'hono/cors'
+import { authMiddleware } from './middleware/auth'
+
 export class App {
   private app: OpenAPIHono
   constructor(routes: Routes[]) {
@@ -36,8 +38,9 @@ export class App {
   private initializeGlobalMiddleware() {
     this.app.use(
       cors({
-        origin: '*',
-        allowMethods: ['GET', 'OPTIONS']
+        origin: 'https://nextjs-pwa-service-1094597659488.us-east4.run.app',
+        allowMethods: ['GET', 'OPTIONS'],
+        allowHeaders: ['X-API-Key', 'Content-Type']
       })
     )
 
@@ -50,7 +53,7 @@ export class App {
       c.res.headers.set('X-Response-Time', `${end - start}ms`)
     })
 
-    // this.app.use(authMiddleware)
+    this.app.use(authMiddleware)
   }
 
   private initializeSwaggerUI(): void {

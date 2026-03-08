@@ -1,61 +1,69 @@
-export interface Equipment {
-  name: string
-}
-
 export interface Exercise {
   /**
-   * The id of the exercise
-   * @example "trmte8s"
+   * The unique 4-digit id of the exercise
+   * @example "0001"
    */
-  exerciseId: string
+  id: string
 
   /**
    * The name of the exercise.
-   * @example "band shrug"
+   * @example "3/4 sit-up"
    */
   name: string
 
   /**
-   * The gifUrl of the exercise.
-   * @example "https://v1.cdn.exercisedb.dev/media/trmte8s.gif"
+   * The body region targeted by the exercise.
+   * @example "waist"
    */
-  gifUrl: string
+  bodyPart: string
 
   /**
-   * List of equipment required for the exercise.
-   * @example ["band"]
+   * Equipment required for the exercise.
+   * @example "body weight"
    */
-  equipments: string[]
+  equipment: string
 
   /**
-   * Primary body parts targeted by the exercise.
-   * @example ["back"]
+   * Primary muscle targeted by the exercise.
+   * @example "abs"
    */
-  bodyParts: string[]
-
-  /**
-   * Primary muscles targeted by the exercise.
-   * @example ["traps"]
-   */
-  targetMuscles: string[]
+  target: string
 
   /**
    * Secondary muscles engaged during the exercise.
-   * @example ["traps", "traps", "triceps"]
+   * @example ["hip flexors", "lower back"]
    */
   secondaryMuscles: string[]
 
   /**
    * Step-by-step instructions to perform the exercise.
-   * @example ["Step:1 Stand with your feet shoulder-width apart and place the band under your feet, holding the ends with your hands..."]
+   * @example ["Lie flat on your back...", "Engaging your abs..."]
    */
   instructions: string[]
+
+  /**
+   * Summary description of the exercise.
+   * @example "The 3/4 sit-up is an abdominal exercise..."
+   */
+  description: string
+
+  /**
+   * Difficulty level of the exercise.
+   */
+  difficulty: 'beginner' | 'intermediate' | 'advanced'
+
+  /**
+   * Movement category.
+   * @example "strength"
+   */
+  category: string
 }
 
-export interface BodyPart {
-  name: string
-}
-
-export interface Muscle {
-  name: string
+export interface ExerciseWithImages extends Exercise {
+  images: {
+    '180': string
+    '360': string
+    '720': string
+    '1080': string
+  }
 }

@@ -1,180 +1,208 @@
-import {
-  FetchExerciseByIdReq,
-  FilterExercisesArgs,
-  GetAllExercisesArgs,
-  GetExercisesArgs,
-  GetExercisesByBodyPartArgs,
-  GetExercisesByEquipmentArgs,
-  GetExercisesByMuscleArgs,
-  SearchExercisesArgs
-} from '../types'
-import { GetExerciseByIdUseCase } from '../use-cases'
-import { GetExercisesUseCase } from '../use-cases/get-exercise.usecase'
+import Fuse from 'fuse.js'
+import { FileLoader } from '../../../data/load'
 import { TranslationService } from '../../../services/translation.service'
+import { signedUrlService } from '../../../services/signed-url.service'
+import type { Exercise, ExerciseWithImages } from '../../../data/types'
+import type { SupportedLanguage } from '../../../data/i18n/types'
+import { GetExercisesUseCase } from '../use-cases/get-exercise.usecase'
+import { GetExerciseByIdUseCase } from '../use-cases'
+
+export interface PaginatedResult {
+  data: ExerciseWithImages[]
+  totalItems: number
+  totalPages: number
+  currentPage: number
+}
+
 export class ExerciseService {
-  private readonly getExercisesUseCase: GetExercisesUseCase
-  private readonly getExerciseByIdUseCase: GetExerciseByIdUseCase
-  constructor() {
-    this.getExercisesUseCase = new GetExercisesUseCase()
-    this.getExerciseByIdUseCase = new GetExerciseByIdUseCase()
+  private readonly getExercisesUseCase = new GetExercisesUseCase()
+  private readonly getExerciseByIdUseCase = new GetExerciseByIdUseCase()
+
+  private async attachImages(exercises: Exercise[]): Promise<ExerciseWithImages[]> {
+    return Promise.all(
+      exercises.map(async (ex) => ({
+        ...ex,
+        images: await signedUrlService.generateImageUrls(ex.id)
+      }))
+    )
   }
-  async searchExercises(params: SearchExercisesArgs) {
-    const lang = params.lang ?? 'en'
+
+  async getAllExercises(params: {
+    offset?: number
+    limit?: number
+    lang?: SupportedLanguage
+  }): Promise<PaginatedResult> {
+    const { offset = 0, limit = 10, lang = 'en' } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: {
-        search: params.query,
-        searchThreshold: params.threshold
-      },
+    const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
+      offset,
+      limit,
+      query: {},
       exerciseData
-    }
+    })
 
-    return this.getExercisesUseCase.execute(query)
+    return {
+      data: await this.attachImages(exercises),
+      totalItems: totalExercises,
+      totalPages,
+      currentPage
+    }
   }
 
-  getExerciseById = async (request: FetchExerciseByIdReq) => {
-    const exercise = await this.getExerciseByIdUseCase.execute(request)
-    if (request.lang && request.lang !== 'en') {
-      return TranslationService.translateExercise(exercise, request.lang)
-    }
-    return exercise
-  }
-  async getAllExercises(params: GetAllExercisesArgs) {
-    const lang = params.lang ?? 'en'
+  async getExercisesByBodyPart(params: {
+    bodyPart: string
+    offset?: number
+    limit?: number
+    lang?: SupportedLanguage
+  }): Promise<PaginatedResult> {
+    const { bodyPart, offset = 0, limit = 10, lang = 'en' } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: params.search ? { search: params.search } : {},
-      sort: params.sort,
-      exerciseData
-    }
-
-    return this.getExercisesUseCase.execute(query)
-  }
-  async filterExercises(params: FilterExercisesArgs) {
-    const lang = params.lang ?? 'en'
-
-    let exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
-
-    // Resolve filter values to target language when using translated data
-    let targetMuscles = params.targetMuscles
-    let equipments = params.equipments
-    let bodyParts = params.bodyParts
-
-    if (lang !== 'en') {
-      if (targetMuscles?.length) {
-        targetMuscles = await TranslationService.resolveFilterValuesToTargetLang(targetMuscles, 'muscles', lang)
-      }
-      if (equipments?.length) {
-        equipments = await TranslationService.resolveFilterValuesToTargetLang(equipments, 'equipments', lang)
-      }
-      if (bodyParts?.length) {
-        bodyParts = await TranslationService.resolveFilterValuesToTargetLang(bodyParts, 'bodyParts', lang)
-      }
-    }
-
-    const queryFilters: any = {}
-
-    if (params.search) {
-      queryFilters.search = params.search
-    }
-
-    if (targetMuscles && targetMuscles.length > 0) {
-      queryFilters.targetMuscles = targetMuscles
-    }
-
-    if (equipments && equipments.length > 0) {
-      queryFilters.equipments = equipments
-    }
-
-    if (bodyParts && bodyParts.length > 0) {
-      queryFilters.bodyParts = bodyParts
-    }
-
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: queryFilters,
-      sort: params.sort,
-      exerciseData
-    }
-
-    return this.getExercisesUseCase.execute(query)
-  }
-
-  // Get exercises by body part
-  async getExercisesByBodyPart(params: GetExercisesByBodyPartArgs) {
-    const lang = params.lang ?? 'en'
-    const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
-
-    // Path params are always English; resolve to target language for comparison against translated data
-    let bodyPart = params.bodyPart
+    let resolvedBodyPart = bodyPart
     if (lang !== 'en') {
       const resolved = await TranslationService.resolveFilterValuesToTargetLang([bodyPart], 'bodyParts', lang)
-      bodyPart = resolved[0]
+      resolvedBodyPart = resolved[0]
     }
 
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: {
-        bodyParts: [bodyPart]
-      },
+    const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
+      offset,
+      limit,
+      query: { bodyPart: resolvedBodyPart },
       exerciseData
-    }
+    })
 
-    return this.getExercisesUseCase.execute(query)
+    return {
+      data: await this.attachImages(exercises),
+      totalItems: totalExercises,
+      totalPages,
+      currentPage
+    }
   }
 
-  // Get exercises by equipment
-  async getExercisesByEquipment(params: GetExercisesByEquipmentArgs) {
-    const lang = params.lang ?? 'en'
+  async getExercisesByTarget(params: {
+    target: string
+    offset?: number
+    limit?: number
+    lang?: SupportedLanguage
+  }): Promise<PaginatedResult> {
+    const { target, offset = 0, limit = 10, lang = 'en' } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
-    let equipment = params.equipment
+    let resolvedTarget = target
     if (lang !== 'en') {
-      const resolved = await TranslationService.resolveFilterValuesToTargetLang([equipment], 'equipments', lang)
-      equipment = resolved[0]
+      const resolved = await TranslationService.resolveFilterValuesToTargetLang([target], 'targets', lang)
+      resolvedTarget = resolved[0]
     }
 
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: {
-        equipments: [equipment]
-      },
+    const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
+      offset,
+      limit,
+      query: { target: resolvedTarget },
       exerciseData
-    }
+    })
 
-    return this.getExercisesUseCase.execute(query)
+    return {
+      data: await this.attachImages(exercises),
+      totalItems: totalExercises,
+      totalPages,
+      currentPage
+    }
   }
 
-  // Get exercises by muscle (with option to include secondary muscles)
-  async getExercisesByMuscle(params: GetExercisesByMuscleArgs) {
-    const lang = params.lang ?? 'en'
+  async getExercisesByEquipment(params: {
+    equipment: string
+    offset?: number
+    limit?: number
+    lang?: SupportedLanguage
+  }): Promise<PaginatedResult> {
+    const { equipment, offset = 0, limit = 10, lang = 'en' } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
-    let muscle = params.muscle
+    let resolvedEquipment = equipment
     if (lang !== 'en') {
-      const resolved = await TranslationService.resolveFilterValuesToTargetLang([muscle], 'muscles', lang)
-      muscle = resolved[0]
+      const resolved = await TranslationService.resolveFilterValuesToTargetLang([equipment], 'equipment', lang)
+      resolvedEquipment = resolved[0]
     }
 
-    const query: GetExercisesArgs = {
-      offset: params.offset,
-      limit: params.limit,
-      query: {
-        targetMuscles: [muscle],
-        includeSecondaryMuscles: params.includeSecondary
-      },
+    const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
+      offset,
+      limit,
+      query: { equipment: resolvedEquipment },
       exerciseData
+    })
+
+    return {
+      data: await this.attachImages(exercises),
+      totalItems: totalExercises,
+      totalPages,
+      currentPage
+    }
+  }
+
+  async searchByName(params: {
+    name: string
+    offset?: number
+    limit?: number
+    lang?: SupportedLanguage
+  }): Promise<PaginatedResult> {
+    const { name, offset = 0, limit = 10, lang = 'en' } = params
+    const safeOffset = Math.max(0, offset)
+    const safeLimit = Math.max(1, Math.min(100, limit))
+
+    const allExercises =
+      lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : await FileLoader.loadExercises()
+
+    const fuse = new Fuse(allExercises, {
+      keys: [{ name: 'name', weight: 1 }],
+      threshold: 0.3,
+      includeScore: false,
+      ignoreLocation: true,
+      findAllMatches: true
+    })
+
+    const searchResults = fuse.search(decodeURIComponent(name)).map((r) => r.item)
+    const totalItems = searchResults.length
+    const totalPages = Math.ceil(totalItems / safeLimit)
+    const currentPage = Math.floor(safeOffset / safeLimit) + 1
+    const paginated = searchResults.slice(safeOffset, safeOffset + safeLimit)
+
+    return {
+      data: await this.attachImages(paginated),
+      totalItems,
+      totalPages,
+      currentPage
+    }
+  }
+
+  async getExerciseById(params: { id: string; lang?: SupportedLanguage }): Promise<ExerciseWithImages> {
+    const { id, lang = 'en' } = params
+    const exercise = await this.getExerciseByIdUseCase.execute({ exerciseId: id, lang })
+
+    let result: Exercise = exercise
+    if (lang !== 'en') {
+      result = await TranslationService.translateExercise(exercise, lang)
     }
 
-    return this.getExercisesUseCase.execute(query)
+    const images = await signedUrlService.generateImageUrls(id)
+    return { ...result, images }
+  }
+
+  async getBodyPartList(lang: SupportedLanguage = 'en'): Promise<string[]> {
+    const items = await FileLoader.loadBodyParts()
+    if (lang === 'en') return items
+    return TranslationService.translateCatalogList(items, 'bodyParts', lang)
+  }
+
+  async getTargetList(lang: SupportedLanguage = 'en'): Promise<string[]> {
+    const items = await FileLoader.loadTargets()
+    if (lang === 'en') return items
+    return TranslationService.translateCatalogList(items, 'targets', lang)
+  }
+
+  async getEquipmentList(lang: SupportedLanguage = 'en'): Promise<string[]> {
+    const items = await FileLoader.loadEquipments()
+    if (lang === 'en') return items
+    return TranslationService.translateCatalogList(items, 'equipment', lang)
   }
 }

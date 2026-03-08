@@ -2,601 +2,447 @@ import { Routes } from '#common/types/route.type.js'
 import { createRoute, OpenAPIHono } from '@hono/zod-openapi'
 import { z } from 'zod'
 import { ExerciseService } from '../services/exercise.service'
-import { ExerciseModel, ExerciseResponseSchema, PaginationQuerySchema } from '../models/exercise.model'
+import {
+  CatalogResponseSchema,
+  ListResponseSchema,
+  PaginationQuerySchema,
+  SingleExerciseResponseSchema
+} from '../models/exercise.model'
 
 export class ExerciseController implements Routes {
   public controller: OpenAPIHono
   private readonly exerciseService: ExerciseService
+
   constructor() {
     this.controller = new OpenAPIHono()
     this.exerciseService = new ExerciseService()
   }
+
   private buildPaginationUrls(
     origin: string,
     pathname: string,
     currentPage: number,
     totalPages: number,
     limit: number,
-    additionalParams: string = ''
-  ) {
-    const baseUrl = `${origin}${pathname}`
-    const params = additionalParams ? `&${additionalParams}` : ''
-
+    extraParams: string = ''
+  ): { previousPage: string | null; nextPage: string | null } {
+    const base = `${origin}${pathname}`
+    const extra = extraParams ? `&${extraParams}` : ''
     return {
-      previousPage: currentPage > 1 ? `${baseUrl}?offset=${(currentPage - 2) * limit}&limit=${limit}${params}` : null,
-      nextPage: currentPage < totalPages ? `${baseUrl}?offset=${currentPage * limit}&limit=${limit}${params}` : null
+      previousPage: currentPage > 1 ? `${base}?offset=${(currentPage - 2) * limit}&limit=${limit}${extra}` : null,
+      nextPage: currentPage < totalPages ? `${base}?offset=${currentPage * limit}&limit=${limit}${extra}` : null
     }
   }
 
   public initRoutes() {
-    this.controller.openapi(
-      createRoute({
-        method: 'get',
-        path: '/exercises/search',
-        tags: ['EXERCISES'],
-        summary: 'Search exercises with fuzzy matching',
-        description:
-          "Search exercises using fuzzy matching across all fields (name, muscles, equipment, body parts). Perfect for when users don't know exact terms. Supports ?lang=es for Spanish results and search terms.",
-        operationId: 'searchExercises',
-        request: {
-          query: PaginationQuerySchema.extend({
-            q: z.string().min(1).openapi({
-              title: 'Search Query',
-              description:
-                'Search term that will be fuzzy matched against exercise names, muscles, equipment, and body parts',
-              type: 'string',
-              example: 'chest push',
-              default: ''
-            }),
-            threshold: z.coerce.number().min(0).max(1).optional().openapi({
-              title: 'Search Threshold',
-              description: 'Fuzzy search threshold (0 = exact match, 1 = very loose match)',
-              type: 'number',
-              example: 0.3,
-              default: 0.3
-            })
-          })
-        },
-        responses: {
-          200: {
-            description: 'Successful response with fuzzy search results',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
-          }
-        }
-      }),
-      async (ctx) => {
-        const { offset = 0, limit = 10, q, threshold = 0.3, lang = 'en' } = ctx.req.valid('query')
-        const { origin, pathname } = new URL(ctx.req.url)
-
-        const { totalExercises, currentPage, totalPages, exercises } = await this.exerciseService.searchExercises({
-          offset,
-          limit,
-          query: q,
-          threshold,
-          lang
-        })
-
-        const langParam = lang !== 'en' ? `&lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(
-          origin,
-          pathname,
-          currentPage,
-          totalPages,
-          limit,
-          `q=${encodeURIComponent(q)}&threshold=${threshold}${langParam}`
-        )
-
-        return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
-        })
-      }
-    )
+    // ── Catalog endpoints ──────────────────────────────────────────────────
 
     this.controller.openapi(
       createRoute({
         method: 'get',
-        path: '/exercises',
+        path: '/exercises/bodyPartList',
         tags: ['EXERCISES'],
-        summary: 'Get all exercises with optional search',
-        description:
-          'Retrieve all exercises with optional fuzzy search filtering. Supports ?lang=es for Spanish results.',
-        operationId: 'getExercises',
+        summary: 'Get all body parts',
+        description: 'Returns the list of all available body parts. Supports ?lang=es for Spanish translations.',
+        operationId: 'getBodyPartList',
         request: {
-          query: PaginationQuerySchema.extend({
-            search: z.string().optional().openapi({
-              title: 'Search Query',
-              description: 'Optional search term for fuzzy matching across all exercise fields',
-              type: 'string',
-              example: 'cardio',
-              default: ''
-            }),
-            sortBy: z.enum(['name', 'exerciseId', 'targetMuscles', 'bodyParts', 'equipments']).optional().openapi({
-              title: 'Sort Field',
-              description: 'Field to sort exercises by',
-              example: 'targetMuscles',
-              default: 'targetMuscles'
-            }),
-            sortOrder: z.enum(['asc', 'desc']).optional().openapi({
-              title: 'Sort Order',
-              description: 'Sort order (ascending or descending)',
-              example: 'desc',
-              default: 'desc'
-            })
-          })
-        },
-        responses: {
-          200: {
-            description: 'Successful response with exercises',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
-          }
-        }
-      }),
-      async (ctx) => {
-        const {
-          offset = 0,
-          limit = 10,
-          search,
-          sortBy = 'targetMuscles',
-          sortOrder = 'desc',
-          lang = 'en'
-        } = ctx.req.valid('query')
-        const { origin, pathname } = new URL(ctx.req.url)
-
-        const { totalExercises, totalPages, currentPage, exercises } = await this.exerciseService.getAllExercises({
-          offset,
-          limit,
-          search,
-          sort: { [sortBy]: sortOrder === 'asc' ? 1 : -1 },
-          lang
-        })
-
-        const searchParam = search ? `&search=${encodeURIComponent(search)}` : ''
-        const sortParams = `&sortBy=${sortBy}&sortOrder=${sortOrder}`
-        const langParam = lang !== 'en' ? `&lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(
-          origin,
-          pathname,
-          currentPage,
-          totalPages,
-          limit,
-          `${searchParam}${sortParams}${langParam}`
-        )
-
-        return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
-        })
-      }
-    )
-    this.controller.openapi(
-      createRoute({
-        method: 'get',
-        path: '/exercises/filter',
-        tags: ['EXERCISES'],
-        summary: 'Advanced exercise filtering',
-        description:
-          'Advance Filter exercises by multiple criteria with fuzzy search support. Supports ?lang=es for Spanish results. Filter values accept both English and Spanish terms when lang=es.',
-        operationId: 'filterExercises',
-        request: {
-          query: PaginationQuerySchema.extend({
-            search: z.string().optional().openapi({
-              title: 'Search Query',
-              description: 'Fuzzy search across all fields',
-              type: 'string',
-              example: 'chest workout'
-            }),
-            muscles: z.string().optional().openapi({
-              title: 'Target Muscles',
-              description: 'Comma-separated list of target muscles',
-              type: 'string',
-              example: 'chest,triceps'
-            }),
-            equipment: z.string().optional().openapi({
-              title: 'Equipment',
-              description: 'Comma-separated list of equipment',
-              type: 'string',
-              example: 'dumbbell,barbell'
-            }),
-            bodyParts: z.string().optional().openapi({
-              title: 'Body Parts',
-              description: 'Comma-separated list of body parts',
-              type: 'string',
-              example: 'upper arms,chest'
-            }),
-            sortBy: z.enum(['name', 'exerciseId', 'targetMuscles', 'bodyParts', 'equipments']).optional().openapi({
-              title: 'Sort Field',
-              description: 'Field to sort by',
-              example: 'name',
-              default: 'name'
-            }),
-            sortOrder: z.enum(['asc', 'desc']).optional().openapi({
-              title: 'Sort Order',
-              description: 'Sort order',
-              example: 'desc',
-              default: 'desc'
-            })
-          })
-        },
-        responses: {
-          200: {
-            description: 'Successful response with filtered exercises',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
-          }
-        }
-      }),
-      async (ctx) => {
-        const {
-          offset = 0,
-          limit = 10,
-          search,
-          muscles,
-          equipment,
-          bodyParts,
-          sortBy = 'name',
-          sortOrder = 'desc',
-          lang = 'en'
-        } = ctx.req.valid('query')
-
-        const { origin, pathname } = new URL(ctx.req.url)
-
-        const { totalExercises, totalPages, currentPage, exercises } = await this.exerciseService.filterExercises({
-          offset,
-          limit,
-          search,
-          targetMuscles: muscles ? muscles.split(',').map((m) => m.trim()) : undefined,
-          equipments: equipment ? equipment.split(',').map((e) => e.trim()) : undefined,
-          bodyParts: bodyParts ? bodyParts.split(',').map((b) => b.trim()) : undefined,
-          sort: { [sortBy]: sortOrder === 'asc' ? 1 : -1 },
-          lang
-        })
-
-        const queryParams = new URLSearchParams()
-        if (search) queryParams.append('search', search)
-        if (muscles) queryParams.append('muscles', muscles)
-        if (equipment) queryParams.append('equipment', equipment)
-        if (bodyParts) queryParams.append('bodyParts', bodyParts)
-        queryParams.append('sortBy', sortBy)
-        queryParams.append('sortOrder', sortOrder)
-        if (lang !== 'en') queryParams.append('lang', lang)
-
-        const { previousPage, nextPage } = this.buildPaginationUrls(
-          origin,
-          pathname,
-          currentPage,
-          totalPages,
-          limit,
-          queryParams.toString()
-        )
-
-        return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
-        })
-      }
-    )
-
-    this.controller.openapi(
-      createRoute({
-        method: 'get',
-        path: '/exercises/{exerciseId}',
-        tags: ['EXERCISES'],
-        summary: 'Get exercise by ID',
-        description: 'Retrieve a single exercise by its unique identifier. Supports ?lang=es for Spanish results.',
-        operationId: 'getExerciseById',
-        request: {
-          params: z.object({
-            exerciseId: z.string().openapi({
-              title: 'Exercise ID',
-              description: 'The unique identifier of the exercise to retrieve.',
-              type: 'string',
-              example: 'ztAa1RK',
-              default: 'ztAa1RK'
-            })
-          }),
           query: z.object({
             lang: z.enum(['en', 'es']).optional().default('en').openapi({
               title: 'Language',
-              description: 'Response language (en=English, es=Spanish)',
+              description: 'Response language',
               example: 'en'
             })
           })
         },
         responses: {
           200: {
-            description: 'Successful response with the exercise details.',
-            content: {
-              'application/json': {
-                schema: z.object({
-                  success: z.boolean().openapi({
-                    description: 'Indicates whether the request was successful.',
-                    type: 'boolean',
-                    example: true
-                  }),
-                  data: ExerciseModel.openapi({
-                    description: 'The retrieved exercise details.'
-                  })
-                })
-              }
-            }
-          },
-          404: {
-            description: 'Exercise not found'
-          },
-          500: {
-            description: 'Internal server error'
+            description: 'List of body parts',
+            content: { 'application/json': { schema: CatalogResponseSchema } }
           }
         }
       }),
       async (ctx) => {
-        const exerciseId = ctx.req.param('exerciseId')
         const { lang = 'en' } = ctx.req.valid('query')
-        const exercise = await this.exerciseService.getExerciseById({ exerciseId, lang })
-
-        return ctx.json({
-          success: true,
-          data: exercise
-        })
+        const data = await this.exerciseService.getBodyPartList(lang)
+        return ctx.json({ success: true as const, data })
       }
     )
 
     this.controller.openapi(
       createRoute({
         method: 'get',
-        path: '/bodyparts/{bodyPartName}/exercises',
+        path: '/exercises/targetList',
         tags: ['EXERCISES'],
-        summary: 'GetExercisesByBodyparts',
+        summary: 'Get all target muscles',
+        description: 'Returns the list of all target muscles. Supports ?lang=es for Spanish translations.',
+        operationId: 'getTargetList',
+        request: {
+          query: z.object({
+            lang: z.enum(['en', 'es']).optional().default('en').openapi({
+              title: 'Language',
+              description: 'Response language',
+              example: 'en'
+            })
+          })
+        },
+        responses: {
+          200: {
+            description: 'List of target muscles',
+            content: { 'application/json': { schema: CatalogResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { lang = 'en' } = ctx.req.valid('query')
+        const data = await this.exerciseService.getTargetList(lang)
+        return ctx.json({ success: true as const, data })
+      }
+    )
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/equipmentList',
+        tags: ['EXERCISES'],
+        summary: 'Get all equipment types',
+        description: 'Returns the list of all available equipment types. Supports ?lang=es for Spanish translations.',
+        operationId: 'getEquipmentList',
+        request: {
+          query: z.object({
+            lang: z.enum(['en', 'es']).optional().default('en').openapi({
+              title: 'Language',
+              description: 'Response language',
+              example: 'en'
+            })
+          })
+        },
+        responses: {
+          200: {
+            description: 'List of equipment types',
+            content: { 'application/json': { schema: CatalogResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { lang = 'en' } = ctx.req.valid('query')
+        const data = await this.exerciseService.getEquipmentList(lang)
+        return ctx.json({ success: true as const, data })
+      }
+    )
+
+    // ── Single exercise ────────────────────────────────────────────────────
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/exercise/{id}',
+        tags: ['EXERCISES'],
+        summary: 'Get exercise by ID',
         description:
-          'Retrieve exercises that target a specific body part. Path param is always English. Supports ?lang=es for Spanish results.',
+          'Retrieve a single exercise by its 4-digit ID. Returns 404 if not found. Supports ?lang=es for Spanish results.',
+        operationId: 'getExerciseById',
+        request: {
+          params: z.object({
+            id: z.string().openapi({
+              title: 'Exercise ID',
+              description: '4-digit exercise ID',
+              example: '0001'
+            })
+          }),
+          query: z.object({
+            lang: z.enum(['en', 'es']).optional().default('en').openapi({
+              title: 'Language',
+              description: 'Response language',
+              example: 'en'
+            })
+          })
+        },
+        responses: {
+          200: {
+            description: 'Exercise details',
+            content: { 'application/json': { schema: SingleExerciseResponseSchema } }
+          },
+          404: { description: 'Exercise not found' }
+        }
+      }),
+      async (ctx) => {
+        const { id } = ctx.req.valid('param')
+        const { lang = 'en' } = ctx.req.valid('query')
+        const data = await this.exerciseService.getExerciseById({ id, lang })
+        return ctx.json({ success: true as const, data })
+      }
+    )
+
+    // ── Filter endpoints ───────────────────────────────────────────────────
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/bodyPart/{bodyPart}',
+        tags: ['EXERCISES'],
+        summary: 'Filter exercises by body part',
+        description:
+          'Retrieve exercises that target a specific body part (case-insensitive exact match). Path param is always English. Supports ?lang=es for Spanish results.',
         operationId: 'getExercisesByBodyPart',
         request: {
           params: z.object({
-            bodyPartName: z.string().openapi({
+            bodyPart: z.string().openapi({
               description: 'Body part name (case-insensitive, always English)',
-              type: 'string',
-              example: 'upper arms',
-              default: 'upper arms'
+              example: 'waist'
             })
           }),
           query: PaginationQuerySchema
         },
         responses: {
           200: {
-            description: 'Successful response with body part-specific exercises',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
+            description: 'Paginated list of exercises',
+            content: { 'application/json': { schema: ListResponseSchema } }
           }
         }
       }),
       async (ctx) => {
+        const { bodyPart } = ctx.req.valid('param')
         const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
-        const bodyPartName = ctx.req.param('bodyPartName')
         const { origin, pathname } = new URL(ctx.req.url)
 
-        const { totalExercises, currentPage, totalPages, exercises } =
-          await this.exerciseService.getExercisesByBodyPart({
-            offset,
-            limit,
-            bodyPart: bodyPartName,
-            lang
-          })
-
-        const langParam = lang !== 'en' ? `lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(
-          origin,
-          pathname,
-          currentPage,
-          totalPages,
-          limit,
-          langParam
-        )
-
-        return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
-        })
-      }
-    )
-    this.controller.openapi(
-      createRoute({
-        method: 'get',
-        path: '/equipments/{equipmentName}/exercises',
-        tags: ['EXERCISES'],
-        summary: 'GetExercisesByEquipment',
-        description:
-          'Retrieve exercises that use specific equipment. Path param is always English. Supports ?lang=es for Spanish results.',
-        operationId: 'getExercisesByEquipment',
-        request: {
-          params: z.object({
-            equipmentName: z.string().openapi({
-              description: 'Equipment name (case-insensitive, always English)',
-              type: 'string',
-              example: 'dumbbell',
-              default: 'dumbbell'
-            })
-          }),
-          query: PaginationQuerySchema
-        },
-        responses: {
-          200: {
-            description: 'Successful response with equipment-specific exercises',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
-          }
-        }
-      }),
-      async (ctx) => {
-        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
-        const equipmentName = ctx.req.param('equipmentName')
-        const { origin, pathname } = new URL(ctx.req.url)
-
-        const { totalExercises, currentPage, totalPages, exercises } =
-          await this.exerciseService.getExercisesByEquipment({
-            offset,
-            limit,
-            equipment: equipmentName,
-            lang
-          })
-
-        const langParam = lang !== 'en' ? `lang=${lang}` : ''
-        const { previousPage, nextPage } = this.buildPaginationUrls(
-          origin,
-          pathname,
-          currentPage,
-          totalPages,
-          limit,
-          langParam
-        )
-
-        return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
-        })
-      }
-    )
-
-    this.controller.openapi(
-      createRoute({
-        method: 'get',
-        path: '/muscles/{muscleName}/exercises',
-        tags: ['EXERCISES'],
-        summary: 'Get exercises by muscle',
-        description:
-          'Retrieve exercises that target a specific muscle, optionally including secondary muscle matches. Path param is always English. Supports ?lang=es for Spanish results.',
-        operationId: 'getExercisesByMuscle',
-        request: {
-          params: z.object({
-            muscleName: z.string().openapi({
-              description: 'Target muscle name (case-insensitive, always English)',
-              type: 'string',
-              example: 'abs',
-              default: 'abs'
-            })
-          }),
-          query: PaginationQuerySchema.extend({
-            includeSecondary: z.coerce.boolean().optional().openapi({
-              title: 'Include Secondary Muscles',
-              description: 'Whether to include exercises where this muscle is a secondary target',
-              type: 'boolean',
-              example: false,
-              default: false
-            })
-          })
-        },
-        responses: {
-          200: {
-            description: 'Successful response with the exercise details.',
-            content: {
-              'application/json': {
-                schema: ExerciseResponseSchema
-              }
-            }
-          },
-          500: {
-            description: 'Internal server error'
-          }
-        }
-      }),
-      async (ctx) => {
-        const { offset = 0, limit = 10, includeSecondary = false, lang = 'en' } = ctx.req.valid('query')
-        const muscleName = ctx.req.param('muscleName')
-        const { origin, pathname } = new URL(ctx.req.url)
-        const { totalExercises, currentPage, totalPages, exercises } = await this.exerciseService.getExercisesByMuscle({
+        const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getExercisesByBodyPart({
+          bodyPart,
           offset,
           limit,
-          muscle: muscleName,
-          includeSecondary,
           lang
         })
 
-        const langParam = lang !== 'en' ? `&lang=${lang}` : ''
+        const langParam = lang !== 'en' ? `lang=${lang}` : ''
         const { previousPage, nextPage } = this.buildPaginationUrls(
           origin,
           pathname,
           currentPage,
           totalPages,
           limit,
-          `includeSecondary=${includeSecondary}${langParam}`
+          langParam
         )
 
         return ctx.json({
-          success: true,
-          metadata: {
-            totalPages,
-            totalExercises,
-            currentPage,
-            previousPage,
-            nextPage
-          },
-          data: [...exercises]
+          success: true as const,
+          metadata: { totalItems, totalPages, currentPage, previousPage, nextPage },
+          data
+        })
+      }
+    )
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/target/{target}',
+        tags: ['EXERCISES'],
+        summary: 'Filter exercises by target muscle',
+        description:
+          'Retrieve exercises that target a specific muscle (case-insensitive exact match). Path param is always English. Supports ?lang=es for Spanish results.',
+        operationId: 'getExercisesByTarget',
+        request: {
+          params: z.object({
+            target: z.string().openapi({
+              description: 'Target muscle name (case-insensitive, always English)',
+              example: 'abs'
+            })
+          }),
+          query: PaginationQuerySchema
+        },
+        responses: {
+          200: {
+            description: 'Paginated list of exercises',
+            content: { 'application/json': { schema: ListResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { target } = ctx.req.valid('param')
+        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
+        const { origin, pathname } = new URL(ctx.req.url)
+
+        const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getExercisesByTarget({
+          target,
+          offset,
+          limit,
+          lang
+        })
+
+        const langParam = lang !== 'en' ? `lang=${lang}` : ''
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          langParam
+        )
+
+        return ctx.json({
+          success: true as const,
+          metadata: { totalItems, totalPages, currentPage, previousPage, nextPage },
+          data
+        })
+      }
+    )
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/equipment/{equipment}',
+        tags: ['EXERCISES'],
+        summary: 'Filter exercises by equipment',
+        description:
+          'Retrieve exercises that use specific equipment (case-insensitive exact match). Path param is always English. Supports ?lang=es for Spanish results.',
+        operationId: 'getExercisesByEquipment',
+        request: {
+          params: z.object({
+            equipment: z.string().openapi({
+              description: 'Equipment name (case-insensitive, always English)',
+              example: 'dumbbell'
+            })
+          }),
+          query: PaginationQuerySchema
+        },
+        responses: {
+          200: {
+            description: 'Paginated list of exercises',
+            content: { 'application/json': { schema: ListResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { equipment } = ctx.req.valid('param')
+        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
+        const { origin, pathname } = new URL(ctx.req.url)
+
+        const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getExercisesByEquipment({
+          equipment,
+          offset,
+          limit,
+          lang
+        })
+
+        const langParam = lang !== 'en' ? `lang=${lang}` : ''
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          langParam
+        )
+
+        return ctx.json({
+          success: true as const,
+          metadata: { totalItems, totalPages, currentPage, previousPage, nextPage },
+          data
+        })
+      }
+    )
+
+    // ── Name search ────────────────────────────────────────────────────────
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises/name/{name}',
+        tags: ['EXERCISES'],
+        summary: 'Search exercises by name',
+        description:
+          'Fuzzy search exercises by name (Fuse.js, name field only). Path segment is URL-decoded before matching. Supports ?lang=es for Spanish results.',
+        operationId: 'searchExercisesByName',
+        request: {
+          params: z.object({
+            name: z.string().openapi({
+              description: 'Exercise name to search (fuzzy)',
+              example: 'sit-up'
+            })
+          }),
+          query: PaginationQuerySchema
+        },
+        responses: {
+          200: {
+            description: 'Paginated list of matching exercises',
+            content: { 'application/json': { schema: ListResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { name } = ctx.req.valid('param')
+        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
+        const { origin, pathname } = new URL(ctx.req.url)
+
+        const { data, totalItems, totalPages, currentPage } = await this.exerciseService.searchByName({
+          name,
+          offset,
+          limit,
+          lang
+        })
+
+        const langParam = lang !== 'en' ? `lang=${lang}` : ''
+        const nameParam = `name=${encodeURIComponent(name)}`
+        const extra = langParam ? `${nameParam}&${langParam}` : nameParam
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          extra
+        )
+
+        return ctx.json({
+          success: true as const,
+          metadata: { totalItems, totalPages, currentPage, previousPage, nextPage },
+          data
+        })
+      }
+    )
+
+    // ── All exercises (paginated) ──────────────────────────────────────────
+
+    this.controller.openapi(
+      createRoute({
+        method: 'get',
+        path: '/exercises',
+        tags: ['EXERCISES'],
+        summary: 'Get all exercises',
+        description: 'Retrieve all 1,324 exercises with pagination. Supports ?lang=es for Spanish results.',
+        operationId: 'getAllExercises',
+        request: {
+          query: PaginationQuerySchema
+        },
+        responses: {
+          200: {
+            description: 'Paginated list of exercises',
+            content: { 'application/json': { schema: ListResponseSchema } }
+          }
+        }
+      }),
+      async (ctx) => {
+        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
+        const { origin, pathname } = new URL(ctx.req.url)
+
+        const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getAllExercises({
+          offset,
+          limit,
+          lang
+        })
+
+        const langParam = lang !== 'en' ? `lang=${lang}` : ''
+        const { previousPage, nextPage } = this.buildPaginationUrls(
+          origin,
+          pathname,
+          currentPage,
+          totalPages,
+          limit,
+          langParam
+        )
+
+        return ctx.json({
+          success: true as const,
+          metadata: { totalItems, totalPages, currentPage, previousPage, nextPage },
+          data
         })
       }
     )

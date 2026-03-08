@@ -2,7 +2,7 @@ import { configDefaults, defineConfig } from 'vitest/config'
 
 export default defineConfig({
   test: {
-    include: ['src/**/*.spec.ts'],
+    include: ['src/**/*.spec.ts', 'scripts/**/*.spec.ts'],
     exclude: [...configDefaults.exclude],
     testTimeout: 30000,
     retry: 3,

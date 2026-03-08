@@ -1,1097 +1,1186 @@
 {
-  "P9GFBME": {
-    "name": "flexión con gateo de araña",
-    "instructions": [
-      "Paso:1 Comienza en posición de flexión con las manos ligeramente más anchas que el ancho de los hombros y los pies juntos.",
-      "Paso:2 Lleva tu rodilla derecha hacia tu codo derecho, manteniéndola sin tocar el suelo.",
-      "Paso:3 Mientras llevas tu rodilla derecha de vuelta, simultáneamente baja tu cuerpo hacia el suelo doblando los codos.",
-      "Paso:4 Empuja de vuelta a la posición inicial y repite con tu rodilla izquierda hacia tu codo izquierdo.",
-      "Paso:5 Continúa alternando lados durante el número deseado de repeticiones."
+  "0453": {
+    "name": "Ejercicio de barra EZ para tríceps",
+    "description": "Ejercicio de barra EZ para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de tríceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
+      "Contrae los tríceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "W6PxUkg": {
-    "name": "patada trasera con mancuerna",
-    "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y sostén una mancuerna en cada mano.",
-      "Paso:2 Dobla ligeramente las rodillas e inclínate hacia adelante en las caderas, manteniendo la espalda recta.",
-      "Paso:3 Lleva los brazos superiores cerca de los costados, con los codos doblados en un ángulo de 90 grados.",
-      "Paso:4 Extiende los brazos completamente hacia atrás, apretando los tríceps en la parte superior del movimiento.",
-      "Paso:5 Haz una pausa por un momento, luego baja lentamente las mancuernas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+  "0454": {
+    "name": "Ejercicio de barra EZ para bíceps",
+    "description": "Ejercicio de barra EZ para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "instructions": [
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "lHeUULr": {
-    "name": "peso muerto con piernas rígidas y espalda recta con banda",
+  "0455": {
+    "name": "Dedo curls",
+    "description": "Dedo curls es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de tus piernas superiores.",
-      "Paso:2 Sostén la banda con ambas manos frente a tus muslos, con las palmas mirando hacia tu cuerpo.",
-      "Paso:3 Manteniendo la espalda recta y las rodillas ligeramente dobladas, bisagra en las caderas y baja la banda hacia el suelo.",
-      "Paso:4 Siente el estiramiento en los isquiotibiales mientras bajas la banda.",
-      "Paso:5 Activa los glúteos e isquiotibiales para levantar tu cuerpo de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "S9zHIvU": {
-    "name": "remo para deltoides posterior con barra",
+  "0456": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y las rodillas ligeramente dobladas.",
-      "Paso:2 Sostén una barra con agarre pronado, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Inclínate hacia adelante en las caderas, manteniendo la espalda recta y el pecho arriba.",
-      "Paso:4 Tira de la barra hacia tu pecho, apretando los omóplatos.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente la barra a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "tnaj0mT": {
-    "name": "giro 360",
+  "0457": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y las rodillas ligeramente dobladas.",
-      "Paso:2 Mantén los brazos estirados frente a ti, paralelos al suelo.",
-      "Paso:3 Activa el core y balancea los brazos en un movimiento circular, rotando el torso al hacerlo.",
-      "Paso:4 Continúa el movimiento circular, balanceando los brazos y rotando el torso durante el número deseado de repeticiones.",
-      "Paso:5 Recuerda respirar durante todo el ejercicio."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "T2mxWqc": {
-    "name": "dominada supina",
+  "0458": {
+    "name": "Ejercicio de barra para pectorales",
+    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Cuélgate de una barra de dominadas con las palmas mirando hacia ti y las manos separadas al ancho de los hombros.",
-      "Paso:2 Activa el core y tira de tu cuerpo hacia arriba en dirección a la barra, liderando con el pecho.",
-      "Paso:3 Continúa tirando hasta que tu barbilla esté por encima de la barra.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente tu cuerpo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "gH5fRsC": {
-    "name": "elevación frontal alterna sentado con mancuernas",
+  "0459": {
+    "name": "Flutter patadas",
+    "description": "Flutter patadas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una banca con la espalda recta y los pies planos en el suelo.",
-      "Paso:2 Sostén una mancuerna en cada mano con las palmas mirando hacia tu cuerpo y los brazos extendidos a los lados.",
-      "Paso:3 Manteniendo los brazos rectos, eleva una mancuerna frente a ti hasta que esté paralela al suelo.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la mancuerna a la posición inicial.",
-      "Paso:5 Repite con el otro brazo.",
-      "Paso:6 Alterna entre brazos durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento."
     ]
   },
-  "AR0ig3o": {
-    "name": "abdominales con flexión de piernas (rodilla doblada)",
+  "0464": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Paso:3 Activando los abdominales, levanta lentamente la parte superior del cuerpo del suelo, enrollándote hacia adelante hasta que el torso esté en un ángulo de 45 grados.",
-      "Paso:4 Al mismo tiempo, levanta las piernas del suelo, doblando las rodillas y llevándolas hacia el pecho.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente la parte superior del cuerpo y las piernas a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "eXFXCY0": {
-    "name": "crunch en máquina sentado v. 2",
+  "0466": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en la máquina con la espalda contra la almohadilla y los pies asegurados bajo los soportes.",
-      "Paso:2 Coloca las manos en las asas o a los lados del asiento para apoyo.",
-      "Paso:3 Activa los abdominales y lentamente encoge hacia adelante, llevando el pecho hacia las rodillas.",
-      "Paso:4 Haz una pausa por un momento en la parte superior del movimiento, apretando los abdominales.",
-      "Paso:5 Regresa lentamente a la posición inicial, permitiendo que tu espalda se redondee ligeramente.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "s999Hdo": {
-    "name": "curl de bíceps sentado a un brazo con mancuerna en pelota de ejercicio",
+  "0467": {
+    "name": "Gorilla dominada",
+    "description": "Gorilla dominada es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de ejercicio con los pies planos en el suelo y la espalda recta.",
-      "Paso:2 Sostén una mancuerna en una mano con la palma hacia arriba y el brazo completamente extendido.",
-      "Paso:3 Manteniendo el brazo superior estacionario, curva la mancuerna hacia tu hombro contrayendo el bíceps.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la mancuerna a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia de brazo."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "wpbD28t": {
-    "name": "flexión lateral",
+  "0469": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado de lado con las piernas extendidas y apiladas una sobre otra.",
-      "Paso:2 Coloca la mano inferior en el suelo directamente debajo de tu hombro, con los dedos apuntando hacia adelante.",
-      "Paso:3 Empuja con la mano inferior para levantar tu cuerpo del suelo, manteniendo las piernas rectas y el core activado.",
-      "Paso:4 Extiende el brazo superior recto hacia el techo, creando una línea recta desde la cabeza hasta los talones.",
-      "Paso:5 Baja tu cuerpo de vuelta a la posición inicial con control.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "V4ryaZa": {
-    "name": "curl con barra EZ agarre cerrado",
+  "0471": {
+    "name": "Handstand flexión",
+    "description": "Handstand flexión es un ejercicio de fuerza de nivel avanzado que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate derecho con los pies separados al ancho de los hombros y sostén la barra EZ con agarre supino, las manos separadas al ancho de los hombros.",
-      "Paso:2 Mantén los codos cerca del torso y los brazos superiores estacionarios durante todo el movimiento.",
-      "Paso:3 Curva la barra hacia los hombros, contrayendo los bíceps.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de tríceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
+      "Contrae los tríceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "lCKm4Rs": {
-    "name": "elevación de piernas boca abajo en pelota de ejercicio",
+  "0472": {
+    "name": "elevación de piernas colgado",
+    "description": "elevación de piernas colgado es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca abajo en una colchoneta con las piernas extendidas y los dedos de los pies descansando sobre la pelota de estabilidad.",
-      "Paso:2 Coloca las manos en el suelo, separadas al ancho de los hombros, y activa los músculos del core.",
-      "Paso:3 Manteniendo las piernas rectas, levántalas lentamente del suelo, usando la espalda baja y los glúteos para elevarlas lo más alto posible.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "7w6i0vE": {
-    "name": "press alterno con kettlebell en el suelo",
+  "0473": {
+    "name": "Hanging pica",
+    "description": "Hanging pica es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado boca arriba en el suelo con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Sostén una kettlebell en cada mano, con las palmas mirando hacia tus pies y los brazos extendidos rectos hacia el techo.",
-      "Paso:3 Baja una kettlebell hacia tu hombro mientras mantienes la otra kettlebell extendida recta hacia arriba.",
-      "Paso:4 Empuja la kettlebell bajada de vuelta a la posición inicial mientras simultáneamente bajas la otra kettlebell hacia tu hombro.",
-      "Paso:5 Continúa alternando el movimiento de press con cada kettlebell durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "nnmCTLN": {
-    "name": "curl de pierna arrodillado en máquina",
+  "0474": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la máquina para que se adapte a tu cuerpo y selecciona el peso deseado.",
-      "Paso:2 Arrodíllate en la máquina mirando hacia abajo, con las rodillas descansando en la almohadilla y los pies asegurados bajo los soportes.",
-      "Paso:3 Agarra las asas o los lados de la máquina para estabilidad.",
-      "Paso:4 Manteniendo la parte superior del cuerpo estacionaria, exhala y curva las piernas hacia los glúteos flexionando las rodillas.",
-      "Paso:5 Haz una pausa por un momento en la parte superior del movimiento, apretando los isquiotibiales.",
-      "Paso:6 Inhala y baja lentamente las piernas a la posición inicial, extendiendo completamente las rodillas.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento."
     ]
   },
-  "yT9tk17": {
-    "name": "elevación de piernas con giro (femenino)",
+  "0475": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las piernas extendidas y los brazos a los lados.",
-      "Paso:2 Dobla las rodillas y levanta las piernas del suelo, llevándolas hacia el pecho.",
-      "Paso:3 Mientras levantas las piernas, gira las caderas hacia un lado, llevando las rodillas hacia el hombro opuesto.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas a la posición inicial.",
-      "Paso:5 Repite el movimiento, esta vez girando las caderas hacia el otro lado.",
-      "Paso:6 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "2Pya1cP": {
-    "name": "press declinado con cable",
+  "0476": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la máquina de cable a una posición declinada.",
-      "Paso:2 Siéntate en la banca declinada mirando hacia la máquina de cable.",
-      "Paso:3 Agarra las asas con agarre pronado y posiciónalas a nivel del pecho.",
-      "Paso:4 Mantén los pies planos en el suelo y la espalda firmemente contra la banca.",
-      "Paso:5 Exhala y empuja las asas lejos de tu cuerpo, extendiendo completamente los brazos.",
-      "Paso:6 Haz una pausa por un momento al final del movimiento, apretando los músculos del pecho.",
-      "Paso:7 Inhala y regresa lentamente las asas a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "UDlhcO8": {
-    "name": "remo vertical con barra",
+  "0484": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y sostén una barra con agarre pronado, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Deja que la barra cuelgue frente a tus muslos, con los brazos completamente extendidos.",
-      "Paso:3 Manteniendo la espalda recta y el core activado, exhala y levanta la barra recta hacia la barbilla, liderando con los codos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "n5cWCsI": {
-    "name": "elevación lateral a un brazo con mancuerna",
+  "0488": {
+    "name": "Ejercicio de para columna vertebral",
+    "description": "Ejercicio de para columna vertebral es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo una mancuerna en una mano con la palma mirando hacia tu cuerpo.",
-      "Paso:2 Mantén la espalda recta y el core activado durante todo el ejercicio.",
-      "Paso:3 Eleva la mancuerna hacia el lado, manteniendo el brazo recto y la palma mirando hacia abajo.",
-      "Paso:4 Continúa levantando hasta que tu brazo esté paralelo al suelo.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente la mancuerna a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "QfAKy1G": {
-    "name": "press cubano con mancuernas",
+  "0489": {
+    "name": "hiperextensión",
+    "description": "hiperextensión es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo una mancuerna en cada mano a la altura de los hombros con las palmas mirando hacia abajo.",
-      "Paso:2 Manteniendo el core activado y los codos ligeramente doblados, empuja las mancuernas hacia arriba y sobre la cabeza hasta que los brazos estén completamente extendidos.",
-      "Paso:3 Rota las muñecas para que las palmas miren hacia adelante.",
-      "Paso:4 Baja lentamente las mancuernas a la posición inicial, rotando las muñecas de vuelta a la posición inicial mientras lo haces.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "11wrviz": {
-    "name": "limpiaparabrisas isométrico",
+  "0490": {
+    "name": "Ejercicio de para tríceps",
+    "description": "Ejercicio de para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado boca arriba sobre una colchoneta o banca.",
-      "Paso:2 Extiende los brazos rectos a los lados, perpendiculares a tu cuerpo.",
-      "Paso:3 Activa el core y levanta ambas piernas del suelo, manteniéndolas juntas y rectas.",
-      "Paso:4 Baja lentamente las piernas hacia un lado, intentando tocar el suelo con los pies mientras mantienes el control.",
-      "Paso:5 Haz una pausa por un momento, luego usa el core para levantar las piernas de vuelta a la posición inicial.",
-      "Paso:6 Repite el movimiento, esta vez bajando las piernas hacia el lado opuesto.",
-      "Paso:7 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de tríceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
+      "Contrae los tríceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "B3Rxp6L": {
-    "name": "press inclinado con mancuernas",
+  "0491": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados.",
-      "Paso:2 Siéntate en la banca con la espalda contra la almohadilla y los pies planos en el suelo.",
-      "Paso:3 Sostén una mancuerna en cada mano con agarre pronado, palmas mirando hacia adelante.",
-      "Paso:4 Comienza con los brazos completamente extendidos, perpendiculares al suelo.",
-      "Paso:5 Baja lentamente las mancuernas a los lados del pecho, manteniendo los codos en un ángulo de 90 grados.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior, luego empuja las mancuernas de vuelta a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "faHKVkK": {
-    "name": "curl de bíceps de pie con agarre amplio con barra",
+  "0492": {
+    "name": "Ejercicio de para pectorales",
+    "description": "Ejercicio de para pectorales es un ejercicio de pliometría de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y sostén una barra con agarre supino, las manos más anchas que el ancho de los hombros.",
-      "Paso:2 Mantén la espalda recta y los codos cerca del torso.",
-      "Paso:3 Exhala y curva la barra hacia los hombros, manteniendo los brazos superiores estacionarios.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, apretando los bíceps.",
-      "Paso:5 Inhala y baja lentamente la barra a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "oR7O9LW": {
-    "name": "sentadilla con barra (de rodillas)",
+  "0493": {
+    "name": "Inclinado flexión",
+    "description": "Inclinado flexión es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza arrodillado en el suelo con las rodillas separadas al ancho de las caderas y los dedos de los pies apuntando hacia adelante.",
-      "Paso:2 Coloca una barra sobre los hombros, agarrándola con agarre pronado y las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:3 Activa el core y mantén el pecho arriba mientras bajas lentamente tu cuerpo doblando las rodillas, manteniendo la espalda recta.",
-      "Paso:4 Continúa bajando hasta que los muslos estén paralelos al suelo, o tan bajo como puedas ir cómodamente.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior, luego empuja a través de los talones para volver a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "SJAA2IQ": {
-    "name": "curl de muñeca con palmas hacia arriba con barra sobre banca",
+  "0494": {
+    "name": "Ejercicio de para pectorales",
+    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una banca con los pies planos en el suelo y sostén una barra con agarre supino, palmas hacia arriba.",
-      "Paso:2 Descansa los antebrazos en la banca, permitiendo que las muñecas cuelguen del borde.",
-      "Paso:3 Manteniendo los antebrazos estacionarios, exhala y curva las muñecas hacia arriba lo más posible.",
-      "Paso:4 Mantén la posición contraída por una breve pausa, luego inhala y baja lentamente la barra a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "nFUwqG6": {
-    "name": "remo para deltoides posterior en máquina Smith",
+  "0495": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y posiciónate en la máquina con el pecho contra la almohadilla y los pies planos en el suelo.",
-      "Paso:2 Agarra las asas con agarre pronado, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Mantén la espalda recta y el core activado mientras tiras de las asas hacia tu pecho, apretando los omóplatos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior del movimiento, luego suelta lentamente las asas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "s34Y4LR": {
-    "name": "giro sentado con peso (en pelota de estabilidad)",
+  "0496": {
+    "name": "Ejercicio de para isquiotibiales",
+    "description": "Ejercicio de para isquiotibiales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de estabilidad con los pies planos en el suelo y las rodillas dobladas en un ángulo de 90 grados.",
-      "Paso:2 Sostén un disco de peso o mancuerna con ambas manos cerca del pecho.",
-      "Paso:3 Activa el core y rota lentamente el torso hacia un lado, manteniendo las caderas estables.",
-      "Paso:4 Haz una pausa por un momento al final de la rotación, luego regresa lentamente a la posición inicial.",
-      "Paso:5 Repite la rotación hacia el otro lado.",
-      "Paso:6 Continúa alternando lados durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
+      "Contrae los isquiotibiales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "bZGHsAZ": {
-    "name": "remo invertido",
+  "0497": {
+    "name": "Ejercicio de para espalda alta",
+    "description": "Ejercicio de para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Configura una barra a la altura de la cintura o usa un entrenador de suspensión.",
-      "Paso:2 Párate frente a la barra o entrenador de suspensión, con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra la barra o asas con agarre pronado, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:4 Inclínate hacia atrás, manteniendo el cuerpo recto y los talones en el suelo.",
-      "Paso:5 Tira del pecho hacia la barra o asas, apretando los omóplatos.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, luego baja lentamente a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "vAwm6rK": {
-    "name": "press con cable en pelota de ejercicio",
+  "0498": {
+    "name": "Ejercicio de para espalda alta",
+    "description": "Ejercicio de para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de ejercicio con los pies planos en el suelo y las rodillas en un ángulo de 90 grados.",
-      "Paso:2 Sostén las asas del cable a la altura del pecho con las palmas mirando hacia abajo y los codos doblados.",
-      "Paso:3 Activa el core y empuja las asas del cable hacia adelante hasta que los brazos estén completamente extendidos.",
-      "Paso:4 Haz una pausa por un momento, luego suelta lentamente la tensión y lleva las asas del cable a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "OTgkHwR": {
-    "name": "extensión de tríceps declinado con mancuernas",
+  "0499": {
+    "name": "Invertido remo",
+    "description": "Invertido remo es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca declinada con la cabeza más baja que los pies y sostén una mancuerna en cada mano, palmas mirándose entre sí.",
-      "Paso:2 Extiende los brazos completamente, manteniendo los codos cerca de la cabeza.",
-      "Paso:3 Baja lentamente las mancuernas detrás de la cabeza, doblando los codos.",
-      "Paso:4 Haz una pausa por un momento, luego eleva las mancuernas de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "otqIxU4": {
-    "name": "curl de bíceps acostado con cable",
+  "0500": {
+    "name": "Isométrico wipers",
+    "description": "Isométrico wipers es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una barra recta a una máquina de polea baja.",
-      "Paso:2 Acuéstate boca arriba en una banca plana con los pies planos en el suelo.",
-      "Paso:3 Agarra la barra con agarre supino, las manos separadas al ancho de los hombros.",
-      "Paso:4 Extiende completamente los brazos, manteniendo los codos cerca de los costados.",
-      "Paso:5 Manteniendo los brazos superiores estacionarios, exhala y curva la barra hacia los hombros.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, apretando los bíceps.",
-      "Paso:7 Inhala y baja lentamente la barra a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "d960PgE": {
-    "name": "buenos días sentado con barra",
+  "0501": {
+    "name": "Ejercicio de para sistema cardiovascular",
+    "description": "Ejercicio de para sistema cardiovascular es un ejercicio de cardio de nivel avanzado que trabaja la zona de cardio, principalmente los sistema cardiovascular. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una banca con los pies planos en el suelo y una barra descansando en la parte superior de la espalda.",
-      "Paso:2 Mantén la espalda recta y el pecho arriba.",
-      "Paso:3 Lentamente bisagra hacia adelante en las caderas, bajando el torso hacia el suelo.",
-      "Paso:4 Haz una pausa por un momento en la parte inferior, luego empuja a través de los talones para volver a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de sistema cardiovascular.",
+      "Activa los músculos de cardio y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los sistema cardiovascular.",
+      "Contrae los sistema cardiovascular en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "GWoKnIm": {
-    "name": "sentadilla cosaca con peso (masculino)",
+  "0507": {
+    "name": "Jackknife abdominal",
+    "description": "Jackknife abdominal es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies más anchos que el ancho de los hombros y los dedos apuntando ligeramente hacia afuera.",
-      "Paso:2 Sostén un peso frente al pecho con ambas manos.",
-      "Paso:3 Cambia el peso hacia un lado y baja el cuerpo doblando la rodilla del lado hacia el que te desplazaste, mientras mantienes la otra pierna recta.",
-      "Paso:4 Baja tanto como puedas mientras mantienes el equilibrio y el pecho arriba.",
-      "Paso:5 Empuja a través del talón de la pierna doblada para volver a la posición inicial.",
-      "Paso:6 Repite del otro lado, alternando entre piernas."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento."
     ]
   },
-  "eOG0r6v": {
-    "name": "curl inverso con cable",
+  "0508": {
+    "name": "Janda abdominal",
+    "description": "Janda abdominal es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una barra recta a una máquina de polea baja.",
-      "Paso:2 Párate frente a la máquina con los pies separados al ancho de los hombros y las rodillas ligeramente dobladas.",
-      "Paso:3 Agarra la barra con agarre supino, las manos separadas al ancho de los hombros.",
-      "Paso:4 Mantén los codos cerca de los costados y los brazos superiores estacionarios durante todo el ejercicio.",
-      "Paso:5 Exhala y curva la barra hacia los hombros, contrayendo los bíceps.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, apretando los bíceps.",
-      "Paso:7 Inhala y baja lentamente la barra a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "dzz6BiV": {
-    "name": "sentadilla sumo en máquina Smith",
+  "0513": {
+    "name": "Ejercicio de para glúteos",
+    "description": "Ejercicio de para glúteos es un ejercicio de pliometría de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Configura la máquina Smith con la barra a la altura de las caderas.",
-      "Paso:2 Párate con los pies más anchos que el ancho de los hombros, con los dedos apuntando hacia afuera.",
-      "Paso:3 Posiciónate debajo de la barra, descansándola en la parte superior de la espalda y los hombros.",
-      "Paso:4 Activa el core y mantén el pecho arriba mientras bajas tu cuerpo a posición de sentadilla, empujando las caderas hacia atrás y doblando las rodillas.",
-      "Paso:5 Baja hasta que los muslos estén paralelos al suelo, o tan bajo como puedas ir cómodamente.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior, luego empuja a través de los talones para volver a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "U5INZY6": {
-    "name": "jalón a un brazo con cable",
+  "0514": {
+    "name": "sentadilla con salto",
+    "description": "sentadilla con salto es un ejercicio de pliometría de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un asa individual a una máquina de polea alta.",
-      "Paso:2 Párate frente a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:3 Agarra el asa con agarre pronado y extiende completamente el brazo.",
-      "Paso:4 Mantén la espalda recta y el core activado.",
-      "Paso:5 Tira del asa hacia abajo hacia tu costado manteniendo el codo cerca del cuerpo.",
-      "Paso:6 Haz una pausa por un momento en la parte inferior del movimiento, apretando el músculo dorsal.",
-      "Paso:7 Suelta lentamente el asa de vuelta a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones.",
-      "Paso:9 Cambia de lado y repite el ejercicio con el otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "ae9UoXQ": {
-    "name": "curl inclinado con mancuernas",
+  "0517": {
+    "name": "Ejercicio de pesa rusa para abdominales",
+    "description": "Ejercicio de pesa rusa para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados y siéntate con una mancuerna en cada mano, palmas mirando hacia adelante.",
-      "Paso:2 Descansa los brazos superiores en la banca inclinada y deja que los codos cuelguen, extendiendo completamente los brazos.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, exhala y curva las pesas mientras contraes los bíceps.",
-      "Paso:4 Continúa levantando las mancuernas hasta que los bíceps estén completamente contraídos y las mancuernas estén a nivel de los hombros.",
-      "Paso:5 Mantén la posición contraída por una breve pausa mientras aprietas los bíceps.",
-      "Paso:6 Inhala y comienza a bajar lentamente las mancuernas a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica.",
+      "Respira de manera constante durante la ejecución del ejercicio."
     ]
   },
-  "y5U5B9Y": {
-    "name": "curl Zottman en banco predicador con mancuernas",
+  "0518": {
+    "name": "Ejercicio de pesa rusa para antebrazos",
+    "description": "Ejercicio de pesa rusa para antebrazos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco predicador con una mancuerna en cada mano, palmas hacia arriba y codos descansando sobre la almohadilla.",
-      "Paso:2 Curva las mancuernas hacia los hombros, manteniendo los brazos superiores estacionarios y las palmas hacia arriba.",
-      "Paso:3 En la parte superior del curl, rota las muñecas para que las palmas miren hacia abajo.",
-      "Paso:4 Baja lentamente las mancuernas a la posición inicial, rotando las muñecas de vuelta a la posición inicial mientras lo haces.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
+      "Activa los músculos de antebrazos y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
+      "Contrae los antebrazos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "VedGSby": {
-    "name": "curl de isquiotibiales asistido boca abajo",
+  "0519": {
+    "name": "Ejercicio de pesa rusa para pectorales",
+    "description": "Ejercicio de pesa rusa para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca abajo en una colchoneta o banca con las piernas completamente extendidas.",
-      "Paso:2 Pide a un compañero o usa una banda de resistencia para asegurar tus tobillos.",
-      "Paso:3 Activa los isquiotibiales y levanta las piernas hacia los glúteos, manteniendo las rodillas rectas.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las piernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "pQ0Mx1Z": {
-    "name": "bandera",
+  "0520": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza agarrando un poste vertical con ambas manos, palmas mirándose entre sí, y los brazos completamente extendidos.",
-      "Paso:2 Activa el core y levanta las piernas del suelo, manteniéndolas rectas.",
-      "Paso:3 Usando la fuerza del core y la parte superior del cuerpo, eleva las piernas hasta que estén paralelas al suelo.",
-      "Paso:4 Mantén esta posición el mayor tiempo posible, manteniendo una línea corporal recta.",
-      "Paso:5 Baja lentamente las piernas de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "AX1kB0o": {
-    "name": "elevación de cadera con giro",
+  "0521": {
+    "name": "Ejercicio de pesa rusa para espalda alta",
+    "description": "Ejercicio de pesa rusa para espalda alta es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Coloca las manos a los lados para apoyo.",
-      "Paso:3 Activa los glúteos y levanta las caderas del suelo, formando una línea recta desde las rodillas hasta los hombros.",
-      "Paso:4 Mientras mantienes las caderas elevadas, gira la parte inferior del cuerpo hacia el lado derecho, llevando las rodillas hacia el suelo.",
-      "Paso:5 Regresa a la posición inicial y repite el giro hacia el lado izquierdo.",
-      "Paso:6 Continúa alternando giros durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "1xHyxys": {
-    "name": "extensión de tríceps sobre la cabeza con cable de polea alta",
+  "0522": {
+    "name": "Ejercicio de pesa rusa para espalda alta",
+    "description": "Ejercicio de pesa rusa para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una cuerda a una polea alta y párate de espaldas a la máquina.",
-      "Paso:2 Agarra la cuerda con ambas manos y extiende los brazos sobre la cabeza.",
-      "Paso:3 Mantén los codos cerca de la cabeza y los brazos superiores estacionarios.",
-      "Paso:4 Baja lentamente la cuerda detrás de la cabeza doblando los codos.",
-      "Paso:5 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "OVIKwsd": {
-    "name": "extensión de tríceps inclinado con mancuernas",
+  "0523": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una banca inclinada con una mancuerna en cada mano, palmas mirándose entre sí.",
-      "Paso:2 Extiende completamente los brazos sobre la cabeza, manteniendo los codos cerca de la cabeza.",
-      "Paso:3 Baja las mancuernas detrás de la cabeza doblando los codos, manteniendo los brazos superiores estacionarios.",
-      "Paso:4 Haz una pausa por un momento, luego eleva las mancuernas de vuelta a la posición inicial extendiendo los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento."
     ]
   },
-  "YwnI4ja": {
-    "name": "curl interno de pie con cable",
+  "0524": {
+    "name": "Ejercicio de pesa rusa para abdominales",
+    "description": "Ejercicio de pesa rusa para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate frente a una máquina de cable con los pies separados al ancho de los hombros.",
-      "Paso:2 Agarra el asa del cable con agarre supino, palmas hacia arriba.",
-      "Paso:3 Mantén los codos cerca de los costados y los brazos superiores estacionarios.",
-      "Paso:4 Exhala y curva el asa del cable hacia los hombros, contrayendo los bíceps.",
-      "Paso:5 Haz una pausa por un momento en la parte superior del movimiento, apretando los bíceps.",
-      "Paso:6 Inhala y baja lentamente el asa del cable a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "rseLfH3": {
-    "name": "press de rango extendido a un brazo con kettlebell en el suelo",
+  "0525": {
+    "name": "Ejercicio de pesa rusa para bíceps",
+    "description": "Ejercicio de pesa rusa para bíceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado boca arriba en el suelo con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Sostén una kettlebell en una mano, con la palma mirando hacia tus pies.",
-      "Paso:3 Extiende el brazo recto hacia el techo, manteniendo el codo bloqueado y la muñeca recta.",
-      "Paso:4 Baja lentamente la kettlebell de vuelta a la posición inicial, manteniendo el control durante todo el movimiento.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "W31mMjd": {
-    "name": "sentadilla lateral con barra",
+  "0526": {
+    "name": "Ejercicio de pesa rusa para bíceps",
+    "description": "Ejercicio de pesa rusa para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies más anchos que el ancho de los hombros, con los dedos apuntando ligeramente hacia afuera.",
-      "Paso:2 Sostén una barra sobre la parte superior de la espalda, descansándola en los trapecios.",
-      "Paso:3 Activa el core y mantén el pecho arriba mientras bajas tu cuerpo a posición de sentadilla, doblando las rodillas y las caderas.",
-      "Paso:4 Mientras bajas, empuja las rodillas hacia afuera y mantén el peso en los talones.",
-      "Paso:5 Baja hasta que los muslos estén paralelos al suelo, luego empuja a través de los talones para volver a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "jFtipLl": {
-    "name": "sentadilla en máquina Smith",
+  "0527": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Configura la máquina Smith con la barra a una altura apropiada para tu sentadilla.",
-      "Paso:2 Párate con los pies separados al ancho de los hombros, con los dedos ligeramente hacia afuera.",
-      "Paso:3 Posiciónate debajo de la barra, descansándola en los trapecios superiores y los hombros.",
-      "Paso:4 Agarra la barra con un agarre amplio, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:5 Activa el core y saca la barra del rack, dando un paso atrás para liberar el rack.",
-      "Paso:6 Manteniendo el pecho arriba y la espalda recta, inicia la sentadilla doblando las caderas y las rodillas.",
-      "Paso:7 Baja tu cuerpo hasta que los muslos estén paralelos al suelo o ligeramente por debajo.",
-      "Paso:8 Haz una pausa por un momento en la parte inferior, luego empuja a través de los talones para volver a la posición inicial.",
-      "Paso:9 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "PrQbjvB": {
-    "name": "flexión con carrera",
+  "0528": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza en posición de flexión con las manos separadas al ancho de los hombros y el cuerpo en línea recta.",
-      "Paso:2 Baja el pecho hacia el suelo doblando los codos, manteniendo el cuerpo recto.",
-      "Paso:3 Empuja a través de las manos para extender los brazos y volver a la posición inicial.",
-      "Paso:4 Rápidamente lleva una rodilla hacia el pecho, luego cambia rápidamente y lleva la otra rodilla hacia el pecho.",
-      "Paso:5 Continúa alternando rodillas lo más rápido posible mientras mantienes buena forma.",
-      "Paso:6 Continúa durante la duración deseada o número de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "LLNh6q5": {
-    "name": "apertura inclinada a un brazo con mancuerna en pelota de ejercicio",
+  "0529": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de ejercicio con una mancuerna en una mano.",
-      "Paso:2 Camina con los pies hacia adelante y rueda tu cuerpo hacia abajo hasta que la cabeza, cuello y parte superior de la espalda estén apoyados en la pelota.",
-      "Paso:3 Sostén la mancuerna con el brazo extendido recto sobre el pecho, con la palma mirando hacia adentro.",
-      "Paso:4 Baja lentamente la mancuerna hacia el lado, manteniendo una ligera flexión en el codo.",
-      "Paso:5 Haz una pausa por un momento cuando el brazo esté paralelo al suelo.",
-      "Paso:6 Activa los músculos del pecho para llevar la mancuerna de vuelta a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de brazo."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "yCvYdi7": {
-    "name": "press militar a un brazo con kettlebell hacia el lado",
+  "0530": {
+    "name": "Ejercicio de pesa rusa para abdominales",
+    "description": "Ejercicio de pesa rusa para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo una kettlebell en una mano a la altura del hombro.",
-      "Paso:2 Activa el core y mantén la espalda recta.",
-      "Paso:3 Empuja la kettlebell sobre la cabeza, extendiendo completamente el brazo.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la kettlebell a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "uTv34oq": {
-    "name": "remo de pie con peso corporal (con toalla)",
+  "0531": {
+    "name": "Ejercicio de pesa rusa para pectorales",
+    "description": "Ejercicio de pesa rusa para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y sostén una toalla frente a ti con ambas manos.",
-      "Paso:2 Dobla ligeramente las rodillas e inclínate hacia adelante en las caderas, manteniendo la espalda recta.",
-      "Paso:3 Tira de la toalla hacia tu pecho, apretando los omóplatos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego suelta lentamente la tensión y regresa a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "X6ytgYZ": {
-    "name": "plancha lateral con apertura posterior con mancuerna",
+  "0532": {
+    "name": "Ejercicio de pesa rusa para abdominales",
+    "description": "Ejercicio de pesa rusa para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado de lado con las piernas extendidas y apiladas una sobre otra.",
-      "Paso:2 Coloca el antebrazo en el suelo directamente debajo del hombro, manteniendo el codo doblado en un ángulo de 90 grados.",
-      "Paso:3 Sostén una mancuerna en la mano superior, con el brazo extendido recto hacia el suelo.",
-      "Paso:4 Activa el core y levanta las caderas del suelo, creando una línea recta desde la cabeza hasta los talones.",
-      "Paso:5 Mientras mantienes la posición de plancha lateral, levanta la mancuerna hacia el techo, apretando los omóplatos.",
-      "Paso:6 Baja la mancuerna de vuelta a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "w4dLzSx": {
-    "name": "apertura de pecho declinada a un brazo con cable",
+  "0533": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta un asa en D a una máquina de polea baja y ajusta la banca a un ángulo declinado.",
-      "Paso:2 Acuéstate en la banca con la cabeza hacia la máquina y agarra el asa con la mano derecha.",
-      "Paso:3 Extiende el brazo recto hacia arriba sobre el pecho, manteniendo una ligera flexión en el codo.",
-      "Paso:4 Con un movimiento controlado, baja el brazo hacia el lado hasta que la mano esté alineada con el hombro.",
-      "Paso:5 Haz una pausa por un momento, luego invierte el movimiento y lleva el brazo de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia al brazo izquierdo y repite el ejercicio."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "Hx1WC8I": {
-    "name": "extensión de tríceps inclinada con cable",
+  "0534": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la máquina de cable a una posición de polea baja.",
-      "Paso:2 Conecta una barra recta al cable.",
-      "Paso:3 Párate de espaldas a la máquina con los pies separados al ancho de los hombros.",
-      "Paso:4 Agarra la barra con agarre pronado y extiende los brazos rectos sobre la cabeza.",
-      "Paso:5 Inclínate ligeramente hacia adelante, manteniendo la espalda recta y el core activado.",
-      "Paso:6 Dobla los codos y baja la barra detrás de la cabeza, manteniendo los brazos superiores cerca de las orejas.",
-      "Paso:7 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "BCGQ6J5": {
-    "name": "curl con agarre cerrado con cable",
+  "0535": {
+    "name": "Ejercicio de pesa rusa para isquiotibiales",
+    "description": "Ejercicio de pesa rusa para isquiotibiales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Conecta una barra recta a una máquina de polea baja.",
-      "Paso:2 Párate frente a la máquina con los pies separados al ancho de los hombros y las rodillas ligeramente dobladas.",
-      "Paso:3 Agarra la barra con agarre supino, las manos separadas al ancho de los hombros.",
-      "Paso:4 Mantén los codos cerca de los costados y los brazos superiores estacionarios durante todo el ejercicio.",
-      "Paso:5 Exhala y curva la barra hacia los hombros, contrayendo los bíceps.",
-      "Paso:6 Haz una pausa por un momento en la parte superior del movimiento, apretando los bíceps.",
-      "Paso:7 Inhala y baja lentamente la barra a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:8 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
+      "Contrae los isquiotibiales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "GKEH6jj": {
-    "name": "press inclinado a un brazo con cable",
+  "0536": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la máquina de cable a una posición de polea baja.",
-      "Paso:2 Siéntate en una banca inclinada de espaldas a la máquina de cable.",
-      "Paso:3 Agarra el asa con una mano y llévala a la altura del hombro.",
-      "Paso:4 Posiciona los pies firmemente en el suelo y mantén una posición estable.",
-      "Paso:5 Empuja el asa hacia adelante y arriba, extendiendo completamente el brazo.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, luego baja lentamente el asa a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "dG5Smob": {
-    "name": "tirón de arranque",
+  "0537": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y la barra en el suelo frente a ti.",
-      "Paso:2 Dobla las rodillas y bisagra en las caderas para bajar a posición de sentadilla, agarrando la barra con agarre pronado.",
-      "Paso:3 Mantén la espalda recta y el pecho arriba mientras empujas a través de los talones para levantar la barra del suelo, extendiendo caderas y rodillas.",
-      "Paso:4 Cuando la barra llegue al nivel de las caderas, tira explosivamente hacia arriba, encogiendo los hombros y tirando los codos alto y hacia los lados.",
-      "Paso:5 Cuando la barra alcance su punto más alto, rápidamente colócate debajo de ella, tirándote hacia una posición de sentadilla profunda.",
-      "Paso:6 Atrapa la barra sobre la cabeza con los brazos completamente extendidos y las rodillas dobladas.",
-      "Paso:7 Levántate extendiendo caderas y rodillas, manteniendo la barra sobre la cabeza.",
-      "Paso:8 Baja la barra de vuelta a la posición inicial invirtiendo el movimiento.",
-      "Paso:9 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "4ievMJ9": {
-    "name": "extensión de tríceps sentado inclinado con mancuernas",
+  "0538": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una banca con los pies planos en el suelo y sostén una mancuerna en cada mano.",
-      "Paso:2 Inclínate hacia adelante en la cintura, manteniendo la espalda recta y la cabeza arriba.",
-      "Paso:3 Extiende los brazos rectos hacia atrás, manteniendo los codos cerca de la cabeza.",
-      "Paso:4 Haz una pausa por un momento, luego baja lentamente las mancuernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "aXcUyKb": {
-    "name": "arranque a un brazo con kettlebell",
+  "0539": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo una kettlebell en una mano entre las piernas.",
-      "Paso:2 Dobla ligeramente las rodillas y bisagra en las caderas, bajando la kettlebell hacia el suelo.",
-      "Paso:3 Extiende explosivamente las caderas y rodillas, usando el impulso para balancear la kettlebell hacia el hombro.",
-      "Paso:4 Cuando la kettlebell alcance la altura del hombro, rota la mano y empújala recta hacia arriba sobre la cabeza, extendiendo completamente el brazo.",
-      "Paso:5 Baja la kettlebell de vuelta entre las piernas y repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Bg5JKSH": {
-    "name": "press inclinado a un brazo con mancuerna en pelota de ejercicio",
+  "0540": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de ejercicio con una mancuerna en una mano, los pies planos en el suelo.",
-      "Paso:2 Lentamente camina con los pies hacia adelante, rodando la pelota hasta que la cabeza, cuello y parte superior de la espalda estén apoyados en la pelota.",
-      "Paso:3 Sostén la mancuerna a la altura del hombro con la palma mirando hacia adelante.",
-      "Paso:4 Empuja la mancuerna hacia arriba hasta que el brazo esté completamente extendido.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente la mancuerna a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "mExgrF9": {
-    "name": "dominadas en banca",
+  "0541": {
+    "name": "Ejercicio de pesa rusa para espalda alta",
+    "description": "Ejercicio de pesa rusa para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Posiciónate debajo de una barra o superficie horizontal firme que esté a la altura del pecho.",
-      "Paso:2 Agarra la barra o superficie con agarre pronado, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Cuélgate con los brazos completamente extendidos y el cuerpo recto.",
-      "Paso:4 Tira del pecho hacia la barra o superficie apretando los omóplatos y doblando los codos.",
-      "Paso:5 Continúa tirando hasta que la barbilla esté por encima de la barra o superficie.",
-      "Paso:6 Baja de vuelta a la posición inicial con control.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "gEyURal": {
-    "name": "peso muerto a una pierna con barra",
+  "0542": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de las caderas, sosteniendo una barra frente a los muslos con agarre pronado.",
-      "Paso:2 Cambia el peso a tu pie izquierdo y levanta ligeramente el pie derecho del suelo.",
-      "Paso:3 Bisagra hacia adelante en las caderas, manteniendo la espalda recta y la pierna derecha extendida detrás de ti para equilibrio.",
-      "Paso:4 Baja la barra hacia el suelo, manteniéndola cerca del cuerpo y la pierna izquierda ligeramente doblada.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior, luego activa los glúteos e isquiotibiales para levantar el torso de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "aWedzZX": {
-    "name": "puente de glúteos con dos piernas en banca (masculino)",
+  "0543": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en el borde de una banca con la espalda contra ella y los pies planos en el suelo.",
-      "Paso:2 Coloca las manos en la banca junto a las caderas para apoyo.",
-      "Paso:3 Activa los glúteos e isquiotibiales, luego levanta las caderas de la banca hasta que tu cuerpo forme una línea recta desde las rodillas hasta los hombros.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las caderas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "7Ba7bQ2": {
-    "name": "clean a dos brazos con kettlebell",
+  "0544": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo una kettlebell frente a los muslos con ambas manos, palmas mirando hacia ti.",
-      "Paso:2 Dobla ligeramente las rodillas y bisagra en las caderas, bajando la kettlebell hacia el suelo.",
-      "Paso:3 Extiende explosivamente las caderas y rodillas, usando el impulso para tirar la kettlebell hacia los hombros.",
-      "Paso:4 Cuando la kettlebell alcance la altura de los hombros, rota las muñecas y atrapa la kettlebell en posición de rack, con los codos pegados y la kettlebell descansando en la parte posterior del antebrazo.",
-      "Paso:5 Baja la kettlebell de vuelta a la posición inicial y repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "JsKq9so": {
-    "name": "press de banca amplio con barra",
+  "0545": {
+    "name": "Ejercicio de pesa rusa para pectorales",
+    "description": "Ejercicio de pesa rusa para pectorales es un ejercicio de pliometría de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca con los pies planos en el suelo y la espalda presionada contra la banca.",
-      "Paso:2 Agarra la barra con un agarre amplio, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Levanta la barra del rack y sostenla directamente sobre el pecho con los brazos completamente extendidos.",
-      "Paso:4 Baja lentamente la barra hacia el pecho, manteniendo los codos ligeramente abiertos.",
-      "Paso:5 Haz una pausa por un momento cuando la barra toque el pecho, luego empújala de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "53Ttlck": {
-    "name": "elevación lateral posterior acostado con mancuernas",
+  "0546": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca abajo en una banca plana con una mancuerna en cada mano, palmas mirándose entre sí.",
-      "Paso:2 Extiende los brazos rectos hacia el suelo, manteniendo una ligera flexión en los codos.",
-      "Paso:3 Activando los músculos del hombro, levanta los brazos hacia los lados hasta que estén paralelos al suelo.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "xXm4nYq": {
-    "name": "apertura declinada con mancuernas",
+  "0547": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca declinada con los pies asegurados y la cabeza más baja que las caderas.",
-      "Paso:2 Sostén una mancuerna en cada mano con las palmas mirándose entre sí y los brazos extendidos sobre el pecho.",
-      "Paso:3 Baja las mancuernas hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
-      "Paso:4 Haz una pausa por un momento, luego aprieta los músculos del pecho para llevar las mancuernas de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "gscGLOU": {
-    "name": "curl de bíceps acostado de lado con peso corporal",
+  "0548": {
+    "name": "Ejercicio de pesa rusa para trapecios",
+    "description": "Ejercicio de pesa rusa para trapecios es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los trapecios. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate de lado con las piernas extendidas y la cabeza apoyada en el brazo.",
-      "Paso:2 Mantén el brazo superior contra el costado y dobla el codo para curvar el antebrazo hacia el hombro.",
-      "Paso:3 Haz una pausa por un momento en la parte superior, luego baja lentamente el antebrazo a la posición inicial.",
-      "Paso:4 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de trapecios.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los trapecios.",
+      "Contrae los trapecios en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "5WiFcYk": {
-    "name": "estocada con balanceo de peso",
+  "0549": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, sosteniendo un peso en cada mano.",
-      "Paso:2 Da un paso adelante con el pie derecho, bajando el cuerpo a posición de estocada.",
-      "Paso:3 Mientras avanzas en la estocada, balancea los pesos hacia adelante y arriba, manteniendo los brazos rectos.",
-      "Paso:4 Empuja con el pie derecho y regresa a la posición inicial, balanceando los pesos hacia abajo.",
-      "Paso:5 Repite con el pie izquierdo y continúa alternando piernas durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "F7vjXqT": {
-    "name": "flexión inclinada (en caja)",
+  "0550": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Coloca las manos en el borde de una caja o superficie elevada, ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Extiende las piernas detrás de ti, descansando sobre las puntas de los pies, creando una línea recta desde la cabeza hasta los talones.",
-      "Paso:3 Baja el pecho hacia la caja doblando los codos, manteniendo el cuerpo en línea recta.",
-      "Paso:4 Haz una pausa por un momento en la parte inferior, luego empuja de vuelta a la posición inicial estirando los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "v3xmPAR": {
-    "name": "apertura sentado en máquina",
+  "0551": {
+    "name": "Ejercicio de pesa rusa para glúteos",
+    "description": "Ejercicio de pesa rusa para glúteos es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y posiciónate en la máquina con la espalda contra la almohadilla.",
-      "Paso:2 Agarra las asas con agarre pronado y mantén los codos ligeramente doblados.",
-      "Paso:3 Exhala y empuja las asas hacia adelante, juntándolas frente al pecho.",
-      "Paso:4 Haz una pausa por un momento, apretando los músculos del pecho.",
-      "Paso:5 Inhala y regresa lentamente a la posición inicial, permitiendo que los músculos del pecho se estiren.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica.",
+      "Respira de manera constante durante la ejecución del ejercicio."
     ]
   },
-  "yg8Totb": {
-    "name": "extensión de tríceps acostado detrás de la cabeza con barra",
+  "0552": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca con los pies planos en el suelo y la cabeza al final de la banca.",
-      "Paso:2 Sostén una barra con agarre pronado, las manos separadas al ancho de los hombros, y extiende los brazos rectos sobre el pecho.",
-      "Paso:3 Manteniendo los brazos superiores estacionarios, baja lentamente la barra detrás de la cabeza doblando los codos.",
-      "Paso:4 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Gxg9lDc": {
-    "name": "rodamiento con barra desde banca",
+  "0553": {
+    "name": "Ejercicio de pesa rusa para deltoides",
+    "description": "Ejercicio de pesa rusa para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza arrodillado en el suelo con una barra colocada en una banca frente a ti.",
-      "Paso:2 Agarra la barra con agarre pronado, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Manteniendo el core activado y la espalda recta, rueda lentamente la barra hacia adelante, extendiendo los brazos frente a ti.",
-      "Paso:4 Continúa rodando la barra hacia adelante hasta que tu cuerpo esté completamente extendido y los brazos estén sobre la cabeza.",
-      "Paso:5 Haz una pausa por un momento en la posición completamente extendida, luego rueda lentamente la barra de vuelta hacia tu cuerpo, regresando a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento."
     ]
   },
-  "eOCOwIR": {
-    "name": "press de codo acostado con mancuernas",
+  "0554": {
+    "name": "Ejercicio de pesa rusa para abdominales",
+    "description": "Ejercicio de pesa rusa para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca con una mancuerna en cada mano, palmas mirándose entre sí y brazos extendidos rectos sobre el pecho.",
-      "Paso:2 Baja las mancuernas hacia los hombros doblando los codos, manteniendo los brazos superiores estacionarios.",
-      "Paso:3 Haz una pausa por un momento en la parte inferior, luego empuja las mancuernas de vuelta a la posición inicial extendiendo los codos.",
-      "Paso:4 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "PG1kcIb": {
-    "name": "press martillo inclinado con mancuernas",
+  "0555": {
+    "name": "Ejercicio de para isquiotibiales",
+    "description": "Ejercicio de para isquiotibiales es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados y siéntate con una mancuerna en cada mano, descansando en los muslos.",
-      "Paso:2 Recuéstate en la banca y posiciona las mancuernas a nivel de los hombros con las palmas mirándose entre sí.",
-      "Paso:3 Empuja las mancuernas hacia arriba y lejos de tu cuerpo hasta que los brazos estén completamente extendidos.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente las mancuernas a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
+      "Contrae los isquiotibiales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "OYFhXVD": {
-    "name": "dominada posterior con agarre amplio",
+  "0558": {
+    "name": "Ejercicio de para dorsales",
+    "description": "Ejercicio de para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Agarra la barra de dominadas con agarre pronado amplio, las manos ligeramente más anchas que el ancho de los hombros.",
-      "Paso:2 Cuélgate de la barra con los brazos completamente extendidos y el cuerpo recto.",
-      "Paso:3 Activa los músculos de la espalda y tira de tu cuerpo hacia arriba en dirección a la barra, liderando con el pecho.",
-      "Paso:4 Continúa tirando hasta que la barbilla esté por encima de la barra.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente tu cuerpo a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "6e2DcYX": {
-    "name": "elevación de hombros inclinada con mancuernas",
+  "0562": {
+    "name": "Ejercicio de barra para abdominales",
+    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados y siéntate con una mancuerna en cada mano, palmas mirando hacia abajo.",
-      "Paso:2 Descansa las mancuernas en los muslos y recuéstate en la banca.",
-      "Paso:3 Usa los muslos para ayudar a elevar las mancuernas a la altura de los hombros, luego rota las muñecas para que las palmas miren hacia adelante.",
-      "Paso:4 Exhala y levanta lentamente las mancuernas sobre la cabeza, manteniendo una ligera flexión en los codos.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente las mancuernas a la altura de los hombros.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento."
     ]
   },
-  "gtO1ErP": {
-    "name": "fondos en tres bancas con peso",
+  "0570": {
+    "name": "Ejercicio de para abdominales",
+    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en el borde de una banca con las manos agarrando el borde, los dedos apuntando hacia adelante.",
-      "Paso:2 Camina con los pies hacia adelante, deslizando los glúteos fuera de la banca y soportando tu peso con los brazos.",
-      "Paso:3 Baja el cuerpo doblando los codos, manteniendo la espalda cerca de la banca.",
-      "Paso:4 Haz una pausa por un momento en la parte inferior, luego empuja de vuelta a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "Lt3iWnf": {
-    "name": "apertura con mancuernas en pelota de ejercicio",
+  "0571": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en una pelota de ejercicio y sostén una mancuerna en cada mano.",
-      "Paso:2 Camina con los pies hacia adelante y rueda tu cuerpo hacia abajo hasta que la cabeza, cuello y parte superior de la espalda estén apoyados en la pelota.",
-      "Paso:3 Extiende los brazos rectos sobre el pecho, palmas mirándose entre sí.",
-      "Paso:4 Dobla ligeramente los codos y baja los brazos hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
-      "Paso:5 Haz una pausa por un momento, luego invierte el movimiento y aprieta los músculos del pecho mientras llevas las mancuernas de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "8fgqP5a": {
-    "name": "curl de concentración de pie a un brazo con mancuerna",
+  "0572": {
+    "name": "Ejercicio de máquina para dorsales",
+    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate derecho con los pies separados al ancho de los hombros y sostén una mancuerna en una mano, palma hacia arriba.",
-      "Paso:2 Coloca la mano libre en el muslo para apoyo.",
-      "Paso:3 Manteniendo el brazo superior estacionario, exhala y curva la mancuerna hacia el hombro contrayendo el bíceps.",
-      "Paso:4 Continúa levantando la mancuerna hasta que el bíceps esté completamente contraído y la mancuerna esté a nivel del hombro.",
-      "Paso:5 Mantén la posición contraída por una breve pausa mientras aprietas el bíceps.",
-      "Paso:6 Inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones, luego cambia de brazo."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "kjJ3VoQ": {
-    "name": "crunch (manos sobre la cabeza)",
+  "0573": {
+    "name": "Ejercicio de máquina para columna vertebral",
+    "description": "Ejercicio de máquina para columna vertebral es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Extiende los brazos rectos sobre la cabeza.",
-      "Paso:3 Activando los abdominales, levanta la parte superior del cuerpo del suelo, enrollándote hacia las rodillas.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente la parte superior del cuerpo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
+      "Contrae los columna vertebral en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "y8bYM8w": {
-    "name": "sentadilla búlgara a una pierna con banda",
+  "0574": {
+    "name": "Ejercicio de barra para espalda alta",
+    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de las caderas y coloca una banda de resistencia alrededor de los tobillos.",
-      "Paso:2 Da un paso grande hacia adelante con el pie derecho y un paso más pequeño hacia atrás con el pie izquierdo.",
-      "Paso:3 Dobla las rodillas y baja el cuerpo hasta que el muslo derecho esté paralelo al suelo, manteniendo la rodilla izquierda ligeramente por encima del suelo.",
-      "Paso:4 Empuja a través del talón derecho para volver a la posición inicial.",
-      "Paso:5 Repite del otro lado."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "j74M6Zn": {
-    "name": "elevación de pantorrilla en pared con pelota de ejercicio (pelota de tenis entre rodillas)",
+  "0575": {
+    "name": "Ejercicio de máquina para bíceps",
+    "description": "Ejercicio de máquina para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con la espalda contra una pared y coloca una pelota de ejercicio entre la parte baja de la espalda y la pared.",
-      "Paso:2 Posiciona los pies separados al ancho de los hombros y ligeramente frente a ti.",
-      "Paso:3 Sostén una mancuerna en cada mano, con los brazos extendidos a los lados.",
-      "Paso:4 Coloca una pelota de tenis entre las rodillas.",
-      "Paso:5 Eleva los talones del suelo, levantando tu cuerpo sobre las puntas de los pies.",
-      "Paso:6 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "IMRsOCn": {
-    "name": "envión en sentadilla",
+  "0576": {
+    "name": "Ejercicio de máquina para pectorales",
+    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza con la barra descansando en los hombros, con los pies separados al ancho de los hombros.",
-      "Paso:2 Baja el cuerpo a posición de sentadilla, manteniendo el pecho arriba y las rodillas alineadas sobre los dedos de los pies.",
-      "Paso:3 Al llegar al fondo de la sentadilla, empuja explosivamente con las piernas y empuja la barra sobre la cabeza.",
-      "Paso:4 Cuando la barra alcance su punto más alto, rápidamente colócate en posición de split, con un pie adelante y otro atrás.",
-      "Paso:5 Atrapa la barra sobre la cabeza con los brazos completamente extendidos y la rodilla trasera ligeramente tocando el suelo.",
-      "Paso:6 Levántate de la posición de split, juntando los pies.",
-      "Paso:7 Baja la barra de vuelta a los hombros y repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "yq3GAJX": {
-    "name": "toque circular de dedos de los pies con manos cruzadas invertidas (masculino)",
+  "0577": {
+    "name": "Ejercicio de máquina para pectorales",
+    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y los brazos extendidos a los lados.",
-      "Paso:2 Inclínate hacia adelante en la cintura, manteniendo la espalda recta y las rodillas ligeramente dobladas.",
-      "Paso:3 Baja las manos y entrelázalas detrás de las piernas.",
-      "Paso:4 Levanta lentamente las manos hacia arriba y sobre la cabeza en un movimiento circular, manteniendo las piernas rectas.",
-      "Paso:5 Continúa el movimiento circular hasta que las manos toquen los dedos de los pies.",
-      "Paso:6 Invierte el movimiento y lleva las manos de vuelta a la posición inicial.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de pectorales.",
+      "Activa los músculos de pecho y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
+      "Contrae los pectorales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "HYe1ZqR": {
-    "name": "apertura inclinada con mancuernas en pelota de ejercicio",
+  "0578": {
+    "name": "Ejercicio de máquina para glúteos",
+    "description": "Ejercicio de máquina para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados.",
-      "Paso:2 Siéntate en una pelota de ejercicio y rueda hacia adelante hasta que la parte superior de la espalda descanse en la banca inclinada.",
-      "Paso:3 Sostén una mancuerna en cada mano con las palmas mirándose entre sí y los brazos extendidos sobre el pecho.",
-      "Paso:4 Baja las mancuernas hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
-      "Paso:5 Haz una pausa por un momento, luego aprieta los músculos del pecho para llevar las mancuernas de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de glúteos.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
+      "Contrae los glúteos en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "dB07vDu": {
-    "name": "elevación lateral inclinada a un brazo con cable",
+  "0579": {
+    "name": "Ejercicio de máquina para dorsales",
+    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros, frente a una máquina de cable.",
-      "Paso:2 Agarra el asa con una mano y da un paso atrás para crear tensión en el cable.",
-      "Paso:3 Inclínate hacia adelante en la cintura, manteniendo la espalda recta y el core activado.",
-      "Paso:4 Extiende el brazo hacia el lado, paralelo al suelo, con una ligera flexión en el codo.",
-      "Paso:5 Baja lentamente el brazo a la posición inicial, manteniendo el control durante todo el movimiento.",
-      "Paso:6 Repite el número deseado de repeticiones, luego cambia de lado."
+      "Prepárate en la posición inicial para el ejercicio de dorsales.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
+      "Contrae los dorsales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "pP8wP2P": {
-    "name": "press de banca con agarre neutro con mancuernas",
+  "0580": {
+    "name": "Ejercicio de máquina para trapecios",
+    "description": "Ejercicio de máquina para trapecios es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los trapecios. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca con los pies planos en el suelo y la espalda presionada contra la banca.",
-      "Paso:2 Sostén una mancuerna en cada mano con agarre neutro (palmas mirándose entre sí) y los brazos extendidos rectos sobre el pecho.",
-      "Paso:3 Baja lentamente las mancuernas hacia el pecho, manteniendo los codos cerca del cuerpo.",
-      "Paso:4 Haz una pausa por un momento en la parte inferior, luego empuja las mancuernas de vuelta a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de trapecios.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los trapecios.",
+      "Contrae los trapecios en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "wi2H9QX": {
-    "name": "press declinado con agarre amplio en máquina Smith",
+  "0581": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la banca declinada al ángulo deseado.",
-      "Paso:2 Acuéstate en la banca con los pies asegurados bajo los soportes.",
-      "Paso:3 Agarra la barra con un agarre amplio, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:4 Saca la barra del rack y bájala lentamente hacia el pecho, manteniendo los codos apuntando hacia afuera.",
-      "Paso:5 Haz una pausa por un momento cuando la barra toque el pecho.",
-      "Paso:6 Empuja la barra de vuelta a la posición inicial, extendiendo completamente los brazos.",
-      "Paso:7 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "G70mEAJ": {
-    "name": "dominadas (agarre paralelo estrecho)",
+  "0582": {
+    "name": "Ejercicio de máquina para isquiotibiales",
+    "description": "Ejercicio de máquina para isquiotibiales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Cuélgate de una barra de dominadas con agarre paralelo estrecho, palmas mirando hacia ti.",
-      "Paso:2 Activa los músculos de la espalda y tira de tu cuerpo hacia arriba en dirección a la barra, manteniendo los codos cerca del cuerpo.",
-      "Paso:3 Continúa tirando hasta que la barbilla esté por encima de la barra.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente tu cuerpo a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
+      "Contrae los isquiotibiales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "HJ63mSO": {
-    "name": "extensión de tríceps acostado con agarre cerrado con barra",
+  "0583": {
+    "name": "Ejercicio de máquina para abdominales",
+    "description": "Ejercicio de máquina para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca con los pies planos en el suelo y la cabeza al final de la banca.",
-      "Paso:2 Agarra la barra con agarre cerrado, las manos separadas al ancho de los hombros, palmas hacia arriba.",
-      "Paso:3 Extiende completamente los brazos, levantando la barra sobre el pecho.",
-      "Paso:4 Manteniendo los brazos superiores estacionarios, baja lentamente la barra hacia la frente doblando los codos.",
-      "Paso:5 Haz una pausa por un momento en la parte inferior, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de abdominales.",
+      "Activa los músculos de cintura y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
+      "Contrae los abdominales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "KHPZL0b": {
-    "name": "press de hombros alterno con cable",
+  "0584": {
+    "name": "Ejercicio de máquina para deltoides",
+    "description": "Ejercicio de máquina para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros y agarra las asas de la máquina de cable con agarre pronado.",
-      "Paso:2 Posiciona las manos a la altura de los hombros, con las palmas mirando hacia adelante.",
-      "Paso:3 Mantén el core activado y la espalda recta.",
-      "Paso:4 Empuja un asa hacia arriba y adelante hasta que el brazo esté completamente extendido.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente el asa a la posición inicial.",
-      "Paso:6 Repite con el otro brazo.",
-      "Paso:7 Alterna entre brazos durante el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "vYk8lqw": {
-    "name": "elevación lateral posterior inclinada con mancuernas",
+  "0585": {
+    "name": "Ejercicio de máquina para cuádriceps",
+    "description": "Ejercicio de máquina para cuádriceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta una banca inclinada a un ángulo de 45 grados.",
-      "Paso:2 Siéntate en la banca con el pecho contra el respaldo y sostén una mancuerna en cada mano.",
-      "Paso:3 Extiende los brazos rectos hacia abajo con las palmas mirándose entre sí.",
-      "Paso:4 Manteniendo una ligera flexión en los codos, levanta los brazos hacia los lados hasta que estén paralelos al suelo.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego baja lentamente los brazos a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
+      "Contrae los cuádriceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "RKjH6Lt": {
-    "name": "puente lateral v. 2",
+  "0586": {
+    "name": "Ejercicio de máquina para isquiotibiales",
+    "description": "Ejercicio de máquina para isquiotibiales es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate de lado con las piernas extendidas y apiladas una sobre otra.",
-      "Paso:2 Coloca el antebrazo en el suelo directamente debajo del hombro, con el codo doblado en un ángulo de 90 grados.",
-      "Paso:3 Activa el core y levanta las caderas del suelo, creando una línea recta desde la cabeza hasta los pies.",
-      "Paso:4 Mantén esta posición durante el tiempo deseado.",
-      "Paso:5 Baja las caderas de vuelta a la posición inicial.",
-      "Paso:6 Repite del otro lado."
+      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
+      "Activa los músculos de piernas superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
+      "Contrae los isquiotibiales en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "CQHoDm0": {
-    "name": "extensión de tríceps declinado con barra EZ",
+  "0587": {
+    "name": "Ejercicio de máquina para deltoides",
+    "description": "Ejercicio de máquina para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Acuéstate en una banca declinada con la cabeza más baja que los pies y los pies asegurados.",
-      "Paso:2 Sostén la barra EZ con agarre pronado, las manos separadas al ancho de los hombros.",
-      "Paso:3 Extiende completamente los brazos, manteniendo los codos cerca de la cabeza.",
-      "Paso:4 Baja lentamente la barra hacia la frente, doblando los codos.",
-      "Paso:5 Haz una pausa por un momento, luego extiende los brazos de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "6HmFgmx": {
-    "name": "elevación de pantorrilla de pie (en escalera)",
+  "0588": {
+    "name": "Ejercicio de máquina para espalda alta",
+    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate en el borde de un escalón o plataforma firme con los talones colgando y las puntas de los pies en el escalón.",
-      "Paso:2 Agárrate de un pasamanos o pared para mantener el equilibrio si es necesario.",
-      "Paso:3 Levanta lentamente los talones lo más alto posible, elevando el peso de tu cuerpo sobre las puntas de los pies.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, luego baja lentamente los talones a la posición inicial.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
+      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
     ]
   },
-  "vBNyir7": {
-    "name": "curl predicador con agarre inverso con barra EZ",
+  "0589": {
+    "name": "Ejercicio de barra para espalda alta",
+    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Siéntate en un banco predicador con el pecho contra la almohadilla y los pies planos en el suelo.",
-      "Paso:2 Agarra la barra EZ con agarre supino, las manos separadas al ancho de los hombros.",
-      "Paso:3 Descansa los brazos superiores en la almohadilla, permitiendo que los antebrazos cuelguen.",
-      "Paso:4 Manteniendo los brazos superiores estacionarios, exhala y curva la barra hacia los hombros.",
-      "Paso:5 Haz una pausa por un momento en la parte superior, luego inhala y baja lentamente la barra a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
+      "Activa los músculos de espalda y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
+      "Contrae los espalda alta en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   },
-  "FVM1AUZ": {
-    "name": "remo en T con agarre inverso en máquina",
+  "0590": {
+    "name": "Ejercicio de máquina para deltoides",
+    "description": "Ejercicio de máquina para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Ajusta la altura del asiento y posiciónate en la máquina con el pecho contra la almohadilla y los pies planos en el suelo.",
-      "Paso:2 Agarra las asas con agarre pronado, ligeramente más ancho que el ancho de los hombros.",
-      "Paso:3 Mantén la espalda recta y activa el core.",
-      "Paso:4 Tira de las asas hacia el pecho, apretando los omóplatos.",
-      "Paso:5 Haz una pausa por un momento en la parte superior del movimiento, luego suelta lentamente y extiende los brazos a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de deltoides.",
+      "Activa los músculos de hombros y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
+      "Contrae los deltoides en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control."
     ]
   },
-  "6FMU51h": {
-    "name": "salto de semi sentadilla (masculino)",
+  "0591": {
+    "name": "Ejercicio de máquina para tríceps",
+    "description": "Ejercicio de máquina para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Párate con los pies separados al ancho de los hombros.",
-      "Paso:2 Dobla las rodillas y baja el cuerpo a posición de sentadilla.",
-      "Paso:3 Salta explosivamente, extendiendo caderas y rodillas mientras balanceas los brazos para generar impulso.",
-      "Paso:4 Aterriza suavemente sobre las puntas de los pies e inmediatamente pasa a la siguiente repetición.",
-      "Paso:5 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de tríceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
+      "Contrae los tríceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica."
     ]
   },
-  "qKBpF7I": {
-    "name": "puente de glúteos con barra",
+  "0592": {
+    "name": "Ejercicio de máquina para bíceps",
+    "description": "Ejercicio de máquina para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
     "instructions": [
-      "Paso:1 Comienza acostado boca arriba en el suelo con las rodillas dobladas y los pies planos en el suelo.",
-      "Paso:2 Coloca una barra sobre las caderas, sujetándola firmemente con ambas manos.",
-      "Paso:3 Activa los glúteos y los músculos del core, luego levanta las caderas del suelo hasta que tu cuerpo forme una línea recta desde las rodillas hasta los hombros.",
-      "Paso:4 Haz una pausa por un momento en la parte superior, apretando los glúteos.",
-      "Paso:5 Baja lentamente las caderas de vuelta a la posición inicial.",
-      "Paso:6 Repite el número deseado de repeticiones."
+      "Prepárate en la posición inicial para el ejercicio de bíceps.",
+      "Activa los músculos de brazos superiores y mantén el core estable.",
+      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
+      "Contrae los bíceps en el punto máximo del movimiento.",
+      "Regresa lentamente a la posición inicial manteniendo el control.",
+      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
+      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
     ]
   }
 }

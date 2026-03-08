@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs'
 import path from 'path'
-import { Equipment, Exercise, Muscle, BodyPart } from './types'
+import { Exercise } from './types'
 import { HTTPException } from 'hono/http-exception'
 import type { SupportedLanguage, CatalogTranslations, ExerciseTranslations } from './i18n/types'
 
@@ -28,19 +28,19 @@ export class FileLoader {
   }
 
   public static loadExercises(): Promise<Exercise[]> {
-    return this.loadJSON<Exercise[]>(`exercises.json`)
+    return this.loadJSON<Exercise[]>('exercises.json')
   }
 
-  public static loadEquipments(): Promise<Equipment[]> {
-    return this.loadJSON<Equipment[]>('equipments.json')
+  public static loadBodyParts(): Promise<string[]> {
+    return this.loadJSON<string[]>('body_parts.json')
   }
 
-  public static loadBodyParts(): Promise<BodyPart[]> {
-    return this.loadJSON<BodyPart[]>('bodyparts.json')
+  public static loadTargets(): Promise<string[]> {
+    return this.loadJSON<string[]>('targets.json')
   }
 
-  public static loadMuscles(): Promise<Muscle[]> {
-    return this.loadJSON<Muscle[]>('muscles.json')
+  public static loadEquipments(): Promise<string[]> {
+    return this.loadJSON<string[]>('equipment.json')
   }
 
   public static async loadCatalogTranslations(lang: SupportedLanguage): Promise<CatalogTranslations> {

@@ -1,30 +1,38 @@
 import { z } from 'zod'
-export const ExerciseModel = z.object({
-  exerciseId: z.string(),
-  name: z.string(),
-  gifUrl: z.string(),
-  targetMuscles: z.array(z.string()),
-  bodyParts: z.array(z.string()),
-  equipments: z.array(z.string()),
-  secondaryMuscles: z.array(z.string()),
-  instructions: z.array(z.string())
+
+export const ExerciseImagesSchema = z.object({
+  '180': z.string(),
+  '360': z.string(),
+  '720': z.string(),
+  '1080': z.string()
 })
 
-// Common pagination schema
+export const ExerciseWithImagesSchema = z.object({
+  id: z.string().openapi({ example: '0001' }),
+  name: z.string().openapi({ example: '3/4 sit-up' }),
+  bodyPart: z.string().openapi({ example: 'waist' }),
+  equipment: z.string().openapi({ example: 'body weight' }),
+  target: z.string().openapi({ example: 'abs' }),
+  secondaryMuscles: z.array(z.string()).openapi({ example: ['hip flexors', 'lower back'] }),
+  instructions: z.array(z.string()).openapi({ example: ['Lie flat on your back...', 'Engaging your abs...'] }),
+  description: z.string().openapi({ example: 'The 3/4 sit-up is an abdominal exercise...' }),
+  difficulty: z.enum(['beginner', 'intermediate', 'advanced']).openapi({ example: 'beginner' }),
+  category: z.string().openapi({ example: 'strength' }),
+  images: ExerciseImagesSchema
+})
+
 export const PaginationQuerySchema = z.object({
-  offset: z.coerce.number().nonnegative().optional().openapi({
+  offset: z.coerce.number().nonnegative().optional().default(0).openapi({
     title: 'Offset',
-    description:
-      'The number of exercises to skip from the start of the list. Useful for pagination to fetch subsequent pages of results.',
+    description: 'Number of exercises to skip for pagination',
     type: 'number',
     example: 0,
     default: 0
   }),
-  limit: z.coerce.number().positive().max(100).optional().openapi({
+  limit: z.coerce.number().positive().max(100).optional().default(10).openapi({
     title: 'Limit',
-    description:
-      'The maximum number of exercises to return in the response. Limits the number of results for pagination purposes.',
-    maximum: 25,
+    description: 'Maximum number of exercises to return (max 100)',
+    maximum: 100,
     minimum: 1,
     type: 'number',
     example: 10,
@@ -37,35 +45,24 @@ export const PaginationQuerySchema = z.object({
   })
 })
 
-// Common response schema
-export const ExerciseResponseSchema = z.object({
-  success: z.literal(true).openapi({
-    description: 'Indicates whether the request was successful',
-    example: true
-  }),
+export const ListResponseSchema = z.object({
+  success: z.literal(true).openapi({ example: true }),
   metadata: z.object({
-    totalExercises: z.number().openapi({
-      description: 'Total number of exercises matching the criteria',
-      example: 150
-    }),
-    totalPages: z.number().openapi({
-      description: 'Total number of pages available',
-      example: 15
-    }),
-    currentPage: z.number().openapi({
-      description: 'Current page number',
-      example: 1
-    }),
-    previousPage: z.string().nullable().openapi({
-      description: 'URL for the previous page, null if on first page',
-      example: '/api/exercises?offset=0&limit=10'
-    }),
-    nextPage: z.string().nullable().openapi({
-      description: 'URL for the next page, null if on last page',
-      example: '/api/exercises?offset=20&limit=10'
-    })
+    totalItems: z.number().openapi({ example: 1324 }),
+    totalPages: z.number().openapi({ example: 133 }),
+    currentPage: z.number().openapi({ example: 1 }),
+    previousPage: z.string().nullable().openapi({ example: null }),
+    nextPage: z.string().nullable().openapi({ example: '/api/v1/exercises?offset=10&limit=10' })
   }),
-  data: z.array(ExerciseModel).openapi({
-    description: 'Array of exercises'
-  })
+  data: z.array(ExerciseWithImagesSchema)
+})
+
+export const SingleExerciseResponseSchema = z.object({
+  success: z.literal(true).openapi({ example: true }),
+  data: ExerciseWithImagesSchema
+})
+
+export const CatalogResponseSchema = z.object({
+  success: z.literal(true).openapi({ example: true }),
+  data: z.array(z.string()).openapi({ example: ['back', 'cardio', 'chest', 'lower arms'] })
 })

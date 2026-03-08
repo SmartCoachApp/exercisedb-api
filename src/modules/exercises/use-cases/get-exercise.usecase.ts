@@ -18,9 +18,9 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
     this.fuse = new Fuse(data, {
       keys: [
         { name: 'name', weight: 0.4 },
-        { name: 'targetMuscles', weight: 0.25 },
-        { name: 'bodyParts', weight: 0.2 },
-        { name: 'equipments', weight: 0.15 },
+        { name: 'target', weight: 0.25 },
+        { name: 'bodyPart', weight: 0.2 },
+        { name: 'equipment', weight: 0.15 },
         { name: 'secondaryMuscles', weight: 0.1 }
       ],
       threshold,
@@ -44,44 +44,31 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
       filtered = result.map((res) => res.item)
     }
 
-    // Handle targetMuscles filtering
-    if (query.targetMuscles) {
-      const muscles = Array.isArray(query.targetMuscles) ? query.targetMuscles : query.targetMuscles || []
-      console.log(muscles)
+    // Handle target filtering (single value)
+    if (query.target) {
+      const target = query.target.toLowerCase()
       filtered = filtered.filter((exercise) => {
-        const matchesTarget = muscles.every((muscle: string) =>
-          exercise.targetMuscles.some((target) => target.toLowerCase() === muscle.toLowerCase())
-        )
+        const matchesTarget = exercise.target.toLowerCase() === target
 
         // If includeSecondaryMuscles is true, also check secondary muscles
         if (query.includeSecondaryMuscles && !matchesTarget) {
-          return muscles.some((muscle: string) =>
-            exercise.secondaryMuscles?.some((secondary) => secondary.toLowerCase() === muscle.toLowerCase())
-          )
+          return exercise.secondaryMuscles?.some((secondary) => secondary.toLowerCase() === target)
         }
 
         return matchesTarget
       })
     }
 
-    // Handle equipments filtering
-    if (query.equipments) {
-      const equipments = Array.isArray(query.equipments) ? query.equipments : query.equipments || []
-
-      filtered = filtered.filter((exercise) =>
-        equipments.every((equipment: string) =>
-          exercise.equipments.some((eq) => eq.toLowerCase() === equipment.toLowerCase())
-        )
-      )
+    // Handle equipment filtering (single value)
+    if (query.equipment) {
+      const equipment = query.equipment.toLowerCase()
+      filtered = filtered.filter((exercise) => exercise.equipment.toLowerCase() === equipment)
     }
 
-    // Handle bodyParts filtering
-    if (query.bodyParts && Array.isArray(query.bodyParts)) {
-      filtered = filtered.filter((exercise) =>
-        query.bodyParts!.some((bodyPart) =>
-          exercise.bodyParts.some((bp) => bp.toLowerCase() === bodyPart.toLowerCase())
-        )
-      )
+    // Handle bodyPart filtering (single value)
+    if (query.bodyPart) {
+      const bodyPart = query.bodyPart.toLowerCase()
+      filtered = filtered.filter((exercise) => exercise.bodyPart.toLowerCase() === bodyPart)
     }
 
     return filtered
@@ -101,33 +88,30 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
         if (aVal == null) return order
         if (bVal == null) return -order
 
-        // Handle array fields (bodyParts, targetMuscles, equipments)
+        // Handle array fields
         if (Array.isArray(aVal) && Array.isArray(bVal)) {
-          // Sort by first element of array, or by array length if first elements are equal
           const aFirst = aVal[0] || ''
           const bFirst = bVal[0] || ''
 
           if (aFirst < bFirst) return -1 * order
           if (aFirst > bFirst) return 1 * order
 
-          // If first elements are equal, sort by array length
           if (aVal.length < bVal.length) return -1 * order
           if (aVal.length > bVal.length) return 1 * order
 
           continue
         }
 
-        // Handle case where one is array and other is not (shouldn't happen with proper typing)
         if (Array.isArray(aVal)) return -1 * order
         if (Array.isArray(bVal)) return 1 * order
 
-        // Handle string/primitive fields
         if (aVal < bVal) return -1 * order
         if (aVal > bVal) return 1 * order
       }
       return 0
     })
   }
+
   private paginateResults(
     exercises: Exercise[],
     offset: number,
@@ -158,7 +142,6 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
   }: GetExercisesArgs): Promise<GetExercisesReturnArgs> {
     try {
       const exerciseData = preloadedData ?? (await this.getExerciseData())
-      console.log({ query, offset, limit, sort, exrLenght: exerciseData.length })
       // Apply filters
       const filtered = this.filterByQuery(exerciseData, query)
       // Apply sorting
