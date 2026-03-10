@@ -51,3 +51,19 @@ Localization, translations, Spanish, multi-language, locale, lang parameter, lan
 **Source**: `src/data/i18n/`, `src/services/translation.service.ts`
 
 ---
+
+## [Ingredient Search Bug](./ingredient-search-bug.md)
+
+Búsqueda de ingredientes, resultados irrelevantes, vector search, fuzzy matching, semántica, arroz, smart-coach-api, smart-coach-pwa, VectorSearchService, searchFoodItems, topK, minSemanticScore, coseno, Vertex AI, embeddings, fix, diagnóstico, browser-agent.
+
+**Source**: `smart-coach-api/src/foodItem/foodItem.service.ts`, `smart-coach-api/src/vectorSearch/vectorSearch.service.ts`
+
+---
+
+## [ExerciseDB Migration](./exercisedb-migration.md)
+
+Migration, theta, nine-omega, new API, frontend, smart-coach-pwa, exercise-api.ts, proxy route, env var, EXERCISE_API_BASE_URL, path-based endpoints, server-side filtering, images 360px, rewrite, transform layer, RawExercise, totalItems.
+
+**Source**: `smart-coach-pwa/app/api/exercises/`, `smart-coach-pwa/app/(dashboard)/_data/exercise-api.ts`
+
+---

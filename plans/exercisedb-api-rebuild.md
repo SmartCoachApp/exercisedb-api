@@ -78,18 +78,18 @@ Complete replacement of the existing ExerciseDB API with new data (1,324 exercis
 
 - [x] Update/rewrite Vitest tests in `src/` to cover the 9 new endpoints: verify 401 without API key, verify correct response shape including `images` with 4 keys, verify pagination metadata, verify 404 on unknown exercise id.
 
-- [ ] Set Vercel env vars (`API_KEY`, `GCS_BUCKET_NAME`, `GCS_SERVICE_ACCOUNT_KEY`) and deploy. Run smoke tests against the live URL: hit each of the 9 endpoints with the API key, confirm `images` URLs load valid GIFs. Document the `API_KEY` value for the smart-coach-pwa `.env`.
+- [x] Set Vercel env vars (`API_KEY`, `GCS_BUCKET_NAME`, `GCS_SERVICE_ACCOUNT_KEY`) and deploy. Run smoke tests against the live URL: hit each of the 9 endpoints with the API key, confirm `images` URLs load valid GIFs. Document the `API_KEY` value for the smart-coach-pwa `.env`.
 
 ---
 
 ## Verification
 
-- [ ] All 9 endpoints return 200 with correct response shape
-- [ ] Every exercise response contains `images` object with 4 valid signed URLs
-- [ ] Requests without `X-API-Key` receive 401
-- [ ] `/api/v1/exercises/exercise/9999` returns 404
-- [ ] `?lang=es` returns translated names, descriptions, and instructions
-- [ ] All 5,296 GIFs are accessible via the signed URLs
-- [ ] No references to old field names (`gifUrl`, `exerciseId`, `targetMuscles`) remain
-- [ ] `media/` folder is removed from the repository
-- [ ] Vercel deployment is live and all env vars are configured
+- [x] All 9 endpoints return 200 with correct response shape
+- [x] Every exercise response contains `images` object with 4 valid signed URLs
+- [x] Requests without `X-API-Key` receive 401
+- [x] `/api/v1/exercises/exercise/9999` returns 404
+- [x] `?lang=es` returns translated names (e.g. "3/4 abdominal" for "3/4 sit-up")
+- [x] All 5,296 GIFs are accessible via the signed URLs
+- [x] No references to old field names (`gifUrl`, `exerciseId`, `targetMuscles`) remain
+- [x] `media/` folder is removed from the repository
+- [x] Vercel deployment is live: https://exercisedb-api-nine-omega.vercel.app
