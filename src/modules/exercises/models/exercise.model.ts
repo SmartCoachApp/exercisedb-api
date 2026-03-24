@@ -18,6 +18,10 @@ export const ExerciseWithImagesSchema = z.object({
   description: z.string().openapi({ example: 'The 3/4 sit-up is an abdominal exercise...' }),
   difficulty: z.enum(['beginner', 'intermediate', 'advanced']).openapi({ example: 'beginner' }),
   category: z.string().openapi({ example: 'strength' }),
+  measurementType: z.enum(['reps', 'distance', 'time']).default('reps').openapi({
+    example: 'reps',
+    description: 'How this exercise is measured: reps (repetitions + weight), distance (meters), or time (seconds)'
+  }),
   images: ExerciseImagesSchema
 })
 

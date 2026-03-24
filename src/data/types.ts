@@ -57,6 +57,15 @@ export interface Exercise {
    * @example "strength"
    */
   category: string
+
+  /**
+   * How this exercise is measured.
+   * - 'reps': repetitions + weight (default for most exercises)
+   * - 'distance': distance in meters (e.g., sled push, farmer's carry)
+   * - 'time': duration in seconds (e.g., running, planks)
+   * @default 'reps'
+   */
+  measurementType: 'reps' | 'distance' | 'time'
 }
 
 export interface ExerciseWithImages extends Exercise {
