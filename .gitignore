@@ -8,3 +8,4 @@ staging.vercel
 production.vercel
 .hydra/
 .playwright-mcp/
+.DS_Store
