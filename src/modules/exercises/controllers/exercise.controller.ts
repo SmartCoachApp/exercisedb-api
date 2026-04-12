@@ -408,7 +408,8 @@ export class ExerciseController implements Routes {
         path: '/exercises',
         tags: ['EXERCISES'],
         summary: 'Get all exercises',
-        description: 'Retrieve all exercises with pagination and optional filtering by tags, effectiveness, and contraindications. Supports ?lang=es for Spanish results.',
+        description:
+          'Retrieve all exercises with pagination and optional filtering by tags, effectiveness, and contraindications. Supports ?lang=es for Spanish results.',
         operationId: 'getAllExercises',
         request: {
           query: FilterQuerySchema
@@ -421,7 +422,15 @@ export class ExerciseController implements Routes {
         }
       }),
       async (ctx) => {
-        const { offset = 0, limit = 10, lang = 'en', tags, minEffectiveness, maxEffectiveness, excludeContraindicated } = ctx.req.valid('query')
+        const {
+          offset = 0,
+          limit = 10,
+          lang = 'en',
+          tags,
+          minEffectiveness,
+          maxEffectiveness,
+          excludeContraindicated
+        } = ctx.req.valid('query')
         const { origin, pathname } = new URL(ctx.req.url)
 
         const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getAllExercises({
@@ -431,7 +440,9 @@ export class ExerciseController implements Routes {
           tags: tags ? tags.split(',').map((t) => t.trim()) : undefined,
           minEffectiveness,
           maxEffectiveness,
-          excludeContraindicated: excludeContraindicated ? excludeContraindicated.split(',').map((c) => c.trim()) : undefined
+          excludeContraindicated: excludeContraindicated
+            ? excludeContraindicated.split(',').map((c) => c.trim())
+            : undefined
         })
 
         const langParam = lang !== 'en' ? `lang=${lang}` : ''

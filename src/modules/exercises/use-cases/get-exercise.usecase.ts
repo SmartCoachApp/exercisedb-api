@@ -73,9 +73,7 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
 
     // Handle tag filtering (exercises must have ALL specified tags)
     if (query.tags && query.tags.length > 0) {
-      filtered = filtered.filter((exercise) =>
-        query.tags!.every((tag) => exercise.tags?.includes(tag))
-      )
+      filtered = filtered.filter((exercise) => query.tags!.every((tag) => exercise.tags?.includes(tag)))
     }
 
     // Handle baseline effectiveness filtering
@@ -88,8 +86,8 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
 
     // Handle contraindication filtering (exclude exercises contraindicated for any specified injury)
     if (query.excludeContraindicated && query.excludeContraindicated.length > 0) {
-      filtered = filtered.filter((exercise) =>
-        !query.excludeContraindicated!.some((injury) => exercise.contraindicatedFor?.includes(injury))
+      filtered = filtered.filter(
+        (exercise) => !query.excludeContraindicated!.some((injury) => exercise.contraindicatedFor?.includes(injury))
       )
     }
 

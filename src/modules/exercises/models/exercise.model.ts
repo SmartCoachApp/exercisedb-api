@@ -29,7 +29,8 @@ export const ExerciseWithImagesSchema = z.object({
   }),
   baselineEffectiveness: z.number().min(0).max(100).openapi({
     title: 'Baseline Effectiveness',
-    description: 'Acceptance score (0-100): probability a typical user accepts this exercise without requesting a change',
+    description:
+      'Acceptance score (0-100): probability a typical user accepts this exercise without requesting a change',
     example: 85
   }),
   contraindicatedFor: z.array(z.string()).openapi({

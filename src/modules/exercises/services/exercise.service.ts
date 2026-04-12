@@ -36,7 +36,15 @@ export class ExerciseService {
     maxEffectiveness?: number
     excludeContraindicated?: string[]
   }): Promise<PaginatedResult> {
-    const { offset = 0, limit = 10, lang = 'en', tags, minEffectiveness, maxEffectiveness, excludeContraindicated } = params
+    const {
+      offset = 0,
+      limit = 10,
+      lang = 'en',
+      tags,
+      minEffectiveness,
+      maxEffectiveness,
+      excludeContraindicated
+    } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
