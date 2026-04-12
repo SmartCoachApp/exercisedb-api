@@ -21,7 +21,10 @@ export class TranslationService {
       target: catalogTranslations.targets[exercise.target] ?? exercise.target,
       secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
       bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
-      equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment
+      equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment,
+      tags: exercise.tags,
+      baselineEffectiveness: exercise.baselineEffectiveness,
+      contraindicatedFor: exercise.contraindicatedFor
     }
   }
 
@@ -43,7 +46,10 @@ export class TranslationService {
         target: catalogTranslations.targets[exercise.target] ?? exercise.target,
         secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
         bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
-        equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment
+        equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment,
+        tags: exercise.tags,
+        baselineEffectiveness: exercise.baselineEffectiveness,
+        contraindicatedFor: exercise.contraindicatedFor
       }
     })
   }

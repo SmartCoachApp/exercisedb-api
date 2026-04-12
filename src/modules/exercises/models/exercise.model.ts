@@ -22,6 +22,21 @@ export const ExerciseWithImagesSchema = z.object({
     example: 'reps',
     description: 'How this exercise is measured: reps (repetitions + weight), distance (meters), or time (seconds)'
   }),
+  tags: z.array(z.string()).openapi({
+    title: 'Tags',
+    description: 'Classification tags for filtering and recommendation',
+    example: ['compound', 'main-lift', 'full-gym', 'staple', 'strength']
+  }),
+  baselineEffectiveness: z.number().min(0).max(100).openapi({
+    title: 'Baseline Effectiveness',
+    description: 'Acceptance score (0-100): probability a typical user accepts this exercise without requesting a change',
+    example: 85
+  }),
+  contraindicatedFor: z.array(z.string()).openapi({
+    title: 'Contraindicated For',
+    description: 'Injury keys this exercise is contraindicated for',
+    example: ['knee', 'lower-back']
+  }),
   images: ExerciseImagesSchema
 })
 
@@ -46,6 +61,29 @@ export const PaginationQuerySchema = z.object({
     title: 'Language',
     description: 'Response language (en=English, es=Spanish)',
     example: 'en'
+  })
+})
+
+export const FilterQuerySchema = PaginationQuerySchema.extend({
+  tags: z.string().optional().openapi({
+    title: 'Tags',
+    description: 'Comma-separated tags to filter by (AND logic). E.g. "compound,staple"',
+    example: 'compound,staple'
+  }),
+  minEffectiveness: z.coerce.number().min(0).max(100).optional().openapi({
+    title: 'Min Effectiveness',
+    description: 'Minimum baseline effectiveness score (0-100)',
+    example: 70
+  }),
+  maxEffectiveness: z.coerce.number().min(0).max(100).optional().openapi({
+    title: 'Max Effectiveness',
+    description: 'Maximum baseline effectiveness score (0-100)',
+    example: 100
+  }),
+  excludeContraindicated: z.string().optional().openapi({
+    title: 'Exclude Contraindicated',
+    description: 'Comma-separated injury keys to exclude exercises for. E.g. "knee,lower-back"',
+    example: 'knee,lower-back'
   })
 })
 

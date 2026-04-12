@@ -66,6 +66,28 @@ export interface Exercise {
    * @default 'reps'
    */
   measurementType: 'reps' | 'distance' | 'time'
+
+  /**
+   * Classification tags for filtering and recommendation.
+   * Dimensions: movement pattern, context, equipment level, familiarity, discipline, intensity.
+   * Optional until all exercises are tagged via inference.
+   * @example ["compound", "main-lift", "full-gym", "staple", "strength"]
+   */
+  tags: string[]
+
+  /**
+   * Acceptance score (0–100): probability a typical fitness user accepts this exercise
+   * without asking to change it. Used for ranking and preference normalization.
+   * @example 90
+   */
+  baselineEffectiveness: number
+
+  /**
+   * Injury keys this exercise is contraindicated for.
+   * Used as a hard filter when the user has reported injuries.
+   * @example ["knee", "lower-back"]
+   */
+  contraindicatedFor: string[]
 }
 
 export interface ExerciseWithImages extends Exercise {

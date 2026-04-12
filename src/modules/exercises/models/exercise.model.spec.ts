@@ -59,6 +59,9 @@ describe('ExerciseWithImagesSchema', () => {
     description: 'An abdominal exercise.',
     difficulty: 'beginner' as const,
     category: 'strength',
+    tags: ['isolation', 'no-equipment', 'strength'],
+    baselineEffectiveness: 65,
+    contraindicatedFor: ['lower-back'],
     images: { '180': 'https://url1', '360': 'https://url2', '720': 'https://url3', '1080': 'https://url4' }
   }
 
@@ -66,6 +69,18 @@ describe('ExerciseWithImagesSchema', () => {
     const result = ExerciseWithImagesSchema.parse(validExercise)
     expect(result.id).toBe('0001')
     expect(result.images['180']).toBe('https://url1')
+  })
+
+  it('requires tags, baselineEffectiveness, and contraindicatedFor', () => {
+    const { tags, baselineEffectiveness, contraindicatedFor, ...withoutNewFields } = validExercise
+    expect(() => ExerciseWithImagesSchema.parse(withoutNewFields)).toThrow()
+  })
+
+  it('parses tags, baselineEffectiveness, and contraindicatedFor when provided', () => {
+    const result = ExerciseWithImagesSchema.parse(validExercise)
+    expect(result.tags).toEqual(['isolation', 'no-equipment', 'strength'])
+    expect(result.baselineEffectiveness).toBe(65)
+    expect(result.contraindicatedFor).toEqual(['lower-back'])
   })
 
   it('rejects invalid difficulty', () => {

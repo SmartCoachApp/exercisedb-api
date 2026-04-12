@@ -31,14 +31,18 @@ export class ExerciseService {
     offset?: number
     limit?: number
     lang?: SupportedLanguage
+    tags?: string[]
+    minEffectiveness?: number
+    maxEffectiveness?: number
+    excludeContraindicated?: string[]
   }): Promise<PaginatedResult> {
-    const { offset = 0, limit = 10, lang = 'en' } = params
+    const { offset = 0, limit = 10, lang = 'en', tags, minEffectiveness, maxEffectiveness, excludeContraindicated } = params
     const exerciseData = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : undefined
 
     const { exercises, totalPages, totalExercises, currentPage } = await this.getExercisesUseCase.execute({
       offset,
       limit,
-      query: {},
+      query: { tags, minEffectiveness, maxEffectiveness, excludeContraindicated },
       exerciseData
     })
 

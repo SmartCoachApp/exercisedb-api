@@ -12,7 +12,7 @@ describe('FileLoader', () => {
     it('returns a non-empty array', async () => {
       const exercises = await FileLoader.loadExercises()
       expect(Array.isArray(exercises)).toBe(true)
-      expect(exercises.length).toBe(1324)
+      expect(exercises.length).toBe(1339)
     })
 
     it('exercises have the new field shape', async () => {

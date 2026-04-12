@@ -4,6 +4,7 @@ import { z } from 'zod'
 import { ExerciseService } from '../services/exercise.service'
 import {
   CatalogResponseSchema,
+  FilterQuerySchema,
   ListResponseSchema,
   PaginationQuerySchema,
   SingleExerciseResponseSchema
@@ -407,10 +408,10 @@ export class ExerciseController implements Routes {
         path: '/exercises',
         tags: ['EXERCISES'],
         summary: 'Get all exercises',
-        description: 'Retrieve all 1,324 exercises with pagination. Supports ?lang=es for Spanish results.',
+        description: 'Retrieve all exercises with pagination and optional filtering by tags, effectiveness, and contraindications. Supports ?lang=es for Spanish results.',
         operationId: 'getAllExercises',
         request: {
-          query: PaginationQuerySchema
+          query: FilterQuerySchema
         },
         responses: {
           200: {
@@ -420,13 +421,17 @@ export class ExerciseController implements Routes {
         }
       }),
       async (ctx) => {
-        const { offset = 0, limit = 10, lang = 'en' } = ctx.req.valid('query')
+        const { offset = 0, limit = 10, lang = 'en', tags, minEffectiveness, maxEffectiveness, excludeContraindicated } = ctx.req.valid('query')
         const { origin, pathname } = new URL(ctx.req.url)
 
         const { data, totalItems, totalPages, currentPage } = await this.exerciseService.getAllExercises({
           offset,
           limit,
-          lang
+          lang,
+          tags: tags ? tags.split(',').map((t) => t.trim()) : undefined,
+          minEffectiveness,
+          maxEffectiveness,
+          excludeContraindicated: excludeContraindicated ? excludeContraindicated.split(',').map((c) => c.trim()) : undefined
         })
 
         const langParam = lang !== 'en' ? `lang=${lang}` : ''

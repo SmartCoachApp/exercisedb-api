@@ -17,6 +17,10 @@ export interface GetExercisesArgs {
     equipment?: string
     bodyPart?: string
     includeSecondaryMuscles?: boolean
+    tags?: string[]
+    minEffectiveness?: number
+    maxEffectiveness?: number
+    excludeContraindicated?: string[]
     [key: string]: any
   }
   sort?: Record<string, 1 | -1>

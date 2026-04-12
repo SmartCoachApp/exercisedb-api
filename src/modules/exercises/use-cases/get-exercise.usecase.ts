@@ -71,6 +71,28 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
       filtered = filtered.filter((exercise) => exercise.bodyPart.toLowerCase() === bodyPart)
     }
 
+    // Handle tag filtering (exercises must have ALL specified tags)
+    if (query.tags && query.tags.length > 0) {
+      filtered = filtered.filter((exercise) =>
+        query.tags!.every((tag) => exercise.tags?.includes(tag))
+      )
+    }
+
+    // Handle baseline effectiveness filtering
+    if (query.minEffectiveness !== undefined) {
+      filtered = filtered.filter((ex) => (ex.baselineEffectiveness ?? 0) >= query.minEffectiveness!)
+    }
+    if (query.maxEffectiveness !== undefined) {
+      filtered = filtered.filter((ex) => (ex.baselineEffectiveness ?? 100) <= query.maxEffectiveness!)
+    }
+
+    // Handle contraindication filtering (exclude exercises contraindicated for any specified injury)
+    if (query.excludeContraindicated && query.excludeContraindicated.length > 0) {
+      filtered = filtered.filter((exercise) =>
+        !query.excludeContraindicated!.some((injury) => exercise.contraindicatedFor?.includes(injury))
+      )
+    }
+
     return filtered
   }
 
