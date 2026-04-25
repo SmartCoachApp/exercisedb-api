@@ -1,1145 +1,1145 @@
 {
   "0346": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps con mancuerna acostado a un brazo en supinación",
+    "description": "Variante unilateral de extensión de tríceps acostado en banco plano, sosteniendo la mancuerna con agarre supinado para acentuar la cabeza larga del tríceps. La toma invertida estabiliza el codo y suma trabajo a los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en el banco con la espalda y la cabeza apoyadas y los pies firmes en el suelo.",
+      "Sostén una mancuerna con una mano en agarre supinado y extiende el brazo recto sobre el hombro.",
+      "Manteniendo el brazo superior fijo, baja despacio la mancuerna detrás de la cabeza flexionando el codo.",
+      "Haz una pausa abajo y vuelve a extender el brazo hasta la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0347": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pronación de antebrazo con mancuernas acostado boca abajo",
+    "description": "Movimiento aislado para los antebrazos centrado en la fuerza de pronación. Tumbado boca abajo en un banco, la rotación de muñeca con mancuernas trabaja la musculatura pronadora con leve apoyo de bíceps y hombros.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca abajo en un banco con los brazos extendidos hacia el suelo, sosteniendo una mancuerna en cada mano.",
+      "Gira las palmas hasta que queden mirando hacia arriba.",
+      "Manteniendo los brazos superiores fijos, exhala y rota las muñecas hasta dejar las palmas mirando hacia abajo.",
+      "Inhala y vuelve despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0348": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación posterior con mancuernas tumbado boca abajo",
+    "description": "Aislamiento del deltoides posterior realizado tumbado boca abajo en banco plano para anular la inercia. La posición fija el torso y obliga a los hombros a hacer todo el trabajo, con apoyo de trapecios y romboides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca abajo en un banco plano con una mancuerna en cada mano y las palmas enfrentadas.",
+      "Extiende los brazos hacia el suelo manteniendo una ligera flexión de codos.",
+      "Activando los hombros, lleva los brazos hacia los lados hasta que queden paralelos al piso.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0349": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Supinación de antebrazo con mancuernas acostado en banco",
+    "description": "Ejercicio aislado para los antebrazos enfocado en los músculos supinadores. Acostado en banco, la rotación supinada de muñecas con mancuernas refuerza el control rotacional, con bíceps y hombros como secundarios.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco con los pies apoyados en el suelo.",
+      "Sostén una mancuerna en cada mano con las palmas hacia arriba y los brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, lleva las mancuernas hacia los hombros contrayendo los antebrazos.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0350": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl supinado con mancuernas acostado en banco",
+    "description": "Curl de bíceps realizado tumbado boca arriba en banco plano. Esta posición elimina el balanceo del torso y obliga a una contracción estricta del bíceps con apoyo de los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate en un banco con una mancuerna en cada mano, palmas hacia arriba y brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y flexiona los codos contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un segundo apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0351": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps acostado con mancuernas",
+    "description": "Press francés clásico ejecutado en banco plano con mancuernas en agarre neutro. Permite un recorrido amplio detrás de la frente, aislando el tríceps con activación auxiliar de los hombros para la estabilización.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco con una mancuerna en cada mano, palmas enfrentadas.",
+      "Extiende los brazos verticalmente sobre el pecho, con los codos cerca del cuerpo.",
+      "Baja las mancuernas hacia la frente flexionando los codos.",
+      "Haz una pausa y vuelve a extender los brazos hasta la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0352": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca con mancuernas en agarre neutro",
+    "description": "Variante del press de banca con mancuernas y palmas enfrentadas. El agarre neutro reduce el estrés en los hombros y traslada más carga al tríceps, con participación secundaria de pecho y deltoides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco plano con los pies firmes en el suelo y la espalda pegada al banco.",
+      "Sostén una mancuerna en cada mano con agarre neutro (palmas enfrentadas) y los brazos extendidos sobre el pecho.",
+      "Baja despacio las mancuernas hacia el pecho manteniendo los codos cerca del cuerpo.",
+      "Haz una pausa abajo y empuja las mancuernas hasta extender los brazos.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0353": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl concentrado a un brazo con mancuerna sobre balón de estabilidad",
+    "description": "Curl concentrado unilateral ejecutado sentado en un balón de estabilidad. La superficie inestable suma demanda al core mientras el codo apoyado en el muslo aísla el bíceps al máximo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un balón de estabilidad con los pies firmes en el suelo y las rodillas a 90 grados.",
+      "Sostén una mancuerna con una mano, palma hacia arriba y brazo extendido hacia el suelo.",
+      "Apoya el codo en la cara interna del muslo, justo arriba de la rodilla.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0354": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Patada de tríceps a un brazo con mancuerna",
+    "description": "Aislamiento clásico del tríceps con extensión del brazo desde el codo a 90 grados. Realizado de pie con tronco inclinado, exige control postural y un cierre fuerte para apretar la cabeza larga del tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en la mano derecha.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
+      "Lleva el codo derecho a la altura del costado, mantenido a 90 grados.",
+      "Extiende el brazo derecho hacia atrás apretando el tríceps al final del recorrido.",
+      "Baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de lado."
     ]
   },
   "0355": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral a un brazo con mancuerna",
+    "description": "Aislamiento unilateral del deltoides medio que permite enfocarse en un solo lado y corregir asimetrías. La versión a un brazo facilita una técnica más limpia y mejor control del rango.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en una mano con la palma hacia el cuerpo.",
+      "Mantén la espalda recta y el core activo durante todo el ejercicio.",
+      "Eleva la mancuerna hacia un lado, con el brazo casi recto y la palma hacia abajo.",
+      "Sigue subiendo hasta que el brazo quede paralelo al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0356": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral a un brazo con mancuerna y apoyo",
+    "description": "Variante asistida de la elevación lateral, donde la mano libre se apoya en una superficie estable. El soporte mejora la postura, reduce el balanceo y permite enfocar mejor al deltoides medio.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano, palma hacia el cuerpo.",
+      "Apoya la otra mano en una superficie estable como un banco o pared.",
+      "Mantén la espalda recta y activa el core.",
+      "Eleva la mancuerna hacia un lado con el brazo casi recto y la palma hacia abajo.",
+      "Sigue subiendo hasta que el brazo quede paralelo al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de lado."
     ]
   },
   "0358": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca inverso a un brazo con mancuerna",
+    "description": "Aislamiento de los extensores de muñeca utilizando agarre pronado. Apoyando el antebrazo en el muslo, la muñeca eleva la mancuerna en un recorrido corto, ideal para fortalecer la cara externa del antebrazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco o silla con los pies apoyados en el suelo.",
+      "Sostén una mancuerna con una mano en agarre pronado, palma hacia abajo.",
+      "Apoya el antebrazo sobre el muslo dejando la muñeca por fuera del borde.",
+      "Baja despacio la mancuerna flexionando la muñeca hacia abajo.",
+      "Haz una pausa abajo y vuelve a curvar la muñeca hacia arriba.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0359": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Apertura inversa con mancuerna a un brazo y apoyo",
+    "description": "Aislamiento del deltoides posterior con apoyo de la mano libre en el banco. La estabilización extra reduce la inercia y enfoca el trabajo en hombros traseros, trapecios y romboides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con los pies firmes en el suelo y la espalda recta.",
+      "Sostén una mancuerna con una mano y la palma hacia adentro.",
+      "Inclínate hacia adelante y apoya la mano libre en el banco para estabilizar.",
+      "Con el brazo ligeramente flexionado, súbelo hacia un lado hasta dejarlo paralelo al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0360": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros con mancuerna a un brazo v.2",
+    "description": "Variante unilateral del press de hombros de pie. La carga asimétrica desafía al core anti-rotación y obliga a estabilizar la columna mientras se empuja la mancuerna sobre la cabeza.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano a la altura del hombro, palma hacia adelante.",
+      "Activa el core y empuja la mancuerna recto hacia arriba hasta extender el brazo por completo.",
+      "Haz una pausa arriba y baja despacio la mancuerna a la altura del hombro.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0361": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros a un brazo con mancuerna",
+    "description": "Empuje vertical unilateral de pie que enfoca al deltoides anterior y medio. La ejecución a un brazo exige coordinación, equilibrio y un core firme para evitar la inclinación lateral.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano a la altura del hombro, palma hacia adelante.",
+      "Empuja la mancuerna hacia arriba hasta extender el brazo sobre la cabeza.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0362": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps a un brazo con mancuerna sentado en banco",
+    "description": "Extensión de tríceps por encima de la cabeza realizada sentado y con apoyo en el banco. La posición fija el torso y permite un buen estiramiento de la cabeza larga del tríceps en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén una mancuerna con una mano y apoya la otra en el banco para estabilizar.",
+      "Eleva la mancuerna por encima de la cabeza, con el brazo superior cerca de la cabeza y el codo apuntando al frente.",
+      "Baja la mancuerna detrás de la cabeza flexionando el codo y manteniendo el brazo superior fijo.",
+      "Extiende el brazo hasta la posición inicial estirando el codo por completo.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0363": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo al mentón a un brazo con mancuerna",
+    "description": "Versión unilateral del remo al mentón que activa el deltoides medio y los trapecios. Realizado de pie, exige liderar el movimiento con el codo para proteger el hombro y maximizar la activación.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano con agarre pronado.",
+      "Deja colgar la mancuerna delante del muslo con la palma hacia el cuerpo.",
+      "Con la espalda recta y el core activo, exhala y sube la mancuerna hacia la barbilla guiando con el codo.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0364": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca a un brazo con mancuerna",
+    "description": "Aislamiento de los flexores de muñeca con agarre supinado. Apoyando el antebrazo en el muslo, el rango se concentra en la articulación de la muñeca para construir grosor y fuerza en la cara interna del antebrazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco o silla con los pies apoyados en el suelo.",
+      "Sostén una mancuerna con una mano en agarre supinado, apoyando el antebrazo en el muslo.",
+      "Deja que la muñeca se extienda y la mancuerna baje hacia los dedos.",
+      "Curva despacio la muñeca de regreso, llevando la mancuerna hacia el antebrazo.",
+      "Repite las repeticiones deseadas y cambia de mano."
     ]
   },
   "0365": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca neutro con mancuernas sobre banco",
+    "description": "Curl de muñeca con agarre neutro y antebrazos apoyados en el banco. El recorrido corto y la posición estable trabajan los flexores de muñeca y los antebrazos minimizando la participación del bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas hacia arriba.",
+      "Apoya los antebrazos en el banco dejando las muñecas por fuera del borde.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas hacia los hombros.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0366": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca neutro a un brazo con mancuerna sobre banco",
+    "description": "Variante unilateral del curl de muñeca con agarre neutro. Apoyado en el banco, el ejercicio aísla los flexores de muñeca de cada lado y permite corregir descompensaciones en la fuerza del antebrazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento."
+      "Siéntate en un banco con una mancuerna en una mano y el brazo extendido sobre el banco, palma hacia arriba.",
+      "Mantén el brazo superior fijo y sube la mancuerna hacia el hombro con la muñeca en posición neutra.",
+      "Haz una pausa arriba y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0367": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca a un brazo con mancuerna sobre banco",
+    "description": "Aislamiento unilateral de los flexores de muñeca con el antebrazo apoyado en el banco. La carga única permite enfocar la atención en una mano a la vez para mejorar fuerza y simetría.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en una mano, palma hacia abajo.",
+      "Apoya el antebrazo en el banco con la muñeca por fuera del borde.",
+      "Sube despacio la mancuerna curvando la muñeca hacia el antebrazo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0368": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca inverso con mancuernas sobre banco",
+    "description": "Aislamiento de los extensores de muñeca con agarre pronado y antebrazos apoyados en el banco. El movimiento fortalece la cara externa del antebrazo y mejora la salud articular del codo y la muñeca.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies firmes en el suelo y sostén una mancuerna en cada mano, palmas hacia abajo.",
+      "Apoya los antebrazos en el banco con las muñecas por fuera del borde.",
+      "Sube despacio las muñecas, llevando las mancuernas hacia el cuerpo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0369": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca con mancuernas sobre banco",
+    "description": "Trabajo aislado de los flexores de muñeca con agarre supinado y los antebrazos apoyados en el banco. La estabilización elimina la trampa y produce una contracción estricta en los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los antebrazos apoyados sobre él y las palmas hacia arriba, sosteniendo una mancuerna en cada mano.",
+      "Deja que las muñecas cuelguen por fuera del banco.",
+      "Sube despacio las muñecas apretando los antebrazos al final del recorrido.",
+      "Haz una pausa y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0370": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl martillo predicador con mancuernas",
+    "description": "Curl con agarre neutro tipo martillo combinado con la mecánica del predicador. La fijación del brazo superior aísla el braquial y los antebrazos, sumando volumen al braquiorradial.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Párate con la espalda recta y una mancuerna en cada mano, palmas hacia el torso.",
+      "Mantén los codos pegados al torso y rota las palmas hasta que queden mirando al frente.",
+      "Esta será tu posición inicial.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído por completo y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones recomendadas."
     ]
   },
   "0371": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de pliometría de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla pliométrica con tijera y mancuernas",
+    "description": "Sentadilla explosiva con cambio de pierna en el aire, ejecutada con mancuernas a los costados. Combina fuerza y potencia en glúteos, cuádriceps y pantorrillas, exigiendo coordinación y aterrizajes controlados.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros y una mancuerna en cada mano a los costados.",
+      "Baja a una sentadilla flexionando rodillas y empujando la cadera hacia atrás.",
+      "Al llegar abajo, despega del suelo de manera explosiva con un salto.",
+      "En el aire, intercambia rápidamente la posición de los pies aterrizando con el pie contrario adelante.",
+      "Baja de inmediato a la sentadilla y repite el salto cambiando los pies.",
+      "Sigue alternando la posición con cada salto durante las repeticiones deseadas."
     ]
   },
   "0372": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador con mancuernas",
+    "description": "Curl de bíceps clásico apoyado sobre el banco predicador. La almohadilla bloquea el hombro y elimina la trampa, generando una de las contracciones más estrictas para construir el pico del bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Siéntate en un banco predicador con los brazos superiores apoyados en la almohadilla y el pecho contra ella.",
+      "Sostén una mancuerna en cada mano con las palmas hacia arriba y los brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un segundo apretando el bíceps.",
+      "Inhala y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0373": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps con mancuerna en agarre pronado",
+    "description": "Extensión de tríceps por encima de la cabeza utilizando agarre pronado a dos manos sobre una sola mancuerna. La toma con palmas hacia abajo enfatiza la cabeza medial del tríceps y suma trabajo a los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco o silla con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén una mancuerna con ambas manos, palmas hacia abajo, y extiende los brazos por encima de la cabeza.",
+      "Manteniendo los brazos superiores cerca de la cabeza y los codos al frente, baja despacio la mancuerna detrás de la cabeza flexionando los codos.",
+      "Haz una pausa y vuelve a extender los brazos hasta la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0374": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl con mancuernas tumbado boca abajo en banco inclinado",
+    "description": "Curl ejecutado boca abajo sobre banco inclinado a 45 grados, con agarre pronado para enfatizar el braquial y los antebrazos. La posición elimina el balanceo y produce una contracción muy estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Ajusta el banco a una inclinación de 45 grados.",
+      "Acuéstate boca abajo con el pecho y el abdomen apoyados en el banco.",
+      "Sostén una mancuerna en cada mano con las palmas hacia abajo y los brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído por completo y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0375": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover con mancuerna",
+    "description": "Movimiento clásico que abre la caja torácica al llevar la mancuerna en arco detrás de la cabeza. Trabaja el pectoral mayor en estiramiento y recluta los dorsales y el tríceps al regresar la carga sobre el pecho.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco con la cabeza en un extremo y los pies en el suelo.",
+      "Sostén una mancuerna con ambas manos y extiende los brazos por encima del pecho.",
+      "Manteniendo una ligera flexión en los codos, baja despacio la mancuerna detrás de la cabeza hasta sentir un estiramiento en pecho y hombros.",
+      "Haz una pausa y vuelve a subir la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0376": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación con mancuernas",
+    "description": "Elevación lateral básica que trabaja el deltoides medio con un patrón controlado. La leve flexión de codos y la espalda recta concentran la tensión en el hombro y limitan el aporte de los trapecios.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Mantén la espalda recta y activa el core.",
+      "Sube los brazos hacia los lados hasta que queden paralelos al suelo, manteniendo una ligera flexión de codos.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0377": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo posterior con mancuernas para deltoides",
+    "description": "Remo con mancuernas en bisagra de cadera enfocado en el deltoides posterior. La trayectoria amplia y la retracción escapular trabajan trapecio medio y romboides, mejorando la postura y la salud del hombro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Sostén una mancuerna en cada mano con las palmas hacia el cuerpo.",
+      "Inclínate hacia adelante desde la cintura, con la espalda recta y el core activo.",
+      "Extiende los brazos hacia el suelo con una ligera flexión en los codos.",
+      "Sube las mancuernas hacia los lados juntando las escápulas.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0378": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Apertura posterior con mancuernas",
+    "description": "Aislamiento del deltoides posterior con bisagra de cadera y leve flexión de codos. La apertura amplia mejora la simetría del hombro y refuerza romboides y trapecio medio para una mejor postura.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
+      "Extiende los brazos hacia el suelo con las palmas enfrentadas.",
+      "Manteniendo una ligera flexión en los codos, sube los brazos hacia los lados juntando las escápulas.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0379": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación posterior con mancuernas y cabeza apoyada",
+    "description": "Variante de la elevación posterior con torso inclinado y leve apoyo de cabeza para reducir la tensión cervical. Aísla los deltoides posteriores y trabaja trapecios y romboides con menor riesgo de inercia.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
+      "Sube los brazos hacia los lados manteniendo una ligera flexión en los codos hasta dejarlos paralelos al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0380": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación posterior con mancuernas",
+    "description": "Versión clásica del aislamiento de deltoides posterior con bisagra de cadera. La trayectoria a los lados con codos suaves enfatiza la parte trasera del hombro y suma trabajo a trapecios y romboides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta y el core activo.",
+      "Sube los brazos hacia los lados con una ligera flexión en los codos hasta dejarlos paralelos al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0381": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Zancada hacia atrás con mancuernas",
+    "description": "Zancada inversa que sobrecarga al glúteo mayor mientras descarga la rodilla delantera respecto a la zancada frontal. Las mancuernas a los lados suman estímulo y exigen un core estable para conservar el equilibrio.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y una mancuerna en cada mano.",
+      "Da un paso atrás con el pie derecho bajando a una zancada.",
+      "Flexiona la rodilla izquierda hasta que el muslo izquierdo quede paralelo al suelo.",
+      "Haz una pausa y empuja con el talón izquierdo para volver a la posición inicial.",
+      "Repite del otro lado dando el paso atrás con el pie izquierdo."
     ]
   },
   "0382": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps con mancuernas en agarre invertido",
+    "description": "Curl con agarre pronado que desplaza la tensión hacia el braquial y el braquiorradial. Es un excelente accesorio para el grosor del antebrazo y para variar el estímulo del bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con la espalda recta y una mancuerna en cada mano, palmas hacia abajo y brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0383": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Apertura inversa con mancuernas",
+    "description": "Movimiento aislado para los hombros traseros con bisagra desde la cadera. La apertura controlada con codos suaves trabaja la parte posterior del deltoides, mejorando postura y salud del hombro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
+      "Extiende los brazos hacia adelante y hacia abajo con las palmas enfrentadas.",
+      "Manteniendo una ligera flexión en los codos, sube los brazos hacia los lados hasta dejarlos paralelos al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0384": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador inverso con mancuernas",
+    "description": "Curl predicador con agarre supinado que combina el aislamiento del banco con la toma invertida. La almohadilla bloquea el hombro y obliga a una contracción estricta de bíceps y antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Siéntate en un banco predicador con los brazos superiores en la almohadilla y el pecho contra el soporte.",
+      "Sostén una mancuerna en cada mano con agarre supinado, palmas hacia arriba.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un segundo apretando el bíceps.",
+      "Inhala y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0385": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca inverso con mancuernas",
+    "description": "Aislamiento de los extensores de muñeca con agarre pronado, sentado y con los antebrazos apoyados en los muslos. Trabaja la cara externa del antebrazo y mejora el agarre para movimientos compuestos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco o silla con los pies apoyados en el suelo.",
+      "Sostén una mancuerna en cada mano con agarre pronado, palmas hacia abajo.",
+      "Apoya los antebrazos en los muslos dejando las muñecas por fuera del borde.",
+      "Sube despacio las muñecas llevando las mancuernas hacia el cuerpo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0386": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Apertura inversa con rotación y mancuernas",
+    "description": "Variante de la apertura posterior con rotación de muñeca al final del recorrido. La rotación añade estímulo al manguito rotador y enfatiza el deltoides posterior junto con trapecio medio y romboides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia adentro.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta y el pecho arriba.",
+      "Sube los brazos hacia los lados con una ligera flexión en los codos hasta dejarlos paralelos al suelo.",
+      "Rota los brazos para que las palmas queden mirando hacia abajo.",
+      "Baja despacio los brazos a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0387": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación frontal alterna sentado con mancuernas",
+    "description": "Aislamiento del deltoides anterior ejecutado sentado para reducir la inercia. El patrón alterno permite enfocarse en una mancuerna a la vez y corregir asimetrías entre hombros.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén una mancuerna en cada mano con las palmas hacia el cuerpo y los brazos extendidos a los lados.",
+      "Manteniendo los brazos rectos, sube una mancuerna al frente hasta dejarla paralela al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite con el otro brazo.",
+      "Alterna brazos durante las repeticiones deseadas."
     ]
   },
   "0388": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros alterno sentado con mancuernas",
+    "description": "Empuje vertical alterno realizado sentado, donde una mancuerna sube mientras la otra espera en la posición inicial. La ejecución alterna prolonga la tensión sobre el deltoides y reduce la fatiga compartida.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con una mancuerna en cada mano, palmas hacia adelante.",
+      "Sube las mancuernas a la altura de los hombros con los codos flexionados y palmas al frente.",
+      "Empuja una mancuerna sobre la cabeza extendiendo el brazo por completo.",
+      "Baja la mancuerna a la altura del hombro.",
+      "Repite con el otro brazo.",
+      "Sigue alternando brazos durante las repeticiones deseadas."
     ]
   },
   "0389": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps sentado en banco con mancuerna",
+    "description": "Extensión por encima de la cabeza con una mancuerna sostenida a dos manos. La posición sentada estabiliza la columna y permite un buen estiramiento de la cabeza larga del tríceps en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén una mancuerna con ambas manos y extiende los brazos por encima de la cabeza.",
+      "Baja despacio la mancuerna detrás de la cabeza, manteniendo los codos cerca de las orejas.",
+      "Haz una pausa y vuelve a subir la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0390": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps sentado con mancuernas sobre balón de estabilidad",
+    "description": "Curl de bíceps clásico ejecutado sentado en un balón de estabilidad. La superficie inestable suma demanda al core y a los estabilizadores de cadera mientras se trabaja el bíceps con técnica estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sostén una mancuerna en cada mano con las palmas hacia adelante y los brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0391": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps sentado con mancuernas",
+    "description": "Curl básico ejecutado sentado para minimizar el balanceo del cuerpo. La posición fija obliga a aislar el bíceps en cada repetición y permite controlar mejor la fase excéntrica.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y una mancuerna en cada mano, palmas hacia adelante.",
+      "Mantén la espalda recta y los codos cerca del torso.",
+      "Exhala y sube las mancuernas hacia los hombros contrayendo el bíceps.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0392": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación frontal sentado con mancuernas",
+    "description": "Aislamiento del deltoides anterior realizado sentado, lo que minimiza la inercia y obliga a un movimiento controlado. La elevación al frente con palmas abajo construye la cara delantera del hombro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y una mancuerna en cada mano sobre los muslos.",
+      "Mantén la espalda recta y el core activo.",
+      "Sube las mancuernas al frente con las palmas hacia abajo hasta la altura del hombro.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0393": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl interno sentado con mancuernas",
+    "description": "Curl con los brazos superiores apoyados en los muslos para anular cualquier ayuda del torso. La fijación produce una contracción muy estricta del bíceps y suma trabajo a los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas hacia arriba.",
+      "Apoya los brazos superiores sobre los muslos dejando colgar las mancuernas.",
+      "Manteniendo los brazos superiores fijos, sube las mancuernas hacia los hombros contrayendo el bíceps.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0394": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Patada de tríceps sentado con mancuernas",
+    "description": "Patada de tríceps ejecutada sentado en banco con torso inclinado al frente. Mantener una postura estable mejora el aislamiento del tríceps y limita la trampa con la espalda baja.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas e inclina el torso al frente desde la cadera con la espalda recta.",
+      "Lleva los brazos superiores cerca del costado y mantén los codos a 90 grados.",
+      "Extiende los brazos hacia atrás apretando el tríceps al final del recorrido.",
+      "Haz una pausa y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0395": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral sentado con mancuernas v.2",
+    "description": "Variante sentada de la elevación lateral con un ligero empuje del rango. La posición fija reduce la inercia y obliga al deltoides medio a hacer todo el trabajo durante la subida y la bajada.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y una mancuerna en cada mano sobre los muslos.",
+      "Mantén la espalda recta y el core activo.",
+      "Sube las mancuernas a los lados con una ligera flexión de codos hasta dejar los brazos paralelos al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0396": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral sentado con mancuernas",
+    "description": "Aislamiento clásico del deltoides medio ejecutado sentado para evitar el balanceo del cuerpo. La estabilidad facilita controlar la cadencia y construir anchura en los hombros con técnica estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y una mancuerna en cada mano sobre los muslos.",
+      "Mantén la espalda recta y el core activo.",
+      "Sube las mancuernas a los lados con una ligera flexión de codos hasta dejar los brazos paralelos al suelo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0397": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca neutro sentado con mancuernas",
+    "description": "Curl de muñeca con agarre neutro y antebrazos apoyados en los muslos. La toma martillo trabaja braquiorradial y flexores de muñeca, sumando grosor al antebrazo con un recorrido corto.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas enfrentadas.",
+      "Apoya los antebrazos en los muslos dejando colgar las mancuernas.",
+      "Manteniendo las muñecas en posición neutra, sube las mancuernas hacia los hombros.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0398": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Patada de tríceps sentado a un brazo con mancuerna",
+    "description": "Versión unilateral de la patada de tríceps ejecutada sentado para mantener el torso estable. Concentrarse en un brazo a la vez mejora la conexión mente-músculo con el tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en una mano.",
+      "Inclina el torso hacia adelante desde la cadera con la espalda recta y casi paralela al suelo.",
+      "Extiende el brazo recto hacia atrás manteniendo el codo cerca del cuerpo.",
+      "Haz una pausa arriba y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0399": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Rotación externa sentado a un brazo con mancuerna",
+    "description": "Trabajo rotacional para los antebrazos y el manguito rotador. La rotación externa con la mancuerna construye control articular y mejora la salud del hombro como ejercicio prehabilitador.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con la espalda recta y sostén una mancuerna en una mano, apoyada en el muslo.",
+      "Sube la mancuerna a la altura del hombro manteniendo el codo cerca del cuerpo.",
+      "Rota el antebrazo hacia afuera, alejándolo del cuerpo, sin mover el brazo superior.",
+      "Haz una pausa arriba y rota despacio el antebrazo a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0400": {
-    "name": "Ejercicio de mancuerna para pantorrillas",
-    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de pantorrilla sentado a una pierna con mancuerna",
+    "description": "Trabajo unilateral de gemelo y sóleo realizado sentado y con la mancuerna apoyada sobre el muslo. Trabajar una pierna a la vez ayuda a corregir asimetrías de fuerza en la pantorrilla.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco o silla con los pies apoyados en el suelo y una mancuerna sobre el muslo derecho.",
+      "Extiende la pierna izquierda al frente manteniendo el pie en flexión.",
+      "Coloca la punta del pie derecho sobre una superficie elevada como un escalón o un disco.",
+      "Usando la pantorrilla, eleva el talón derecho lo más alto posible.",
+      "Haz una pausa arriba y baja despacio el talón a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
   "0401": {
-    "name": "Ejercicio de mancuerna para antebrazos",
-    "description": "Ejercicio de mancuerna para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca sentado con palmas arriba y mancuernas",
+    "description": "Aislamiento de los flexores de muñeca con agarre supinado y antebrazos apoyados en los muslos. El recorrido corto y la posición sentada concentran la tensión en la cara interna del antebrazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas hacia arriba.",
+      "Apoya los antebrazos en los muslos dejando las muñecas por fuera del borde.",
+      "Sube despacio las muñecas apretando los antebrazos al final del recorrido.",
+      "Haz una pausa y baja despacio las muñecas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0402": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador sentado a un brazo con mancuerna",
+    "description": "Curl predicador unilateral con la espalda apoyada en la almohadilla. La toma supinada y la fijación del codo aíslan al bíceps por completo, ideal para corregir descompensaciones entre brazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco predicador con los pies apoyados en el suelo.",
+      "Sostén una mancuerna en una mano con agarre supinado, apoyando el brazo superior contra la almohadilla.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0403": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl concentrado sentado con agarre invertido y mancuerna",
+    "description": "Curl concentrado clásico con agarre supinado, sentado y con el codo apoyado en el muslo. La fijación elimina la trampa y produce una contracción estricta del bíceps en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en una mano, palma hacia arriba.",
+      "Apoya el codo en la cara interna del muslo, justo arriba de la rodilla.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro.",
+      "Haz una pausa arriba apretando el bíceps.",
+      "Inhala y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0404": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros sentado con mancuernas en agarre paralelo",
+    "description": "Empuje vertical sentado con agarre neutro y palmas enfrentadas. El agarre paralelo es más amable con el hombro y enfatiza el deltoides anterior junto con tríceps y espalda alta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con una mancuerna en cada mano, palmas enfrentadas.",
+      "Sube las mancuernas a la altura del hombro, codos flexionados y palmas hacia adelante.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la altura del hombro.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0405": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros sentado con mancuernas",
+    "description": "Empuje vertical sentado, uno de los pilares para construir hombros. Las palmas hacia adelante enfatizan el deltoides anterior y permiten manejar cargas significativas con un patrón estable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con una mancuerna en cada mano, apoyadas en los muslos.",
+      "Sube las mancuernas a la altura del hombro con las palmas hacia adelante.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la altura del hombro.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0406": {
-    "name": "Ejercicio de mancuerna para trapecios",
-    "description": "Ejercicio de mancuerna para trapecios es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los trapecios. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Encogimiento de hombros con mancuernas",
+    "description": "Movimiento aislado para los trapecios superiores. Subir los hombros con las mancuernas a los lados construye grosor en la parte superior de la espalda y mejora la postura.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de trapecios.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los trapecios.",
-      "Contrae los trapecios en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano con las palmas hacia el cuerpo.",
+      "Mantén los brazos rectos dejando que las mancuernas cuelguen a los lados.",
+      "Sube los hombros lo más alto posible, como si quisieras tocar las orejas con ellos.",
+      "Mantén la contracción un segundo y baja despacio los hombros a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0407": {
-    "name": "Ejercicio de mancuerna para abdominales",
-    "description": "Ejercicio de mancuerna para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Inclinación lateral con mancuerna",
+    "description": "Trabajo de oblicuos y abdominales con carga a un lado del cuerpo. La inclinación lateral controlada exige al core anti-lateroflexión y construye fuerza funcional en la zona media.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento."
+      "Párate con la espalda recta, los pies al ancho de los hombros y sostén una mancuerna en una mano colgando al costado.",
+      "Manteniendo la espalda recta y el core activo, inclínate despacio hacia el lado opuesto a la mancuerna bajando el peso lo más que puedas con comodidad.",
+      "Haz una pausa y vuelve despacio a la posición inicial.",
+      "Repite las repeticiones deseadas, cambia de lado y repite."
     ]
   },
   "0408": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral acostado de costado con mancuerna",
+    "description": "Aislamiento del deltoides medio ejecutado tumbado de costado, lo que pone al hombro contra una palanca distinta y aumenta la tensión al inicio del recorrido. Apoya cabeza y core para mantener el cuerpo estable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate de costado con las piernas extendidas y la cabeza apoyada en el brazo.",
+      "Sostén una mancuerna en la mano superior con la palma hacia abajo.",
+      "Manteniendo el brazo recto, sube la mancuerna a la altura del hombro.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de lado."
     ]
   },
   "0409": {
-    "name": "Ejercicio de mancuerna para pantorrillas",
-    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de pantorrilla a una pierna con mancuerna",
+    "description": "Trabajo unilateral de gemelo y sóleo de pie con la punta apoyada en un escalón. La mancuerna aumenta la sobrecarga y la pierna libre fuerza al gemelo trabajado a hacer todo el esfuerzo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate al borde de un escalón o plataforma con los talones por fuera y las puntas en el escalón.",
+      "Sostén una mancuerna en una mano y apoya la otra en una pared o baranda para estabilizar.",
+      "Eleva el talón lo más alto posible, subiendo el cuerpo sobre las puntas de los pies.",
+      "Haz una pausa arriba y baja despacio el talón por debajo del escalón.",
+      "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
   "0410": {
-    "name": "Ejercicio de mancuerna para cuádriceps",
-    "description": "Ejercicio de mancuerna para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla búlgara con mancuernas",
+    "description": "Sentadilla unilateral con el pie trasero elevado en un banco. Sobrecarga el cuádriceps de la pierna delantera y exige equilibrio y fuerza en glúteo medio para conservar la cadera estable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano.",
+      "Da un paso al frente con un pie y eleva el pie de atrás sobre un banco o escalón.",
+      "Baja el cuerpo flexionando rodilla y cadera delanteras, manteniendo la rodilla trasera ligeramente flexionada y el talón trasero levantado.",
+      "Sigue bajando hasta que el muslo delantero quede paralelo al suelo y empuja con el talón delantero para volver a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
   "0411": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla a una pierna con mancuernas",
+    "description": "Sentadilla unilateral con la pierna libre extendida al frente, ejecutada con mancuernas para sumar carga. Demanda gran equilibrio y control de cadera, recompensando con fuerza pura en glúteos y cuádriceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano.",
+      "Extiende una pierna al frente y mantenla separada del suelo durante todo el ejercicio.",
+      "Flexiona la pierna de apoyo y baja como si fueras a sentarte en una silla.",
+      "Mantén el pecho arriba y la espalda recta.",
+      "Haz una pausa abajo y empuja con el talón para volver a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
   "0413": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla con mancuernas",
+    "description": "Sentadilla básica con mancuernas a los lados, una alternativa accesible a la sentadilla con barra. Construye fuerza en glúteos, cuádriceps e isquiotibiales con un patrón motor sencillo de aprender.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano a los costados.",
+      "Manteniendo el pecho arriba y el core activo, baja flexionando rodillas y cadera como si fueras a sentarte en una silla.",
+      "Sigue bajando hasta que los muslos queden paralelos al suelo o hasta donde te resulte cómodo.",
+      "Haz una pausa abajo y empuja con los talones para volver a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0414": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press militar alterno de pie con mancuernas",
+    "description": "Empuje vertical alterno de pie que mantiene una mancuerna abajo mientras la otra sube. La carga asimétrica desafía al core anti-rotación y construye fuerza unilateral en hombros y tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano a la altura del hombro con las palmas hacia adelante.",
+      "Empuja una mancuerna sobre la cabeza extendiendo el brazo por completo.",
+      "Baja la mancuerna a la altura del hombro.",
+      "Repite con el otro brazo.",
+      "Sigue alternando brazos durante las repeticiones deseadas."
     ]
   },
   "0415": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación lateral alterna de pie con mancuernas",
+    "description": "Elevación lateral con patrón alterno que distribuye la fatiga entre brazos. Permite enfocarse en una mancuerna a la vez y prolonga la tensión sobre el deltoides medio en cada serie.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano con las palmas hacia el cuerpo.",
+      "Mantén la espalda recta y el core activo.",
+      "Sube una mancuerna hacia un lado con el brazo casi recto y la palma hacia abajo.",
+      "Sigue subiendo hasta que el brazo quede paralelo al suelo.",
+      "Haz una pausa arriba y baja despacio la mancuerna a la posición inicial.",
+      "Repite con el otro brazo.",
+      "Alterna brazos durante las repeticiones deseadas."
     ]
   },
   "0416": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps de pie con mancuernas",
+    "description": "Curl clásico de pie, uno de los pilares para construir el bíceps. La toma supinada con mancuernas permite una contracción completa al final del recorrido y suma trabajo a los antebrazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con la espalda recta y una mancuerna en cada mano, palmas hacia adelante y brazos extendidos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído por completo y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0417": {
-    "name": "Ejercicio de mancuerna para pantorrillas",
-    "description": "Ejercicio de mancuerna para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de pantorrilla de pie con mancuernas",
+    "description": "Trabajo bilateral de gemelos sosteniendo mancuernas a los lados para sumar carga. La cadencia controlada en la subida y la bajada genera tensión sostenida en la pantorrilla.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano.",
+      "Eleva los talones del suelo lo más alto posible empujando con las pantorrillas.",
+      "Haz una pausa arriba y baja despacio los talones a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0418": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl concentrado de pie con mancuerna",
+    "description": "Curl concentrado en posición de pie con la mano libre apoyada en el muslo. La fijación del brazo superior aísla el bíceps y construye un pico marcado con una contracción muy estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano con el brazo extendido y la palma hacia adentro.",
+      "Apoya la mano libre en el muslo para estabilizar.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y la mancuerna a la altura del hombro.",
+      "Mantén la contracción un segundo apretando el bíceps.",
+      "Inhala y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0419": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación frontal de pie con mancuernas por encima de la cabeza",
+    "description": "Variante de la elevación frontal con un rango ampliado por encima de la cabeza. Trabaja deltoides anterior con un recorrido más largo que la versión clásica y suma estímulo al trapecio.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano con agarre pronado.",
+      "Mantén los brazos rectos y sube las mancuernas al frente hasta dejarlas por encima de la cabeza.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0420": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Patada de tríceps de pie con mancuernas",
+    "description": "Patada de tríceps con bisagra de cadera y mancuernas en ambas manos. La extensión simultánea de los dos brazos hacia atrás reduce el tiempo de serie y aprieta fuertemente la cabeza larga del tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
+      "Extiende los brazos rectos hacia atrás apretando el tríceps al final del recorrido.",
+      "Haz una pausa y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0421": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl concentrado a un brazo de pie con mancuerna",
+    "description": "Curl concentrado unilateral de pie, ideal para enfocarse en un solo bíceps a la vez. La mano libre sobre el muslo limita la trampa y permite un trabajo de calidad para corregir asimetrías.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano, palma hacia arriba.",
+      "Apoya la mano libre en el muslo para estabilizar.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y la mancuerna a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0422": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de pie a un brazo con apoyo en banco inclinado y mancuerna",
+    "description": "Curl unilateral de pie con la mano libre apoyada en un banco inclinado. La estabilización extra elimina el balanceo y permite manejar cargas con una técnica muy estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en una mano con la palma hacia adelante.",
+      "Apoya la otra mano en un banco inclinado para estabilizar.",
+      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0423": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps a un brazo de pie con mancuerna",
+    "description": "Extensión por encima de la cabeza ejecutada de pie y a un brazo. La carga unilateral suma trabajo al core para resistir la inclinación lateral, mientras el tríceps se estira en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en una mano.",
+      "Eleva la mancuerna por encima de la cabeza extendiendo el brazo por completo.",
+      "Mantén el brazo superior cerca de la cabeza y perpendicular al suelo.",
+      "Baja despacio la mancuerna detrás de la cabeza flexionando el codo.",
+      "Haz una pausa y vuelve a subir la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0424": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros a un brazo de pie con palma hacia adentro y mancuerna",
+    "description": "Empuje vertical unilateral con agarre neutro de pie. La palma hacia adentro respeta más al hombro que las variantes pronadas y exige al core resistir la rotación durante el empuje.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en una mano a la altura del hombro con la palma hacia adentro.",
+      "Activa el core y mantén la espalda recta.",
+      "Empuja la mancuerna hacia arriba hasta extender el brazo por completo.",
+      "Haz una pausa arriba y baja despacio la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0425": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl inverso a un brazo de pie con mancuerna",
+    "description": "Curl unilateral con agarre pronado, ideal para variar el estímulo del bíceps y enfatizar el braquial. La ejecución a un brazo permite enfocarse en la calidad de cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con la espalda recta y los pies al ancho de los hombros, sosteniendo una mancuerna en una mano con agarre pronado.",
+      "Mantén el brazo extendido y cerca del cuerpo, con la palma hacia abajo.",
+      "Sube despacio la mancuerna hacia el hombro manteniendo el brazo superior fijo.",
+      "Haz una pausa arriba y baja despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0426": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press militar de pie con mancuernas",
+    "description": "Empuje vertical de pie, uno de los compuestos más completos para hombros. Construye fuerza en deltoides y tríceps, exigiendo al core mantener la columna estable bajo la carga sobre la cabeza.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano a la altura del hombro con las palmas hacia adelante.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la altura del hombro.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0427": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros de pie con mancuernas en agarre neutro",
+    "description": "Empuje vertical de pie con palmas enfrentadas durante todo el recorrido. El agarre neutro reduce el estrés sobre el manguito rotador y enfatiza el deltoides anterior junto con tríceps y pecho.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano a la altura del hombro con las palmas hacia adentro.",
+      "Manteniendo el core activo y la espalda recta, empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0428": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador de pie con mancuernas",
+    "description": "Curl predicador en posición de pie, con los brazos superiores apoyados sobre el banco inclinado. La fijación replica la mecánica del predicador clásico y construye un pico marcado en el bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia adelante.",
+      "Apoya la parte trasera de los brazos superiores contra el banco predicador o un banco inclinado, con los codos ligeramente flexionados.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0429": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl inverso de pie con mancuernas",
+    "description": "Curl bilateral con agarre pronado de pie. Trasladar la tensión al braquial y al braquiorradial mejora el grosor del antebrazo y suma variedad al entrenamiento de bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con la espalda recta y los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps. Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Inhala y baja despacio las mancuernas a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0430": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps de pie con mancuerna",
+    "description": "Extensión por encima de la cabeza con una sola mancuerna en posición de pie. El recorrido completo estira la cabeza larga del tríceps y demanda al core para mantener la columna neutra bajo la carga.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano.",
+      "Eleva la mancuerna por encima de la cabeza manteniendo el brazo recto.",
+      "Flexiona el codo y baja la mancuerna detrás de la cabeza manteniendo el brazo superior fijo.",
+      "Extiende el brazo hasta la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0431": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Subida al cajón con mancuernas",
+    "description": "Movimiento unilateral funcional en el que se sube a un banco con una pierna mientras se sostienen mancuernas. Construye fuerza y potencia en glúteos y cuádriceps con alta transferencia a actividades cotidianas.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate frente a un banco o escalón con una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Coloca el pie derecho sobre el banco asegurándote de que toda la planta esté en contacto con la superficie.",
+      "Empuja con el talón derecho y sube el cuerpo hasta el banco extendiendo la pierna derecha.",
+      "Sube el pie izquierdo al banco quedando completamente de pie.",
+      "Baja primero con el pie izquierdo y luego con el derecho hasta volver a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
   "0432": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Peso muerto rumano con piernas casi rectas y mancuernas",
+    "description": "Bisagra de cadera con piernas casi rectas y mancuernas a los lados. Estira y trabaja la cadena posterior, fortaleciendo glúteos, isquiotibiales y zona lumbar con un patrón clave para la salud de la espalda.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano con agarre pronado.",
+      "Manteniendo la espalda recta y el core activo, bisagra desde la cadera y baja las mancuernas hacia el suelo permitiendo una ligera flexión de rodillas.",
+      "Baja las mancuernas hasta sentir un estiramiento en los isquiotibiales, aprieta los glúteos y empuja con los talones para volver a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0433": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover con brazos rectos y mancuerna",
+    "description": "Variante del pullover ejecutada con los brazos completamente rectos para enfatizar el estiramiento del pectoral y el dorsal. El arco amplio detrás de la cabeza demanda buena movilidad escapular.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco con la cabeza en un extremo y los pies firmes en el suelo.",
+      "Sostén una mancuerna con ambas manos y extiende los brazos rectos sobre el pecho.",
+      "Manteniendo los brazos rectos, baja despacio la mancuerna detrás de la cabeza en un arco.",
+      "Haz una pausa y vuelve a subir la mancuerna a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0434": {
-    "name": "Ejercicio de mancuerna para glúteos",
-    "description": "Ejercicio de mancuerna para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Peso muerto con piernas rectas y mancuernas",
+    "description": "Variante del peso muerto rumano con énfasis en mantener las piernas rectas. Produce un fuerte estiramiento en isquiotibiales y glúteos, con apoyo de la zona lumbar para extender la cadera.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano con agarre pronado.",
+      "Manteniendo la espalda recta y el core activo, bisagra desde la cadera y baja las mancuernas hacia el suelo dejando que el torso se incline al frente.",
+      "Sigue bajando hasta sentir un estiramiento en los isquiotibiales, manteniendo las rodillas casi rectas.",
+      "Haz una pausa abajo, contrae glúteos e isquiotibiales y sube el torso a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0436": {
-    "name": "Ejercicio de mancuerna para tríceps",
-    "description": "Ejercicio de mancuerna para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press Tate con mancuernas",
+    "description": "Press de tríceps específico con un patrón angular que dirige los codos hacia afuera. Trabaja la cabeza medial del tríceps con una mecánica única, ideal como accesorio para fortalecer el bloqueo del press.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento."
+      "Siéntate en un banco plano con una mancuerna en cada mano, palmas enfrentadas.",
+      "Sube las mancuernas a la altura del hombro y rota las muñecas hasta que las palmas miren hacia afuera.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos y baja a la altura del hombro.",
+      "Rota las muñecas a la posición inicial y repite las repeticiones deseadas."
     ]
   },
   "0437": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo al mentón con mancuernas",
+    "description": "Tirón vertical con mancuernas que enfatiza al deltoides medio y a los trapecios. Liderar con los codos y mantener un agarre amplio reduce el estrés sobre el hombro y mejora la activación.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano con agarre pronado.",
+      "Deja colgar las mancuernas delante de los muslos con los brazos extendidos.",
+      "Manteniendo la espalda recta y el core activo, exhala y sube las mancuernas hacia la barbilla guiando con los codos.",
+      "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0438": {
-    "name": "Ejercicio de mancuerna para deltoides",
-    "description": "Ejercicio de mancuerna para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press en W con mancuernas",
+    "description": "Empuje vertical sentado en el que los brazos forman una W al inicio del recorrido. Trabaja deltoides, tríceps y pecho con un patrón de aducción escapular que favorece la salud del hombro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con una mancuerna en cada mano, palmas hacia adelante.",
+      "Sube las mancuernas a la altura del hombro con los codos flexionados y palmas al frente.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
+      "Baja las mancuernas a la altura del hombro.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0439": {
-    "name": "Ejercicio de mancuerna para bíceps",
-    "description": "Ejercicio de mancuerna para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl Zottman con mancuernas",
+    "description": "Curl que combina la fase concéntrica supinada con la excéntrica pronada. Trabaja bíceps, braquial y antebrazos en una sola repetición, optimizando el tiempo y sumando fuerza de agarre.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Párate con la espalda recta y una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Mantén los codos pegados al torso y rota las palmas para que queden mirando al frente.",
+      "Sube las mancuernas hasta los hombros manteniendo los brazos superiores fijos.",
+      "Arriba, rota las muñecas hasta que las palmas miren hacia adelante (alejándose del cuerpo).",
+      "Baja despacio las mancuernas a la posición inicial rotando las palmas hacia el cuerpo.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0443": {
-    "name": "Elbow-to-rodilla",
-    "description": "Elbow-to-rodilla es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Codo a rodilla cruzado",
+    "description": "Crunch con rotación que cruza el codo hacia la rodilla opuesta. Activa abdominales y oblicuos en cada giro y construye fuerza rotacional en la zona media sin necesidad de equipamiento.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Coloca las manos detrás de la cabeza con los codos hacia los lados.",
+      "Activa el abdomen y eleva el tronco llevando el codo derecho hacia la rodilla izquierda.",
+      "Al mismo tiempo, lleva la rodilla izquierda hacia el codo derecho creando un giro.",
+      "Haz una pausa arriba y baja despacio el tronco mientras extiendes las piernas a la posición inicial.",
+      "Repite el movimiento llevando ahora el codo izquierdo hacia la rodilla derecha y la rodilla derecha hacia el codo izquierdo.",
+      "Sigue alternando lados durante las repeticiones deseadas."
     ]
   },
   "0445": {
-    "name": "Ejercicio de barra EZ para deltoides",
-    "description": "Ejercicio de barra EZ para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press anti gravedad con barra EZ",
+    "description": "Empuje vertical de pie con barra EZ. La curvatura de la barra es más amable con las muñecas que la barra recta y permite enfocar el trabajo en deltoides, tríceps y pecho durante el recorrido completo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Comienza de pie con los pies al ancho de los hombros sosteniendo la barra EZ con agarre pronado.",
+      "Sube la barra a la altura del hombro manteniendo los codos ligeramente flexionados y las palmas hacia adelante.",
+      "Empuja la barra por encima de la cabeza extendiendo los brazos por completo.",
+      "Baja la barra a la altura del hombro y repite las repeticiones deseadas."
     ]
   },
   "0446": {
-    "name": "Ejercicio de barra EZ para bíceps",
-    "description": "Ejercicio de barra EZ para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl con agarre cerrado y barra EZ",
+    "description": "Curl con barra EZ y manos juntas que enfatiza la cabeza externa del bíceps. La curvatura de la barra reduce el estrés sobre las muñecas y permite manejar cargas con una técnica estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado y manos al ancho de los hombros.",
+      "Mantén los codos pegados al torso y los brazos superiores fijos durante todo el movimiento.",
+      "Sube la barra hacia los hombros contrayendo el bíceps.",
+      "Haz una pausa arriba y baja despacio la barra a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0447": {
-    "name": "Ejercicio de barra EZ para bíceps",
-    "description": "Ejercicio de barra EZ para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl con barra EZ",
+    "description": "Curl clásico con barra EZ, una alternativa más amable para las muñecas que la barra recta. Construye masa y fuerza en el bíceps con apoyo de los antebrazos para sostener el agarre.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado y palmas hacia arriba.",
+      "Mantén los codos pegados al torso y los brazos superiores fijos durante todo el movimiento.",
+      "Exhala mientras subes la barra hacia los hombros contrayendo el bíceps.",
+      "Haz una pausa arriba e inhala mientras bajas despacio la barra a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0448": {
-    "name": "Ejercicio de barra EZ para tríceps",
-    "description": "Ejercicio de barra EZ para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press declinado a la cara con agarre cerrado y barra EZ",
+    "description": "Press de tríceps en banco declinado con barra EZ y agarre cerrado, llevando la barra hacia la frente. Combina aspectos del press cerrado y la extensión de tríceps para un trabajo intenso en la cabeza larga.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate en un banco declinado con la cabeza más baja que los pies.",
+      "Toma la barra EZ con agarre cerrado y palmas enfrentadas.",
+      "Extiende los brazos rectos sobre el pecho manteniendo los codos cerca del cuerpo.",
+      "Baja la barra hacia la frente flexionando los codos.",
+      "Haz una pausa y empuja la barra hasta la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0449": {
-    "name": "Ejercicio de barra EZ para tríceps",
-    "description": "Ejercicio de barra EZ para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps inclinado con barra EZ",
+    "description": "Press francés ejecutado en banco inclinado con barra EZ. La inclinación cambia la palanca y enfatiza la cabeza larga del tríceps, mientras la barra EZ alivia la tensión sobre las muñecas.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ajusta el banco a una inclinación de 45 grados.",
+      "Siéntate en el banco con la espalda apoyada en el respaldo y sostén la barra EZ con agarre pronado.",
+      "Extiende los brazos por completo por encima de la cabeza, con los codos cerca de las orejas.",
+      "Baja la barra detrás de la cabeza flexionando los codos y manteniendo los brazos superiores fijos.",
+      "Haz una pausa y vuelve a extender los brazos hasta la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0450": {
-    "name": "Ejercicio de barra EZ para tríceps",
-    "description": "Ejercicio de barra EZ para tríceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press JM con barra EZ",
+    "description": "Híbrido entre press cerrado y extensión de tríceps creado por el powerlifter JM Blakley. La barra EZ y el agarre cerrado dirigen casi todo el trabajo al tríceps, ideal para mejorar el bloqueo del press.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco plano con los pies firmes en el suelo y la espalda pegada al banco.",
+      "Toma la barra EZ con agarre pronado un poco más ancho que los hombros.",
+      "Baja la barra hacia el pecho manteniendo los codos pegados al cuerpo.",
+      "Empuja la barra hasta la posición inicial extendiendo los brazos por completo.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0451": {
-    "name": "Ejercicio de barra EZ para bíceps",
-    "description": "Ejercicio de barra EZ para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl inverso con barra EZ",
+    "description": "Curl con barra EZ y agarre pronado. La toma invertida desplaza la tensión hacia el braquial y los antebrazos, sumando grosor al brazo y fuerza de agarre.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado.",
+      "Mantén los codos pegados al torso y los brazos superiores fijos durante todo el ejercicio.",
+      "Sube la barra contrayendo el bíceps mientras exhalas.",
+      "Sigue subiendo hasta que el bíceps esté contraído y la barra a la altura del hombro.",
+      "Mantén la contracción un instante apretando el bíceps.",
+      "Baja despacio la barra a la posición inicial mientras inhalas.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0452": {
-    "name": "Ejercicio de barra EZ para bíceps",
-    "description": "Ejercicio de barra EZ para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra EZ y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador inverso con barra EZ",
+    "description": "Curl predicador con barra EZ y agarre invertido. La almohadilla bloquea el hombro y la toma pronada desvía el trabajo al braquial y los antebrazos para construir un brazo más completo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco predicador con el pecho contra la almohadilla y los pies apoyados en el suelo.",
+      "Toma la barra EZ con agarre supinado y manos al ancho de los hombros.",
+      "Apoya los brazos superiores en la almohadilla dejando colgar los antebrazos.",
+      "Manteniendo los brazos superiores fijos, exhala y sube la barra hacia los hombros.",
+      "Haz una pausa arriba e inhala mientras bajas despacio la barra a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   }
 }

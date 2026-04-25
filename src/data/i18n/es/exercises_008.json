@@ -1,1192 +1,1192 @@
 {
-  "1000": {
-    "name": "Ejercicio de banda elástica para pantorrillas",
-    "description": "Ejercicio de banda elástica para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1001": {
-    "name": "Ejercicio de banda elástica para cuádriceps",
-    "description": "Ejercicio de banda elástica para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1002": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1003": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1004": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1005": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1007": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1008": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1009": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1010": {
-    "name": "Ejercicio de banda elástica para columna vertebral",
-    "description": "Ejercicio de banda elástica para columna vertebral es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
-      "Contrae los columna vertebral en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1011": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1012": {
-    "name": "Ejercicio de banda elástica para deltoides",
-    "description": "Ejercicio de banda elástica para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1013": {
-    "name": "Ejercicio de banda elástica para dorsales",
-    "description": "Ejercicio de banda elástica para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1014": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento."
-    ]
-  },
-  "1015": {
-    "name": "Ejercicio de banda elástica para abdominales",
-    "description": "Ejercicio de banda elástica para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1016": {
-    "name": "Ejercicio de banda elástica para antebrazos",
-    "description": "Ejercicio de banda elástica para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1017": {
-    "name": "Ejercicio de banda elástica para deltoides",
-    "description": "Ejercicio de banda elástica para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1018": {
-    "name": "Ejercicio de banda elástica para trapecios",
-    "description": "Ejercicio de banda elástica para trapecios es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los trapecios. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de trapecios.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los trapecios.",
-      "Contrae los trapecios en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1022": {
-    "name": "Ejercicio de banda elástica para deltoides",
-    "description": "Ejercicio de banda elástica para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1023": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1160": {
-    "name": "burpee",
-    "description": "burpee es un ejercicio de cardio de nivel intermedio que trabaja la zona de cardio, principalmente los sistema cardiovascular. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de sistema cardiovascular.",
-      "Activa los músculos de cardio y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los sistema cardiovascular.",
-      "Contrae los sistema cardiovascular en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1167": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de mobility de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1201": {
-    "name": "Ejercicio de mancuerna para sistema cardiovascular",
-    "description": "Ejercicio de mancuerna para sistema cardiovascular es un ejercicio de cardio de nivel avanzado que trabaja la zona de cardio, principalmente los sistema cardiovascular. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de sistema cardiovascular.",
-      "Activa los músculos de cardio y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los sistema cardiovascular.",
-      "Contrae los sistema cardiovascular en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1253": {
-    "name": "Ejercicio de máquina para pantorrillas",
-    "description": "Ejercicio de máquina para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1254": {
-    "name": "Ejercicio de banda elástica para pectorales",
-    "description": "Ejercicio de banda elástica para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1255": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1256": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1257": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1258": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1259": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1260": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1261": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1262": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1263": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1264": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1265": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1266": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1267": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1268": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1269": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1270": {
-    "name": "Ejercicio de polea para pectorales",
-    "description": "Ejercicio de polea para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1271": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1272": {
-    "name": "Ejercicio de balón de estabilidad para pectorales",
-    "description": "Ejercicio de balón de estabilidad para pectorales es un ejercicio de estiramiento de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1273": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de pliometría de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1274": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con dumbbell (used as handles for deeper range) y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento."
-    ]
-  },
-  "1275": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1276": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1277": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1278": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con dumbbell, exercise ball y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1279": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1280": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1281": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1282": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1283": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con dumbbell, exercise ball y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1284": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1285": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1286": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1287": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1288": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1289": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1290": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1291": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1292": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con dumbbell, exercise ball y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1293": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1294": {
-    "name": "Ejercicio de mancuerna para pectorales",
-    "description": "Ejercicio de mancuerna para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con mancuerna y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1295": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con dumbbell, exercise ball y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento."
-    ]
-  },
-  "1296": {
-    "name": "Ejercicio de balón de estabilidad para pectorales",
-    "description": "Ejercicio de balón de estabilidad para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1297": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1298": {
-    "name": "Ejercicio de pesa rusa para pectorales",
-    "description": "Ejercicio de pesa rusa para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con pesa rusa y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1299": {
-    "name": "Ejercicio de máquina para pectorales",
-    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1300": {
-    "name": "Ejercicio de máquina para pectorales",
-    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1301": {
-    "name": "Ejercicio de máquina para pectorales",
-    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1302": {
-    "name": "Ejercicio de balón medicinal para pectorales",
-    "description": "Ejercicio de balón medicinal para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1303": {
-    "name": "Ejercicio de balón medicinal para pectorales",
-    "description": "Ejercicio de balón medicinal para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1304": {
-    "name": "Ejercicio de balón medicinal para pectorales",
-    "description": "Ejercicio de balón medicinal para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento."
-    ]
-  },
-  "1305": {
-    "name": "Ejercicio de balón medicinal para pectorales",
-    "description": "Ejercicio de balón medicinal para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento."
-    ]
-  },
-  "1306": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de pliometría de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1307": {
-    "name": "Ejercicio de balón Bosu para pectorales",
-    "description": "Ejercicio de balón Bosu para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón Bosu y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1308": {
-    "name": "Ejercicio de máquina Smith para pectorales",
-    "description": "Ejercicio de máquina Smith para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1309": {
-    "name": "Ejercicio de máquina Smith para pectorales",
-    "description": "Ejercicio de máquina Smith para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina Smith y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1310": {
-    "name": "Ejercicio de con peso para pectorales",
-    "description": "Ejercicio de con peso para pectorales es un ejercicio de pliometría de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con con peso y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1311": {
-    "name": "Ejercicio de para pectorales",
-    "description": "Ejercicio de para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1312": {
-    "name": "Ejercicio de balón medicinal para pectorales",
-    "description": "Ejercicio de balón medicinal para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1313": {
-    "name": "Ejercicio de máquina para espalda alta",
-    "description": "Ejercicio de máquina para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1314": {
-    "name": "Ejercicio de balón de estabilidad para columna vertebral",
-    "description": "Ejercicio de balón de estabilidad para columna vertebral es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los columna vertebral. Se realiza con balón de estabilidad y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de columna vertebral.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los columna vertebral.",
-      "Contrae los columna vertebral en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1316": {
-    "name": "Ejercicio de barra para dorsales",
-    "description": "Ejercicio de barra para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
-  "1317": {
-    "name": "Ejercicio de barra para espalda alta",
-    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Haz una pausa por un momento at the top of the movement.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1318": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1319": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1320": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1321": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1322": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
-    ]
-  },
-  "1323": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1324": {
-    "name": "Ejercicio de polea para espalda alta",
-    "description": "Ejercicio de polea para espalda alta es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Haz una pausa por un momento at the top of the movement.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
-    ]
-  },
-  "1325": {
-    "name": "Ejercicio de polea para dorsales",
-    "description": "Ejercicio de polea para dorsales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de espalda, principalmente los dorsales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
-    ]
-  },
-  "1326": {
-    "name": "dominada",
-    "description": "dominada es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
-    "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
-    ]
-  },
   "0996": {
-    "name": "Ejercicio de banda elástica para glúteos",
-    "description": "Ejercicio de banda elástica para glúteos es un ejercicio de mobility de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Rotación interna de cadera sentado con banda",
+    "description": "Sentado en silla con la banda alrededor de los muslos, abres las rodillas hacia afuera contra la resistencia para activar los glúteos y mejorar la movilidad de cadera. Es un ejercicio suave, ideal como calentamiento o trabajo de rehabilitación.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en una silla o banco con la espalda recta y los pies apoyados en el suelo.",
+      "Coloca una banda de resistencia alrededor de los muslos, justo por encima de las rodillas.",
+      "Mantén las rodillas flexionadas a 90 grados y los pies separados al ancho de los hombros.",
+      "Activa los glúteos y rota lentamente las rodillas hacia afuera, empujando contra la resistencia de la banda.",
+      "Haz una pausa breve al final del movimiento y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0997": {
-    "name": "Ejercicio de banda elástica para deltoides",
-    "description": "Ejercicio de banda elástica para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de hombros con banda",
+    "description": "El press de hombros con banda replica el patrón del press militar usando la resistencia elástica para cargar deltoides y tríceps. La tensión variable de la banda exige más control en la parte alta del recorrido.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies separados al ancho de los hombros y coloca la banda debajo de los pies.",
+      "Sujeta la banda con las palmas hacia adelante y lleva las manos a la altura de los hombros con los codos flexionados.",
+      "Empuja la banda por encima de la cabeza, extendiendo los brazos por completo.",
+      "Haz una pausa arriba y baja despacio hasta la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0998": {
-    "name": "Ejercicio de banda elástica para tríceps",
-    "description": "Ejercicio de banda elástica para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión lateral de tríceps con banda",
+    "description": "Una variante de aislamiento para tríceps que parte con los brazos abiertos en cruz. La banda mantiene tensión constante mientras flexionas los codos hacia los hombros, sumando trabajo accesorio sobre los deltoides.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies separados al ancho de los hombros y sujeta la banda con ambas manos, palmas hacia abajo.",
+      "Extiende los brazos rectos hacia los lados, paralelos al suelo.",
+      "Flexiona los codos lentamente y lleva las manos hacia los hombros, manteniendo los brazos quietos.",
+      "Haz una pausa breve y extiende los brazos otra vez hacia los lados.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0999": {
-    "name": "Ejercicio de banda elástica para pantorrillas",
-    "description": "Ejercicio de banda elástica para pantorrillas es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con banda elástica y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de pantorrilla a una pierna con banda",
+    "description": "Trabajo unilateral de gemelos con banda bajo la planta del pie. Al cargar una sola pierna se incrementa la demanda de equilibrio y se aísla cada lado para corregir asimetrías.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Párate con los pies separados al ancho de las caderas y coloca la banda alrededor de la planta del pie izquierdo.",
+      "Apóyate en un objeto estable para mantener el equilibrio si lo necesitas.",
+      "Eleva lentamente el talón izquierdo del suelo, llevando el peso del cuerpo a la punta del pie.",
+      "Haz una pausa arriba y baja el talón despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
+    ]
+  },
+  "1000": {
+    "name": "Elevación inversa de pantorrilla a una pierna con banda",
+    "description": "Variante unilateral que combina elevación de talón con activación de la cadena posterior. La banda añade tensión y exige estabilidad en el tobillo, mientras isquiotibiales y glúteos colaboran para sostener la postura.",
+    "instructions": [
+      "Párate con los pies separados al ancho de las caderas y coloca la banda alrededor de la planta del pie.",
+      "Apóyate en un objeto estable para mantener el equilibrio.",
+      "Eleva lentamente el talón del suelo, llevando el peso del cuerpo a la punta del pie.",
+      "Haz una pausa arriba y baja el talón despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
+    ]
+  },
+  "1001": {
+    "name": "Sentadilla búlgara con banda",
+    "description": "Sentadilla unilateral con un pie adelantado y la banda en los tobillos para aumentar la tensión en cuádriceps y glúteos. La asimetría obliga a estabilizar la cadera y a controlar el descenso con cada repetición.",
+    "instructions": [
+      "Párate con los pies separados al ancho de las caderas y coloca una banda de resistencia alrededor de los tobillos.",
+      "Da un paso largo adelante con el pie derecho y un paso corto atrás con el pie izquierdo.",
+      "Flexiona las rodillas y baja el cuerpo hasta que el muslo derecho quede paralelo al suelo, dejando la rodilla izquierda apenas por encima del piso.",
+      "Empuja con el talón derecho para volver a la posición inicial.",
+      "Repite del otro lado."
+    ]
+  },
+  "1002": {
+    "name": "Elevación de piernas tendido con banda",
+    "description": "Tendido boca arriba con la banda en los pies, elevas las piernas extendidas hasta la vertical para reclutar abdominales y flexores de cadera. La resistencia de la banda añade carga al recorrido.",
+    "instructions": [
+      "Acuéstate boca arriba con las piernas estiradas y los pies juntos.",
+      "Coloca la banda alrededor de los arcos de los pies y sujeta los extremos con las manos.",
+      "Activa el abdomen y eleva las piernas hasta que queden perpendiculares al suelo.",
+      "Haz una pausa arriba y baja las piernas despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1003": {
+    "name": "Sentadilla con remo con banda",
+    "description": "Movimiento compuesto que une sentadilla y remo con banda anclada al frente. Trabaja glúteos y cuádriceps en la fase inferior y la espalda alta en la fase de tirón, integrando tren superior e inferior en un solo patrón.",
+    "instructions": [
+      "Fija la banda a un anclaje firme a la altura de la cintura.",
+      "Párate frente al anclaje con los pies separados al ancho de los hombros.",
+      "Sujeta los agarres con las palmas enfrentadas y los brazos extendidos al frente.",
+      "Flexiona las rodillas y baja a una sentadilla, manteniendo la espalda recta y el pecho elevado.",
+      "Desde la sentadilla, tira de los agarres hacia el cuerpo apretando las escápulas.",
+      "Haz una pausa arriba y libera la tensión despacio para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1004": {
+    "name": "Sentadilla con banda",
+    "description": "Sentadilla con la banda colocada justo encima de las rodillas. La tensión hacia adentro obliga a empujar las rodillas hacia afuera, lo que potencia la activación de glúteos durante todo el descenso y el ascenso.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y la banda colocada justo por encima de las rodillas.",
+      "Mantén el pecho elevado y el core activo, lleva las caderas atrás y flexiona las rodillas para bajar a la sentadilla.",
+      "Asegúrate de que las rodillas viajen sobre las puntas de los pies y de mantener el peso en los talones.",
+      "Haz una pausa abajo y empuja desde los talones para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1005": {
+    "name": "Crunch de pie con banda",
+    "description": "Variante de crunch realizada de pie con la banda anclada por encima. Tiras de la banda hacia abajo flexionando el tronco para reclutar el recto abdominal sin necesidad de tumbarse en el suelo.",
+    "instructions": [
+      "Fija la banda a un anclaje firme a la altura de la cintura.",
+      "Párate de espaldas al anclaje con los pies separados al ancho de los hombros.",
+      "Sujeta la banda con ambas manos y llévala al pecho, manteniendo los codos flexionados y pegados al cuerpo.",
+      "Activa el abdomen y crunch hacia adelante despacio, llevando el pecho hacia las rodillas.",
+      "Haz una pausa arriba del crunch y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1007": {
+    "name": "Crunch de pie con giro y banda",
+    "description": "Crunch de pie con rotación de tronco usando la banda cruzada al frente. La fase de giro carga los oblicuos mientras el resto del core estabiliza, sumando trabajo rotacional al patrón de flexión.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de la espalda alta, cruzándola por delante del pecho.",
+      "Sujeta los extremos de la banda con las manos, con los codos flexionados y pegados a los costados.",
+      "Activa el abdomen y gira el tronco hacia un lado, llevando el codo hacia la rodilla opuesta.",
+      "Haz una pausa breve y vuelve a la posición inicial.",
+      "Repite del otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ]
+  },
+  "1008": {
+    "name": "Subida al cajón con banda",
+    "description": "Subida al cajón con la banda alrededor de los muslos para incrementar la activación de glúteo medio. Al alternar piernas se trabaja la fuerza unilateral, el equilibrio y la estabilidad de cadera.",
+    "instructions": [
+      "Coloca una banda alrededor de los muslos, justo por encima de las rodillas.",
+      "Párate frente a un escalón o plataforma con los pies separados al ancho de las caderas.",
+      "Sube a la plataforma con el pie derecho, empujando desde el talón.",
+      "Extiende la pierna izquierda detrás, manteniéndola recta.",
+      "Baja el pie izquierdo de regreso al suelo.",
+      "Repite subiendo con el pie izquierdo a la plataforma.",
+      "Continúa alternando piernas durante el número de repeticiones deseado."
+    ]
+  },
+  "1009": {
+    "name": "Peso muerto piernas rígidas con banda",
+    "description": "Hinge de cadera con piernas casi rectas y la banda en los tobillos. La tensión sube por la cadena posterior y carga isquiotibiales, glúteos y zona lumbar mientras llevas las caderas atrás con la espalda neutra.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de los tobillos.",
+      "Sujeta la banda con ambas manos delante de los muslos, con las palmas hacia el cuerpo.",
+      "Manteniendo la espalda recta y el core activo, haz bisagra en la cadera y baja el tronco despacio hacia el suelo.",
+      "A medida que bajas, lleva las caderas atrás y deja que las rodillas se flexionen ligeramente.",
+      "Baja la banda hacia el suelo sintiendo el estiramiento en los isquiotibiales.",
+      "Haz una pausa abajo y activa glúteos e isquiotibiales para volver al inicio.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1010": {
+    "name": "Peso muerto pierna estirada con banda",
+    "description": "Hinge con piernas casi rectas pisando la banda y los brazos extendidos al frente. Mantener la espalda neutra durante todo el rango de movimiento es esencial para activar la cadena posterior sin sobrecargar la zona lumbar.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y pisa la banda con ambos pies.",
+      "Sujeta la banda con ambas manos, palmas hacia el cuerpo, y mantén los brazos rectos.",
+      "Activa el core y conserva una flexión leve en las rodillas.",
+      "Haz bisagra en la cadera lentamente, manteniendo la espalda recta y el pecho elevado.",
+      "Baja la banda hacia el suelo manteniendo las piernas estiradas.",
+      "Haz una pausa abajo y aprieta glúteos e isquiotibiales para volver al inicio.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1011": {
+    "name": "Giro sentado con banda",
+    "description": "Sentado en el suelo con la banda alrededor de la cintura, giras el tronco a un lado y al otro contra la resistencia. Es un trabajo rotacional para oblicuos con bajo impacto sobre la columna.",
+    "instructions": [
+      "Siéntate en el suelo con las piernas extendidas al frente y la espalda recta.",
+      "Envuelve la banda alrededor de la cintura y sujeta los extremos con ambas manos.",
+      "Activa el abdomen y gira el tronco lentamente hacia un lado, manteniendo la espalda recta y los pies en el suelo.",
+      "Haz una pausa al final del giro y vuelve despacio a la posición inicial.",
+      "Repite el giro hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ]
+  },
+  "1012": {
+    "name": "Press militar con giro y banda",
+    "description": "Press militar combinado con rotación de tronco. Mientras los deltoides empujan la banda por encima de la cabeza, el giro suma trabajo rotacional para los oblicuos y exige coordinación con la cadera fija.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y pisa la banda.",
+      "Sujeta los agarres a la altura de los hombros con las palmas hacia adelante.",
+      "Activa el core y empuja la banda por encima de la cabeza, extendiendo los brazos por completo.",
+      "Mientras empujas, gira el tronco hacia un lado manteniendo las caderas estables.",
+      "Haz una pausa arriba y vuelve a la posición inicial.",
+      "Repite el press y el giro al lado opuesto.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
+    ]
+  },
+  "1013": {
+    "name": "Jalón al pecho supino con banda",
+    "description": "Jalón con banda anclada en alto y agarre supino que enfatiza el trabajo de los dorsales con asistencia de bíceps y antebrazos. Replica el patrón del jalón al pecho con un setup minimalista.",
+    "instructions": [
+      "Fija la banda a un anclaje alto, como una barra de dominadas o una viga firme.",
+      "Párate frente al anclaje con los pies separados al ancho de los hombros.",
+      "Sujeta la banda con agarre supino y las manos un poco más abiertas que el ancho de los hombros.",
+      "Extiende los brazos completamente por encima de la cabeza, con los codos ligeramente flexionados.",
+      "Activa los dorsales y tira de la banda hacia el pecho, apretando las escápulas.",
+      "Haz una pausa abajo, libera la tensión despacio y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1014": {
+    "name": "V-up con banda",
+    "description": "Tendido boca arriba sujetando la banda por encima de la cabeza, despegas tronco y piernas a la vez para dibujar una V. La banda añade tensión y exige más coordinación entre la flexión de cadera y el crunch superior.",
+    "instructions": [
+      "Acuéstate boca arriba con las piernas estiradas y los brazos extendidos por encima de la cabeza, sujetando la banda.",
+      "Activa el abdomen y eleva piernas y tronco al mismo tiempo, llevando las manos hacia los pies.",
+      "Haz una pausa arriba y baja despacio piernas y tronco a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1015": {
+    "name": "Pallof press vertical con banda",
+    "description": "Ejercicio anti-rotación clásico con banda anclada al lado del cuerpo. Al empujar al frente debes resistir la fuerza que intenta girarte, lo que activa de forma intensa los oblicuos y todo el cilindro abdominal.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y enrolla la banda alrededor de un objeto firme a la altura del pecho.",
+      "Sujeta la banda con ambas manos y aléjate del anclaje para crear tensión.",
+      "Colócate perpendicular al anclaje, con un costado mirando hacia la banda.",
+      "Extiende los brazos rectos al frente, manteniendo las manos a la altura del pecho.",
+      "Activa el core y empuja la banda lejos del pecho, extendiendo los brazos por completo.",
+      "Mantén la posición unos segundos y lleva la banda despacio de vuelta al pecho.",
+      "Repite el número de repeticiones deseado y cambia de lado."
+    ]
+  },
+  "1016": {
+    "name": "Curl de muñeca con banda",
+    "description": "Aislamiento para antebrazos con la banda pisada y los antebrazos apoyados en los muslos. El movimiento se limita a la muñeca y refuerza la fuerza de agarre con un setup mínimo.",
+    "instructions": [
+      "Siéntate en un banco o silla con los pies apoyados en el suelo.",
+      "Sujeta la banda con ambas manos, palmas hacia arriba, y apoya los antebrazos sobre los muslos.",
+      "Curla las muñecas hacia arriba lentamente, apretando los antebrazos.",
+      "Haz una pausa arriba y baja las muñecas despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1017": {
+    "name": "Elevación en Y con banda",
+    "description": "Elevas los brazos en forma de Y por encima de la cabeza con la banda al frente, reclutando deltoides posteriores y trabajo escapular. Es un ejercicio frecuente en programas de salud postural y prehab de hombro.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y sujeta la banda delante de los muslos con las palmas hacia adentro.",
+      "Mantén los brazos rectos y elévalos arriba y hacia afuera, formando una Y con el cuerpo.",
+      "Aprieta las escápulas en la parte alta del movimiento.",
+      "Baja despacio los brazos a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1018": {
+    "name": "Encogimiento de hombros con banda",
+    "description": "Encogimiento simple pisando la banda, donde elevas los hombros para activar trapecios. La tensión elástica acompaña todo el rango y resulta práctico para entrenar en casa.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros, pisa la banda y sujeta los extremos con las manos.",
+      "Mantén los brazos rectos y relajados, dejando que la banda cuelgue delante de los muslos.",
+      "Activa los trapecios encogiendo los hombros hacia arriba lo más alto posible.",
+      "Mantén la contracción un instante y baja los hombros despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1022": {
+    "name": "Remo de pie para deltoides posterior con banda",
+    "description": "Remo con banda pisada y torso inclinado al frente. Al llevar los codos hacia los costados se enfocan los deltoides posteriores junto con romboides y trapecios, ideal para reforzar el equilibrio postural del hombro.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y pisa la banda.",
+      "Sujeta los agarres con las palmas enfrentadas y los brazos extendidos al frente.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde la cadera, manteniendo la espalda recta.",
+      "Tira de la banda hacia el pecho apretando las escápulas.",
+      "Haz una pausa arriba y libera la tensión despacio para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1023": {
+    "name": "Peso muerto rumano con banda",
+    "description": "Bisagra de cadera con la espalda recta y la banda alrededor de los muslos. Bajas el tronco al frente sintiendo el estiramiento en isquiotibiales y vuelves apretando glúteos. La banda añade resistencia constante a la cadena posterior.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de los muslos.",
+      "Sujeta la banda con ambas manos delante de los muslos, palmas hacia el cuerpo.",
+      "Manteniendo la espalda recta y las rodillas ligeramente flexionadas, haz bisagra en la cadera y baja la banda hacia el suelo.",
+      "Siente el estiramiento en los isquiotibiales mientras bajas la banda.",
+      "Activa glúteos e isquiotibiales para subir el cuerpo a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1160": {
+    "name": "Burpee",
+    "description": "Movimiento de cuerpo completo que enlaza una sentadilla, una flexión de pecho y un salto vertical. Eleva la frecuencia cardiaca con rapidez y combina fuerza y resistencia, por eso aparece en casi todo circuito de alta intensidad.",
+    "instructions": [
+      "Empieza de pie con los pies separados al ancho de los hombros.",
+      "Baja el cuerpo a una sentadilla, flexionando las rodillas y apoyando las manos en el suelo al frente.",
+      "Lanza los pies atrás hasta llegar a la posición de flexión.",
+      "Realiza una flexión de pecho manteniendo el cuerpo en línea recta.",
+      "Salta con los pies de vuelta a la posición de sentadilla.",
+      "Salta hacia arriba con explosividad estirando los brazos por encima de la cabeza.",
+      "Aterriza con suavidad y baja de inmediato a la sentadilla para empezar la siguiente repetición."
+    ]
+  },
+  "1167": {
+    "name": "Estiramiento dinámico de pecho (hombre)",
+    "description": "Movilidad para pecho, hombros y tríceps con movimientos controlados de brazos. Es un estiramiento dinámico apto como calentamiento previo a sesiones de empuje.",
+    "instructions": [
+      "Párate erguido con los pies separados al ancho de los hombros.",
+      "Extiende los brazos rectos hacia los lados, paralelos al suelo.",
+      "Lleva los brazos despacio hacia adelante, cruzándolos al frente del cuerpo.",
+      "Siente el estiramiento en los músculos del pecho.",
+      "Mantén el estiramiento entre 10 y 30 segundos.",
+      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+    ]
+  },
+  "1201": {
+    "name": "Burpee con mancuernas",
+    "description": "Variante avanzada del burpee que añade un press militar con mancuernas al final del salto. El acoplamiento de patrones eleva la demanda metabólica y trabaja piernas, hombros, tríceps y core en cada ciclo.",
+    "instructions": [
+      "Empieza de pie con los pies separados al ancho de los hombros y una mancuerna en cada mano.",
+      "Baja a una sentadilla y apoya las mancuernas en el suelo al frente.",
+      "Lanza los pies atrás hasta la posición de flexión, manteniendo el cuerpo en línea recta.",
+      "Realiza una flexión de pecho, bajando el pecho hacia el suelo.",
+      "Lleva los pies de un salto hacia las manos, cayendo en posición de sentadilla.",
+      "Levántate con explosividad, despegando las mancuernas del suelo y llevándolas a los hombros.",
+      "Empuja las mancuernas por encima de la cabeza, extendiendo los brazos por completo.",
+      "Baja las mancuernas a los hombros y repite la secuencia el número de repeticiones deseado."
+    ]
+  },
+  "1253": {
+    "name": "Elevación de pantorrilla tipo donkey en máquina",
+    "description": "Trabajo aislado de gemelos en máquina de palanca, parado con las puntas en la plataforma y los talones colgando. La estabilidad del aparato permite cargar más peso y centrarse en la contracción del gemelo.",
+    "instructions": [
+      "Ajusta la máquina de palanca a una altura adecuada para tu cuerpo.",
+      "Colócate frente a la máquina, con las puntas de los pies en la plataforma y los talones por fuera del borde.",
+      "Apoya las manos en los agarres o barras de soporte para mantener la estabilidad.",
+      "Activa los gemelos y eleva los talones lo más alto posible, empujando con la parte delantera de los pies.",
+      "Haz una pausa arriba y baja los talones despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1254": {
+    "name": "Press de banca con banda",
+    "description": "Press de banca tradicional reemplazando la barra por bandas, manteniendo la mecánica de empuje horizontal sobre los pectorales. La tensión creciente de la banda hace que la parte alta del recorrido sea la más exigente.",
+    "instructions": [
+      "Acuéstate boca arriba en un banco con los pies apoyados en el suelo y la espalda firme contra el banco.",
+      "Sujeta los agarres de la banda en pronación, un poco más abiertos que el ancho de los hombros.",
+      "Extiende los brazos por completo, empujando las bandas lejos del pecho.",
+      "Baja las bandas despacio hacia el pecho, manteniendo los codos a unos 90 grados.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1255": {
+    "name": "Pullover declinado con barra",
+    "description": "Pullover en banco declinado que estira los pectorales y dorsales mientras llevas la barra detrás de la cabeza en un arco amplio. La inclinación inversa intensifica el estiramiento de la zona costal del pecho.",
+    "instructions": [
+      "Acuéstate en un banco declinado con la cabeza más baja que las caderas y los pies sujetos.",
+      "Sujeta la barra en pronación, con las manos un poco más abiertas que el ancho de los hombros.",
+      "Extiende los brazos sobre el pecho con una ligera flexión en los codos.",
+      "Baja la barra describiendo un arco detrás de la cabeza, sintiendo el estiramiento en pecho y hombros.",
+      "Haz una pausa breve y vuelve a la posición inicial invirtiendo el movimiento.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1256": {
+    "name": "Press de banca declinado con agarre invertido y barra",
+    "description": "Variante avanzada del press declinado con agarre supino que carga el pectoral inferior y reduce el estrés en el hombro. Exige técnica precisa porque el agarre invertido cambia la trayectoria habitual de la barra.",
+    "instructions": [
+      "Acuéstate en un banco declinado con los pies sujetos y la cabeza más baja que las caderas.",
+      "Sujeta la barra con agarre invertido, un poco más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala despacio hacia el pecho manteniendo los codos pegados al cuerpo.",
+      "Haz una pausa abajo y empuja la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1257": {
+    "name": "Press de banca inclinado con agarre invertido y barra",
+    "description": "Press inclinado con agarre supino que enfatiza el pectoral superior y descarga al hombro. La técnica con agarre invertido exige control y muñecas estables, por lo que conviene empezar con cargas conservadoras.",
+    "instructions": [
+      "Configura un banco inclinado a 45 grados.",
+      "Acuéstate en el banco con los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre invertido, las manos un poco más abiertas que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala despacio hacia el pecho manteniendo los codos pegados al cuerpo.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra hasta la posición inicial, extendiendo los brazos por completo.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1258": {
+    "name": "Press de banca con agarre invertido amplio y barra",
+    "description": "Press de banca plano con agarre supino abierto. La combinación de amplitud y agarre invertido aumenta la palanca sobre el pectoral y obliga a controlar muñecas y codos en cada repetición.",
+    "instructions": [
+      "Acuéstate boca arriba en un banco con los pies apoyados en el suelo y la espalda firme contra el banco.",
+      "Sujeta la barra con un agarre invertido amplio, un poco más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y mantenla justo encima del pecho con los brazos extendidos.",
+      "Baja la barra despacio hacia el pecho, manteniendo los codos pegados y las muñecas firmes.",
+      "Haz una pausa cuando la barra toque el pecho y empuja hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1259": {
+    "name": "Estiramiento de pecho con manos detrás de la cabeza",
+    "description": "Estiramiento estático para abrir el pecho llevando los codos hacia afuera con los dedos entrelazados detrás de la cabeza. Útil al final de una sesión de empuje para movilizar pectorales y hombros.",
+    "instructions": [
+      "Párate erguido con los pies separados al ancho de los hombros.",
+      "Entrelaza los dedos detrás de la cabeza con los codos apuntando hacia afuera.",
+      "Aprieta despacio las escápulas y empuja el pecho al frente.",
+      "Mantén el estiramiento entre 15 y 30 segundos.",
+      "Suelta el estiramiento y repite las veces que necesites."
+    ]
+  },
+  "1260": {
+    "name": "Press declinado a un brazo con polea",
+    "description": "Press unilateral en polea sobre banco declinado, dirigido al pectoral inferior. Trabajar a un brazo a la vez exige estabilizar el tronco y permite igualar la fuerza entre lados.",
+    "instructions": [
+      "Ajusta la máquina de polea a una posición declinada.",
+      "Párate de espaldas a la máquina y sujeta el agarre con una mano.",
+      "Colócate con la espalda contra el banco declinado y el brazo extendido al frente.",
+      "Flexiona el codo y baja el agarre hacia el pecho manteniendo el brazo superior quieto.",
+      "Haz una pausa abajo y empuja el agarre hasta la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1261": {
+    "name": "Press declinado con polea",
+    "description": "Press declinado en polea con tensión continua durante todo el recorrido. La polea mantiene la carga sobre el pectoral inferior incluso al final del empuje, donde la barra perdería tensión.",
+    "instructions": [
+      "Ajusta la máquina de polea a una posición declinada.",
+      "Siéntate en el banco declinado de cara a la máquina.",
+      "Sujeta los agarres en pronación y colócalos a la altura del pecho.",
+      "Mantén los pies apoyados en el suelo y la espalda firme contra el banco.",
+      "Exhala y empuja los agarres lejos del cuerpo, extendiendo los brazos por completo.",
+      "Haz una pausa al final del movimiento, apretando el pecho.",
+      "Inhala y vuelve a llevar los agarres despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1262": {
+    "name": "Apertura declinada a un brazo con polea",
+    "description": "Apertura unilateral con polea baja en banco declinado. El recorrido en arco aísla el pectoral inferior y la versión a un brazo permite corregir asimetrías y mejorar el control de la fase excéntrica.",
+    "instructions": [
+      "Conecta un agarre tipo D a la polea baja y ajusta el banco a un ángulo declinado.",
+      "Acuéstate en el banco con la cabeza hacia la máquina y sujeta el agarre con la mano derecha.",
+      "Extiende el brazo recto sobre el pecho, manteniendo una ligera flexión en el codo.",
+      "Con un movimiento controlado, baja el brazo hacia el costado hasta que la mano quede en línea con el hombro.",
+      "Haz una pausa, invierte el movimiento y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado, cambia al brazo izquierdo y repite."
+    ]
+  },
+  "1263": {
+    "name": "Apertura a un brazo sentado en balón con polea",
+    "description": "Apertura unilateral en polea ejecutada sentado sobre un balón de estabilidad. La superficie inestable suma trabajo de core y obliga a mantener una postura erguida durante todo el rango.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sujeta un agarre de polea con una mano y extiende el brazo hacia el costado, paralelo al suelo.",
+      "Mantén el codo ligeramente flexionado y la palma hacia adelante.",
+      "Lleva el brazo despacio cruzando el cuerpo, apretando el pecho.",
+      "Haz una pausa al final del movimiento y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de lado."
+    ]
+  },
+  "1264": {
+    "name": "Apertura inclinada a un brazo sentado en balón con polea",
+    "description": "Apertura unilateral inclinada con polea, sentado en un balón apoyado contra un banco inclinado. Combina trabajo de pectoral superior con un fuerte componente de equilibrio y control postural.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda contra un banco inclinado.",
+      "Sujeta un agarre de polea con una mano, brazo extendido y palma hacia adentro.",
+      "Manteniendo una ligera flexión en el codo, baja el brazo despacio hacia el costado hasta que la mano quede en línea con el hombro.",
+      "Haz una pausa y aprieta el pecho para llevar el brazo a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1265": {
+    "name": "Press inclinado a un brazo con polea",
+    "description": "Press inclinado unilateral en polea baja, dirigido al pectoral superior. La carga unilateral exige estabilizar el tronco y permite trabajar la simetría entre lados con resistencia constante.",
+    "instructions": [
+      "Ajusta la máquina de polea a una posición baja.",
+      "Siéntate en un banco inclinado de espaldas a la máquina.",
+      "Sujeta el agarre con una mano y llévalo a la altura del hombro.",
+      "Apoya los pies firmemente en el suelo y mantén una postura estable.",
+      "Empuja el agarre hacia adelante y arriba, extendiendo el brazo por completo.",
+      "Haz una pausa arriba y baja el agarre despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de lado."
+    ]
+  },
+  "1266": {
+    "name": "Press inclinado a un brazo sentado en balón con polea",
+    "description": "Press inclinado unilateral con polea ejecutado con la espalda apoyada en un banco inclinado y sentado sobre un balón. La inestabilidad del balón añade un componente extra de core y equilibrio.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda apoyada contra un banco inclinado.",
+      "Sujeta un agarre de polea con una mano y coloca el brazo a 90 grados con el codo flexionado.",
+      "Empuja el agarre hacia adelante y arriba, extendiendo el brazo por completo.",
+      "Haz una pausa arriba y baja despacio el agarre a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1267": {
+    "name": "Press a un brazo sentado en balón con polea",
+    "description": "Press horizontal unilateral en polea sentado sobre balón de estabilidad. El componente anti-rotación del core es protagonista, ya que la fuerza tiende a girar el tronco en cada empuje.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sujeta un agarre de polea con una mano a la altura del pecho, codo flexionado.",
+      "Apoya la otra mano en la cadera para estabilizarte.",
+      "Empuja el agarre al frente, extendiendo el brazo por completo.",
+      "Haz una pausa breve y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1268": {
+    "name": "Press sentado en balón con polea",
+    "description": "Press horizontal en polea ejecutado sentado sobre balón de estabilidad. La inestabilidad del balón obliga al core a trabajar mientras el pecho empuja los agarres al frente.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
+      "Sujeta los agarres de la polea a la altura del pecho con las palmas hacia abajo y los codos flexionados.",
+      "Activa el core y empuja los agarres al frente hasta extender los brazos por completo.",
+      "Haz una pausa breve y libera la tensión despacio devolviendo los agarres a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1269": {
+    "name": "Cruce de cables de pie",
+    "description": "De pie en el centro de la torre de poleas, cruzas las manos al frente con los brazos casi rectos. Es un patrón de aducción horizontal con tensión continua que aísla el pectoral en su rango medio.",
+    "instructions": [
+      "Párate en el medio de una máquina de poleas con los pies separados al ancho de los hombros.",
+      "Sujeta los agarres con las palmas hacia abajo y los brazos extendidos rectos hacia los lados.",
+      "Mantén los brazos rectos y junta las manos al frente del cuerpo, cruzándolas una sobre otra.",
+      "Haz una pausa breve y vuelve despacio a la posición inicial manteniendo los brazos extendidos.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1270": {
+    "name": "Cruce de cables para pecho superior",
+    "description": "Variante de cruce con poleas a la altura del pecho enfocada al pectoral superior. El pequeño cruce arriba intensifica la contracción y suma trabajo accesorio sobre deltoides anteriores.",
+    "instructions": [
+      "Ajusta los agarres en las poleas a la altura del pecho.",
+      "Párate en el centro de la máquina con un pie ligeramente adelantado.",
+      "Sujeta los agarres con las palmas hacia abajo y los brazos extendidos hacia los lados.",
+      "Conserva una ligera flexión en los codos y activa el core.",
+      "Tira de los cables juntándolos delante del pecho y cruzándolos uno sobre otro.",
+      "Aprieta los pectorales en el pico del movimiento.",
+      "Suelta los cables despacio y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1271": {
+    "name": "Estiramiento de pecho y hombro frontal",
+    "description": "Estiramiento de pecho y deltoides anteriores cruzando los brazos al frente y empujando las palmas. Útil como cooldown tras sesiones de empuje o para abrir la postura tras horas sentado.",
+    "instructions": [
+      "Párate erguido con los pies separados al ancho de los hombros.",
+      "Extiende los brazos rectos al frente a la altura de los hombros.",
+      "Cruza los brazos delante del cuerpo, con el brazo derecho sobre el izquierdo.",
+      "Entrelaza los dedos y aprieta las palmas una contra la otra.",
+      "Aprieta despacio las escápulas y empuja las manos al frente, sintiendo el estiramiento en pecho y hombros.",
+      "Mantén el estiramiento entre 20 y 30 segundos y suelta.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1272": {
+    "name": "Estiramiento de pecho con balón de estabilidad",
+    "description": "Estiramiento sentado con balón en las manos. Llevas el balón hacia el pecho desde una posición extendida para abrir los pectorales, ideal en rutinas de movilidad y enfriamiento.",
+    "instructions": [
+      "Siéntate en el balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Sujeta el balón con ambas manos y extiende los brazos rectos al frente.",
+      "Lleva el balón despacio hacia el pecho, sintiendo el estiramiento en los músculos del pecho.",
+      "Mantén el estiramiento unos segundos y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1273": {
+    "name": "Flexión de pecho con palmada",
+    "description": "Flexión pliométrica explosiva donde despegas las manos del suelo para aplaudir antes de aterrizar. Trabaja potencia en pectorales, tríceps y hombros y exige una base sólida de fuerza en flexiones tradicionales.",
+    "instructions": [
+      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros.",
+      "Baja el cuerpo hacia el suelo flexionando los codos y manteniendo el core activo.",
+      "Empuja con las palmas de forma explosiva para despegar el cuerpo del suelo.",
+      "En el aire, aplaude antes de aterrizar de nuevo en la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1274": {
+    "name": "Flexión profunda con mancuernas como agarres",
+    "description": "Variante de flexión usando mancuernas como agarres para ampliar el rango. El descenso extra debajo del nivel de las manos intensifica el estiramiento del pectoral, exigiendo control en la fase excéntrica.",
+    "instructions": [
+      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros y el cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo flexionando los codos, manteniéndolos pegados al cuerpo.",
+      "Empuja con las palmas para extender los brazos y volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1275": {
+    "name": "Flexión con caída de rodillas",
+    "description": "Variante regresiva de flexión donde, al llegar abajo, apoyas las rodillas para empujar y volver arriba con todo el cuerpo. Permite extender la serie cuando la fuerza falla manteniendo el patrón completo.",
+    "instructions": [
+      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros.",
+      "Baja el pecho hacia el suelo manteniendo los codos pegados al cuerpo.",
+      "Cuando el pecho esté cerca del suelo, apoya rápido las rodillas en el piso.",
+      "Empuja con los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1276": {
+    "name": "Apertura declinada a un brazo con mancuerna",
+    "description": "Apertura unilateral en banco declinado con mancuerna. Trabaja el pectoral inferior con un rango amplio y la versión a un brazo exige control de la cadera y el tronco para no rotar.",
+    "instructions": [
+      "Acuéstate en un banco declinado con una mancuerna en una mano, apoyada sobre el muslo.",
+      "Usa el muslo para impulsar la mancuerna hasta la altura del hombro con la palma hacia el torso.",
+      "Gira la muñeca hasta que la palma quede mirando al frente.",
+      "Mientras inhalas, baja la mancuerna despacio hacia el costado hasta sentir un estiramiento en el pecho.",
+      "Exhala y usa los pectorales para llevar la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1277": {
+    "name": "Apertura sobre balón con mancuernas",
+    "description": "Apertura clásica para pecho ejecutada con la espalda alta apoyada en un balón de estabilidad. La inestabilidad recluta el core y obliga a controlar la cadera durante todo el recorrido.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad y sujeta una mancuerna en cada mano.",
+      "Camina los pies al frente y rueda el cuerpo hasta que la cabeza, el cuello y la espalda alta queden apoyados en el balón.",
+      "Extiende los brazos rectos sobre el pecho con las palmas enfrentadas.",
+      "Flexiona ligeramente los codos y baja los brazos hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
+      "Haz una pausa breve, invierte el movimiento y aprieta el pecho mientras llevas las mancuernas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1278": {
+    "name": "Apertura inclinada sobre balón con mancuernas",
+    "description": "Apertura inclinada con la espalda apoyada en un banco inclinado y sentado sobre un balón. Combina trabajo de pectoral superior con un fuerte componente de equilibrio que mantiene el core activo.",
+    "instructions": [
+      "Configura un banco inclinado a 45 grados.",
+      "Siéntate en un balón de estabilidad y rueda hacia adelante hasta que la espalda alta quede apoyada en el banco inclinado.",
+      "Sujeta una mancuerna en cada mano con las palmas enfrentadas y los brazos extendidos sobre el pecho.",
+      "Baja las mancuernas hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
+      "Haz una pausa breve y aprieta el pecho para llevar las mancuernas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1279": {
+    "name": "Apertura inclinada a un brazo con mancuerna",
+    "description": "Apertura inclinada unilateral con mancuerna en banco a 30-45 grados. La carga unilateral exige estabilizar el tronco y permite enfocar la atención en la calidad de cada repetición del lado trabajado.",
+    "instructions": [
+      "Ajusta el banco inclinado a un ángulo de 30 a 45 grados.",
+      "Siéntate en el banco con una mancuerna en una mano, apoyándola sobre el muslo.",
+      "Acuéstate en el banco manteniendo los pies apoyados en el suelo.",
+      "Sujeta la mancuerna con el brazo extendido recto sobre el pecho.",
+      "Baja la mancuerna hacia el costado en un arco amplio, conservando una ligera flexión en el codo.",
+      "Haz una pausa cuando el brazo quede paralelo al suelo e invierte el movimiento para llevar la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1280": {
+    "name": "Apertura inclinada a un brazo sobre balón con mancuerna",
+    "description": "Apertura inclinada unilateral con mancuerna apoyando la espalda alta en un balón de estabilidad. La inestabilidad y el trabajo a un brazo elevan la demanda sobre el core y los hombros estabilizadores.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en una mano.",
+      "Camina los pies al frente y rueda el cuerpo hasta que la cabeza, el cuello y la espalda alta queden apoyados en el balón.",
+      "Sujeta la mancuerna con el brazo extendido sobre el pecho, palma hacia adentro.",
+      "Baja la mancuerna despacio hacia el costado, manteniendo una ligera flexión en el codo.",
+      "Haz una pausa breve cuando el brazo quede paralelo al suelo.",
+      "Activa el pecho para llevar la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1281": {
+    "name": "Press inclinado a un brazo con mancuerna",
+    "description": "Press inclinado unilateral con mancuerna que enfatiza el pectoral superior. El trabajo a un brazo añade un componente anti-rotación y permite igualar la fuerza entre lados.",
+    "instructions": [
+      "Siéntate en un banco inclinado con una mancuerna en una mano apoyada sobre el muslo.",
+      "Acuéstate en el banco y coloca la mancuerna a la altura del hombro con la palma hacia adelante.",
+      "Empuja la mancuerna hacia arriba y ligeramente hacia adentro, extendiendo el brazo por completo.",
+      "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1282": {
+    "name": "Press inclinado a un brazo sobre balón con mancuerna",
+    "description": "Press inclinado unilateral con mancuerna apoyando la espalda en un balón de estabilidad. La superficie inestable potencia la activación del core mientras el pectoral superior empuja la carga.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo.",
+      "Camina los pies al frente lentamente, rodando el balón hasta que la cabeza, el cuello y la espalda alta queden apoyados sobre él.",
+      "Sujeta la mancuerna a la altura del hombro con la palma hacia adelante.",
+      "Empuja la mancuerna hacia arriba hasta extender el brazo por completo.",
+      "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1283": {
+    "name": "Press inclinado sobre balón con mancuernas",
+    "description": "Press inclinado con mancuernas apoyando la espalda alta en un balón de estabilidad. La inestabilidad eleva la demanda del core respecto al banco fijo, manteniendo el énfasis en el pectoral superior.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en cada mano y las palmas hacia adelante.",
+      "Camina los pies al frente lentamente, rodando el cuerpo por el balón hasta que la cabeza, el cuello y la espalda alta queden apoyados en él.",
+      "Sujeta las mancuernas a la altura de los hombros con los codos flexionados y apuntando hacia los lados.",
+      "Empuja las mancuernas hacia arriba, extendiendo los brazos por completo.",
+      "Haz una pausa arriba y baja despacio las mancuernas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1284": {
+    "name": "Pullover tendido sobre balón con mancuerna",
+    "description": "Pullover con la espalda alta apoyada en un balón. El balón te permite hacer ligeros cambios de cadera para acompañar el recorrido y suma trabajo de core mientras pecho, dorsales y tríceps colaboran.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad y rueda hacia adelante hasta que la espalda alta quede apoyada en el balón.",
+      "Sujeta una mancuerna con ambas manos y extiende los brazos rectos sobre el pecho.",
+      "Baja la mancuerna despacio detrás de la cabeza manteniendo los brazos rectos.",
+      "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1285": {
+    "name": "Apertura a un brazo en banco con mancuerna",
+    "description": "Apertura unilateral en banco plano con mancuerna. Trabajar a un brazo aumenta la demanda de estabilidad lateral y permite enfocar la contracción del pectoral con un control superior al de la versión bilateral.",
+    "instructions": [
+      "Siéntate en un banco plano con una mancuerna en una mano, apoyándola sobre el muslo.",
+      "Acuéstate en el banco manteniendo la mancuerna pegada al muslo.",
+      "Con la mano libre, ayuda a llevar la mancuerna a la posición inicial.",
+      "Sujeta la mancuerna directamente sobre el hombro con el brazo extendido y la palma hacia adentro.",
+      "Baja la mancuerna hacia el costado en un arco amplio, manteniendo una ligera flexión en el codo.",
+      "Haz una pausa cuando el brazo quede paralelo al suelo e invierte el movimiento para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, cambia de brazo y repite."
+    ]
+  },
+  "1286": {
+    "name": "Apertura de pecho a un brazo sobre balón con mancuerna",
+    "description": "Apertura unilateral con la espalda alta sobre un balón. La carga a un brazo y la inestabilidad del balón generan un fuerte estímulo anti-rotación junto con el trabajo clásico del pectoral.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo.",
+      "Camina los pies al frente, rodando el balón hasta que la espalda alta quede apoyada y la cabeza, el cuello y los hombros queden fuera del balón.",
+      "Extiende el brazo con la mancuerna recto sobre el pecho con la palma hacia adentro.",
+      "Baja la mancuerna despacio hacia el costado, manteniendo una ligera flexión en el codo.",
+      "Haz una pausa breve cuando el brazo quede paralelo al suelo.",
+      "Activa el pecho para llevar la mancuerna de vuelta a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1287": {
+    "name": "Press declinado a un brazo con mancuerna",
+    "description": "Press declinado unilateral con mancuerna que carga al pectoral inferior. La asimetría obliga al core a evitar la rotación y exige buen control para mantener la trayectoria vertical.",
+    "instructions": [
+      "Acuéstate en un banco declinado con una mancuerna en una mano apoyada sobre el pecho.",
+      "Apoya los pies en el suelo y mantén la espalda firme contra el banco.",
+      "Extiende el brazo y empuja la mancuerna hacia el techo, extendiendo el codo por completo.",
+      "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1288": {
+    "name": "Apertura unilateral sobre balón con mancuerna",
+    "description": "Apertura unilateral con la espalda alta apoyada en un balón. La inestabilidad y el trabajo a un brazo aumentan la activación del core mientras el pectoral controla el arco de descenso.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en una mano y los pies apoyados en el suelo.",
+      "Camina los pies al frente y rueda el cuerpo hasta que la espalda alta quede apoyada en el balón.",
+      "Extiende el brazo con la mancuerna recto sobre el pecho con la palma hacia adentro.",
+      "Baja la mancuerna despacio hacia el costado, conservando una ligera flexión en el codo.",
+      "Haz una pausa breve y aprieta el pecho para llevar la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1289": {
+    "name": "Press inclinado a un brazo desde el hombro con mancuerna",
+    "description": "Press inclinado unilateral con mancuerna que parte apoyada en el hombro. El patrón unilateral exige estabilidad de core y permite trabajar la simetría entre lados con un rango amplio.",
+    "instructions": [
+      "Ajusta el banco inclinado a 45 grados.",
+      "Siéntate en el banco con la espalda contra el respaldo y los pies apoyados en el suelo.",
+      "Sujeta una mancuerna con una mano en pronación, apoyándola sobre el hombro.",
+      "Empuja la mancuerna hacia arriba y lejos del cuerpo, extendiendo el brazo por completo.",
+      "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1290": {
+    "name": "Press unilateral sobre balón con mancuerna",
+    "description": "Press horizontal unilateral con mancuerna sentado sobre un balón de estabilidad. El esfuerzo anti-rotación es alto: el core debe impedir que el tronco gire hacia el lado libre durante cada empuje.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
+      "Sujeta una mancuerna con una mano y colócala a la altura del hombro con el codo flexionado y la palma hacia adelante.",
+      "Empuja la mancuerna lentamente hacia arriba hasta extender el brazo por completo, manteniendo el core activo y el equilibrio sobre el balón.",
+      "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1291": {
+    "name": "Pullover a un brazo sobre balón con mancuerna",
+    "description": "Pullover unilateral sentado sobre un balón. El trabajo a un brazo activa con fuerza el dorsal y los romboides del lado de carga, mientras el balón añade exigencia al equilibrio y al core.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
+      "Sujeta una mancuerna con una mano y extiende el brazo recto sobre el pecho.",
+      "Baja la mancuerna despacio detrás de la cabeza manteniendo el brazo recto.",
+      "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1292": {
+    "name": "Apertura a una pierna sobre balón con mancuernas",
+    "description": "Apertura sentado sobre un balón con una pierna extendida al frente. Combina aducción horizontal de pectoral con un alto componente de equilibrio sobre una superficie inestable y una sola base de apoyo.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con una mancuerna en cada mano y las palmas enfrentadas.",
+      "Apoya un pie en el suelo y extiende la otra pierna recta al frente.",
+      "Inclínate ligeramente al frente y abre los brazos hacia los lados manteniendo una ligera flexión en los codos.",
+      "Baja despacio las mancuernas hacia abajo y hacia los lados, sintiendo un estiramiento en el pecho.",
+      "Haz una pausa abajo y aprieta el pecho para llevar las mancuernas a la posición inicial.",
+      "Repite el número de repeticiones deseado, cambia de pierna y repite."
+    ]
+  },
+  "1293": {
+    "name": "Press sobre balón con mancuernas",
+    "description": "Press para pecho ejecutado con la espalda baja apoyada en un balón de estabilidad. La inestabilidad eleva la activación del core respecto al banco fijo manteniendo el énfasis principal en el pectoral.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y una mancuerna en cada mano apoyadas sobre los muslos.",
+      "Camina los pies al frente lentamente, rodando el balón hasta que la zona lumbar quede apoyada en él y las rodillas queden a 90 grados.",
+      "Eleva las mancuernas a la altura de los hombros con las palmas hacia adelante.",
+      "Empuja las mancuernas hacia arriba hasta extender los brazos por completo.",
+      "Haz una pausa arriba y baja las mancuernas despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1294": {
+    "name": "Pullover con extensión de cadera sobre balón con mancuerna",
+    "description": "Combina un pullover con una extensión de cadera sobre un balón. Trabajas pectorales y dorsales en la fase de pullover y luego elevas la cadera apretando glúteos para añadir un componente de cadena posterior.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la mancuerna apoyada sobre los muslos.",
+      "Camina los pies al frente lentamente, rodando el balón por la espalda hasta que la cabeza, el cuello y la espalda alta queden apoyados en él.",
+      "Sujeta la mancuerna con ambas manos y extiende los brazos rectos sobre el pecho con una ligera flexión en los codos.",
+      "Baja la mancuerna detrás de la cabeza manteniendo los brazos rectos y el control.",
+      "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
+      "Manteniendo los brazos extendidos, eleva las caderas del suelo apretando los glúteos y activando el core.",
+      "Baja las caderas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1295": {
+    "name": "Pullover sobre balón con mancuerna",
+    "description": "Pullover clásico ejecutado con la espalda alta apoyada en un balón. Los brazos rectos llevan la mancuerna detrás de la cabeza estirando pectorales y dorsales mientras el core sostiene la posición.",
+    "instructions": [
+      "Siéntate en un balón de estabilidad y sujeta una mancuerna con ambas manos sobre el pecho con los brazos extendidos.",
+      "Baja la mancuerna despacio detrás de la cabeza manteniendo los brazos rectos.",
+      "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1296": {
+    "name": "Flexión pike sobre balón de estabilidad",
+    "description": "Variante avanzada de flexión pike con las espinillas sobre un balón. Al rodar el balón y elevar las caderas el cuerpo forma una V invertida y el press cae sobre los deltoides con fuerte exigencia del core.",
+    "instructions": [
+      "Empieza en posición de flexión con las manos en el suelo y las espinillas apoyadas en el balón de estabilidad.",
+      "Activa el core y eleva las caderas hacia el techo, rodando el balón hacia las manos.",
+      "Mantén las piernas rectas y el cuerpo en posición pike, formando una V invertida.",
+      "Flexiona los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo la cabeza alineada con las manos.",
+      "Empuja con las manos y extiende los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1297": {
+    "name": "Contracción isométrica de pecho",
+    "description": "Ejercicio isométrico para pectorales con los brazos extendidos al frente y las palmas enfrentadas. Aprietas el pecho con fuerza durante varios segundos sin equipamiento, ideal como activación previa a empujes.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Extiende los brazos rectos al frente, paralelos al suelo, con las palmas enfrentadas.",
+      "Aprieta los pectorales con toda la fuerza posible manteniendo los brazos rectos.",
+      "Mantén la posición unos segundos enfocándote en contraer el pecho.",
+      "Suelta la contracción y relaja los pectorales.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1298": {
+    "name": "Press en el suelo a un brazo con pesa rusa",
+    "description": "Press unilateral tendido en el suelo con pesa rusa. El suelo limita el descenso del codo y reduce el estrés del hombro, mientras el lado opuesto del core trabaja para mantener el cuerpo alineado.",
+    "instructions": [
+      "Acuéstate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Sujeta la pesa rusa con una mano, palma hacia los pies, y extiende el brazo recto hacia el techo.",
+      "Baja la pesa rusa hacia el pecho despacio flexionando el codo y manteniendo el brazo cerca del cuerpo.",
+      "Haz una pausa breve cuando la pesa rusa quede sobre el pecho y empújala hasta la posición inicial extendiendo el codo.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "1299": {
+    "name": "Press inclinado de pecho en máquina de palanca",
+    "description": "Press inclinado guiado por máquina que enfatiza el pectoral superior. La trayectoria fija facilita la técnica y permite cargar con seguridad sin necesidad de un asistente.",
+    "instructions": [
+      "Ajusta el asiento y el respaldo de la máquina de palanca a una posición cómoda.",
+      "Siéntate en la máquina con la espalda apoyada en el respaldo y los pies apoyados en el suelo.",
+      "Sujeta los agarres en pronación con las manos un poco más abiertas que el ancho de los hombros.",
+      "Empuja los agarres al frente lejos del cuerpo hasta extender los brazos por completo.",
+      "Haz una pausa breve y flexiona los codos despacio para llevar los agarres de vuelta hacia el pecho.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1300": {
+    "name": "Press declinado de pecho en máquina de palanca",
+    "description": "Press declinado guiado por máquina que carga el pectoral inferior. La estabilidad del aparato permite concentrarse en empujar con potencia sin preocuparse por el equilibrio.",
+    "instructions": [
+      "Ajusta la altura del asiento y el respaldo de la máquina de palanca a una posición cómoda.",
+      "Siéntate en la máquina con la espalda apoyada en el respaldo y los pies apoyados en el suelo.",
+      "Sujeta los agarres en pronación con las manos un poco más abiertas que el ancho de los hombros.",
+      "Empuja los agarres al frente lejos del cuerpo hasta extender los brazos por completo.",
+      "Baja los agarres despacio hacia el pecho manteniendo los codos ligeramente flexionados.",
+      "Haz una pausa abajo y empuja los agarres a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1301": {
+    "name": "Press de pecho interno en máquina",
+    "description": "Press en máquina que dirige las manos hacia adentro al final del recorrido para enfatizar la zona interna del pectoral. La trayectoria fija lo hace accesible para principiantes con técnica controlada.",
+    "instructions": [
+      "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en el respaldo.",
+      "Sujeta los agarres en pronación con los codos a 90 grados.",
+      "Empuja los agarres al frente hasta extender los brazos por completo, exhalando durante el movimiento.",
+      "Haz una pausa al final del movimiento y vuelve despacio a la posición inicial inhalando.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1302": {
+    "name": "Pase de pecho con balón medicinal",
+    "description": "Empuje explosivo de un balón medicinal contra una pared o un compañero. Es un ejercicio pliométrico para pectorales y tríceps que mejora la potencia de empuje y la transferencia de fuerza desde el tren inferior.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros sujetando el balón medicinal a la altura del pecho.",
+      "Extiende los brazos al frente empujando el balón medicinal lejos del pecho con fuerza.",
+      "Al soltar el balón, acompaña con los brazos y el tronco transfiriendo el peso del pie de atrás al de adelante.",
+      "Atrapa el balón cuando rebote desde la pared o el compañero y repite de inmediato el movimiento.",
+      "Continúa el número de repeticiones deseado."
+    ]
+  },
+  "1303": {
+    "name": "Empuje de pecho con balón medicinal desde apoyo en tres puntos",
+    "description": "Apoyo en tres puntos con una mano sobre el balón medicinal y la otra en el suelo. Empujas explosivamente el balón al frente combinando trabajo de pectoral, hombro y core en una postura que exige equilibrio.",
+    "instructions": [
+      "Empieza en apoyo de tres puntos con una mano sobre el balón medicinal y la otra en el suelo.",
+      "Extiende las piernas y coloca el cuerpo en línea recta.",
+      "Baja el pecho hacia el suelo manteniendo la espalda recta.",
+      "Empuja el balón medicinal lejos del cuerpo extendiendo el brazo por completo.",
+      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+    ]
+  },
+  "1304": {
+    "name": "Empuje de pecho repetido con balón medicinal",
+    "description": "Empujes repetidos de un balón medicinal desde el pecho buscando un ritmo continuo. Trabaja la coordinación de empuje y la fuerza del pectoral con un patrón sencillo y muy escalable.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros sujetando un balón medicinal a la altura del pecho.",
+      "Extiende los brazos al frente empujando el balón medicinal lejos del pecho.",
+      "Haz una pausa breve y lleva el balón medicinal despacio de vuelta al pecho.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1305": {
+    "name": "Empuje de pecho único con balón medicinal",
+    "description": "Empuje único y controlado del balón medicinal desde el pecho, ideal para iniciar el patrón pliométrico. Pone el foco en la calidad del empuje más que en la velocidad.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros sujetando el balón medicinal a la altura del pecho.",
+      "Extiende los brazos al frente empujando el balón medicinal lejos del pecho.",
+      "Haz una pausa breve y lleva el balón medicinal despacio de vuelta al pecho.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1306": {
+    "name": "Flexión pliométrica",
+    "description": "Flexión explosiva en la que las manos se despegan del suelo en cada repetición. Desarrolla potencia en pectorales, hombros y tríceps y exige una base sólida de fuerza en flexiones tradicionales.",
+    "instructions": [
+      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros.",
+      "Baja el pecho hacia el suelo flexionando los codos y manteniendo el cuerpo en línea recta.",
+      "Empuja con explosividad desde el suelo, usando los pectorales para despegar el cuerpo.",
+      "Aterriza con suavidad con las manos en la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1307": {
+    "name": "Flexión sobre balón Bosu",
+    "description": "Variante de flexión con las manos en los bordes externos de un balón Bosu (lado plano hacia arriba). La superficie inestable obliga al core a trabajar y suma demanda sobre los hombros estabilizadores.",
+    "instructions": [
+      "Coloca el balón Bosu en el suelo con el lado plano hacia arriba.",
+      "Adopta la posición de flexión con las manos en los bordes externos del balón Bosu.",
+      "Activa el core y baja el cuerpo hacia el balón Bosu flexionando los codos.",
+      "Empuja para volver a la posición inicial extendiendo los brazos.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1308": {
+    "name": "Press de banca con agarre amplio en máquina Smith",
+    "description": "Press de banca con agarre amplio guiado por la máquina Smith. La barra fija en raíles facilita la técnica y permite enfocar el trabajo en el pectoral externo gracias a la apertura del agarre.",
+    "instructions": [
+      "Ajusta el banco a una posición cómoda en la máquina Smith.",
+      "Acuéstate en el banco con los pies apoyados en el suelo.",
+      "Sujeta la barra con un agarre amplio, un poco más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala despacio hacia el pecho manteniendo los codos hacia los lados.",
+      "Haz una pausa cuando la barra toque el pecho.",
+      "Empuja la barra hasta la posición inicial extendiendo los brazos por completo.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1309": {
+    "name": "Press de banca declinado con agarre amplio en máquina Smith",
+    "description": "Press de banca declinado con agarre amplio en la máquina Smith. La combinación de declinación y agarre abierto enfatiza el pectoral inferior y la guía del aparato proporciona estabilidad para cargar con confianza.",
+    "instructions": [
+      "Ajusta el banco declinado al ángulo deseado.",
+      "Acuéstate en el banco con los pies sujetos bajo las almohadillas.",
+      "Sujeta la barra con un agarre amplio, un poco más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala despacio hacia el pecho con los codos apuntando hacia los lados.",
+      "Haz una pausa cuando la barra toque el pecho.",
+      "Empuja la barra hasta la posición inicial extendiendo los brazos por completo.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1310": {
+    "name": "Flexión pliométrica con cambio de manos y peso",
+    "description": "Flexión pliométrica avanzada en la que alternas posiciones de manos amplia y estrecha entre repetición y repetición, con un chaleco lastrado. Demanda potencia, control y coordinación de alto nivel.",
+    "instructions": [
+      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros y los pies juntos.",
+      "Baja el pecho hacia el suelo manteniendo los codos pegados al cuerpo.",
+      "Cuando el pecho esté cerca del suelo, empuja con explosividad despegando las manos del suelo.",
+      "Mientras subes, mueve rápido las manos hacia los lados y un poco al frente, dejando que el cuerpo caiga hacia el suelo.",
+      "Atrapa el cuerpo con las manos en la posición más amplia y baja el pecho hacia el suelo otra vez.",
+      "Repite el patrón de flexión cayendo y atrapando el cuerpo con las manos en la posición más estrecha.",
+      "Continúa alternando posiciones amplia y estrecha durante el número de repeticiones deseado."
+    ]
+  },
+  "1311": {
+    "name": "Flexión con manos amplias",
+    "description": "Variante de flexión con las manos más abiertas que el ancho de los hombros. La mayor distancia lateral incrementa la implicación del pectoral externo respecto a la flexión estándar.",
+    "instructions": [
+      "Empieza en plancha alta con las manos más abiertas que el ancho de los hombros.",
+      "Mantén el cuerpo en línea recta de la cabeza a los pies.",
+      "Baja el pecho hacia el suelo flexionando los codos y manteniéndolos cerca de los costados.",
+      "Empuja con las palmas para extender los brazos y volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1312": {
+    "name": "Empuje de pecho con balón medicinal y carrera de recogida",
+    "description": "Empuje del balón medicinal seguido de una carrera para atraparlo antes de que toque el suelo. Mezcla potencia de empuje, agilidad y trabajo cardiovascular en un solo patrón dinámico.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros sujetando un balón medicinal a la altura del pecho.",
+      "Da un paso al frente con el pie derecho y empuja el balón medicinal al frente extendiendo los brazos por completo.",
+      "Al empujar, suelta el balón y deja que ruede hacia adelante.",
+      "Corre rápido al frente y atrapa el balón antes de que toque el suelo.",
+      "Una vez atrapado, llévalo de vuelta al pecho y repite el movimiento dando un paso al frente con el pie izquierdo.",
+      "Continúa alternando piernas y repitiendo durante el número de repeticiones deseado."
+    ]
+  },
+  "1313": {
+    "name": "Remo unilateral en máquina de palanca",
+    "description": "Remo unilateral en máquina de palanca, donde tiras del agarre con un lado a la vez. La trayectoria guiada permite enfocarse en la retracción escapular y corregir asimetrías entre lados.",
+    "instructions": [
+      "Ajusta la altura del asiento y colócate frente a la máquina.",
+      "Sujeta los agarres en pronación y mantén la espalda recta.",
+      "Tira de los agarres hacia el cuerpo apretando las escápulas.",
+      "Haz una pausa en el pico del movimiento y libera la tensión despacio extendiendo los brazos a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1314": {
+    "name": "Hiperextensión sobre balón de estabilidad",
+    "description": "Hiperextensión con la cadera apoyada en un balón. Elevas el tronco hasta la línea recta para activar erectores espinales, glúteos e isquiotibiales, sumando trabajo de equilibrio gracias a la inestabilidad del balón.",
+    "instructions": [
+      "Coloca el balón de estabilidad en el suelo y acuéstate boca abajo sobre él, con la cadera apoyada en el balón y los pies contra una pared u otra superficie firme.",
+      "Coloca las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Activa el core y eleva el tronco despacio fuera del balón, extendiendo la espalda hasta que el cuerpo forme una línea recta de la cabeza a los talones.",
+      "Haz una pausa arriba y baja el tronco despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1316": {
+    "name": "Pullover con brazos flexionados con barra",
+    "description": "Pullover con barra y brazos ligeramente flexionados, tendido en banco. Trabajas dorsales con asistencia de tríceps y pecho mientras la barra describe un arco amplio detrás de la cabeza.",
+    "instructions": [
+      "Acuéstate en un banco con la cabeza en un extremo y los pies apoyados en el suelo.",
+      "Sujeta una barra con agarre al ancho de los hombros y extiende los brazos rectos sobre el pecho.",
+      "Baja la barra detrás de la cabeza manteniendo los brazos ligeramente flexionados.",
+      "Haz una pausa breve y eleva la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1317": {
+    "name": "Remo inclinado con agarre invertido y barra",
+    "description": "Remo en banco inclinado con barra y agarre supino. La inclinación apoya el pecho y el agarre invertido enfoca la espalda alta junto con bíceps y antebrazos.",
+    "instructions": [
+      "Configura un banco inclinado a 45 grados.",
+      "Siéntate en el banco mirando hacia el respaldo con el pecho apoyado contra él.",
+      "Sujeta la barra con agarre invertido (palmas hacia abajo) y las manos un poco más abiertas que el ancho de los hombros.",
+      "Mantén la espalda recta y el core activo.",
+      "Tira de la barra hacia el abdomen alto apretando las escápulas.",
+      "Haz una pausa arriba del movimiento.",
+      "Baja la barra despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1318": {
+    "name": "Remo inclinado en banco con polea",
+    "description": "Remo sentado en banco inclinado de cara a la polea baja. La inclinación fija el torso y permite cargar la espalda alta y los deltoides posteriores con un patrón limpio de tirón.",
+    "instructions": [
+      "Configura un banco inclinado a 45 grados y conecta un agarre a la polea baja.",
+      "Siéntate en el banco de cara a la máquina de polea con los pies apoyados en el suelo y las rodillas ligeramente flexionadas.",
+      "Sujeta el agarre en pronación y extiende los brazos por completo al frente.",
+      "Inclínate al frente desde la cadera manteniendo la espalda recta y el core activo.",
+      "Tira del agarre hacia el pecho retrayendo las escápulas y flexionando los codos.",
+      "Aprieta los músculos de la espalda arriba del movimiento y extiende los brazos despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1319": {
+    "name": "Remo con rotación de palmas en polea",
+    "description": "Remo de pie en polea baja con rotación de palmas durante el tirón. La supinación final intensifica la contracción de la espalda alta y los antebrazos, agregando trabajo de antebrazo al patrón de remo.",
+    "instructions": [
+      "Conecta un agarre a la máquina de polea a la altura de la cintura.",
+      "Párate frente a la máquina con los pies separados al ancho de los hombros.",
+      "Sujeta el agarre en pronación, palmas hacia abajo.",
+      "Da un paso atrás para crear tensión en el cable, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Tira del agarre hacia el cuerpo, rotando las palmas hacia arriba a medida que avanza el movimiento.",
+      "Aprieta las escápulas al final del movimiento.",
+      "Suelta el agarre despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1320": {
+    "name": "Remo sentado con cuerda cruzada en polea",
+    "description": "Remo sentado en máquina de polea con cuerda y palmas enfrentadas. El agarre cerrado con cuerda pone el foco en la zona media de la espalda y permite separar las manos al final del recorrido.",
+    "instructions": [
+      "Siéntate en la máquina de remo con los pies apoyados en los soportes y las rodillas ligeramente flexionadas.",
+      "Sujeta las cuerdas en pronación con las palmas enfrentadas.",
+      "Inclínate ligeramente hacia atrás manteniendo la espalda recta y el core activo.",
+      "Tira de las cuerdas hacia el pecho apretando las escápulas.",
+      "Haz una pausa en el pico del movimiento y libera la tensión despacio para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1321": {
+    "name": "Remo sentado elevado con cuerda en polea",
+    "description": "Remo sentado en asiento elevado con cuerda en polea. La altura del asiento cambia el ángulo de tirón y enfatiza la retracción escapular junto con el trabajo de bíceps y antebrazos.",
+    "instructions": [
+      "Siéntate en el asiento elevado de cara a la máquina de polea.",
+      "Sujeta las cuerdas en pronación con las palmas enfrentadas.",
+      "Mantén la espalda recta e inclínate ligeramente hacia atrás conservando una pequeña flexión en las rodillas.",
+      "Tira del cable hacia el cuerpo retrayendo las escápulas y apretando los músculos de la espalda.",
+      "Haz una pausa breve en la contracción máxima.",
+      "Libera la tensión despacio y extiende los brazos a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1322": {
+    "name": "Remo en banco inclinado con cuerda en polea",
+    "description": "Remo sentado en banco inclinado con cuerda anclada en polea baja. El soporte del torso aísla el trabajo de la espalda alta y permite enfocarse en la retracción escapular sin compensar con la cadera.",
+    "instructions": [
+      "Configura un banco inclinado a 45 grados y conecta una máquina de polea a la polea baja.",
+      "Conecta un agarre tipo cuerda a la máquina de polea y siéntate en el banco inclinado de cara a la máquina.",
+      "Sujeta la cuerda en pronación e inclínate al frente manteniendo la espalda recta.",
+      "Extiende los brazos por completo y tira de la cuerda hacia el pecho alto manteniendo los codos pegados al cuerpo.",
+      "Aprieta las escápulas al final del movimiento.",
+      "Libera la tensión despacio y vuelve a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1323": {
+    "name": "Remo sentado con cuerda en polea",
+    "description": "Remo sentado clásico con cuerda en máquina de polea. Es uno de los pilares del trabajo de espalda alta: postura erguida, tirón hacia el abdomen y apriete escapular firme en cada repetición.",
+    "instructions": [
+      "Siéntate en la máquina de remo con los pies apoyados en los soportes y las rodillas ligeramente flexionadas.",
+      "Sujeta las cuerdas en pronación con las palmas enfrentadas.",
+      "Mantén la espalda recta e inclínate ligeramente al frente conservando una pequeña flexión en los codos.",
+      "Tira de las cuerdas hacia el cuerpo apretando las escápulas.",
+      "Haz una pausa en el pico del movimiento y libera la tensión despacio para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1324": {
+    "name": "Remo alto con barra en polea",
+    "description": "Remo de pie con barra recta en polea a la altura del pecho. El ángulo alto de tirón enfatiza la espalda alta y los deltoides posteriores con asistencia de bíceps.",
+    "instructions": [
+      "Conecta una barra recta a la máquina de polea a la altura del pecho.",
+      "Párate frente a la máquina con los pies separados al ancho de los hombros.",
+      "Sujeta la barra en pronación con las manos un poco más abiertas que el ancho de los hombros.",
+      "Mantén la espalda recta y el core activo.",
+      "Tira de la barra hacia el pecho alto apretando las escápulas.",
+      "Haz una pausa arriba del movimiento.",
+      "Suelta la barra despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1325": {
+    "name": "Jalón tras nuca con agarre amplio en polea",
+    "description": "Variante de jalón con agarre amplio donde la barra baja detrás de la cabeza. Requiere muy buena movilidad de hombro y técnica precisa, por eso es un movimiento avanzado y poco recomendado para principiantes.",
+    "instructions": [
+      "Ajusta la máquina de polea para que la barra de jalón quede a una altura por encima de la cabeza.",
+      "Siéntate en el asiento y sujeta la barra con un agarre amplio en pronación.",
+      "Mantén la espalda recta y el pecho elevado, inclinándote ligeramente hacia atrás.",
+      "Tira de la barra hacia el pecho alto apretando las escápulas.",
+      "Haz una pausa abajo del movimiento y libera la barra despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "1326": {
+    "name": "Dominada supina",
+    "description": "Tirón vertical con peso corporal y agarre supino. El agarre con palmas hacia el cuerpo carga con fuerza dorsales y bíceps; es uno de los grandes referentes para medir la fuerza relativa del tren superior.",
+    "instructions": [
+      "Cuélgate de una barra de dominadas con las palmas hacia el cuerpo y las manos al ancho de los hombros.",
+      "Activa el core y tira del cuerpo hacia la barra llevando el pecho al frente.",
+      "Sigue tirando hasta que la barbilla supere la barra.",
+      "Haz una pausa arriba y baja el cuerpo despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   }
 }

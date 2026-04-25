@@ -1,198 +1,198 @@
 {
   "5202": {
-    "name": "skierg",
-    "description": "El SkiErg es un ejercicio cardiovascular de cuerpo completo realizado en una máquina de esquí ergométrica. Simula el movimiento de doble bastón del esquí de fondo, trabajando principalmente el sistema cardiovascular mientras involucra dorsales, tríceps y core. Se utiliza en competiciones HYROX en segmentos de 1.000m.",
+    "name": "SkiErg",
+    "description": "El SkiErg es un ejercicio de cardio de cuerpo completo que se realiza en una máquina ergómetro de esquí. Reproduce el doble apoyo del esquí de fondo y exige al sistema cardiovascular mientras involucra los dorsales, los tríceps y el core. Se utiliza en HYROX en tramos de 1.000 m.",
     "instructions": [
-      "Colócate de pie frente a la máquina SkiErg con los pies al ancho de hombros.",
-      "Estira los brazos y agarra ambas asas con agarre prono.",
-      "Inicia la tracción flexionando las caderas y tirando los brazos hacia abajo simultáneamente.",
-      "Continúa el movimiento pasando las asas por las caderas, flexionando ligeramente las rodillas.",
-      "Deja que los brazos vuelvan a subir mientras extiendes las caderas para volver a la posición inicial.",
-      "Mantén un ritmo fluido coordinando la tracción de brazos con la flexión de cadera.",
+      "Párate frente a la máquina SkiErg con los pies a la altura de los hombros.",
+      "Estira los brazos y sujeta ambas asas con agarre prono.",
+      "Inicia el tirón haciendo bisagra de cadera y bajando los brazos al mismo tiempo.",
+      "Continúa el movimiento llevando las asas más allá de las caderas y flexionando ligeramente las rodillas.",
+      "Permite que los brazos suban de nuevo mientras extiendes las caderas para volver a la posición inicial.",
+      "Mantén un ritmo constante coordinando el tirón de brazos con la bisagra de cadera.",
       "Continúa hasta completar la distancia objetivo."
     ]
   },
   "5203": {
-    "name": "empuje de trineo",
-    "description": "El empuje de trineo es un ejercicio compuesto de tren inferior que trabaja cuádriceps, glúteos y pantorrillas. Consiste en empujar un trineo con peso a lo largo de una superficie durante una distancia determinada. Es un ejercicio fundamental en competiciones HYROX (segmentos de 50m), desarrollando fuerza de piernas, potencia y resistencia cardiovascular.",
+    "name": "Empuje de trineo",
+    "description": "El empuje de trineo es un ejercicio compuesto de tren inferior que prioriza cuádriceps, glúteos y pantorrillas. Consiste en empujar un trineo cargado a lo largo de una distancia determinada. Es un clásico de HYROX (tramos de 50 m) y desarrolla fuerza de piernas, potencia y resistencia cardiovascular.",
     "instructions": [
       "Carga el trineo con el peso adecuado.",
-      "Colócate detrás del trineo con las manos en los agarres altos o bajos.",
-      "Inclínate hacia adelante a unos 45 grados con los brazos extendidos.",
-      "Impulsa con las piernas, empujando con la punta de los pies.",
-      "Da pasos cortos y potentes, manteniendo el core activado y la espalda recta.",
+      "Ubícate detrás del trineo con las manos en las agarraderas altas o bajas.",
+      "Inclínate hacia adelante en un ángulo de 45 grados con los brazos extendidos.",
+      "Empuja con las piernas, impulsándote con la parte delantera de los pies.",
+      "Da pasos cortos y potentes, manteniendo el core firme y la espalda plana.",
       "Mantén una posición corporal baja durante todo el empuje.",
-      "Continúa empujando hasta completar la distancia objetivo."
+      "Sigue empujando hasta completar la distancia objetivo."
     ]
   },
   "5204": {
-    "name": "tirón de trineo",
-    "description": "El tirón de trineo es un ejercicio compuesto de tren superior que trabaja la espalda alta, bíceps y antebrazos. Consiste en tirar de un trineo con peso hacia ti usando una cuerda con movimiento mano sobre mano. Se utiliza en competiciones HYROX (segmentos de 50m), desarrollando fuerza de tracción y resistencia de agarre.",
+    "name": "Arrastre de trineo",
+    "description": "El arrastre de trineo es un ejercicio compuesto de tren superior que trabaja la espalda alta, los bíceps y los antebrazos. Consiste en jalar un trineo cargado hacia ti con una cuerda en movimiento mano sobre mano. Presente en HYROX (tramos de 50 m), desarrolla la fuerza de tracción y la resistencia del agarre.",
     "instructions": [
-      "Ata una cuerda al trineo y cárgalo con el peso adecuado.",
-      "Colócate de pie frente al trineo al final de la cuerda.",
-      "Agarra la cuerda con ambas manos usando agarre mano sobre mano.",
-      "Siéntate ligeramente en posición de cuarto de sentadilla para mayor estabilidad.",
+      "Sujeta una cuerda al trineo y cárgalo con el peso adecuado.",
+      "Párate frente al trineo, al final de la cuerda.",
+      "Toma la cuerda con ambas manos, alternando una sobre otra.",
+      "Siéntate ligeramente atrás en una posición de cuarto de sentadilla para ganar estabilidad.",
       "Tira de la cuerda mano sobre mano, impulsando con la espalda y los brazos.",
-      "Mantén el core activado y una base estable durante todo el movimiento.",
-      "Continúa tirando hasta que el trineo llegue a ti, cubriendo la distancia objetivo."
+      "Mantén el core firme y una base estable durante todo el movimiento.",
+      "Continúa jalando hasta que el trineo llegue a ti, cubriendo la distancia objetivo."
     ]
   },
   "5205": {
-    "name": "burpee con salto largo",
-    "description": "Los burpees con salto largo combinan un burpee completo con un salto hacia adelante, creando un ejercicio exigente de cuerpo completo. Trabajan el sistema cardiovascular mientras involucran cuádriceps, glúteos, pecho y core. Un ejercicio fundamental de HYROX (segmentos de 80m), ponen a prueba tanto la fuerza como la capacidad aeróbica.",
+    "name": "Burpees con salto largo",
+    "description": "Los burpees con salto largo combinan un burpee completo con un salto frontal explosivo, generando un ejercicio de cuerpo completo muy exigente. Trabajan el sistema cardiovascular e involucran cuádriceps, glúteos, pecho y core. Son un clásico de HYROX (tramos de 80 m) y ponen a prueba la fuerza y la capacidad aeróbica.",
     "instructions": [
-      "Colócate de pie con los pies al ancho de hombros.",
-      "Baja a posición de burpee: coloca las manos en el suelo, salta los pies hacia atrás a posición de flexión.",
-      "Realiza una flexión completa (pecho al suelo en el estándar HYROX).",
-      "Salta los pies hacia las manos.",
-      "Salta explosivamente hacia adelante lo más lejos posible, usando los brazos para impulso.",
-      "Aterriza suavemente con las rodillas ligeramente flexionadas.",
-      "Transiciona inmediatamente al siguiente burpee.",
+      "Párate con los pies a la altura de los hombros.",
+      "Baja al burpee: apoya las manos en el suelo y lanza los pies atrás hasta la posición de flexión.",
+      "Realiza una flexión llevando el pecho al suelo (estándar HYROX).",
+      "Lleva los pies hacia adelante, cerca de las manos.",
+      "Salta hacia adelante de forma explosiva lo más lejos posible, impulsándote con los brazos.",
+      "Aterriza suave con las rodillas ligeramente flexionadas.",
+      "Encadena de inmediato con el siguiente burpee.",
       "Continúa hasta completar la distancia objetivo."
     ]
   },
   "5206": {
-    "name": "remo (hyrox)",
-    "description": "El remo HYROX se realiza en un ergómetro de remo indoor durante segmentos de 1.000m. Trabaja la espalda alta, bíceps y piernas en un movimiento coordinado de cuerpo completo. La máquina de remo proporciona un desafío tanto cardiovascular como de resistencia muscular, siendo un componente clave de la preparación para HYROX.",
+    "name": "Remo HYROX en máquina",
+    "description": "El remo HYROX se realiza en un ergómetro de remo en interiores en tramos de 1.000 m. Trabaja la espalda alta, los bíceps y las piernas en un movimiento coordinado de cuerpo completo. La máquina aporta un reto cardiovascular y muscular simultáneo, siendo un componente clave del rendimiento en carrera HYROX.",
     "instructions": [
       "Siéntate en la máquina de remo y asegura los pies en los reposapiés.",
-      "Agarra el mango con agarre prono y los brazos extendidos.",
-      "Inicia empujando con las piernas, extendiendo las rodillas.",
-      "Una vez las piernas estén casi extendidas, inclínate ligeramente hacia atrás y tira del mango hacia la parte baja del pecho.",
-      "Invierte el movimiento: extiende los brazos, inclínate hacia adelante y flexiona las rodillas para volver al inicio.",
-      "Mantén una remada fluida y rítmica a un ritmo sostenible.",
+      "Sujeta el asa con agarre prono y los brazos extendidos.",
+      "Empuja primero con las piernas, extendiendo las rodillas.",
+      "Cuando las piernas estén casi extendidas, inclínate ligeramente atrás y jala el asa hasta la parte baja del pecho.",
+      "Invierte el movimiento: extiende los brazos, inclínate adelante y flexiona las rodillas para volver al inicio.",
+      "Mantén un golpe fluido y rítmico a un ritmo sostenible.",
       "Continúa hasta completar la distancia objetivo."
     ]
   },
   "5207": {
-    "name": "paseo del granjero",
-    "description": "El paseo del granjero es un ejercicio de acarreo con carga que trabaja la fuerza de agarre y los antebrazos, mientras involucra trapecios, core y tren inferior para la estabilidad. En competiciones HYROX (segmentos de 200m con 2x24kg en pesas rusas), pone a prueba la resistencia del agarre y el acondicionamiento de cuerpo completo bajo fatiga.",
+    "name": "Farmers carry con pesas rusas",
+    "description": "El farmers carry es un ejercicio de carga que desarrolla la fuerza de agarre y los antebrazos, mientras trapecios, core y tren inferior trabajan en estabilización. En HYROX (tramos de 200 m con dos pesas rusas de 24 kg) pone a prueba la resistencia del agarre y el acondicionamiento global bajo fatiga.",
     "instructions": [
-      "Coloca dos pesas rusas (o mancuernas) en el suelo a tus lados.",
-      "Flexiona las caderas y agarra cada peso firmemente.",
-      "Ponte de pie erguido, activando el core y tirando los hombros hacia atrás y abajo.",
-      "Camina hacia adelante con pasos controlados y regulares.",
-      "Mantén la postura erguida — evita inclinarte hacia los lados.",
+      "Coloca dos pesas rusas (o mancuernas) en el suelo a los costados.",
+      "Haz bisagra de cadera y agarra cada peso con firmeza.",
+      "Levántate erguido, activando el core y llevando los hombros hacia atrás y abajo.",
+      "Camina hacia adelante con pasos controlados y parejos.",
+      "Mantén la postura erguida, evitando inclinarte hacia un lado.",
       "Mantén un agarre firme durante todo el recorrido.",
       "Continúa caminando hasta completar la distancia objetivo."
     ]
   },
   "5208": {
-    "name": "zancadas con saco de arena",
-    "description": "Las zancadas con saco de arena son una variación de zancada con peso donde se lleva un saco de arena sobre los hombros mientras se realizan zancadas caminando. Trabajan cuádriceps, glúteos e isquiotibiales. En competiciones HYROX (segmentos de 200m con saco de 20kg), desafían la fuerza de piernas, el equilibrio y la resistencia bajo fatiga.",
+    "name": "Zancadas caminando con sandbag",
+    "description": "Las zancadas caminando con sandbag son una variante con peso en la que el saco se carga sobre los hombros mientras se realizan zancadas. Trabajan cuádriceps, glúteos e isquiotibiales. En HYROX (tramos de 200 m con un sandbag de 20 kg) desafían la fuerza, el equilibrio y la resistencia de las piernas bajo fatiga.",
     "instructions": [
-      "Levanta el saco de arena y colócalo sobre tus hombros, detrás del cuello.",
-      "Ponte de pie con los pies al ancho de cadera y el core activado.",
-      "Da un paso adelante con una pierna y baja la rodilla trasera hacia el suelo.",
-      "Desciende hasta que el muslo delantero esté aproximadamente paralelo al suelo.",
-      "Empuja con el talón delantero para ponerte de pie y junta los pies.",
-      "Alterna las piernas con cada paso, caminando hacia adelante.",
-      "Continúa las zancadas hasta completar la distancia objetivo."
+      "Carga el sandbag y colócalo cruzado sobre los hombros, detrás del cuello.",
+      "Párate erguido con los pies a la altura de la cadera y el core firme.",
+      "Da un paso al frente con una pierna y baja la rodilla trasera hacia el suelo.",
+      "Desciende hasta que el muslo de la pierna delantera quede aproximadamente paralelo al suelo.",
+      "Empuja con el talón delantero para incorporarte y juntar los pies.",
+      "Alterna piernas con cada paso, avanzando hacia adelante.",
+      "Continúa con las zancadas hasta completar la distancia objetivo."
     ]
   },
   "5209": {
-    "name": "wall balls",
-    "description": "Los wall balls son un ejercicio compuesto que combina una sentadilla frontal con un lanzamiento por encima de la cabeza usando un balón medicinal. Trabajan cuádriceps, glúteos, hombros y core. En competiciones HYROX (75-100 repeticiones con balón de 6-9kg), son una de las estaciones más exigentes, poniendo a prueba la resistencia de piernas y la coordinación.",
+    "name": "Wall balls con balón medicinal",
+    "description": "Los wall balls son un ejercicio compuesto que combina una sentadilla frontal con un lanzamiento por encima de la cabeza con balón medicinal. Trabajan cuádriceps, glúteos, hombros y core. En HYROX (75-100 repeticiones con balón de 6-9 kg) son una de las estaciones más exigentes y prueban la resistencia y la coordinación.",
     "instructions": [
-      "Colócate frente a una pared a una distancia de un brazo, sosteniendo un balón medicinal a la altura del pecho.",
-      "Realiza una sentadilla completa, manteniendo el balón en el pecho y el peso en los talones.",
-      "Sube explosivamente desde el fondo de la sentadilla.",
-      "Al llegar a la extensión completa, lanza el balón hacia arriba para golpear un objetivo en la pared (3m hombres, 2.7m mujeres).",
-      "Atrapa el balón en el rebote e inmediatamente desciende a la siguiente sentadilla.",
-      "Mantén un ritmo fluido — la recepción transiciona directamente a la sentadilla.",
-      "Repite durante el número objetivo de repeticiones."
+      "Párate frente a una pared a la distancia de un brazo, sosteniendo el balón medicinal a la altura del pecho.",
+      "Realiza una sentadilla completa manteniendo el balón en el pecho y el peso sobre los talones.",
+      "Sube de forma explosiva desde el fondo de la sentadilla.",
+      "Al alcanzar la extensión completa, lanza el balón hacia arriba para impactar un punto en la pared (3 m en hombres, 2,7 m en mujeres).",
+      "Recibe el balón en el rebote y baja de inmediato a la siguiente sentadilla.",
+      "Mantén un ritmo fluido: la recepción enlaza directamente con la siguiente sentadilla.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "5210": {
-    "name": "intervalos de skierg",
-    "description": "Los intervalos de SkiErg son una variación de entrenamiento del SkiErg a distancia completa, realizados en segmentos cortos de 250m o 500m con descanso entre series. Trabajan el sistema cardiovascular, dorsales y tríceps. Ideales para desarrollar la potencia y ritmo necesarios para los segmentos de SkiErg en competiciones HYROX.",
+    "name": "Intervalos de SkiErg",
+    "description": "Los intervalos de SkiErg son una variante de entrenamiento del SkiErg de distancia completa, ejecutada en tramos cortos de 250 m o 500 m con descanso entre series. Trabajan el sistema cardiovascular, los dorsales y los tríceps. Ideales para desarrollar la potencia y el ritmo necesarios para los tramos de SkiErg en HYROX.",
     "instructions": [
-      "Colócate de pie frente a la máquina SkiErg con los pies al ancho de hombros.",
-      "Estira los brazos y agarra ambas asas con agarre prono.",
-      "Tira de las asas hacia abajo explosivamente, flexionando las caderas.",
-      "Continúa el movimiento pasando las caderas, flexionando ligeramente las rodillas.",
+      "Párate frente a la máquina SkiErg con los pies a la altura de los hombros.",
+      "Estira los brazos y sujeta ambas asas con agarre prono.",
+      "Tira de las asas hacia abajo de forma explosiva, haciendo bisagra de cadera.",
+      "Continúa el movimiento más allá de las caderas, flexionando ligeramente las rodillas.",
       "Vuelve a la posición inicial y repite a alta intensidad.",
-      "Realiza intervalos de 250m o 500m con descanso entre series.",
-      "Enfócate en mantener una potencia constante por intervalo."
+      "Realiza intervalos de 250 m o 500 m con descanso entre series.",
+      "Concéntrate en mantener una potencia constante en cada intervalo."
     ]
   },
   "5211": {
-    "name": "intervalos de empuje de trineo",
-    "description": "Los intervalos de empuje de trineo son una variación de entrenamiento que usa distancias más cortas (12.5m o 25m) para desarrollar la fuerza y potencia de piernas necesarias para los segmentos de empuje de trineo en HYROX. Trabajan cuádriceps, glúteos y pantorrillas con esfuerzo de alta intensidad y períodos de descanso programados.",
+    "name": "Intervalos de empuje de trineo",
+    "description": "Los intervalos de empuje de trineo son una variante de entrenamiento que utiliza distancias cortas (12,5 m o 25 m) para desarrollar la fuerza y la potencia de piernas necesarias en los tramos de empuje de trineo en HYROX. Trabajan cuádriceps, glúteos y pantorrillas con esfuerzo de alta intensidad y descansos programados.",
     "instructions": [
       "Carga el trineo con el peso adecuado.",
-      "Colócate detrás del trineo con las manos en los agarres.",
-      "Inclínate hacia adelante e impulsa con las piernas con pasos cortos y potentes.",
-      "Empuja el trineo durante 12.5m o 25m a máximo esfuerzo.",
-      "Descansa al final de cada intervalo antes de empujar de vuelta.",
-      "Mantén una posición corporal baja y el core activado durante todo el movimiento.",
-      "Repite durante el número programado de series."
+      "Ubícate detrás del trineo con las manos en las agarraderas.",
+      "Inclínate hacia adelante y empuja con las piernas dando pasos cortos y potentes.",
+      "Empuja el trineo durante 12,5 m o 25 m al máximo esfuerzo.",
+      "Descansa al final de cada intervalo antes de volver a empujar.",
+      "Mantén una posición corporal baja y el core firme durante todo el movimiento.",
+      "Repite el número de series programado."
     ]
   },
   "5212": {
-    "name": "intervalos de tirón de trineo",
-    "description": "Los intervalos de tirón de trineo son una variación de entrenamiento que usa distancias más cortas (12.5m o 25m) para desarrollar la fuerza de tracción y resistencia de agarre necesarias para los segmentos de tirón de trineo en HYROX. Trabajan la espalda alta, bíceps y antebrazos con trabajo enfocado de alta intensidad.",
+    "name": "Intervalos de arrastre de trineo",
+    "description": "Los intervalos de arrastre de trineo son una variante de entrenamiento con distancias cortas (12,5 m o 25 m) para desarrollar la fuerza de tracción y la resistencia del agarre necesarias en los tramos de arrastre de trineo en HYROX. Trabajan la espalda alta, los bíceps y los antebrazos con un trabajo enfocado y de alta intensidad.",
     "instructions": [
-      "Ata una cuerda al trineo y cárgalo con el peso adecuado.",
-      "Colócate al final de la cuerda frente al trineo.",
+      "Sujeta una cuerda al trineo y cárgalo con el peso adecuado.",
+      "Párate al final de la cuerda, frente al trineo.",
       "Tira mano sobre mano con un movimiento controlado y potente.",
-      "Tira del trineo la distancia completa del intervalo de 12.5m o 25m.",
-      "Recoloca el trineo y descansa antes de la siguiente serie.",
-      "Enfócate en mantener la postura correcta — cuarto de sentadilla, core activado.",
-      "Repite durante el número programado de series."
+      "Jala el trineo durante toda la distancia del intervalo, 12,5 m o 25 m.",
+      "Reubica el trineo y descansa antes de la siguiente serie.",
+      "Concéntrate en mantener una postura adecuada: cuarto de sentadilla y core firme.",
+      "Repite el número de series programado."
     ]
   },
   "5213": {
-    "name": "intervalos de burpee con salto largo",
-    "description": "Los intervalos de burpee con salto largo son una variación de entrenamiento realizados en distancias más cortas (20m o 40m) para desarrollar la potencia explosiva y capacidad aeróbica necesarias para la competición HYROX. Combinan el burpee completo con un salto largo máximo, trabajando el sistema cardiovascular y la musculatura de cuerpo completo.",
+    "name": "Intervalos de burpees con salto largo",
+    "description": "Los intervalos de burpees con salto largo son una variante de entrenamiento con distancias cortas (20 m o 40 m) para desarrollar la potencia explosiva y la capacidad aeróbica necesarias en HYROX. Combinan el burpee completo con un salto frontal máximo y trabajan el sistema cardiovascular y la musculatura de cuerpo completo.",
     "instructions": [
-      "Marca una distancia de 20m o 40m.",
+      "Marca una distancia de 20 m o 40 m.",
       "Realiza un burpee completo con el pecho al suelo.",
-      "Salta los pies hacia adelante y salta explosivamente hacia adelante.",
-      "Aterriza suavemente e inmediatamente baja al siguiente burpee.",
+      "Lleva los pies hacia adelante y salta de forma explosiva hacia el frente.",
+      "Aterriza suave y baja de inmediato al siguiente burpee.",
       "Continúa durante la distancia marcada.",
       "Descansa entre intervalos según lo programado.",
-      "Enfócate en mantener una distancia de salto constante y transiciones fluidas."
+      "Concéntrate en mantener una distancia de salto constante y transiciones fluidas."
     ]
   },
   "5214": {
-    "name": "intervalos de remo",
-    "description": "Los intervalos de remo son una variación de entrenamiento realizados en segmentos más cortos de 250m o 500m para desarrollar la estrategia de ritmo y potencia de remo necesarias para los segmentos de 1.000m en HYROX. Trabajan la espalda alta, bíceps y piernas en un movimiento eficiente de cuerpo completo.",
+    "name": "Intervalos de remo en máquina",
+    "description": "Los intervalos de remo son una variante de entrenamiento ejecutada en tramos cortos de 250 m o 500 m para desarrollar la estrategia de ritmo y la potencia de remo requeridas en los tramos de 1.000 m de HYROX. Trabajan la espalda alta, los bíceps y las piernas en un movimiento eficiente de cuerpo completo.",
     "instructions": [
       "Siéntate en la máquina de remo y asegura los pies.",
-      "Agarra el mango y ajusta la resistencia a tu preferencia.",
-      "Rema a alta intensidad durante intervalos de 250m o 500m.",
-      "Enfócate en un impulso potente de piernas seguido de la tracción de brazos.",
+      "Sujeta el asa y ajusta el damper a la resistencia que prefieras.",
+      "Rema a alta intensidad en intervalos de 250 m o 500 m.",
+      "Concéntrate en un empuje potente de piernas seguido del jalón con los brazos.",
       "Descansa entre intervalos según lo programado.",
-      "Mantén la técnica correcta — impulsa primero con las piernas, luego inclínate y tira.",
-      "Repite durante el número programado de series."
+      "Mantén la técnica correcta: empuja primero con las piernas, luego inclínate y jala.",
+      "Repite el número de series programado."
     ]
   },
   "5215": {
-    "name": "intervalos de paseo del granjero",
-    "description": "Los intervalos de paseo del granjero son una variación de entrenamiento realizados en distancias más cortas (25m o 50m) para desarrollar la resistencia de agarre y estabilidad de core necesarias para los segmentos de 200m de paseo del granjero en HYROX. Trabajan antebrazos, trapecios y core con trabajo enfocado por intervalos.",
+    "name": "Intervalos de farmers carry",
+    "description": "Los intervalos de farmers carry son una variante de entrenamiento con distancias cortas (25 m o 50 m) para desarrollar la resistencia del agarre y la estabilidad del core requeridas en los tramos de 200 m de farmers carry en HYROX. Trabajan los antebrazos, los trapecios y el core con un trabajo de intervalos enfocado.",
     "instructions": [
-      "Levanta dos pesas rusas y ponte de pie erguido con el core activado.",
-      "Camina hacia adelante durante 25m o 50m con pasos controlados y estables.",
+      "Toma dos pesas rusas y párate erguido con el core firme.",
+      "Camina hacia adelante 25 m o 50 m con pasos controlados y constantes.",
       "Deja los pesos en el suelo al final del intervalo.",
-      "Descansa según lo programado, luego levanta los pesos y camina de vuelta.",
-      "Enfócate en mantener una postura erguida durante todo el recorrido.",
-      "Agarra las pesas rusas firmemente — no las dejes balancear.",
-      "Repite durante el número programado de series."
+      "Descansa según lo programado, luego recoge los pesos y camina de vuelta.",
+      "Concéntrate en mantener una postura erguida durante todo el recorrido.",
+      "Sujeta las pesas rusas con firmeza, sin dejar que se balanceen.",
+      "Repite el número de series programado."
     ]
   },
   "5216": {
-    "name": "intervalos de zancadas con saco de arena",
-    "description": "Los intervalos de zancadas con saco de arena son una variación de entrenamiento realizados en distancias más cortas (25m o 50m) para desarrollar la resistencia de piernas y estabilidad necesarias para los segmentos de 200m de zancadas con saco en HYROX. Trabajan cuádriceps, glúteos e isquiotibiales con series controladas por intervalos.",
+    "name": "Intervalos de zancadas con sandbag",
+    "description": "Los intervalos de zancadas con sandbag son una variante de entrenamiento con distancias cortas (25 m o 50 m) para desarrollar la resistencia y la estabilidad de piernas requeridas en los tramos de 200 m de zancadas con sandbag en HYROX. Trabajan cuádriceps, glúteos e isquiotibiales con series controladas de intervalos.",
     "instructions": [
-      "Levanta el saco de arena hasta los hombros y asegúralo detrás del cuello.",
-      "Realiza zancadas caminando durante 25m o 50m.",
-      "Enfócate en zancadas controladas y de profundidad completa con cada paso.",
-      "Deja el saco de arena en el suelo al final del intervalo.",
+      "Carga el sandbag a los hombros y asegúralo detrás del cuello.",
+      "Realiza zancadas caminando durante 25 m o 50 m.",
+      "Concéntrate en zancadas controladas y a profundidad completa con cada paso.",
+      "Deja el sandbag en el suelo al final del intervalo.",
       "Descansa según lo programado antes de la siguiente serie.",
-      "Mantén el torso erguido y el core activado durante todo el movimiento.",
-      "Repite durante el número programado de series."
+      "Mantén el torso erguido y el core firme durante todo el movimiento.",
+      "Repite el número de series programado."
     ]
   }
 }

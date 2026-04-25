@@ -1,1169 +1,1169 @@
 {
   "0001": {
-    "name": "3/4 abdominal",
-    "description": "3/4 abdominal es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Abdominal a 45 grados",
+    "description": "El abdominal a 45 grados limita el rango del sit-up tradicional para mantener tensión continua sobre el recto abdominal. Al detener el ascenso a 45 grados se evita el descanso en el rango alto y se intensifica el trabajo del core sin necesidad de equipo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Coloca las manos detrás de la cabeza con los codos abiertos hacia los lados.",
+      "Activa el abdomen y eleva lentamente la parte superior del torso curvando la espalda hasta formar un ángulo de 45 grados.",
+      "Haz una pausa breve arriba y desciende con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0002": {
-    "name": "45° flexión lateral",
-    "description": "45° flexión lateral es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Inclinación lateral de 45 grados de pie",
+    "description": "Esta inclinación lateral de pie aísla los oblicuos mediante una flexión controlada del torso hacia un costado. La ausencia de equipo permite enfocarse en la conexión mente-músculo y en mantener la columna alineada durante todo el recorrido.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies separados al ancho de los hombros y los brazos extendidos a lo largo del cuerpo.",
+      "Mantén la espalda recta y el core activo, e inclina lentamente el torso hacia un lado bajando la mano hacia la rodilla.",
+      "Haz una pausa breve abajo y regresa con control a la posición inicial.",
+      "Repite hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0003": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Bicicleta en el aire",
+    "description": "La bicicleta en el aire reproduce el pedaleo acostado mientras se acerca alternadamente cada codo a la rodilla opuesta. Es uno de los ejercicios más efectivos para activar oblicuos y recto abdominal, y no requiere equipo alguno.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba con las manos detrás de la cabeza.",
+      "Eleva las piernas del suelo y flexiona las rodillas en un ángulo de 90 grados.",
+      "Lleva el codo derecho hacia la rodilla izquierda mientras estiras la pierna derecha.",
+      "Vuelve a la posición inicial y repite el movimiento hacia el lado opuesto, llevando el codo izquierdo hacia la rodilla derecha mientras estiras la pierna izquierda.",
+      "Continúa alternando lados con un movimiento de pedaleo durante el número de repeticiones deseado."
     ]
   },
   "0006": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Toques alternos de talón acostado",
+    "description": "Los toques alternos de talón hacen énfasis en los oblicuos al combinar una elevación parcial de la espalda con una flexión lateral del torso. Es un ejercicio sencillo, sin equipo, ideal como complemento al final de una sesión de core.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Extiende los brazos rectos hacia los lados, paralelos al piso.",
+      "Activa el abdomen, despega los hombros del suelo y lleva la mano derecha hacia el talón derecho.",
+      "Vuelve a la posición inicial y repite hacia el lado izquierdo, llevando la mano izquierda hacia el talón izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0007": {
-    "name": "Ejercicio de polea para dorsales",
-    "description": "Ejercicio de polea para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con polea y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Jalón lateral alterno en polea",
+    "description": "El jalón lateral alterno en polea trabaja la espalda de forma unilateral, halando una manija a la vez para enfatizar la activación de cada dorsal. La alternancia ayuda a corregir asimetrías y a mejorar la conexión con el centro de la espalda.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en la máquina de polea con la espalda recta y los pies apoyados en el suelo.",
+      "Sujeta las manijas con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Inclínate ligeramente hacia atrás y hala las manijas hacia el pecho juntando las escápulas.",
+      "Haz una pausa breve en el pico del movimiento y suelta las manijas con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0009": {
-    "name": "Ejercicio de máquina para pectorales",
-    "description": "Ejercicio de máquina para pectorales es un ejercicio de fuerza de nivel principiante que trabaja la zona de pecho, principalmente los pectorales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Fondos de pecho asistidos arrodillado",
+    "description": "Los fondos de pecho asistidos en máquina de palanca permiten descontar parte del peso corporal apoyando las rodillas en una almohadilla, lo que facilita aprender el patrón del fondo y construir fuerza progresiva en pectorales y tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ajusta la máquina a la altura deseada y apoya las rodillas firmemente sobre la almohadilla.",
+      "Sujeta las manijas con las palmas hacia abajo y los brazos completamente extendidos.",
+      "Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al piso.",
+      "Haz una pausa breve y empuja para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0010": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de rodillas colgado asistida con lanzamiento",
+    "description": "Esta variante avanzada combina la elevación de rodillas colgado con un lanzamiento explosivo de las piernas hacia abajo. La asistencia ayuda a controlar el balanceo y permite enfocarse en la potencia y el control del core durante el descenso forzado.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento."
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas hacia adelante.",
+      "Activa el core y lleva las rodillas hacia el pecho manteniendo las piernas juntas.",
+      "Cuando las rodillas estén a la altura del pecho, lanza explosivamente las piernas hacia el suelo extendiéndolas por completo.",
+      "Deja que las piernas regresen con impulso hacia arriba y repite el movimiento durante las repeticiones deseadas."
     ]
   },
   "0011": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de rodillas colgado asistida",
+    "description": "La elevación de rodillas colgado asistida activa el recto abdominal y los flexores de cadera mientras se cuelga de una barra. La asistencia permite trabajar el patrón con buen control para quienes aún están construyendo fuerza en el core y la sujeción.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas hacia adelante.",
+      "Activa el core y lleva las rodillas hacia el pecho flexionando caderas y rodillas.",
+      "Haz una pausa breve arriba apretando el abdomen.",
+      "Baja las piernas con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0012": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de piernas acostado asistida con lanzamiento lateral",
+    "description": "Esta variante combina la elevación de piernas acostado con un descenso lateral controlado, lo que añade trabajo intenso para los oblicuos. La asistencia permite mantener la espalda baja pegada al piso y enfocarse en la rotación lenta del torso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Acuéstate boca arriba con las piernas extendidas y los brazos a los lados del cuerpo.",
+      "Coloca las manos debajo de los glúteos para dar soporte a la zona lumbar.",
+      "Activa el abdomen y eleva las piernas del suelo manteniéndolas rectas.",
+      "Con las piernas juntas, bájalas hacia un lado hasta que queden unos centímetros sobre el piso.",
+      "Haz una pausa breve y vuelve a llevar las piernas a la posición inicial.",
+      "Repite el movimiento hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0013": {
-    "name": "Ejercicio de para abdominales",
-    "description": "Ejercicio de para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de piernas acostado asistida con lanzamiento",
+    "description": "La elevación de piernas acostado con lanzamiento añade un componente excéntrico explosivo en el descenso para retar el control del core. La asistencia ayuda a estabilizar la zona lumbar y permite mantener las piernas rectas durante todo el recorrido.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Acuéstate boca arriba con las piernas extendidas y los brazos a los lados del cuerpo.",
+      "Coloca las manos debajo de los glúteos para dar soporte.",
+      "Activa el core y eleva las piernas del suelo manteniéndolas rectas.",
+      "Sube las piernas hasta que queden perpendiculares al suelo.",
+      "Baja las piernas con control hasta la posición inicial.",
+      "De manera explosiva, lanza las piernas hacia el suelo manteniéndolas rectas.",
+      "Vuelve a subir las piernas a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0014": {
-    "name": "Ejercicio de balón medicinal para abdominales",
-    "description": "Ejercicio de balón medicinal para abdominales es un ejercicio de fuerza de nivel principiante que trabaja la zona de cintura, principalmente los abdominales. Se realiza con balón medicinal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Giro ruso con balón medicinal",
+    "description": "El giro ruso con balón medicinal añade carga al patrón clásico de rotación de torso para reclutar más oblicuos y recto abdominal. Mantener la espalda recta e inclinada hacia atrás es clave para que el trabajo recaiga en el core y no en la cadera.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en el suelo con las rodillas flexionadas y los pies apoyados en el piso.",
+      "Sujeta el balón medicinal con ambas manos frente al pecho.",
+      "Inclínate ligeramente hacia atrás activando el abdomen y manteniendo la espalda recta.",
+      "Gira lentamente el torso hacia la derecha llevando el balón medicinal hacia ese lado del cuerpo.",
+      "Haz una pausa breve y gira el torso hacia la izquierda llevando el balón hacia ese lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0015": {
-    "name": "Ejercicio de máquina para dorsales",
-    "description": "Ejercicio de máquina para dorsales es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Dominada paralela agarre cerrado asistida",
+    "description": "La dominada con agarre paralelo y cerrado en máquina de palanca permite trabajar dorsales y bíceps con una postura cómoda para los hombros. La asistencia mecánica facilita completar repeticiones limpias mientras se construye fuerza para la versión libre.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ajusta la máquina al peso y altura deseados.",
+      "Coloca las manos en las barras paralelas con agarre cerrado y las palmas enfrentadas.",
+      "Cuélgate de las barras con los brazos completamente extendidos y los pies fuera del suelo.",
+      "Activa la musculatura de la espalda y eleva el cuerpo hacia las barras manteniendo los codos cerca del cuerpo.",
+      "Continúa subiendo hasta que el mentón esté por encima de las barras.",
+      "Haz una pausa breve arriba y baja con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0016": {
-    "name": "Ejercicio de para isquiotibiales",
-    "description": "Ejercicio de para isquiotibiales es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con asistido y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl femoral prono asistido",
+    "description": "El curl femoral prono asistido aísla los isquiotibiales con apoyo de un compañero o una banda de resistencia que regula la carga. Es ideal para quienes no pueden completar la versión convencional o para añadir volumen controlado a la cadena posterior.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
-      "Contrae los isquiotibiales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca abajo sobre una colchoneta o banco con las piernas completamente extendidas.",
+      "Pide a un compañero que sujete los tobillos o usa una banda de resistencia para fijarlos.",
+      "Activa los isquiotibiales y lleva los pies hacia los glúteos manteniendo las rodillas alineadas.",
+      "Haz una pausa breve arriba y baja las piernas con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0017": {
-    "name": "Asistido dominada",
-    "description": "Asistido dominada es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los dorsales. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Dominada asistida en máquina",
+    "description": "La dominada asistida en máquina de palanca permite descontar parte del peso corporal mediante una almohadilla contrapesada. Es la opción más confiable para quienes están progresando hacia la dominada libre, ya que enseña el patrón con buen control de los dorsales.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ajusta la máquina al peso y altura deseados.",
+      "Sujeta las manijas con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Cuélgate con los brazos completamente extendidos y los pies fuera del suelo.",
+      "Activa la musculatura de la espalda y eleva el cuerpo hacia las manijas manteniendo los codos cerca del cuerpo.",
+      "Continúa subiendo hasta que el mentón esté por encima de las manijas.",
+      "Haz una pausa breve arriba y baja con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0018": {
-    "name": "Ejercicio de para tríceps",
-    "description": "Ejercicio de para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con assisted (towel) y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps de pie asistida con toalla",
+    "description": "Esta extensión de tríceps usa una toalla como herramienta de tensión: una mano resiste mientras la otra extiende. Es un recurso útil para activar los tríceps sin pesas, manteniendo los codos pegados a la cabeza durante todo el recorrido.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies separados al ancho de los hombros y sujeta la toalla con ambas manos detrás de la cabeza.",
+      "Mantén los codos cerca de las orejas y los brazos superiores quietos.",
+      "Extiende lentamente los antebrazos hacia arriba apretando los tríceps en la parte alta.",
+      "Haz una pausa breve y baja la toalla con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0019": {
-    "name": "Ejercicio de máquina para tríceps",
-    "description": "Ejercicio de máquina para tríceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con máquina y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Fondo de tríceps asistido arrodillado",
+    "description": "El fondo de tríceps asistido arrodillado se ejecuta en máquina de palanca con apoyo en una almohadilla, lo que reduce la carga y permite enfocarse en la extensión de los codos. Trabaja principalmente los tríceps con apoyo secundario del pecho y los hombros.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ajusta la máquina al peso y altura deseados.",
+      "Arrodíllate sobre la almohadilla mirando hacia la máquina con las manos sujetando las manijas.",
+      "Baja el cuerpo flexionando los codos manteniendo la espalda recta y cerca de la máquina.",
+      "Haz una pausa breve abajo y empuja para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0020": {
-    "name": "Equilibrio board",
-    "description": "Equilibrio board es un ejercicio de balance de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con peso corporal y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Equilibrio sobre tabla de balance",
+    "description": "Pararse sobre una tabla de balance reta la propiocepción de tobillos, rodillas y core para mantener la postura. Es un trabajo unilateral excelente como activación previa a entrenamientos de pierna o como rehabilitación de tobillo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Coloca la tabla de balance sobre una superficie plana.",
+      "Sube a la tabla con un solo pie asegurándote de que quede centrado.",
+      "Cambia el peso lentamente al pie apoyado manteniendo el core activo.",
+      "Mantén el equilibrio y la estabilidad sosteniendo la posición durante el tiempo deseado.",
+      "Repite el ejercicio con el otro pie."
     ]
   },
   "0022": {
-    "name": "Ejercicio de barra para dorsales",
-    "description": "Ejercicio de barra para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover a press con barra",
+    "description": "El pullover a press encadena un pullover con un press de banca para trabajar dorsales, pectorales y tríceps en un solo gesto. La transición del arco a la presión exige buena estabilidad escapular y control del torso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco con la cabeza en un extremo y los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono (palmas hacia adelante) y extiende los brazos rectos por encima del pecho.",
+      "Mantén los brazos rectos y baja la barra detrás de la cabeza describiendo un arco hasta sentir un estiramiento en los dorsales.",
+      "Haz una pausa breve, invierte el movimiento y empuja la barra hacia la posición inicial sobre el pecho.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0023": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps alterno con barra",
+    "description": "El curl alterno con barra rompe la dinámica del curl bilateral subiendo un brazo a la vez sobre la misma barra. Esta variante exige más control y permite enfocarse en cada bíceps por turno, sin sacrificar la posibilidad de cargar peso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies separados al ancho de los hombros y sujeta la barra con las palmas hacia adelante.",
+      "Mantén los brazos superiores quietos y exhala mientras flexionas el codo contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté completamente contraído y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando el bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado, alternando brazos."
     ]
   },
   "0024": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla frontal con barra y banco",
+    "description": "La sentadilla frontal con apoyo de un banco utiliza el banco como referencia de profundidad mientras la barra descansa al frente. El soporte ayuda a controlar la bajada y a aprender el patrón con buena postura del torso, exigente con los cuádriceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Comienza de pie con los pies separados al ancho de los hombros y la barra apoyada sobre la parte alta del pecho, justo debajo de la clavícula.",
+      "Sujeta la barra con agarre prono manteniendo los codos arriba y los brazos paralelos al suelo.",
+      "Baja el cuerpo a la sentadilla flexionando rodillas y caderas con la espalda recta y el pecho arriba.",
+      "Haz una pausa breve abajo y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0025": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca con barra",
+    "description": "El press de banca con barra es el ejercicio insignia para desarrollar el pectoral, junto con tríceps y deltoides anteriores. Mantener los pies firmes en el piso y los omóplatos retraídos es clave para empujar con seguridad y eficiencia.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
+      "Sujeta la barra con agarre prono ligeramente más abierto que el ancho de los hombros.",
+      "Levanta la barra del soporte y mantenla justo encima del pecho con los brazos completamente extendidos.",
+      "Baja la barra lentamente hacia el pecho manteniendo los codos cercanos al cuerpo.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra hacia arriba extendiendo los brazos hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0026": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla en rack con barra",
+    "description": "La sentadilla con barra ejecutada desde un rack permite cargar peso con seguridad para trabajar cuádriceps, glúteos e isquiotibiales. Bajar con control y empujar desde los talones manteniendo el pecho arriba es la clave del patrón.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Coloca una barra en un rack a la altura del pecho.",
+      "Ponte de espaldas al rack con los pies separados al ancho de los hombros.",
+      "Flexiona rodillas y caderas para bajar a la posición de sentadilla manteniendo la espalda recta y el pecho arriba.",
+      "Sujeta la barra con agarre prono ligeramente más abierto que el ancho de los hombros.",
+      "Levanta la barra del rack y da un paso atrás manteniendo los pies al ancho de los hombros.",
+      "Baja a la sentadilla manteniendo las rodillas alineadas con la punta de los pies.",
+      "Haz una pausa breve abajo y empuja desde los talones para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0027": {
-    "name": "Ejercicio de barra para espalda alta",
-    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo inclinado con barra",
+    "description": "El remo inclinado con barra es uno de los ejercicios más completos para construir grosor en la espalda alta. Bisagrar desde la cadera con la espalda neutra y halar la barra al abdomen bajo recluta dorsales, romboides y bíceps con gran eficiencia.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Inclínate hacia adelante desde las caderas manteniendo la espalda recta y el pecho arriba.",
+      "Sujeta la barra con agarre prono y las manos un poco más abiertas que el ancho de los hombros.",
+      "Hala la barra hacia la parte baja del pecho retrayendo las escápulas y apretando la espalda.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0028": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Cargada y press con barra",
+    "description": "La cargada y press combina una cargada explosiva con un press por encima de la cabeza en un solo movimiento de cuerpo entero. Exige potencia, coordinación y técnica, y es un clásico del entrenamiento olímpico para desarrollar fuerza atlética.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ponte de pie con los pies al ancho de los hombros y la barra en el suelo frente a ti.",
+      "Flexiona las rodillas y bisagra desde las caderas para bajar y agarrar la barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Empuja desde los talones y extiende caderas y rodillas para levantar la barra del suelo manteniéndola cerca del cuerpo.",
+      "Cuando la barra llegue a los muslos, extiende explosivamente las caderas, encoge los hombros y hala la barra hacia el pecho.",
+      "Cuando la barra llegue a la altura del pecho, métete rápidamente debajo y atrápala a la altura de los hombros con los codos al frente y las palmas hacia arriba.",
+      "Desde la posición de cargada, presiona la barra por encima de la cabeza extendiendo los brazos hacia arriba.",
+      "Baja la barra a la posición inicial y repite el número de repeticiones deseado."
     ]
   },
   "0029": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla frontal con agarre de cargada",
+    "description": "La sentadilla frontal con agarre de cargada coloca la barra sobre los deltoides anteriores con los codos al frente, exigiendo movilidad de muñecas y hombros. Trabaja glúteos y cuádriceps mientras obliga al torso a permanecer erguido durante todo el descenso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta del pecho, con los codos apuntando hacia adelante.",
+      "Baja el cuerpo flexionando las rodillas y empujando las caderas atrás como si te sentaras en una silla.",
+      "Mantén el pecho arriba y la espalda recta mientras desciendes asegurándote de que las rodillas no rebasen los pies.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo o hasta donde puedas con buena técnica.",
+      "Haz una pausa breve abajo y empuja desde los talones para subir extendiendo caderas y rodillas.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0030": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca con agarre cerrado y barra",
+    "description": "El press de banca con agarre cerrado desplaza la carga del pectoral hacia los tríceps al estrechar el agarre y mantener los codos pegados al torso. Es uno de los mejores ejercicios para desarrollar fuerza en la extensión del codo bajo cargas elevadas.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
+      "Sujeta la barra con agarre cerrado, ligeramente más estrecho que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala lentamente hacia el pecho manteniendo los codos cerca del cuerpo.",
+      "Haz una pausa breve cuando la barra toque el pecho.",
+      "Empuja la barra de regreso a la posición inicial extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0031": {
-    "name": "curl con barra",
-    "description": "curl con barra es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps con barra de pie",
+    "description": "El curl de pie con barra es el ejercicio más directo para desarrollar masa en los bíceps. Mantener los codos pegados al torso y evitar el balanceo del tronco asegura que el trabajo recaiga en los flexores del codo y no en el impulso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta la barra con agarre supino, palmas hacia adelante.",
+      "Mantén los codos cerca del torso y exhala mientras flexionas los codos contrayendo los bíceps.",
+      "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0032": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Peso muerto convencional con barra",
+    "description": "El peso muerto convencional es el rey del entrenamiento de cadena posterior y un test directo de fuerza global. Levantar la barra del suelo con la espalda neutra y empujar el suelo con los pies activa glúteos, isquiotibiales y la zona lumbar de forma simultánea.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y la barra en el suelo frente a ti.",
+      "Flexiona las rodillas y bisagra desde las caderas para bajar el torso y agarrar la barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Mantén la espalda recta y el pecho elevado mientras empujas desde los talones para levantar la barra extendiendo caderas y rodillas.",
+      "Al ponerte de pie, aprieta los glúteos y mantén el core activo.",
+      "Baja la barra al suelo flexionando caderas y rodillas con la espalda recta.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0033": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca declinado con barra",
+    "description": "El press declinado con barra dirige el énfasis hacia la porción inferior del pectoral. La pendiente negativa permite mover cargas considerables y suele resultar más amable para los hombros que el press plano u oblicuo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco declinado con los pies asegurados y la cabeza más baja que las caderas.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala lentamente hacia el pecho manteniendo los codos cercanos al cuerpo.",
+      "Haz una pausa breve abajo y empuja la barra hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0034": {
-    "name": "Ejercicio de barra para dorsales",
-    "description": "Ejercicio de barra para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover declinado con codos flexionados y barra",
+    "description": "El pullover declinado con codos flexionados estira intensamente los dorsales gracias a la posición declinada y al recorrido amplio sobre la cabeza. Es una variante exigente que también suma trabajo para tríceps y pectorales.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco declinado con la cabeza más baja que las caderas y los pies asegurados.",
+      "Sujeta una barra con agarre prono (palmas hacia adelante) y extiende los brazos por encima del pecho.",
+      "Baja la barra detrás de la cabeza de forma controlada manteniendo los brazos ligeramente flexionados.",
+      "Haz una pausa breve y sube la barra hasta la posición inicial contrayendo los dorsales.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0035": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press francés declinado a press cerrado con barra",
+    "description": "Esta combinación encadena un press francés con un press cerrado en banco declinado para machacar los tríceps con un solo aparato. La pendiente negativa amplía el rango de extensión y aumenta el trabajo de los vientres tricipitales.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento."
+      "Acuéstate en un banco declinado con la cabeza más baja que los pies y sujeta una barra con agarre cerrado.",
+      "Baja la barra hacia la frente flexionando los codos y manteniendo los brazos superiores quietos.",
+      "Haz una pausa breve y extiende los brazos para empujar la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0036": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press declinado con agarre amplio y barra",
+    "description": "El press declinado con agarre amplio acentúa el trabajo de la porción inferior y externa del pectoral. La apertura del agarre acorta el recorrido y permite usar cargas elevadas con menor demanda sobre los tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco declinado con los pies asegurados y la cabeza más baja que las caderas.",
+      "Sujeta la barra con agarre amplio, claramente más abierto que el ancho de los hombros.",
+      "Baja la barra al pecho manteniendo los codos abiertos hacia los lados.",
+      "Empuja la barra de regreso a la posición inicial extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0037": {
-    "name": "Ejercicio de barra para dorsales",
-    "description": "Ejercicio de barra para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover declinado con agarre amplio y barra",
+    "description": "El pullover declinado con agarre amplio cambia el ángulo de tensión sobre los dorsales y serrato anterior. La inclinación negativa y la apertura del agarre intensifican el estiramiento en la parte alta del recorrido.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate en un banco declinado con la cabeza más baja que las caderas y los pies asegurados.",
+      "Sujeta una barra con agarre amplio y extiende los brazos rectos por encima del pecho.",
+      "Baja la barra detrás de la cabeza de forma controlada manteniendo los brazos rectos.",
+      "Haz una pausa breve y sube la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0038": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de bíceps drag con barra",
+    "description": "El curl drag, o de arrastre, mantiene la barra pegada al cuerpo subiendo los codos hacia atrás en lugar de elevarlos. Esta mecánica enfatiza la cabeza larga del bíceps y minimiza la participación del deltoides anterior.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre supino, palmas hacia arriba.",
+      "Deja que la barra cuelgue al frente de los muslos con los brazos extendidos.",
+      "Mantén los brazos superiores quietos y arrastra la barra hacia el pecho contrayendo los bíceps.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0039": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla con barra al pecho",
+    "description": "Esta sentadilla sostiene la barra justo delante del pecho con un agarre cómodo que permite mantener el torso erguido. Trabaja glúteos y cuádriceps con énfasis en la postura, una buena alternativa cuando la movilidad de muñeca limita la sentadilla frontal clásica.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sujeta la barra al frente del pecho con las manos al ancho de los hombros y los codos hacia adelante.",
+      "Activa el core y mantén el pecho arriba mientras bajas a la sentadilla empujando las caderas atrás y flexionando las rodillas.",
+      "Baja hasta que los muslos queden paralelos al suelo o hasta donde puedas con buena técnica.",
+      "Haz una pausa breve abajo y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0040": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación frontal a pullover con barra",
+    "description": "Este combo encadena una elevación frontal con un pullover detrás de la cabeza para trabajar pectorales, deltoides anteriores y dorsales en una sola serie. Demanda buena movilidad de hombros y control postural durante todo el rango.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono, palmas hacia abajo.",
+      "Mantén los brazos rectos y eleva la barra al frente hasta la altura de los hombros.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Luego baja la barra detrás de la cabeza manteniendo los brazos rectos.",
+      "Haz una pausa breve abajo y sube la barra de regreso a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0041": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel principiante que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación frontal con barra",
+    "description": "La elevación frontal con barra aísla los deltoides anteriores levantando el peso desde los muslos hasta la altura de los hombros con los brazos extendidos. Es un complemento útil tras los presses para añadir volumen al hombro frontal.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra al frente de los muslos con agarre prono.",
+      "Mantén los brazos rectos y eleva la barra al frente hacia arriba hasta la altura de los hombros.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0042": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla frontal con barra",
+    "description": "La sentadilla frontal sitúa la barra sobre los deltoides anteriores y obliga a mantener el torso vertical, desplazando la carga hacia los cuádriceps y el core. Es uno de los mejores ejercicios para desarrollar piernas fuertes con una postura impecable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sostén la barra al frente de los hombros apoyada sobre la clavícula y los deltoides.",
+      "Activa el core y mantén el pecho arriba mientras bajas a la sentadilla empujando las caderas atrás y flexionando las rodillas.",
+      "Baja hasta que los muslos queden paralelos al suelo o hasta donde puedas con buena técnica.",
+      "Haz una pausa breve abajo y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0043": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla profunda con barra",
+    "description": "La sentadilla profunda con barra alta lleva las caderas por debajo de las rodillas para maximizar el reclutamiento de glúteos y aductores. Exige buena movilidad de tobillos y cadera, y un dominio sólido del patrón antes de añadir mucha carga.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Coloca la barra sobre la parte alta de la espalda apoyada en los trapecios o los deltoides posteriores.",
+      "Activa el core y mantén el pecho arriba mientras inicias el descenso.",
+      "Flexiona rodillas y caderas empujando las caderas atrás como si te sentaras en una silla.",
+      "Baja hasta que los muslos queden paralelos al suelo o ligeramente por debajo.",
+      "Mantén las rodillas alineadas con la punta de los pies y el peso en los talones.",
+      "Empuja desde los talones para subir extendiendo caderas y rodillas.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0044": {
-    "name": "Ejercicio de barra para isquiotibiales",
-    "description": "Ejercicio de barra para isquiotibiales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los isquiotibiales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Buenos días con barra",
+    "description": "El ejercicio buenos días con barra es una bisagra de cadera potente que carga isquiotibiales, glúteos y zona lumbar. Mantener la espalda neutra y un ligero flex de rodillas es esencial para evitar tensión en la columna.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de isquiotibiales.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los isquiotibiales.",
-      "Contrae los isquiotibiales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Mantén la espalda recta y el core activo, y bisagra hacia adelante desde las caderas empujando los glúteos atrás como si quisieras tocar la pared con ellos.",
+      "Baja el torso hasta que quede paralelo al piso sintiendo el estiramiento en los isquiotibiales.",
+      "Haz una pausa breve y vuelve a la posición inicial apretando los glúteos y empujando las caderas hacia adelante.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0045": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca guillotina con barra",
+    "description": "El press guillotina baja la barra al cuello en lugar del pecho para enfatizar la porción superior del pectoral. Por su naturaleza exige cargas moderadas, ejecución muy controlada y buena movilidad de hombros para reducir riesgos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Baja la barra lentamente hacia el cuello manteniendo los codos apuntando hacia los lados.",
+      "Haz una pausa breve cuando la barra esté justo por encima del cuello.",
+      "Empuja la barra hacia arriba hasta la posición inicial extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0046": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla hack con barra",
+    "description": "La sentadilla hack con barra coloca el peso detrás de las piernas y a la altura de los muslos, generando un patrón único que enfatiza cuádriceps y glúteos. Es una alternativa potente cuando el rack no está disponible o cuando se busca variar el estímulo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sujeta la barra detrás de las piernas apoyada sobre la parte alta de los muslos.",
+      "Baja el cuerpo flexionando rodillas y caderas con la espalda recta y el pecho arriba.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo o hasta donde puedas con buena técnica.",
+      "Haz una pausa breve y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0047": {
-    "name": "Ejercicio de barra para pectorales",
-    "description": "Ejercicio de barra para pectorales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los pectorales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press inclinado con barra",
+    "description": "El press inclinado con barra desplaza el énfasis hacia la parte alta del pectoral gracias al ángulo positivo del banco. Es la mejor opción para construir un pecho con buena forma estética, complementando el press plano.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pectorales.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pectorales.",
-      "Contrae los pectorales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ajusta un banco inclinado a 45 grados.",
+      "Acuéstate en el banco con los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala lentamente hacia el pecho manteniendo los codos en un ángulo de 45 grados.",
+      "Haz una pausa breve abajo y empuja la barra de regreso a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0048": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press inclinado con agarre supino y barra",
+    "description": "El press inclinado con agarre supino invierte el agarre tradicional para acentuar el trabajo de los tríceps y la cabeza clavicular del pectoral. Es una variante ideal para añadir variedad al programa de pecho y brazos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ajusta un banco inclinado a 45 grados.",
+      "Acuéstate boca arriba y sujeta la barra con agarre supino, manos un poco más abiertas que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala hacia la parte alta del pecho manteniendo los codos cercanos al cuerpo.",
+      "Haz una pausa breve abajo y empuja la barra de regreso a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0049": {
-    "name": "Ejercicio de barra para espalda alta",
-    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo en banco inclinado con barra",
+    "description": "El remo con pecho apoyado en banco inclinado elimina el balanceo y obliga a halar usando solo la espalda. Es la opción más estricta para enfatizar trapecios medios, romboides y deltoides posteriores con cargas que la versión libre no permitiría tan limpia.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ajusta un banco inclinado a 45 grados.",
+      "Acuéstate boca abajo en el banco con el pecho contra la almohadilla y los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Mantén la espalda recta y el core activo.",
+      "Hala la barra hacia el pecho juntando las escápulas.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0050": {
-    "name": "Ejercicio de barra para serrato anterior",
-    "description": "Ejercicio de barra para serrato anterior es un ejercicio de fuerza de nivel intermedio que trabaja la zona de pecho, principalmente los serrato anterior. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Empuje vertical en banco inclinado con barra",
+    "description": "Este movimiento sobre banco inclinado activa el serrato anterior al elevar la barra desde la altura de los hombros hasta por encima de la cabeza. Es un trabajo poco común pero muy útil para mejorar la estabilidad escapular y la salud del hombro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de serrato anterior.",
-      "Activa los músculos de pecho y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los serrato anterior.",
-      "Contrae los serrato anterior en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ajusta un banco inclinado a 45 grados.",
+      "Siéntate en el banco con la espalda contra la almohadilla y los pies apoyados en el suelo.",
+      "Sostén una barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Eleva la barra a la altura de los hombros manteniendo los codos ligeramente flexionados.",
+      "Sube la barra por encima de la cabeza extendiendo completamente los brazos.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0051": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla Jefferson con barra",
+    "description": "La sentadilla Jefferson sitúa la barra entre las piernas con una postura escalonada, alternando el pie adelantado en cada repetición. Esta carga asimétrica desafía glúteos, cuádriceps y core, y es una opción interesante cuando se buscan estímulos nuevos.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sujeta la barra con agarre mixto al frente del cuerpo, justo debajo de la cintura.",
+      "Adelanta el pie izquierdo y atrasa el derecho manteniendo los pies separados al ancho de los hombros.",
+      "Flexiona las rodillas y baja a la sentadilla con la espalda recta y el pecho arriba.",
+      "Empuja desde los talones para volver a la posición inicial.",
+      "Repite el movimiento alternando el pie adelantado en cada repetición."
     ]
   },
   "0052": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press de banca JM con barra",
+    "description": "El press JM combina un press cerrado con un press francés en un solo gesto, manteniendo los codos cercanos al cuerpo durante todo el recorrido. Es uno de los ejercicios favoritos del powerlifting para desarrollar tríceps fuertes y resilientes.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Baja la barra hacia el pecho manteniendo los codos pegados al cuerpo.",
+      "Empuja la barra de regreso a la posición inicial extendiendo completamente los brazos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0053": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de pliometría de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla con salto y barra",
+    "description": "La sentadilla con salto y barra es un ejercicio pliométrico cargado que entrena la potencia explosiva del tren inferior. La fase concéntrica explosiva combinada con un aterrizaje suave desarrolla glúteos y cuádriceps con un componente atlético claro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Baja a la posición de sentadilla flexionando las rodillas y empujando las caderas atrás.",
+      "En el punto bajo, salta explosivamente despegando los pies del suelo.",
+      "Al saltar, extiende caderas, rodillas y tobillos empujando con la planta del pie.",
+      "Aterriza suavemente en la sentadilla y repite inmediatamente el movimiento durante el número de repeticiones deseado."
     ]
   },
   "0054": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Zancada al frente con barra",
+    "description": "La zancada al frente con barra desarrolla glúteos, cuádriceps e isquiotibiales con un componente unilateral claro. Mantener el torso erguido y empujar desde el talón del pie adelantado son las claves para una técnica limpia.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Da un paso al frente con el pie derecho manteniendo el torso erguido.",
+      "Baja el cuerpo flexionando la rodilla derecha hasta que el muslo quede paralelo al suelo.",
+      "Empuja desde el talón derecho para regresar a la posición inicial.",
+      "Repite con la pierna izquierda alternando piernas durante el número de repeticiones deseado."
     ]
   },
   "0055": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press cerrado acostado con barra",
+    "description": "El press cerrado acostado con palmas hacia los pies es una variante poco común del press cerrado tradicional. El cambio de orientación del agarre cambia el reclutamiento del tríceps y suma un estímulo distinto al brazo en sesiones de pecho-tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
+      "Sujeta la barra con agarre cerrado al ancho de los hombros, palmas hacia los pies.",
+      "Saca la barra del soporte y mantenla justo encima del pecho con los brazos completamente extendidos.",
+      "Baja la barra lentamente hacia el pecho manteniendo los codos cerca del cuerpo.",
+      "Haz una pausa breve cuando la barra toque el pecho y empújala hacia arriba hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0056": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps acostado con agarre cerrado y barra",
+    "description": "La extensión de tríceps acostado con agarre cerrado mantiene los brazos superiores quietos para aislar la extensión del codo. Es una variante del press francés con orientación del agarre que pone más énfasis en la cabeza medial del tríceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la cabeza al final del banco.",
+      "Sujeta la barra con agarre cerrado al ancho de los hombros, palmas hacia arriba.",
+      "Extiende los brazos completamente subiendo la barra por encima del pecho.",
+      "Mantén los brazos superiores quietos y baja la barra lentamente hacia la frente flexionando los codos.",
+      "Haz una pausa breve abajo y extiende los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0057": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press francés con barra",
+    "description": "El press francés acostado con barra es uno de los ejercicios clásicos para desarrollar masa en los tríceps. Mantener los codos en la misma posición durante todo el rango es fundamental para que la extensión recaiga sobre el músculo objetivo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la cabeza al final del banco.",
+      "Sostén la barra con agarre prono al ancho de los hombros y extiende los brazos rectos por encima del pecho.",
+      "Mantén los brazos superiores quietos y baja la barra lentamente hacia la frente flexionando los codos.",
+      "Haz una pausa breve y extiende los brazos para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0058": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Empuje de cadera acostado con barra",
+    "description": "Este empuje de cadera acostado en banco coloca la barra sobre la cadera para desarrollar potencia en los glúteos. Aunque comparte familia con el hip thrust clásico, su rango es más corto y se ejecuta sobre el banco mismo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba sobre un banco con los pies apoyados en el suelo y las rodillas flexionadas.",
+      "Sujeta la barra con agarre prono y colócala sobre la cadera.",
+      "Activa los glúteos y eleva las caderas del banco hasta formar una línea recta de las rodillas a los hombros.",
+      "Haz una pausa breve arriba y baja las caderas con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0059": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador acostado con barra",
+    "description": "Esta variante del curl predicador se ejecuta apoyado en el banco predicador con el pecho contra la almohadilla. La posición elimina el impulso del torso y aísla los bíceps con la mecánica más estricta posible.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco predicador con el pecho contra la almohadilla y los brazos extendidos sobre el borde, sujetando una barra con agarre supino.",
+      "Mantén los brazos superiores quietos, exhala y flexiona los codos contrayendo los bíceps.",
+      "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0060": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press francés acostado con pausa y barra",
+    "description": "Esta variante del press francés acostado introduce una pausa breve sobre la frente para reforzar el control en la posición inferior. La detención elimina el rebote y obliga a los tríceps a iniciar el empuje desde una posición desventajosa.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la cabeza al final del banco.",
+      "Sostén la barra con agarre prono al ancho de los hombros y extiende los brazos rectos por encima del pecho.",
+      "Mantén los brazos superiores quietos y baja la barra lentamente hacia la frente flexionando los codos.",
+      "Haz una pausa breve cuando la barra esté justo por encima de la frente y extiende los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0061": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps acostado con barra",
+    "description": "La extensión de tríceps acostado con barra es una variante directa del press francés enfocada en el aislamiento de los tríceps. Es uno de los movimientos más eficientes para sumar volumen a la parte posterior del brazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la cabeza al final del banco.",
+      "Sostén la barra con agarre prono al ancho de los hombros y extiende los brazos rectos por encima del pecho.",
+      "Mantén los brazos superiores quietos y baja la barra lentamente hacia la frente flexionando los codos.",
+      "Haz una pausa breve abajo y extiende los brazos para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0063": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla con stance estrecho y barra",
+    "description": "La sentadilla con pies juntos cambia el ángulo de trabajo y dirige el énfasis hacia los cuádriceps externos y los aductores. Exige más movilidad de tobillo que la sentadilla tradicional y es un buen recurso para variar el estímulo en piernas.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Coloca la barra sobre la parte alta de la espalda apoyada en los trapecios o los deltoides posteriores.",
+      "Activa el core y mantén el pecho arriba mientras bajas el cuerpo flexionando las rodillas y empujando las caderas atrás.",
+      "Continúa bajando hasta que los muslos queden paralelos al suelo o ligeramente por debajo.",
+      "Haz una pausa breve y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0064": {
-    "name": "Ejercicio de barra para espalda alta",
-    "description": "Ejercicio de barra para espalda alta es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los espalda alta. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo unilateral inclinado con barra",
+    "description": "El remo unilateral con barra obliga al core a estabilizar la asimetría mientras un solo brazo hala el peso. Es una variante exigente que ayuda a corregir desbalances entre lados y a desarrollar grosor en la espalda alta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de espalda alta.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los espalda alta.",
-      "Contrae los espalda alta en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros, las rodillas ligeramente flexionadas, y sujeta una barra con una sola mano usando agarre prono.",
+      "Inclínate hacia adelante desde las caderas manteniendo la espalda recta y la cabeza en posición neutra.",
+      "Hala la barra hacia el pecho manteniendo el codo cerca del cuerpo y juntando las escápulas.",
+      "Baja la barra a la posición inicial de manera controlada.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
   "0065": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press unilateral en el suelo con barra",
+    "description": "El press unilateral en el suelo con barra reta el core de forma intensa al estabilizar la barra con un solo brazo. El piso limita el rango y protege los hombros, lo que permite enfocarse en la potencia de los tríceps y en el control postural.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
+      "Sostén la barra con una mano, palma hacia arriba, y extiende el brazo recto por encima del pecho.",
+      "Baja la barra lentamente hacia el pecho manteniendo el codo cerca del cuerpo.",
+      "Haz una pausa breve abajo y empuja la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
   "0066": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Peso muerto lateral unilateral con barra",
+    "description": "El peso muerto lateral unilateral carga la barra con una sola mano por fuera del cuerpo, retando glúteos, isquiotibiales y oblicuos para mantener la columna alineada. Es una variante avanzada que mejora la estabilidad y el control bajo carga asimétrica.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros sosteniendo una barra con una mano en agarre prono.",
+      "Mantén la espalda recta y el core activo.",
+      "Bisagra desde la cadera y baja la barra hacia el lado de la pierna manteniendo el brazo recto y el pecho arriba.",
+      "Baja la barra hasta donde puedas con buena técnica.",
+      "Haz una pausa breve y vuelve con control a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
   "0067": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Arrancada unilateral con barra",
+    "description": "La arrancada unilateral con barra es un movimiento explosivo de cuerpo entero que lleva la barra del suelo a una posición sobre la cabeza con un solo brazo. Trabaja deltoides, trapecios y core, y exige técnica precisa antes de cargar peso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sujeta la barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Flexiona las rodillas y baja las caderas a la posición de sentadilla manteniendo la espalda recta y el pecho arriba.",
+      "Extiende explosivamente caderas, rodillas y tobillos impulsando la barra hacia arriba.",
+      "Cuando la barra llegue a la altura del pecho, hálala con el brazo manteniéndola cerca del cuerpo.",
+      "Gira el codo por debajo de la barra y extiende el brazo completamente por encima de la cabeza, bloqueando el codo.",
+      "Baja la barra a la posición inicial de manera controlada.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
   "0068": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla a una pierna con barra",
+    "description": "La sentadilla a una pierna con barra es un test brutal de fuerza, movilidad y equilibrio unilateral. Exige una base sólida en sentadilla bilateral antes de intentarse y es uno de los movimientos más completos para los cuádriceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Despega un pie del suelo y extiéndelo al frente manteniéndolo paralelo al piso.",
+      "Flexiona la pierna de apoyo y baja como si te sentaras en una silla, con el pecho arriba y la espalda recta.",
+      "Baja hasta que el muslo quede paralelo al suelo y empuja desde el talón para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   },
   "0069": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel avanzado que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla overhead con barra",
+    "description": "La sentadilla overhead exige sostener la barra por encima de la cabeza con los brazos extendidos durante todo el descenso. Es uno de los ejercicios más exigentes en términos de movilidad de hombros, tobillos y core, y desarrolla cuádriceps con un patrón muy técnico.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sostén la barra con agarre amplio por encima de la cabeza con los brazos completamente extendidos.",
+      "Activa el core y baja a la sentadilla manteniendo el pecho arriba y las rodillas alineadas con la punta de los pies.",
+      "Haz una pausa breve abajo y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0070": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador con barra",
+    "description": "El curl predicador con barra estabiliza los brazos contra una almohadilla inclinada para minimizar el impulso del torso. Es uno de los ejercicios más estrictos para aislar los bíceps y maximizar la contracción en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco predicador con los brazos apoyados sobre la almohadilla y el pecho contra el soporte.",
+      "Sujeta la barra con agarre supino, ligeramente más abierto que el ancho de los hombros.",
+      "Mantén los brazos superiores quietos, exhala y flexiona los codos llevando la barra hacia los hombros.",
+      "Haz una pausa breve arriba apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0071": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Abdominal con press de barra",
+    "description": "Este abdominal añade un press de pecho con barra al patrón clásico del sit-up para retar core, hombros y pectorales en simultáneo. La coordinación entre la curva del torso y el empuje de los brazos lo convierte en un ejercicio avanzado.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate boca arriba sobre una colchoneta con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Sostén la barra con agarre prono apoyada sobre el pecho.",
+      "Activa el abdomen y eleva lentamente el torso curvando la espalda hasta formar un ángulo de 45 grados.",
+      "Haz una pausa breve arriba y baja con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0072": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl prono inclinado con barra",
+    "description": "El curl prono sobre banco inclinado elimina por completo el impulso del torso al apoyar el pecho contra el banco. Esta postura aísla los bíceps de manera estricta y es excelente para forzar repeticiones limpias en el rango más débil del curl.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica.",
-      "Respira de manera constante durante la ejecución del ejercicio."
+      "Ajusta un banco inclinado a 45 grados.",
+      "Acuéstate boca abajo en el banco con el pecho y el abdomen apoyados.",
+      "Sostén una barra con agarre supino al ancho de los hombros.",
+      "Extiende los brazos completamente dejando que la barra cuelgue hacia el piso.",
+      "Mantén los brazos superiores quietos, exhala y flexiona los codos contrayendo los bíceps.",
+      "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0073": {
-    "name": "Ejercicio de barra para dorsales",
-    "description": "Ejercicio de barra para dorsales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de espalda, principalmente los dorsales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Pullover con barra",
+    "description": "El pullover con barra es un movimiento clásico para abrir la caja torácica y trabajar dorsales y porción esternal del pectoral. El recorrido amplio detrás de la cabeza estira intensamente la musculatura del torso superior.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de dorsales.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los dorsales.",
-      "Contrae los dorsales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Acuéstate sobre un banco plano con la cabeza en un extremo y los pies apoyados en el suelo.",
+      "Sostén una barra con agarre al ancho de los hombros y extiende los brazos rectos por encima del pecho.",
+      "Mantén los brazos rectos y baja la barra detrás de la cabeza de manera controlada hasta sentir un estiramiento en los dorsales.",
+      "Haz una pausa breve y sube la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0074": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Tirón desde rack con barra",
+    "description": "El rack pull es un peso muerto parcial desde la altura de las rodillas que permite manejar cargas superiores al peso muerto convencional. Trabaja glúteos, espalda alta y trapecios con un rango corto y muy específico de la cadena posterior.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Coloca la barra en un rack a la altura de las rodillas.",
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Bisagra desde caderas y rodillas para bajar y agarrar la barra con agarre prono al ancho de los hombros.",
+      "Activa el core y levanta la barra extendiendo caderas y rodillas, llevando los hombros atrás y apretando los glúteos arriba.",
+      "Baja la barra a la posición inicial flexionando caderas y rodillas.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0075": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación posterior con barra",
+    "description": "La elevación posterior con barra aísla los deltoides posteriores con un patrón inclinado y los brazos rectos. Es un ejercicio simple pero muy eficaz para mejorar la postura y equilibrar el desarrollo del hombro frente a la dominancia del frontal.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono, palmas hacia abajo.",
+      "Flexiona ligeramente las rodillas y bisagra hacia adelante desde las caderas manteniendo la espalda recta.",
+      "Eleva la barra hacia los lados con los brazos rectos hasta que queden paralelos al piso.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0076": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Remo posterior con barra",
+    "description": "Este remo dirige los codos hacia afuera para enfatizar los deltoides posteriores y los romboides en lugar de los dorsales. Es una herramienta excelente para corregir hombros adelantados y construir una espalda alta más completa.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Sostén una barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Inclínate hacia adelante desde las caderas manteniendo la espalda recta y el pecho arriba.",
+      "Hala la barra hacia el pecho juntando las escápulas y manteniendo los codos abiertos.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0077": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Zancada inversa con barra v.2",
+    "description": "Esta variante de zancada inversa apoya la punta del pie atrás al dar el paso, generando un patrón ligeramente distinto al de la versión clásica. Carga glúteos y cuádriceps con un componente unilateral fuerte y exige buen control del torso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Da un paso atrás con el pie derecho aterrizando sobre la punta.",
+      "Flexiona ambas rodillas para bajar el cuerpo hasta que el muslo izquierdo quede paralelo al piso.",
+      "Empuja desde el talón izquierdo para regresar a la posición inicial.",
+      "Repite con la otra pierna."
     ]
   },
   "0078": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Zancada inversa con barra",
+    "description": "La zancada inversa con barra es más amable con las rodillas que la zancada al frente y permite enfocarse en el reclutamiento de glúteos. Dar un paso atrás con control mientras la barra se mantiene estable sobre la espalda demanda buena estabilidad central.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Da un paso atrás con el pie derecho aterrizando sobre la punta.",
+      "Flexiona ambas rodillas para bajar el cuerpo hasta que el muslo izquierdo quede paralelo al piso.",
+      "Empuja desde el talón izquierdo para regresar a la posición inicial.",
+      "Repite con la otra pierna."
     ]
   },
   "0079": {
-    "name": "Ejercicio de barra para antebrazos",
-    "description": "Ejercicio de barra para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca inverso sentado v.2",
+    "description": "Esta variante del curl de muñeca inverso se ejecuta con los antebrazos apoyados en los muslos y agarre prono. Aísla los músculos extensores del antebrazo y es muy útil para mejorar la fuerza de agarre y la salud del codo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con los pies apoyados en el suelo y las rodillas flexionadas.",
+      "Sostén una barra con agarre prono, palmas hacia abajo, y las manos al ancho de los hombros.",
+      "Apoya los antebrazos sobre los muslos dejando que las muñecas sobresalgan del borde.",
+      "Mantén los antebrazos quietos, exhala y eleva las muñecas tanto como puedas.",
+      "Sostén la posición contraída un instante, inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0080": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl inverso de pie con barra",
+    "description": "El curl inverso con barra invierte el agarre del curl tradicional para enfatizar el braquial y los extensores del antebrazo. Es uno de los mejores ejercicios para construir un brazo más completo desde el codo hasta la muñeca.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono, palmas hacia abajo.",
+      "Mantén los brazos superiores quietos y exhala mientras flexionas los codos contrayendo los bíceps.",
+      "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial manteniendo los brazos superiores quietos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0081": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl predicador inverso con barra",
+    "description": "El curl predicador inverso combina la rigidez del banco predicador con un agarre prono para machacar el braquial y los flexores del antebrazo. Pocos ejercicios trabajan esta porción del brazo con tanta intensidad y aislamiento.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco predicador con el pecho contra la almohadilla y los brazos extendidos hacia abajo, sujetando una barra con agarre prono.",
+      "Mantén los brazos superiores quietos, exhala y flexiona los codos contrayendo los bíceps.",
+      "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0082": {
-    "name": "Ejercicio de barra para antebrazos",
-    "description": "Ejercicio de barra para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca inverso sentado",
+    "description": "El curl de muñeca inverso aísla los extensores del antebrazo, una zona habitualmente descuidada. Apoyar los antebrazos en los muslos elimina cualquier ayuda y obliga a las muñecas a mover la carga de manera estricta.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sostén una barra con agarre prono, palmas hacia abajo.",
+      "Apoya los antebrazos sobre los muslos dejando que las muñecas sobresalgan del borde.",
+      "Eleva lentamente las muñecas llevando la barra hacia el cuerpo.",
+      "Haz una pausa breve arriba y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0083": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Rollout con barra desde banco",
+    "description": "El rollout desde banco con barra es una variante avanzada del rollout abdominal que extiende el rango y obliga al core a frenar el descenso del torso. Demanda un control absoluto de la pelvis y la columna para mantener la zona lumbar segura.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza arrodillado en el suelo con una barra apoyada sobre un banco frente a ti.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Mantén el core activo y la espalda recta, y rueda la barra hacia adelante extendiendo los brazos.",
+      "Continúa rodando la barra hasta que el cuerpo esté completamente extendido y los brazos por encima de la cabeza.",
+      "Haz una pausa breve en la extensión máxima y rueda la barra de vuelta hacia el cuerpo con control.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0084": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Rollout abdominal con barra",
+    "description": "El rollout con barra desde el suelo es uno de los ejercicios más exigentes para el abdomen. La fase excéntrica obliga al recto abdominal a frenar el cuerpo conforme la barra rueda hacia adelante, generando una tensión enorme en todo el core.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Arrodíllate en el suelo y sujeta una barra con ambas manos al ancho de los hombros.",
+      "Rueda la barra hacia adelante extendiendo los brazos y manteniendo el core activo.",
+      "Continúa rodando hasta que el cuerpo esté completamente extendido y los brazos por encima de la cabeza.",
+      "Haz una pausa breve y rueda la barra de vuelta hacia las rodillas controlando todo el recorrido.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0085": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Peso muerto rumano con barra",
+    "description": "El peso muerto rumano con barra mantiene una flexión mínima de rodilla y enfatiza la bisagra de cadera para estirar y reclutar isquiotibiales y glúteos. Es uno de los mejores ejercicios para construir cadena posterior y mejorar la mecánica del hip hinge.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio.",
-      "Controla el movimiento tanto en la fase concéntrica como en la excéntrica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas hacia adelante.",
+      "Sujeta la barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Bisagra desde la cadera manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Baja la barra hacia el piso manteniéndola cerca del cuerpo.",
+      "Siente el estiramiento en los isquiotibiales conforme bajas la barra.",
+      "Cuando notes el estiramiento, empuja las caderas hacia adelante y ponte de pie.",
+      "Aprieta los glúteos en la parte alta del movimiento.",
+      "Baja la barra a la posición inicial y repite el número de repeticiones deseado."
     ]
   },
   "0086": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel avanzado que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press militar sentado tras nuca con barra",
+    "description": "Este press lleva la barra detrás de la cabeza desde una posición sentada para aislar los deltoides laterales y posteriores. Demanda movilidad y salud de hombros excelentes, por lo que conviene cargas moderadas y técnica impecable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala a la altura de los hombros, detrás de la cabeza.",
+      "Empuja la barra hacia arriba hasta extender completamente los brazos.",
+      "Baja la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0087": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press Bradford sentado con barra",
+    "description": "El press Bradford alterna empujes al frente y detrás de la cabeza sin pausa en la posición alta, manteniendo tensión continua sobre los deltoides. Es un ejercicio clásico de bodybuilding muy demandante para los hombros.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Eleva la barra a la altura de los hombros con los codos ligeramente flexionados y apuntando al frente.",
+      "Empuja la barra por encima de la cabeza extendiendo completamente los brazos.",
+      "Baja la barra a la altura de los hombros y repite el número de repeticiones deseado."
     ]
   },
   "0088": {
-    "name": "Ejercicio de barra para pantorrillas",
-    "description": "Ejercicio de barra para pantorrillas es un ejercicio de fuerza de nivel principiante que trabaja la zona de piernas inferiores, principalmente los pantorrillas. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Elevación de pantorrilla sentado con barra",
+    "description": "Esta elevación de pantorrilla sentada coloca la barra sobre los muslos y trabaja principalmente el sóleo gracias al ángulo de las rodillas. Es una alternativa al equipo específico cuando solo se dispone de una barra y un step.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de pantorrillas.",
-      "Activa los músculos de piernas inferiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los pantorrillas.",
-      "Contrae los pantorrillas en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con los pies apoyados en el suelo y la barra apoyada sobre los muslos.",
+      "Coloca las puntas de los pies sobre una plataforma elevada como un bloque o un step.",
+      "Posiciona la barra sobre los muslos y sujétala con firmeza con las manos.",
+      "Mantén la espalda recta y el core activo, y eleva los talones extendiendo los tobillos.",
+      "Haz una pausa breve arriba y baja los talones con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0089": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl concentrado sentado con agarre cerrado y barra",
+    "description": "Esta variante sentada del curl concentrado apoya los brazos contra la cara interna de los muslos para aislar los bíceps con un agarre cerrado. Elimina el impulso por completo y exige una contracción muy estricta en cada repetición.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una barra con agarre supino, manos al ancho de los hombros.",
+      "Apoya los brazos superiores contra la cara interna de los muslos, justo arriba de las rodillas, y deja que la barra cuelgue al frente.",
+      "Mantén los brazos superiores quietos, exhala y flexiona los codos llevando la barra hacia los hombros, contrayendo los bíceps.",
+      "Sostén la posición contraída un instante, inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0090": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Buenos días sentado con barra",
+    "description": "El buenos días sentado fija la pelvis y limita la participación de las rodillas, lo que enfatiza la bisagra de cadera y el trabajo de isquiotibiales y zona lumbar. La posición exige una columna neutra durante todo el rango.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con los pies apoyados en el suelo y la barra apoyada sobre la parte alta de la espalda.",
+      "Mantén la espalda recta y el pecho arriba.",
+      "Bisagra lentamente desde las caderas bajando el torso hacia el piso.",
+      "Haz una pausa breve abajo y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0091": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press militar sentado con barra",
+    "description": "El press militar sentado con barra es uno de los ejercicios más completos para construir hombros fuertes. La posición sentada elimina la ayuda del tren inferior y obliga a los deltoides y tríceps a hacer todo el trabajo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
+      "Saca la barra del soporte y bájala a la altura de los hombros con los codos flexionados y las palmas hacia adelante.",
+      "Empuja la barra por encima de la cabeza extendiendo completamente los brazos.",
+      "Haz una pausa breve arriba y baja la barra con control hasta la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0092": {
-    "name": "Ejercicio de barra para tríceps",
-    "description": "Ejercicio de barra para tríceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de brazos superiores, principalmente los tríceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Extensión de tríceps overhead sentado con barra",
+    "description": "La extensión overhead sentada con barra estira la cabeza larga del tríceps gracias al rango amplio sobre la cabeza. Es uno de los movimientos más eficientes para sumar volumen a la parte posterior del brazo y mejorar la fuerza de bloqueo en otros presses.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de tríceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los tríceps.",
-      "Contrae los tríceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Sostén una barra con agarre prono al ancho de los hombros y elévala por encima de la cabeza.",
+      "Baja la barra detrás de la cabeza flexionando los codos y manteniendo los brazos superiores cerca de las orejas.",
+      "Haz una pausa breve y extiende los brazos para subir la barra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0094": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Giro sentado con barra",
+    "description": "El giro sentado con barra utiliza el peso de la barra para añadir resistencia a la rotación del torso. Trabaja oblicuos y estabilizadores de la columna, y conviene ejecutarlo con cargas ligeras y rangos cortos para evitar tensión lumbar.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Siéntate en un banco plano con los pies apoyados en el suelo y las rodillas flexionadas.",
+      "Sostén una barra con ambas manos frente al pecho manteniendo los codos ligeramente flexionados.",
+      "Activa el core y gira lentamente el torso hacia un lado manteniendo la espalda recta.",
+      "Haz una pausa breve al final del giro y rota lentamente al centro.",
+      "Repite el giro hacia el otro lado.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0095": {
-    "name": "Ejercicio de barra para trapecios",
-    "description": "Ejercicio de barra para trapecios es un ejercicio de fuerza de nivel principiante que trabaja la zona de espalda, principalmente los trapecios. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Encogimiento de hombros con barra",
+    "description": "El encogimiento de hombros con barra aísla los trapecios superiores con un movimiento simple pero potente. Levantar los hombros directamente hacia las orejas, sin rotarlos, es la clave para concentrar el trabajo en el músculo objetivo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de trapecios.",
-      "Activa los músculos de espalda y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los trapecios.",
-      "Contrae los trapecios en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sostén una barra al frente con agarre prono.",
+      "Mantén los brazos rectos y la espalda recta durante todo el ejercicio.",
+      "Eleva los hombros hacia las orejas tan alto como puedas apretando los trapecios arriba.",
+      "Sostén la posición un instante y baja los hombros con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0096": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel intermedio que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Inclinación lateral con barra de pie v.2",
+    "description": "Esta variante de inclinación lateral con barra al frente carga los oblicuos al flexionar el torso hacia un lado mientras se sostiene la barra. La carga frontal exige un control estricto del core para evitar movimiento de la pelvis.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y sostén una barra con ambas manos, palmas hacia abajo.",
+      "Mantén la espalda recta y el core activo durante todo el ejercicio.",
+      "Inclina lentamente el torso hacia el lado derecho bajando la barra hacia la rodilla derecha.",
+      "Haz una pausa breve y regresa a la posición inicial.",
+      "Repite el movimiento hacia el lado izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0097": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla lateral búlgara con barra v.2",
+    "description": "Esta sentadilla lateral con barra ejecuta el patrón paso a paso, cambiando de pierna en cada repetición. La carga unilateral activa intensamente cuádriceps, glúteos y aductores y mejora la estabilidad lateral del tren inferior.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica.",
-      "Asegúrate de mantener la postura correcta durante todo el ejercicio."
+      "Ponte de pie con los pies más abiertos que el ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sostén una barra sobre la parte alta de la espalda apoyada en los hombros.",
+      "Da un paso amplio hacia el lado con el pie derecho manteniendo el izquierdo plantado.",
+      "Flexiona la rodilla derecha y baja a la sentadilla manteniendo el pecho arriba y la espalda recta.",
+      "Empuja desde el talón derecho para regresar a la posición inicial.",
+      "Repite hacia el otro lado dando un paso con el pie izquierdo.",
+      "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0098": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla lateral con stance abierto y barra",
+    "description": "Esta sentadilla con stance amplio carga los cuádriceps mientras enfatiza el trabajo de glúteos y aductores gracias a la apertura de los pies. La barra sobre los trapecios estabiliza el patrón y permite cargar peso considerable.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies más abiertos que el ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sostén una barra sobre la parte alta de la espalda apoyada en los trapecios.",
+      "Activa el core y mantén el pecho arriba mientras bajas a la sentadilla flexionando rodillas y caderas.",
+      "Empuja las rodillas hacia afuera y mantén el peso en los talones durante el descenso.",
+      "Baja hasta que los muslos queden paralelos al piso y empuja desde los talones para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0099": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla búlgara con una pierna y barra",
+    "description": "La sentadilla búlgara con barra es uno de los ejercicios unilaterales más completos para el tren inferior. Cargar la pierna adelantada con la mayor parte del peso desarrolla cuádriceps y glúteos con un componente de equilibrio muy demandante.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros sosteniendo una barra sobre la parte alta de la espalda.",
+      "Da un paso amplio al frente con una pierna manteniendo el torso erguido.",
+      "Baja el cuerpo flexionando la rodilla y la cadera de la pierna delantera mientras la trasera permanece recta.",
+      "Continúa bajando hasta que el muslo de la pierna delantera quede paralelo al piso.",
+      "Haz una pausa breve y empuja desde el talón delantero para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   },
   "0100": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Esquiador con barra",
+    "description": "El esquiador con barra combina una bisagra de cadera con un pequeño salto y un tirón explosivo de la barra hacia los hombros. Es un ejercicio dinámico que entrena potencia en hombros, trapecios y core con un componente atlético claro.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sostén una barra al frente de los muslos con agarre prono.",
+      "Flexiona ligeramente las rodillas y bisagra desde las caderas manteniendo la espalda recta y el pecho arriba.",
+      "Eleva la barra hacia los hombros mientras saltas ligeramente del suelo.",
+      "Al llegar arriba, invierte rápidamente el movimiento y baja la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0101": {
-    "name": "Ejercicio de barra para glúteos",
-    "description": "Ejercicio de barra para glúteos es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los glúteos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla de velocidad con barra",
+    "description": "La sentadilla de velocidad con barra prioriza la ejecución explosiva del ascenso para entrenar la potencia del tren inferior. Trabaja glúteos, cuádriceps e isquiotibiales con cargas moderadas y enfatiza la velocidad de empuje desde los talones.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de glúteos.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los glúteos.",
-      "Contrae los glúteos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Sostén la barra sobre la parte alta de la espalda apoyada en los trapecios o los deltoides posteriores.",
+      "Activa el core y mantén el pecho arriba mientras bajas las caderas atrás y abajo, como si te sentaras en una silla.",
+      "Baja hasta que los muslos queden paralelos al piso o tan bajo como puedas con buena técnica.",
+      "Empuja explosivamente desde los talones para subir apretando los glúteos arriba.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0102": {
-    "name": "Ejercicio de barra para cuádriceps",
-    "description": "Ejercicio de barra para cuádriceps es un ejercicio de fuerza de nivel intermedio que trabaja la zona de piernas superiores, principalmente los cuádriceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Sentadilla arrodillada con barra",
+    "description": "La sentadilla arrodillada con barra elimina la participación de los tobillos y enfatiza el trabajo de cuádriceps y glúteos desde una posición poco habitual. Exige buen control del core para mantener la columna alineada durante el descenso.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de cuádriceps.",
-      "Activa los músculos de piernas superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los cuádriceps.",
-      "Contrae los cuádriceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Comienza arrodillado en el suelo con las rodillas separadas al ancho de las caderas y las puntas de los pies hacia adelante.",
+      "Coloca una barra sobre los hombros sujetándola con agarre prono y las manos un poco más abiertas que el ancho de los hombros.",
+      "Activa el core y mantén el pecho elevado mientras bajas el cuerpo flexionando las rodillas con la espalda recta.",
+      "Continúa bajando hasta que los muslos queden paralelos al piso o tan bajo como puedas con buena técnica.",
+      "Haz una pausa breve y empuja desde los talones para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0103": {
-    "name": "Ejercicio de barra para abdominales",
-    "description": "Ejercicio de barra para abdominales es un ejercicio de fuerza de nivel avanzado que trabaja la zona de cintura, principalmente los abdominales. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Rollout abdominal de pie con barra",
+    "description": "El rollout abdominal de pie con barra es la versión más exigente del rollout, ya que parte desde la postura erguida y obliga al core a frenar todo el peso del cuerpo durante el descenso. Solo es adecuado para atletas con un core muy desarrollado.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de abdominales.",
-      "Activa los músculos de cintura y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los abdominales.",
-      "Contrae los abdominales en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sostén la barra con ambas manos al frente de los muslos.",
+      "Activa el core y rueda lentamente la barra hacia el suelo manteniendo la espalda recta y los brazos extendidos.",
+      "Continúa rodando la barra hasta que el cuerpo esté completamente extendido y las manos queden por encima de la cabeza.",
+      "Haz una pausa breve y rueda la barra de vuelta hacia los muslos manteniendo el control y el core activo.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0104": {
-    "name": "Ejercicio de barra para antebrazos",
-    "description": "Ejercicio de barra para antebrazos es un ejercicio de fuerza de nivel principiante que trabaja la zona de antebrazos, principalmente los antebrazos. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de muñeca por detrás de pie con barra",
+    "description": "Esta variante del curl de muñeca trabaja los extensores del antebrazo desde una posición erguida con la barra apoyada en la parte posterior de las manos. La postura permite cargar peso y aislar específicamente los músculos del dorso del antebrazo.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de antebrazos.",
-      "Activa los músculos de antebrazos y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los antebrazos.",
-      "Contrae los antebrazos en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono.",
+      "Apoya la barra sobre el dorso de las manos con las palmas hacia abajo y los dedos apuntando al cuerpo.",
+      "Mantén los brazos superiores quietos, exhala y eleva las muñecas tanto como puedas.",
+      "Sostén la posición contraída un instante, inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0105": {
-    "name": "Ejercicio de barra para deltoides",
-    "description": "Ejercicio de barra para deltoides es un ejercicio de fuerza de nivel intermedio que trabaja la zona de hombros, principalmente los deltoides. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Press Bradford de pie con barra",
+    "description": "El press Bradford de pie alterna empujes al frente y detrás de la cabeza sin pausa, manteniendo tensión continua sobre los deltoides. Es un clásico del entrenamiento de hombros que demanda movilidad y control para ejecutarse con seguridad.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de deltoides.",
-      "Activa los músculos de hombros y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los deltoides.",
-      "Contrae los deltoides en el punto máximo del movimiento."
+      "Ponte de pie con los pies al ancho de los hombros y sostén la barra al frente de los hombros con agarre prono.",
+      "Empuja la barra por encima de la cabeza extendiendo completamente los brazos.",
+      "Baja la barra a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "0106": {
-    "name": "Ejercicio de barra para bíceps",
-    "description": "Ejercicio de barra para bíceps es un ejercicio de fuerza de nivel principiante que trabaja la zona de brazos superiores, principalmente los bíceps. Se realiza con barra y es ideal para fortalecer y desarrollar los músculos objetivo.",
+    "name": "Curl de pie con agarre cerrado y barra",
+    "description": "El curl de pie con agarre cerrado dirige el énfasis hacia la cabeza externa del bíceps gracias a la posición estrecha de las manos. Es una variante simple pero efectiva para añadir variedad al trabajo de brazo y enfatizar el pico del bíceps.",
     "instructions": [
-      "Prepárate en la posición inicial para el ejercicio de bíceps.",
-      "Activa los músculos de brazos superiores y mantén el core estable.",
-      "Realiza el movimiento de forma controlada, enfocándote en los bíceps.",
-      "Contrae los bíceps en el punto máximo del movimiento.",
-      "Regresa lentamente a la posición inicial manteniendo el control.",
-      "Repite el movimiento el número de repeticiones deseado con buena técnica."
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre supino y las manos juntas.",
+      "Mantén los codos cerca del torso y los brazos superiores quietos durante todo el movimiento.",
+      "Exhala mientras flexionas los codos contrayendo los bíceps. Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
+      "Sostén la posición contraída un instante apretando los bíceps.",
+      "Inhala y baja la barra con lentitud hasta la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   }
 }
