@@ -377,7 +377,7 @@
     "description": "The balance board exercise involves standing on a balance board with one foot, engaging the core and lower body muscles to maintain stability and balance. This exercise primarily targets the quads, while also engaging the calves, hamstrings, and glutes as secondary muscles.",
     "difficulty": "intermediate",
     "category": "balance",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "accessory", "no-equipment", "balance", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": ["ankle", "knee"]
@@ -2788,8 +2788,8 @@
     "description": "Battling ropes is a dynamic exercise that targets the deltoids while also engaging the forearms and core. It involves making rapid, alternating waves with heavy ropes, providing both a strength and cardiovascular challenge.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "push", "finisher", "minimal-equipment", "strength", "cardio", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "push", "finisher", "minimal-equipment", "strength", "cardio", "high-intensity", "hiit"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": ["shoulder"]
   },
@@ -9863,7 +9863,17 @@
     "difficulty": "advanced",
     "category": "cardio",
     "measurementType": "reps",
-    "tags": ["compound", "push", "squat", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "tags": [
+      "compound",
+      "push",
+      "squat",
+      "finisher",
+      "no-equipment",
+      "cardio",
+      "plyometrics",
+      "high-intensity",
+      "hiit"
+    ],
     "baselineEffectiveness": 65,
     "contraindicatedFor": ["knee", "wrist", "shoulder"]
   },
@@ -11924,7 +11934,7 @@
     "description": "A static stretch performed lying on your side to target the quadriceps, often used to improve flexibility and reduce muscle tightness.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["knee"]
@@ -12035,8 +12045,8 @@
     "description": "Mountain climbers are a dynamic bodyweight exercise that targets the cardiovascular system while also engaging the core, shoulders, and triceps. The movement mimics a running motion in a plank position, making it effective for both cardio and muscular endurance.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "push", "finisher", "no-equipment", "cardio", "high-intensity", "staple"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "push", "finisher", "no-equipment", "cardio", "high-intensity", "staple", "hiit"],
     "baselineEffectiveness": 80,
     "contraindicatedFor": ["wrist", "shoulder"]
   },
@@ -12291,7 +12301,7 @@
     "description": "The overhead triceps stretch is a static stretching exercise that targets the triceps and also stretches the shoulders. It is performed by extending one arm overhead, bending at the elbow, and using the opposite hand to gently pull the elbow for a deeper stretch.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": []
@@ -12672,7 +12682,7 @@
     "description": "The rear deltoid stretch is a bodyweight exercise targeting the deltoid muscles, particularly the rear (posterior) delts. It also stretches the trapezius and rhomboids. This movement is commonly used to improve shoulder flexibility and relieve tension.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "mobility", "low-impact"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": []
@@ -12876,7 +12886,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate", "staple"],
+    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate", "staple", "liss"],
     "baselineEffectiveness": 82,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -12898,7 +12908,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["compound", "gait", "main-lift", "no-equipment", "cardio", "high-intensity", "staple", "hyrox"],
+    "tags": ["compound", "gait", "main-lift", "no-equipment", "cardio", "high-intensity", "staple", "hyrox", "liss"],
     "baselineEffectiveness": 88,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -12987,7 +12997,7 @@
     "description": "A gentle stretch performed while seated to target the lower back and lats, also engaging the glutes and hamstrings. This exercise is suitable for improving flexibility and relieving tension in the lower back area.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "mobility", "low-impact"],
     "baselineEffectiveness": 62,
     "contraindicatedFor": []
@@ -13104,7 +13114,7 @@
     "description": "The side bridge v. 2 is a core stability exercise performed on the floor using only body weight. It targets the abs, with secondary emphasis on the obliques and glutes. The movement involves holding a side plank position, which challenges core strength and stability.",
     "difficulty": "intermediate",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "push", "accessory", "no-equipment", "strength", "moderate"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["shoulder"]
@@ -13171,7 +13181,7 @@
     "description": "The side push neck stretch is a gentle stretching exercise targeting the levator scapulae and other neck muscles. It helps improve flexibility and relieve tension in the neck and upper shoulders.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "mobility", "low-impact"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": []
@@ -13239,7 +13249,7 @@
     "description": "The side wrist pull stretch is a bodyweight exercise that targets the forearms and helps improve flexibility and mobility in the wrists and hands. It is performed by extending one arm to the side and gently pulling the hand towards the body with the opposite hand, creating a stretch in the forearm.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "no-equipment", "low-impact", "warm-up"],
     "baselineEffectiveness": 40,
     "contraindicatedFor": ["wrist"]
@@ -14349,7 +14359,7 @@
     "description": "The standing lateral stretch is a bodyweight exercise that targets the lats and stretches the sides of the torso. It also engages the shoulders and obliques. This movement is performed by standing with feet shoulder-width apart, extending the arms, and leaning to each side to stretch the lateral muscles.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "no-equipment", "low-impact", "warm-up"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -14418,7 +14428,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["compound", "gait", "cardio", "full-gym", "low-impact", "warm-up"],
+    "tags": ["compound", "gait", "cardio", "full-gym", "low-impact", "warm-up", "liss"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": ["knee"]
   },
@@ -14718,7 +14728,7 @@
     "description": "A static stretch targeting the triceps and shoulders, performed by extending one arm overhead and gently pulling the elbow with the opposite hand.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "no-equipment", "low-impact", "cooldown"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["elbow"]
@@ -15221,8 +15231,8 @@
     "description": "Wind sprints are high-intensity running intervals performed over a short distance or time, focusing on explosive speed and cardiovascular endurance. They primarily target the abs for stabilization, while also engaging the quadriceps, hamstrings, and calves.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "cardio", "no-equipment", "high-intensity", "finisher"],
+    "measurementType": "time",
+    "tags": ["compound", "cardio", "no-equipment", "high-intensity", "finisher", "hiit"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -16711,7 +16721,8 @@
       "no-equipment",
       "high-intensity",
       "finisher",
-      "staple"
+      "staple",
+      "hiit"
     ],
     "baselineEffectiveness": 75,
     "contraindicatedFor": ["knee", "wrist", "shoulder"]
@@ -16760,7 +16771,17 @@
     "difficulty": "advanced",
     "category": "cardio",
     "measurementType": "reps",
-    "tags": ["compound", "push", "squat", "cardio", "plyometrics", "minimal-equipment", "high-intensity", "finisher"],
+    "tags": [
+      "compound",
+      "push",
+      "squat",
+      "cardio",
+      "plyometrics",
+      "minimal-equipment",
+      "high-intensity",
+      "finisher",
+      "hiit"
+    ],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee", "wrist", "shoulder", "lower-back"]
   },
@@ -16918,7 +16939,7 @@
     "description": "The behind head chest stretch is a flexibility exercise that targets the pectoral muscles. It is performed by standing tall, interlacing the fingers behind the head, and gently squeezing the shoulder blades together to stretch the chest.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "minimal-equipment", "low-impact", "cooldown"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": []
@@ -17196,7 +17217,7 @@
     "description": "A stretch targeting the chest and front of the shoulders, performed by crossing the arms in front of the body and pressing the palms together to open up the pectorals and deltoids.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "no-equipment", "low-impact", "cooldown"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -17218,7 +17239,7 @@
     "description": "A chest stretch performed using a stability ball to help open up the pectoral muscles, with some engagement of the shoulders and triceps. This exercise focuses on flexibility and mobility rather than strength or cardio.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "stretching", "minimal-equipment", "low-impact", "cooldown"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": []
@@ -17815,7 +17836,7 @@
     "description": "The isometric chest squeeze is a bodyweight exercise that targets the pectoral muscles by requiring you to contract and hold tension in your chest while your arms are extended in front of you.",
     "difficulty": "beginner",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "push", "warm-up", "no-equipment", "strength", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": ["shoulder"]
@@ -18732,7 +18753,7 @@
     "description": "The exercise ball hug is a gentle movement performed on a stability ball, focusing on stretching and mobilizing the spine while engaging the core. It is suitable for improving flexibility and mobility in the back, with secondary engagement of the shoulders and chest.",
     "difficulty": "beginner",
     "category": "mobility",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "warm-up", "minimal-equipment", "mobility", "low-impact"],
     "baselineEffectiveness": 25,
     "contraindicatedFor": ["shoulder"]
@@ -18754,7 +18775,7 @@
     "description": "The exercise ball lat stretch is a flexibility movement that targets the latissimus dorsi muscles. It involves sitting on a stability ball and leaning to the side while holding a dumbbell overhead, providing a deep stretch to the lats and engaging the shoulders and triceps as secondary muscles.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 40,
     "contraindicatedFor": []
@@ -18777,7 +18798,7 @@
     "description": "A stretch performed on a stability ball to target the lower back and lats, also engaging the glutes and hamstrings. It involves rolling the ball under your lower back and gently extending over it to stretch the muscles.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": ["lower-back"]
@@ -18799,7 +18820,7 @@
     "description": "A stretch performed lying on your side over a stability ball to target the lat muscles, with additional stretching for the shoulders and triceps.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": []
@@ -18889,7 +18910,7 @@
     "description": "The kneeling lat stretch is a bodyweight exercise that targets the latissimus dorsi (lats) and helps improve flexibility and mobility in the upper back and shoulders. It is performed by kneeling, extending the arms overhead, and leaning side to side to stretch each lat muscle.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -19141,7 +19162,7 @@
     "description": "The side lying floor stretch is a bodyweight exercise targeting the lats, with secondary emphasis on the obliques and glutes. It is performed lying on your side, reaching overhead, and lifting the bottom leg to create a stretch along the side of the body.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": []
@@ -19235,7 +19256,7 @@
     "description": "The sphinx exercise is a gentle back extension movement that targets the spine and helps improve flexibility and mobility in the lower back. It is performed lying face down, lifting the chest off the ground while keeping the forearms and toes on the floor.",
     "difficulty": "beginner",
     "category": "mobility",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "hinge", "warm-up", "no-equipment", "mobility", "low-impact"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": ["lower-back"]
@@ -19258,7 +19279,7 @@
     "description": "The spine stretch is a bodyweight exercise that focuses on stretching and mobilizing the spine. It also provides a gentle stretch to the hamstrings and glutes. This movement is performed seated and emphasizes spinal flexibility and posture.",
     "difficulty": "beginner",
     "category": "mobility",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "warm-up", "no-equipment", "mobility", "stretching", "low-impact"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["lower-back"]
@@ -19303,7 +19324,7 @@
     "description": "The upper back stretch is a bodyweight exercise designed to stretch and mobilize the upper back and shoulders. It is performed by extending the arms, interlacing the fingers, and raising the arms overhead while squeezing the shoulder blades together.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": []
@@ -19326,7 +19347,7 @@
     "description": "Upward Facing Dog is a yoga pose that stretches the spine, chest, and shoulders while strengthening the arms and back. It is commonly used to improve spinal mobility and posture.",
     "difficulty": "beginner",
     "category": "mobility",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "hinge", "warm-up", "no-equipment", "mobility", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["lower-back", "wrist"]
@@ -19580,7 +19601,7 @@
     "description": "A stretch targeting the calves, performed by leaning against a wall with one leg extended back and the heel pressed to the ground.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": []
@@ -19603,7 +19624,7 @@
     "description": "A static stretching exercise using a rope to increase flexibility in the calves and hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -19834,7 +19855,7 @@
     "description": "The peroneals stretch is a flexibility exercise targeting the calf muscles, ankles, and feet. It uses a rope to assist in stretching the lower leg, improving mobility and reducing tightness.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "rehabilitation", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": ["ankle"]
@@ -19857,7 +19878,7 @@
     "description": "A stretch targeting the calves using a rope to assist in flexing the foot and lengthening the posterior tibialis and calf muscles.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "rehabilitation", "low-impact"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": []
@@ -19879,7 +19900,7 @@
     "description": "The seated calf stretch (male) is a flexibility exercise targeting the calf muscles. It is performed while seated, requiring no equipment other than a chair or bench, and focuses on stretching the calves and, to a lesser extent, the hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -20064,7 +20085,7 @@
     "description": "The standing calves calf stretch is a bodyweight exercise designed to stretch the calf muscles. It is performed by standing facing a wall, placing your hands on the wall, stepping one foot back, and leaning forward to stretch the calf of the back leg.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -20140,7 +20161,7 @@
     "description": "A gentle stretch targeting the side of the neck, primarily the levator scapulae, performed by tilting the head to the side while standing or sitting.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["neck"]
@@ -20164,7 +20185,7 @@
     "description": "The back pec stretch is a bodyweight exercise designed to stretch the lats, shoulders, and chest. It involves crossing the arms, interlocking the fingers, and raising the arms to feel a stretch across the upper back and chest.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": []
@@ -20187,7 +20208,7 @@
     "description": "The calf push stretch with hands against wall is a bodyweight exercise that targets the calves and also stretches the hamstrings. It is performed by standing facing a wall, placing your hands against it, stepping one foot back, and leaning forward to stretch the calf muscle.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": []
@@ -20593,7 +20614,7 @@
     "description": "The seated glute stretch is a flexibility exercise targeting the gluteal muscles. It is performed seated on the ground, crossing one ankle over the opposite thigh and gently pressing down on the knee to deepen the stretch. This exercise helps improve hip mobility and relieve tension in the glutes and hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -21484,7 +21505,7 @@
     "description": "The butterfly yoga pose is a seated stretch that targets the adductors and inner thighs. It is commonly used to improve flexibility and mobility in the hips and groin area.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["hip", "knee"]
@@ -21551,7 +21572,7 @@
     "description": "The hamstring stretch is a bodyweight exercise targeting the hamstrings and also engaging the glutes. It involves stepping forward, bending at the hips, and reaching toward the foot to stretch the back of the thigh.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": []
@@ -21573,7 +21594,7 @@
     "description": "The all fours squad stretch is a bodyweight exercise that targets the quadriceps, with secondary emphasis on the hamstrings and glutes. It is performed on all fours, extending one leg back and lowering the hips to stretch the quads.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee"]
@@ -21619,7 +21640,7 @@
     "description": "A seated stretch targeting the quadriceps, performed by extending one leg while sitting on a chair and leaning forward to feel the stretch.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["knee"]
@@ -21641,7 +21662,7 @@
     "description": "The exercise ball hip flexor stretch targets the glutes and stretches the hip flexors using a stability ball. It also involves the quadriceps and hamstrings as secondary muscles. The movement requires balance and flexibility, but is generally accessible to most people with basic coordination.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 40,
     "contraindicatedFor": ["hip"]
@@ -21665,7 +21686,7 @@
     "description": "A stretch performed using a stability ball to target the hamstrings, with secondary emphasis on the glutes and lower back. The exercise involves rolling out on the ball and lowering the upper body to stretch the hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 40,
     "contraindicatedFor": ["lower-back"]
@@ -21688,7 +21709,7 @@
     "description": "A stretch targeting the hip flexors and quadriceps using a rope for assistance, suitable for improving flexibility in the upper legs.",
     "difficulty": "intermediate",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": ["knee", "hip"]
@@ -21710,7 +21731,7 @@
     "description": "The leg up hamstring stretch is a flexibility exercise targeting the hamstrings and glutes. It involves lying on your back, bringing one knee toward your chest, and then straightening the leg to stretch the hamstring.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": []
@@ -21733,7 +21754,7 @@
     "description": "The reclining big toe pose with rope is a flexibility exercise that targets the hamstrings, using a rope to assist in stretching the leg while lying on your back.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 48,
     "contraindicatedFor": []
@@ -21755,7 +21776,7 @@
     "description": "The runner's stretch is a bodyweight exercise primarily targeting the hamstrings, with secondary emphasis on the calves and quadriceps. It is performed by stepping forward, bending the front knee, and keeping the back leg straight to stretch the hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": []
@@ -21780,7 +21801,7 @@
     "description": "The seated wide angle pose sequence is a flexibility exercise targeting the hamstrings, performed by sitting with legs extended wide, flexing the feet, and leaning forward from the hips to stretch the hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["hip"]
@@ -21804,7 +21825,7 @@
     "description": "A standing stretch using a rope or strap to target the hamstrings and calves. This exercise helps improve flexibility and mobility in the posterior chain.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 48,
     "contraindicatedFor": []
@@ -23727,7 +23748,7 @@
     "description": "The assisted lying calves stretch is a flexibility exercise targeting the calves, performed lying on your back and using your hands or a towel to gently pull your toes toward your body.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -23749,7 +23770,7 @@
     "description": "The assisted lying glutes stretch is a flexibility exercise targeting the gluteal muscles. It is performed lying on your back, crossing one ankle over the opposite thigh, and gently pulling the thigh towards your chest to stretch the glutes and hamstrings.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["hip"]
@@ -23771,7 +23792,7 @@
     "description": "The assisted lying gluteus and piriformis stretch is a flexibility exercise targeting the glutes and piriformis muscles. It is performed lying on your back, crossing one ankle over the opposite thigh, and gently pulling the thigh towards your chest to stretch the glutes and piriformis.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["hip"]
@@ -23794,7 +23815,7 @@
     "description": "The assisted side lying adductor stretch is a flexibility exercise targeting the inner thigh muscles (adductors), performed while lying on your side and using a bench or step for assistance.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["hip"]
@@ -23816,7 +23837,7 @@
     "description": "The assisted prone lying quads stretch is a flexibility exercise targeting the quadriceps, performed by lying face down and using your hand to gently pull your foot towards your glutes, stretching the front of the thigh.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["knee"]
@@ -23838,7 +23859,7 @@
     "description": "The assisted prone rectus femoris stretch is a flexibility exercise that targets the abdominal area and quadriceps. It is performed lying face down, bending one knee, and pulling the foot towards the glutes to stretch the front of the thigh.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["lower-back", "knee"]
@@ -23860,7 +23881,7 @@
     "description": "The assisted seated pectoralis major stretch with a stability ball is a stretching exercise that targets the chest muscles, specifically the pectorals, and also involves the shoulders and triceps. It is performed while seated on a stability ball, using the ball to assist in deepening the stretch.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": []
@@ -24520,7 +24541,7 @@
     "description": "The exercise ball seated triceps stretch is a flexibility movement performed while seated on a stability ball, focusing on stretching the triceps and shoulders.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": []
@@ -25209,7 +25230,7 @@
     "description": "The weighted front plank is a core stability exercise that increases the challenge of the traditional plank by adding external weight, requiring greater strength and endurance from the abdominal muscles, shoulders, and lower back.",
     "difficulty": "intermediate",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "accessory", "minimal-equipment", "strength", "moderate"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["lower-back", "shoulder"]
@@ -25288,7 +25309,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "main-lift", "full-gym", "cardio", "low-impact"],
+    "tags": ["gait", "main-lift", "full-gym", "cardio", "low-impact", "liss"],
     "baselineEffectiveness": 72,
     "contraindicatedFor": []
   },
@@ -25309,8 +25330,8 @@
     "description": "The hands bike (upper body ergometer) is a cardiovascular exercise that targets the pectorals, triceps, and shoulders by requiring the user to pedal with their hands, simulating a cycling motion for the upper body.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "push", "pull", "accessory", "full-gym", "cardio", "low-impact"],
+    "measurementType": "time",
+    "tags": ["compound", "push", "pull", "accessory", "full-gym", "cardio", "low-impact", "liss"],
     "baselineEffectiveness": 45,
     "contraindicatedFor": ["shoulder"]
   },
@@ -25334,7 +25355,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "main-lift", "full-gym", "cardio", "low-impact"],
+    "tags": ["gait", "main-lift", "full-gym", "cardio", "low-impact", "liss"],
     "baselineEffectiveness": 72,
     "contraindicatedFor": []
   },
@@ -25357,8 +25378,8 @@
     "description": "The ski ergometer exercise targets the triceps and simulates the motion of cross-country skiing using a skierg machine. It also engages the shoulders and forearms, providing a cardiovascular and strength workout.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "pull", "main-lift", "full-gym", "cardio", "hyrox", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "pull", "main-lift", "full-gym", "cardio", "hyrox", "high-intensity", "liss"],
     "baselineEffectiveness": 62,
     "contraindicatedFor": ["shoulder"]
   },
@@ -25582,7 +25603,7 @@
     "description": "The roller hip lat stretch is a flexibility exercise that targets the glutes and also stretches the hamstrings and quadriceps. It uses a roller for support and to enhance the stretch, making it accessible for most people with basic mobility and balance.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": ["hip"]
@@ -25626,7 +25647,7 @@
     "description": "The roller side lat stretch is a flexibility exercise targeting the latissimus dorsi, using a roller to assist in deepening the stretch. It also engages the shoulders and triceps as secondary muscles. This movement is performed by hinging at the hips and rolling the roller forward to stretch the lats.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "minimal-equipment", "stretching", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": []
@@ -25970,7 +25991,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "main-lift", "full-gym", "staple", "cardio", "moderate"],
+    "tags": ["gait", "main-lift", "full-gym", "staple", "cardio", "moderate", "liss"],
     "baselineEffectiveness": 75,
     "contraindicatedFor": ["knee"]
   },
@@ -26201,7 +26222,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "accessory", "full-gym", "cardio", "low-impact"],
+    "tags": ["gait", "accessory", "full-gym", "cardio", "low-impact", "liss"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": []
   },
@@ -26854,7 +26875,7 @@
     "description": "The seated piriformis stretch targets the glutes and helps improve flexibility and relieve tension in the piriformis muscle. It is performed seated on the ground, crossing one leg over the other and gently twisting the torso to stretch the gluteal region.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "cooldown", "no-equipment", "stretching", "mobility", "low-impact"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["hip"]
@@ -26878,7 +26899,7 @@
     "description": "The rocking frog stretch is a bodyweight exercise that targets the glutes and also stretches the hamstrings and quadriceps. It involves kneeling, leaning forward, and rocking the hips back to stretch the lower body muscles.",
     "difficulty": "beginner",
     "category": "stretching",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "warm-up", "no-equipment", "stretching", "mobility", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["hip", "knee"]
@@ -26924,7 +26945,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "warm-up", "finisher", "minimal-equipment", "cardio", "high-intensity", "staple"],
+    "tags": ["gait", "warm-up", "finisher", "minimal-equipment", "cardio", "high-intensity", "staple", "hiit"],
     "baselineEffectiveness": 78,
     "contraindicatedFor": ["ankle", "knee"]
   },
@@ -28419,8 +28440,8 @@
     "description": "Scissor jumps are a plyometric cardio exercise that involves jumping and alternating the crossing of your legs in mid-air. This movement elevates the heart rate and challenges coordination and lower body strength.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity", "hiit"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -28442,8 +28463,8 @@
     "description": "Astride jumps (male) are a plyometric cardio exercise that involves jumping explosively from a squat position, spreading the legs and arms in the air, and landing softly. This movement targets the cardiovascular system while also engaging the quadriceps, hamstrings, and calves.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "squat", "warm-up", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "squat", "warm-up", "no-equipment", "cardio", "plyometrics", "high-intensity", "hiit"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -28487,7 +28508,7 @@
     "difficulty": "intermediate",
     "category": "cardio",
     "measurementType": "reps",
-    "tags": ["compound", "squat", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "tags": ["compound", "squat", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity", "hiit"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -28508,8 +28529,8 @@
     "description": "The star jump (male) is a plyometric cardio exercise that involves jumping explosively while spreading the arms and legs out to form a star shape in the air. It targets the cardiovascular system and also engages the quadriceps, hamstrings, and calves.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "plyometrics", "high-intensity", "hiit"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -28529,8 +28550,8 @@
     "description": "A dynamic bodyweight exercise that involves jumping with feet apart and arms overhead, then returning to the starting position. This movement elevates the heart rate and targets the cardiovascular system, with secondary emphasis on the quadriceps and calves.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate", "staple"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate", "staple", "hiit"],
     "baselineEffectiveness": 70,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -28997,7 +29018,7 @@
     "description": "The front lever is a challenging bodyweight exercise that targets the abs and requires significant strength and control from the lats, shoulders, and forearms. It involves holding your body parallel to the ground while hanging from a pull-up bar.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "pull", "accessory", "no-equipment", "strength", "high-intensity", "advanced-technique"],
     "baselineEffectiveness": 15,
     "contraindicatedFor": ["shoulder", "lower-back", "wrist"]
@@ -29020,7 +29041,7 @@
     "description": "The back lever is a challenging bodyweight exercise performed on a pull-up bar, requiring significant strength, balance, and body control. It targets the upper back and also engages the biceps, forearms, and core.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "pull", "accessory", "no-equipment", "strength", "high-intensity", "advanced-technique"],
     "baselineEffectiveness": 12,
     "contraindicatedFor": ["shoulder", "wrist", "elbow"]
@@ -29074,7 +29095,7 @@
     "description": "The full planche is an advanced bodyweight exercise that requires significant core strength, balance, and upper body control. It involves holding your body parallel to the ground, supported only by your hands, with no other contact points.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29105,7 +29126,7 @@
     "description": "The lean planche is a challenging bodyweight exercise that targets the abdominal muscles while also engaging the shoulders, chest, and triceps. It requires significant core strength, balance, and upper body control as you lean your body forward in a plank-like position, shifting your weight past your hands.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29136,7 +29157,7 @@
     "description": "The frog planche is an advanced bodyweight exercise that targets the abs while also engaging the shoulders, chest, and triceps. It requires significant core strength, balance, and upper body control.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29169,7 +29190,7 @@
     "description": "The handstand is a bodyweight exercise that primarily targets the triceps, while also engaging the shoulders and core. It requires significant balance, strength, and coordination to perform safely and effectively.",
     "difficulty": "advanced",
     "category": "balance",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29201,7 +29222,7 @@
     "description": "The flag is an advanced bodyweight exercise that targets the abs and requires significant core, shoulder, and grip strength. It involves gripping a vertical pole and lifting the body horizontally, holding a straight line parallel to the ground.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "accessory", "no-equipment", "strength", "balance", "high-intensity", "advanced-technique"],
     "baselineEffectiveness": 8,
     "contraindicatedFor": ["shoulder", "wrist"]
@@ -29322,7 +29343,7 @@
     "description": "The straddle maltese is an advanced bodyweight exercise performed on rings, targeting the abs with significant involvement of the shoulders and chest. It requires exceptional core strength, shoulder stability, and body control, making it a challenging movement for experienced athletes.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29353,7 +29374,7 @@
     "description": "The full maltese is an advanced bodyweight exercise that primarily targets the abs, with significant involvement of the shoulders and chest. It requires a high degree of core strength, balance, and body control, making it a challenging movement for most practitioners.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": [
       "compound",
       "push",
@@ -29384,7 +29405,7 @@
     "description": "The swing 360 is a dynamic bodyweight exercise that targets the cardiovascular system while also engaging the shoulders and core. It involves swinging the arms in a circular motion while rotating the torso, making it a great movement for increasing heart rate and improving coordination.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "rotation", "warm-up", "no-equipment", "cardio", "moderate"],
     "baselineEffectiveness": 42,
     "contraindicatedFor": ["shoulder"]
@@ -29431,7 +29452,7 @@
     "description": "The bear crawl is a full-body movement that targets the cardiovascular system while also engaging the core, shoulders, and triceps. It involves crawling on all fours with knees off the ground, requiring coordination and endurance.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "strength", "moderate"],
     "baselineEffectiveness": 60,
     "contraindicatedFor": ["wrist", "shoulder"]
@@ -29455,8 +29476,8 @@
     "description": "Skater hops are a dynamic, lateral jumping exercise that targets the cardiovascular system while also engaging the lower body muscles. The movement mimics a speed skater's motion, helping to improve agility, coordination, and cardiovascular endurance.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "plyometrics", "high-intensity", "hiit"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -29502,7 +29523,7 @@
     "description": "The L-sit on floor is a challenging core exercise that targets the abdominal muscles and hip flexors. It requires significant core strength, balance, and coordination to lift and hold the legs parallel to the floor while supporting the body with the arms.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "accessory", "no-equipment", "strength", "high-intensity", "advanced-technique"],
     "baselineEffectiveness": 28,
     "contraindicatedFor": ["wrist", "hip"]
@@ -29524,7 +29545,7 @@
     "description": "The V-sit on floor is a core exercise that targets the abdominal muscles and also engages the hip flexors. It requires balance, core strength, and coordination as you hold your body in a V-shape, balancing on your tailbone.",
     "difficulty": "advanced",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "accessory", "no-equipment", "strength", "high-intensity", "advanced-technique"],
     "baselineEffectiveness": 22,
     "contraindicatedFor": ["wrist", "hip", "lower-back"]
@@ -29702,7 +29723,7 @@
     "description": "The bodyweight incline side plank is a core stability exercise that targets the abs, with secondary emphasis on the obliques and shoulders. It involves holding a plank position on your side with your body supported by your forearm and feet, focusing on maintaining a straight line and engaging the core.",
     "difficulty": "beginner",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["isolation", "accessory", "no-equipment", "strength", "balance", "low-impact"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["shoulder"]
@@ -29814,8 +29835,8 @@
     "description": "Quick feet v. 2 is a bodyweight exercise that involves rapidly moving your feet up and down in place, focusing on speed and agility. It targets the quadriceps while also engaging the calves and hamstrings.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "high-intensity", "hiit"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -29993,7 +30014,7 @@
     "description": "High knee against wall is a bodyweight cardio exercise that involves running in place while bringing your knees up high, using a wall for balance and support. It targets the cardiovascular system and also works the quadriceps, hamstrings, glutes, and calves.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate"],
     "baselineEffectiveness": 58,
     "contraindicatedFor": ["knee"]
@@ -30015,8 +30036,8 @@
     "description": "The wheel run is a dynamic exercise that targets the cardiovascular system while also engaging the core, quadriceps, hamstrings, and calves. It involves rolling a wheel forward and backward from a plank position, requiring both strength and coordination.",
     "difficulty": "advanced",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "high-intensity", "advanced-technique"],
+    "measurementType": "time",
+    "tags": ["compound", "gait", "finisher", "no-equipment", "cardio", "high-intensity", "advanced-technique", "hiit"],
     "baselineEffectiveness": 30,
     "contraindicatedFor": ["wrist", "shoulder", "ankle"]
   },
@@ -30038,8 +30059,8 @@
     "description": "The 'push to run' exercise combines a push-up with a running-in-place motion, alternating knees towards the chest in a plank position. This movement elevates the heart rate and challenges both upper body strength and cardiovascular endurance.",
     "difficulty": "intermediate",
     "category": "cardio",
-    "measurementType": "reps",
-    "tags": ["compound", "push", "gait", "finisher", "no-equipment", "cardio", "high-intensity"],
+    "measurementType": "time",
+    "tags": ["compound", "push", "gait", "finisher", "no-equipment", "cardio", "high-intensity", "hiit"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": ["wrist", "shoulder", "knee"]
   },
@@ -30218,7 +30239,7 @@
     "description": "The walking high knees lunge is a dynamic exercise that combines high knee raises with forward lunges, targeting the cardiovascular system while also engaging the quadriceps, hamstrings, glutes, and calves. It is performed using only body weight and is effective for improving cardiovascular endurance, coordination, and lower body strength.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "gait", "squat", "warm-up", "no-equipment", "cardio", "moderate"],
     "baselineEffectiveness": 55,
     "contraindicatedFor": ["knee", "ankle"]
@@ -30241,7 +30262,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "warm-up", "no-equipment", "cardio", "low-impact", "staple"],
+    "tags": ["gait", "warm-up", "no-equipment", "cardio", "low-impact", "staple", "liss"],
     "baselineEffectiveness": 65,
     "contraindicatedFor": ["ankle", "knee"]
   },
@@ -30345,7 +30366,7 @@
     "description": "The power point plank is a dynamic core exercise that involves transitioning between a high plank and a forearm plank position, challenging core stability, shoulder strength, and coordination.",
     "difficulty": "intermediate",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "push", "accessory", "no-equipment", "strength", "moderate"],
     "baselineEffectiveness": 50,
     "contraindicatedFor": ["shoulder", "wrist"]
@@ -30369,7 +30390,7 @@
     "difficulty": "beginner",
     "category": "cardio",
     "measurementType": "time",
-    "tags": ["gait", "warm-up", "full-gym", "cardio", "low-impact", "staple"],
+    "tags": ["gait", "warm-up", "full-gym", "cardio", "low-impact", "staple", "liss"],
     "baselineEffectiveness": 78,
     "contraindicatedFor": ["knee", "ankle"]
   },
@@ -30459,7 +30480,7 @@
     "description": "The ski step is a dynamic, bodyweight exercise that mimics the motion of skiing. It involves lateral jumps from side to side, engaging the cardiovascular system while also working the lower body muscles.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["compound", "gait", "warm-up", "no-equipment", "cardio", "moderate"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": ["knee", "ankle"]
@@ -30482,7 +30503,7 @@
     "description": "A dynamic bodyweight exercise that alternates stepping forward and backward, targeting the cardiovascular system and lower body muscles.",
     "difficulty": "beginner",
     "category": "cardio",
-    "measurementType": "reps",
+    "measurementType": "time",
     "tags": ["gait", "warm-up", "no-equipment", "cardio", "low-impact"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": ["knee", "ankle"]
@@ -30970,7 +30991,18 @@
     "difficulty": "intermediate",
     "category": "cardio",
     "measurementType": "distance",
-    "tags": ["compound", "pull", "push", "finisher", "full-gym", "cardio", "strength", "hyrox", "high-intensity"],
+    "tags": [
+      "compound",
+      "pull",
+      "push",
+      "finisher",
+      "full-gym",
+      "cardio",
+      "strength",
+      "hyrox",
+      "high-intensity",
+      "hiit"
+    ],
     "baselineEffectiveness": 45,
     "contraindicatedFor": ["shoulder", "lower-back"]
   },
@@ -30994,7 +31026,7 @@
     "difficulty": "intermediate",
     "category": "strength",
     "measurementType": "distance",
-    "tags": ["compound", "push", "gait", "finisher", "full-gym", "strength", "hyrox", "high-intensity"],
+    "tags": ["compound", "push", "gait", "finisher", "full-gym", "strength", "hyrox", "high-intensity", "hiit"],
     "baselineEffectiveness": 42,
     "contraindicatedFor": ["knee", "lower-back", "shoulder"]
   },
@@ -31018,7 +31050,7 @@
     "difficulty": "intermediate",
     "category": "strength",
     "measurementType": "distance",
-    "tags": ["compound", "pull", "gait", "finisher", "full-gym", "strength", "hyrox", "high-intensity"],
+    "tags": ["compound", "pull", "gait", "finisher", "full-gym", "strength", "hyrox", "high-intensity", "hiit"],
     "baselineEffectiveness": 42,
     "contraindicatedFor": ["lower-back", "shoulder"]
   },
@@ -31052,7 +31084,8 @@
       "plyometrics",
       "cardio",
       "hyrox",
-      "high-intensity"
+      "high-intensity",
+      "hiit"
     ],
     "baselineEffectiveness": 40,
     "contraindicatedFor": ["knee", "wrist", "shoulder", "lower-back"]
@@ -31077,7 +31110,18 @@
     "difficulty": "intermediate",
     "category": "cardio",
     "measurementType": "distance",
-    "tags": ["compound", "pull", "push", "finisher", "full-gym", "cardio", "strength", "hyrox", "high-intensity"],
+    "tags": [
+      "compound",
+      "pull",
+      "push",
+      "finisher",
+      "full-gym",
+      "cardio",
+      "strength",
+      "hyrox",
+      "high-intensity",
+      "hiit"
+    ],
     "baselineEffectiveness": 45,
     "contraindicatedFor": ["lower-back", "knee"]
   },
@@ -31101,7 +31145,7 @@
     "difficulty": "intermediate",
     "category": "strength",
     "measurementType": "distance",
-    "tags": ["compound", "carry", "finisher", "minimal-equipment", "strength", "hyrox", "high-intensity"],
+    "tags": ["compound", "carry", "finisher", "minimal-equipment", "strength", "hyrox", "high-intensity", "hiit"],
     "baselineEffectiveness": 42,
     "contraindicatedFor": ["wrist", "lower-back"]
   },
@@ -31125,7 +31169,18 @@
     "difficulty": "intermediate",
     "category": "strength",
     "measurementType": "distance",
-    "tags": ["compound", "squat", "gait", "finisher", "full-gym", "strength", "hyrox", "high-intensity", "push"],
+    "tags": [
+      "compound",
+      "squat",
+      "gait",
+      "finisher",
+      "full-gym",
+      "strength",
+      "hyrox",
+      "high-intensity",
+      "push",
+      "hiit"
+    ],
     "baselineEffectiveness": 42,
     "contraindicatedFor": ["knee", "lower-back", "shoulder"]
   }

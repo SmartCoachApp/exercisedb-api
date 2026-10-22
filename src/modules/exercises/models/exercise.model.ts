@@ -24,7 +24,8 @@ export const ExerciseWithImagesSchema = z.object({
   }),
   tags: z.array(z.string()).openapi({
     title: 'Tags',
-    description: 'Classification tags for filtering and recommendation',
+    description:
+      'Classification tags for filtering and recommendation. For time-based exercises, `liss` marks one long steady-state block and `hiit` short high-intensity rounds.',
     example: ['compound', 'main-lift', 'full-gym', 'staple', 'strength']
   }),
   baselineEffectiveness: z.number().min(0).max(100).openapi({
