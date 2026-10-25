@@ -1,6 +1,24 @@
 import { FileLoader } from '../data/load'
 import type { Exercise } from '../data/types'
-import type { SupportedLanguage } from '../data/i18n/types'
+import type { CatalogTranslations, SupportedLanguage } from '../data/i18n/types'
+
+/**
+ * Equipment may be compound ("dumbbell, stability ball"): each comma-separated
+ * token is translated on its own and the separator is kept.
+ */
+export function translateEquipment(value: string, map: Record<string, string>): string {
+  if (map[value]) return map[value]
+  if (!value.includes(',')) return value
+  return value
+    .split(',')
+    .map((token) => token.trim())
+    .map((token) => map[token] ?? token)
+    .join(', ')
+}
+
+function translateMuscle(value: string, catalogs: CatalogTranslations): string {
+  return catalogs.targets[value] ?? catalogs.secondaryMuscles?.[value] ?? value
+}
 
 export class TranslationService {
   static async translateExercise(exercise: Exercise, lang: SupportedLanguage): Promise<Exercise> {
@@ -19,9 +37,9 @@ export class TranslationService {
       description: exerciseTranslation?.description ?? exercise.description,
       instructions: exerciseTranslation?.instructions ?? exercise.instructions,
       target: catalogTranslations.targets[exercise.target] ?? exercise.target,
-      secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
+      secondaryMuscles: exercise.secondaryMuscles.map((m) => translateMuscle(m, catalogTranslations)),
       bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
-      equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment,
+      equipment: translateEquipment(exercise.equipment, catalogTranslations.equipment),
       tags: exercise.tags,
       baselineEffectiveness: exercise.baselineEffectiveness,
       contraindicatedFor: exercise.contraindicatedFor
@@ -44,9 +62,9 @@ export class TranslationService {
         description: exerciseTranslation?.description ?? exercise.description,
         instructions: exerciseTranslation?.instructions ?? exercise.instructions,
         target: catalogTranslations.targets[exercise.target] ?? exercise.target,
-        secondaryMuscles: exercise.secondaryMuscles.map((m) => catalogTranslations.targets[m] ?? m),
+        secondaryMuscles: exercise.secondaryMuscles.map((m) => translateMuscle(m, catalogTranslations)),
         bodyPart: catalogTranslations.bodyParts[exercise.bodyPart] ?? exercise.bodyPart,
-        equipment: catalogTranslations.equipment[exercise.equipment] ?? exercise.equipment,
+        equipment: translateEquipment(exercise.equipment, catalogTranslations.equipment),
         tags: exercise.tags,
         baselineEffectiveness: exercise.baselineEffectiveness,
         contraindicatedFor: exercise.contraindicatedFor

@@ -59,10 +59,14 @@ export class GetExercisesUseCase implements IUseCase<GetExercisesArgs, GetExerci
       })
     }
 
-    // Handle equipment filtering (single value)
+    // Handle equipment filtering (single value). An exercise's equipment may be
+    // compound ("dumbbell, stability ball"): it matches the filter of each token.
     if (query.equipment) {
-      const equipment = query.equipment.toLowerCase()
-      filtered = filtered.filter((exercise) => exercise.equipment.toLowerCase() === equipment)
+      const equipment = query.equipment.toLowerCase().trim()
+      filtered = filtered.filter((exercise) => {
+        const value = exercise.equipment.toLowerCase()
+        return value === equipment || value.split(',').some((token) => token.trim() === equipment)
+      })
     }
 
     // Handle bodyPart filtering (single value)

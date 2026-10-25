@@ -318,7 +318,7 @@
   },
   {
     "bodyPart": "upper arms",
-    "equipment": "assisted (towel)",
+    "equipment": "assisted",
     "id": "0018",
     "name": "assisted standing triceps extension (with towel)",
     "target": "triceps",
@@ -12008,7 +12008,7 @@
   },
   {
     "bodyPart": "upper legs",
-    "equipment": "body weight (with resistance band)",
+    "equipment": "resistance band",
     "id": "0628",
     "name": "monster walk",
     "target": "glutes",
@@ -14936,7 +14936,7 @@
   },
   {
     "bodyPart": "shoulders",
-    "equipment": "weighted",
+    "equipment": "dumbbell",
     "id": "0844",
     "name": "weighted round arm",
     "target": "delts",
@@ -17277,7 +17277,7 @@
   },
   {
     "bodyPart": "chest",
-    "equipment": "dumbbell (used as handles for deeper range)",
+    "equipment": "dumbbell",
     "id": "1274",
     "name": "deep push up",
     "target": "pectorals",
@@ -17366,7 +17366,7 @@
   },
   {
     "bodyPart": "chest",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1278",
     "name": "dumbbell incline fly on exercise ball",
     "target": "pectorals",
@@ -17482,7 +17482,7 @@
   },
   {
     "bodyPart": "chest",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1283",
     "name": "dumbbell incline press on exercise ball",
     "target": "pectorals",
@@ -17687,7 +17687,7 @@
   },
   {
     "bodyPart": "chest",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1292",
     "name": "dumbbell one leg fly on exercise ball",
     "target": "pectorals",
@@ -17767,7 +17767,7 @@
   },
   {
     "bodyPart": "chest",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1295",
     "name": "dumbbell pullover on exercise ball",
     "target": "pectorals",
@@ -22685,7 +22685,7 @@
   },
   {
     "bodyPart": "upper arms",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1649",
     "name": "dumbbell alternating bicep curl with leg raised on exercise ball",
     "target": "biceps",
@@ -22943,7 +22943,7 @@
   },
   {
     "bodyPart": "upper arms",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1659",
     "name": "dumbbell hammer curl on exercise ball",
     "target": "biceps",
@@ -22967,7 +22967,7 @@
   },
   {
     "bodyPart": "upper arms",
-    "equipment": "dumbbell, exercise ball",
+    "equipment": "dumbbell, stability ball",
     "id": "1660",
     "name": "dumbbell kneeling bicep curl exercise ball",
     "target": "biceps",
@@ -24570,7 +24570,7 @@
   },
   {
     "bodyPart": "upper arms",
-    "equipment": "ez barbell, exercise ball",
+    "equipment": "ez barbell, stability ball",
     "id": "1747",
     "name": "ez bar french press on exercise ball",
     "target": "triceps",
@@ -28717,7 +28717,7 @@
   },
   {
     "bodyPart": "lower legs",
-    "equipment": "dumbbell, exercise ball, tennis ball",
+    "equipment": "dumbbell, stability ball",
     "id": "3241",
     "name": "exercise ball on the wall calf raise (tennis ball between ankles)",
     "target": "calves",
