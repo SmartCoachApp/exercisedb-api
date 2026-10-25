@@ -61,7 +61,7 @@
     ]
   },
   "1439": {
-    "name": "Encogimiento sin agarre en máquina de palanca v. 2",
+    "name": "Encogimiento sin agarre en máquina de palanca (variante)",
     "description": "Esta variante del encogimiento de hombros en máquina de palanca elimina la fuerza de agarre como factor limitante: los hombros sostienen la carga apoyada sobre soportes acolchados. Permite trabajar los trapecios al fallo sin que cedan los antebrazos.",
     "instructions": [
       "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en el respaldo.",
@@ -295,7 +295,7 @@
     ]
   },
   "1479": {
-    "name": "Press de pecho inclinado en máquina de palanca v. 2",
+    "name": "Press de pecho inclinado en máquina de palanca",
     "description": "El press de pecho inclinado en máquina de palanca pone énfasis en el pectoral superior y los deltoides anteriores. La trayectoria guiada permite concentrarse en la fuerza del empuje sin perder estabilidad.",
     "instructions": [
       "Ajusta la altura del asiento y el ángulo del respaldo en la máquina de palanca a una posición cómoda.",
@@ -343,7 +343,7 @@
     ]
   },
   "1495": {
-    "name": "Crunch oblicuo en suelo v. 2",
+    "name": "Crunch oblicuo en suelo",
     "description": "Este crunch oblicuo añade rotación del torso al levantar los hombros del suelo, dirigiendo el trabajo hacia los oblicuos. Alternar lados activa de manera equilibrada las dos cadenas oblicuas y refuerza la cintura.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
@@ -521,7 +521,7 @@
     ]
   },
   "1614": {
-    "name": "Curl predicador en máquina de palanca v. 2",
+    "name": "Curl predicador en máquina de palanca (variante)",
     "description": "El curl predicador en máquina de palanca aísla los bíceps fijando los codos sobre la almohadilla. La trayectoria guiada elimina el balanceo y permite trabajar el músculo en su rango más exigente, especialmente cerca de la extensión completa.",
     "instructions": [
       "Ajusta la altura del asiento y colócate en la máquina con los brazos apoyados en la almohadilla y el pecho contra el soporte.",
@@ -1063,7 +1063,7 @@
     ]
   },
   "1657": {
-    "name": "Curl martillo cruzado con mancuernas v. 2",
+    "name": "Curl martillo cruzado con mancuernas",
     "description": "El curl martillo cruzado lleva la mancuerna desde un lado hacia el hombro contrario, lo que enfatiza la cabeza larga del bíceps y el braquial. Es una variante eficaz para añadir grosor al brazo.",
     "instructions": [
       "Párate erguido con una mancuerna en cada mano, palmas hacia el cuerpo.",

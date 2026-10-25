@@ -159,3 +159,39 @@ describe('Spanish i18n — full data integrity', () => {
     expect(emptyEntries).toEqual([])
   })
 })
+
+/** QA prod 2026-10-25: «Sentadilla búlgara con barra v. 2» reached the PWA. */
+describe('Spanish names — no dataset version suffix', () => {
+  const VERSION_SUFFIX = /\bv\.?\s?\d+\b/i
+  const normalize = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/\s+/g, ' ').trim()
+  // Ids whose English name carries «v. N» (dataset clones of another exercise).
+  const versionedIds = exercises.filter((e) => VERSION_SUFFIX.test((e as any).name)).map((e) => (e as any).id as string)
+
+  it('no Spanish name carries «v. 2» / «v.2» / «v2»', () => {
+    const bad = Object.entries(merged)
+      .filter(([, t]) => VERSION_SUFFIX.test(t.name))
+      .map(([id, t]) => `${id}: ${t.name}`)
+    expect(bad).toEqual([])
+  })
+
+  it('removing the suffix never creates a duplicate Spanish name', () => {
+    const counts = new Map<string, number>()
+    for (const t of Object.values(merged)) counts.set(normalize(t.name), (counts.get(normalize(t.name)) ?? 0) + 1)
+    const dup = versionedIds
+      .filter((id) => (counts.get(normalize(merged[id].name)) ?? 0) > 1)
+      .map((id) => `${id}: ${merged[id].name}`)
+    expect(versionedIds.length).toBeGreaterThan(20)
+    expect(dup).toEqual([])
+  })
+})
+
+/** QA prod 2026-10-25: «Sentadilla frontal con barra» was labeled glúteos. */
+describe('front squats target the quads', () => {
+  it('every «front squat» has target quads', () => {
+    const bad = exercises
+      .filter((e) => /\bfront squat\b/.test((e as any).name))
+      .filter((e) => (e as any).target !== 'quads')
+      .map((e) => `${(e as any).id}: ${(e as any).name} → ${(e as any).target}`)
+    expect(bad).toEqual([])
+  })
+})

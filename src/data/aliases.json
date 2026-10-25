@@ -77,6 +77,11 @@
     "aliases": ["paseo del granjero", "marcha del granjero"],
     "primary": true
   },
+  "2135": {
+    "aliases": ["plancha frontal", "plancha abdominal", "front plank"],
+    "substituteFor": ["plancha", "plank"],
+    "primary": true
+  },
   "2137": {
     "primary": true
   },
