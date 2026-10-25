@@ -1,0 +1,469 @@
+{
+  "1160": {
+    "primary": true
+  },
+  "1269": {
+    "aliases": ["crossover"]
+  },
+  "1326": {
+    "primary": true,
+    "aliases": ["dominadas supinas"]
+  },
+  "1352": {
+    "substituteFor": ["superman"]
+  },
+  "1354": {
+    "aliases": ["ball slam"],
+    "primary": true
+  },
+  "1366": {
+    "aliases": ["perro boca arriba"],
+    "substituteFor": ["postura de la cobra"]
+  },
+  "1410": {
+    "aliases": ["estocada lateral", "desplante lateral"],
+    "substituteFor": ["zancada lateral sin peso"],
+    "primary": true
+  },
+  "1429": {
+    "aliases": ["dominadas abiertas"]
+  },
+  "1452": {
+    "aliases": ["crunch en máquina", "máquina de abdominales"]
+  },
+  "1460": {
+    "aliases": ["estocadas caminando", "desplantes caminando"],
+    "substituteFor": ["zancada sin peso", "zancada con peso corporal"]
+  },
+  "1471": {
+    "aliases": ["gusano"],
+    "primary": true
+  },
+  "1472": {
+    "aliases": ["salto horizontal", "broad jump"]
+  },
+  "1490": {
+    "aliases": ["elevación de talones en escalón", "gemelos en escalón"]
+  },
+  "1494": {
+    "aliases": ["baddha konasana", "postura del zapatero", "estiramiento de mariposa"]
+  },
+  "1511": {
+    "aliases": ["estiramiento de femorales"],
+    "primary": true
+  },
+  "1587": {
+    "aliases": ["upavistha konasana"]
+  },
+  "1604": {
+    "aliases": ["el mejor estiramiento del mundo"]
+  },
+  "1755": {
+    "aliases": ["fondos lastrados", "fondos con lastre"]
+  },
+  "1757": {
+    "aliases": ["peso muerto unipodal", "peso muerto rumano a una pierna"],
+    "primary": true
+  },
+  "1759": {
+    "aliases": ["pistol squat", "sentadilla pistola"],
+    "primary": true
+  },
+  "1760": {
+    "aliases": ["sentadilla copa"],
+    "primary": true
+  },
+  "2133": {
+    "aliases": ["paseo del granjero", "marcha del granjero"],
+    "primary": true
+  },
+  "2137": {
+    "primary": true
+  },
+  "2141": {
+    "aliases": ["elíptica", "bicicleta elíptica"]
+  },
+  "2311": {
+    "aliases": ["escaladora", "StairMaster"]
+  },
+  "2368": {
+    "aliases": ["zancada estática", "estocada estática"]
+  },
+  "2459": {
+    "primary": true
+  },
+  "2612": {
+    "aliases": ["saltar la comba", "saltar lazo", "brincar la cuerda", "saltar soga", "comba"],
+    "primary": true
+  },
+  "2963": {
+    "aliases": ["elevación de piernas en silla romana"]
+  },
+  "3016": {
+    "aliases": ["curl-up de McGill"]
+  },
+  "3147": {
+    "aliases": ["retroversión pélvica"]
+  },
+  "3194": {
+    "aliases": ["zombie squat"]
+  },
+  "3211": {
+    "aliases": ["lagartija de rodillas", "flexión de brazos de rodillas", "push-up de rodillas"],
+    "primary": true
+  },
+  "3212": {
+    "aliases": ["tocar la punta de los pies"]
+  },
+  "3224": {
+    "aliases": ["polichinelas", "saltos de payaso"],
+    "primary": true
+  },
+  "3305": {
+    "primary": true
+  },
+  "3360": {
+    "aliases": ["caminata de oso", "paso de oso"],
+    "primary": true
+  },
+  "3361": {
+    "aliases": ["patinadores", "skater jumps"]
+  },
+  "3470": {
+    "aliases": ["estocada al frente", "desplante al frente"]
+  },
+  "3523": {
+    "aliases": ["puente de glúteos con pies elevados"]
+  },
+  "3533": {
+    "aliases": ["air squat", "sentadilla sin peso"]
+  },
+  "3548": {
+    "aliases": ["waiter carry", "waiter walk", "paseo del camarero"]
+  },
+  "3562": {
+    "aliases": ["hip thrust", "empuje de cadera"],
+    "primary": true
+  },
+  "3582": {
+    "aliases": ["jumping lunge", "zancada pliométrica"]
+  },
+  "3665": {
+    "aliases": ["up-down plank", "plancha arriba abajo"]
+  },
+  "3666": {
+    "aliases": ["caminata inclinada", "incline walk", "12-3-30"],
+    "substituteFor": ["caminar en caminadora", "caminar en cinta de correr"],
+    "primary": true
+  },
+  "3699": {
+    "primary": true
+  },
+  "3769": {
+    "aliases": ["zancada cruzada", "curtsy lunge", "sentadilla reverencia"]
+  },
+  "3888": {
+    "aliases": ["arrancada con mancuerna"]
+  },
+  "5202": {
+    "primary": true
+  },
+  "5203": {
+    "aliases": ["prowler", "empuje de prowler"],
+    "primary": true
+  },
+  "5204": {
+    "primary": true
+  },
+  "5206": {
+    "aliases": ["máquina de remo", "remo ergómetro", "rower", "remo indoor"],
+    "primary": true
+  },
+  "5209": {
+    "aliases": ["wall ball shot", "lanzamiento de balón medicinal a la pared"],
+    "primary": true
+  },
+  "0003": {
+    "aliases": ["bicicleta abdominal", "bicycle crunch", "crunch bicicleta"],
+    "primary": true
+  },
+  "0025": {
+    "aliases": ["press plano", "press de banca plano"],
+    "primary": true
+  },
+  "0026": {
+    "aliases": ["box squat", "sentadilla al cajón"]
+  },
+  "0027": {
+    "aliases": ["remo con barra", "barbell row"],
+    "primary": true
+  },
+  "0031": {
+    "primary": true
+  },
+  "0032": {
+    "primary": true
+  },
+  "0042": {
+    "primary": true
+  },
+  "0043": {
+    "aliases": ["back squat", "sentadilla trasera", "sentadilla libre", "sentadilla con barra"],
+    "primary": true
+  },
+  "0044": {
+    "primary": true
+  },
+  "0054": {
+    "aliases": ["estocada con barra", "desplante con barra"]
+  },
+  "0057": {
+    "primary": true
+  },
+  "0070": {
+    "aliases": ["curl scott", "curl en banco scott"],
+    "primary": true
+  },
+  "0080": {
+    "aliases": ["curl con agarre prono"],
+    "primary": true
+  },
+  "0085": {
+    "primary": true
+  },
+  "0116": {
+    "aliases": ["peso muerto piernas rígidas", "stiff leg deadlift"]
+  },
+  "0118": {
+    "aliases": ["remo yates", "yates row"]
+  },
+  "0120": {
+    "aliases": ["remo vertical", "remo al cuello"],
+    "primary": true
+  },
+  "0128": {
+    "aliases": ["battle ropes"]
+  },
+  "0150": {
+    "aliases": ["jalón al pecho", "lat pulldown", "polea al pecho"],
+    "primary": true
+  },
+  "0154": {
+    "aliases": ["pájaros en polea"]
+  },
+  "0175": {
+    "aliases": ["cable crunch", "crunch en polea alta"],
+    "primary": true
+  },
+  "0200": {
+    "aliases": ["jalón de tríceps con cuerda", "tríceps con cuerda"]
+  },
+  "0201": {
+    "aliases": ["jalón de tríceps", "tríceps en polea alta"],
+    "primary": true
+  },
+  "0228": {
+    "aliases": ["patada de glúteo en polea", "patada de glúteo", "glute kickback"]
+  },
+  "0233": {
+    "aliases": ["face pull"],
+    "primary": true
+  },
+  "0238": {
+    "aliases": ["pullover en polea"],
+    "primary": true
+  },
+  "0251": {
+    "aliases": ["paralelas", "fondos"],
+    "primary": true
+  },
+  "0274": {
+    "aliases": ["encogimiento abdominal"],
+    "primary": true
+  },
+  "0276": {
+    "aliases": ["bicho muerto"]
+  },
+  "0279": {
+    "aliases": ["flexiones con pies elevados"]
+  },
+  "0292": {
+    "aliases": ["remo serrucho"],
+    "primary": true
+  },
+  "0297": {
+    "primary": true
+  },
+  "0308": {
+    "primary": true
+  },
+  "0313": {
+    "primary": true
+  },
+  "0333": {
+    "primary": true
+  },
+  "0334": {
+    "aliases": ["vuelos laterales"],
+    "primary": true
+  },
+  "0336": {
+    "aliases": ["estocadas", "desplantes"],
+    "primary": true
+  },
+  "0351": {
+    "aliases": ["press francés con mancuernas", "skull crusher con mancuernas"]
+  },
+  "0372": {
+    "aliases": ["curl scott con mancuernas"]
+  },
+  "0374": {
+    "aliases": ["spider curl con mancuernas", "curl araña con mancuernas"]
+  },
+  "0375": {
+    "primary": true
+  },
+  "0380": {
+    "aliases": ["pájaros", "pajaritos"],
+    "primary": true
+  },
+  "0410": {
+    "aliases": ["bulgarian split squat"],
+    "primary": true
+  },
+  "0431": {
+    "substituteFor": ["step-up sin peso", "subida al cajón sin peso"],
+    "primary": true
+  },
+  "0471": {
+    "aliases": ["flexión en parada de manos"]
+  },
+  "0472": {
+    "aliases": ["elevación de piernas en barra"],
+    "primary": true
+  },
+  "0489": {
+    "aliases": ["lumbares", "extensión lumbar"],
+    "primary": true
+  },
+  "0498": {
+    "aliases": ["remo en TRX"]
+  },
+  "0499": {
+    "aliases": ["remo australiano", "dominadas australianas", "australian pull-up"],
+    "primary": true
+  },
+  "0514": {
+    "aliases": ["squat jump"],
+    "primary": true
+  },
+  "0549": {
+    "aliases": ["swing ruso"],
+    "primary": true
+  },
+  "0551": {
+    "aliases": ["levantamiento turco"],
+    "primary": true
+  },
+  "0585": {
+    "aliases": ["extensión de cuádriceps", "sillón de cuádriceps", "máquina de cuádriceps"],
+    "primary": true
+  },
+  "0586": {
+    "aliases": ["curl femoral acostado"],
+    "primary": true
+  },
+  "0596": {
+    "aliases": ["pec deck", "peck deck", "contractor de pecho", "máquina mariposa"],
+    "primary": true
+  },
+  "0597": {
+    "aliases": ["máquina de abductores", "abductores en máquina"],
+    "primary": true
+  },
+  "0598": {
+    "aliases": ["máquina de aductores", "aductores en máquina"],
+    "primary": true
+  },
+  "0602": {
+    "aliases": ["pec deck invertido", "reverse pec deck", "pájaros en máquina"]
+  },
+  "0628": {
+    "aliases": ["caminata de monstruo", "paso de monstruo"],
+    "substituteFor": ["caminata lateral con banda", "paso lateral con banda"]
+  },
+  "0630": {
+    "aliases": ["alpinista"],
+    "primary": true
+  },
+  "0631": {
+    "primary": true
+  },
+  "0648": {
+    "aliases": ["cargada"],
+    "primary": true
+  },
+  "0652": {
+    "aliases": ["dominadas"],
+    "primary": true
+  },
+  "0662": {
+    "aliases": ["lagartijas"],
+    "primary": true
+  },
+  "0680": {
+    "aliases": ["subida de cuerda", "trepar la cuerda"]
+  },
+  "0685": {
+    "aliases": ["correr", "trotar", "running"],
+    "primary": true,
+    "substituteFor": ["correr en caminadora", "correr en cinta"]
+  },
+  "0687": {
+    "primary": true
+  },
+  "0705": {
+    "aliases": ["side plank"],
+    "primary": true
+  },
+  "0735": {
+    "primary": true
+  },
+  "0739": {
+    "aliases": ["prensa", "leg press"],
+    "primary": true,
+    "substituteFor": ["prensa horizontal"]
+  },
+  "0743": {
+    "primary": true
+  },
+  "0814": {
+    "aliases": ["fondos en silla"],
+    "primary": true
+  },
+  "0841": {
+    "aliases": ["dominadas lastradas"]
+  },
+  "0857": {
+    "aliases": ["ab wheel", "rodillo abdominal"],
+    "primary": true
+  },
+  "0858": {
+    "aliases": ["piques"]
+  },
+  "0861": {
+    "aliases": ["remo gironda"],
+    "primary": true
+  },
+  "0862": {
+    "substituteFor": ["leñador en polea", "woodchop"]
+  },
+  "0872": {
+    "primary": true
+  },
+  "0979": {
+    "aliases": ["press antirrotación"],
+    "primary": true,
+    "substituteFor": ["pallof press en polea"]
+  }
+}

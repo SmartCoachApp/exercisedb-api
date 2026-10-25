@@ -90,11 +90,39 @@ export interface Exercise {
   contraindicatedFor: string[]
 }
 
-export interface ExerciseWithImages extends Exercise {
+export interface ExerciseWithImages extends Exercise, Partial<ExerciseCatalogFields> {
   images: {
     '180': string
     '360': string
     '720': string
     '1080': string
   }
+}
+
+/**
+ * Curated catalog metadata for one exercise (`src/data/aliases.json`).
+ * Only NON-compositional names belong here («hip thrust», «face pull», «dominadas»).
+ */
+export interface ExerciseAliasEntry {
+  /** Alternative names users type for this exact exercise. */
+  aliases?: string[]
+  /** Terms of exercises that do not exist in the catalog and this one honestly covers. */
+  substituteFor?: string[]
+  /** Canonical variant of its family. */
+  primary?: true
+}
+
+/** Shape of `src/data/aliases.json`: exercise id → curated metadata. */
+export type ExerciseAliasesFile = Record<string, ExerciseAliasEntry>
+
+/** Catalog fields added to every served exercise (both languages). */
+export interface ExerciseCatalogFields {
+  /** Curated aliases, deduplicated by normalized form. */
+  aliases: string[]
+  /** Missing-exercise terms this exercise substitutes. */
+  substituteFor: string[]
+  /** Whether this is the canonical variant of its family. */
+  isPrimary: boolean
+  /** Original English name, also served with lang=es. */
+  nameEn: string
 }

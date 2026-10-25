@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs'
 import path from 'path'
-import { Exercise } from './types'
+import { Exercise, ExerciseAliasesFile } from './types'
+import { parseAliasesFile } from './aliases'
 import { HTTPException } from 'hono/http-exception'
 import type { SupportedLanguage, CatalogTranslations, ExerciseTranslations } from './i18n/types'
 
@@ -29,6 +30,47 @@ export class FileLoader {
 
   public static loadExercises(): Promise<Exercise[]> {
     return this.loadJSON<Exercise[]>('exercises.json')
+  }
+
+  /**
+   * Curated aliases (`aliases.json`). FAIL-SOFT: a missing file, invalid JSON or invalid shape
+   * yields `{}` with one `console.warn`; entries whose id is not in the catalog are dropped with a warn.
+   * Never throws — aliases are an enrichment, never a reason for a 500.
+   */
+  public static loadAliases(): Promise<ExerciseAliasesFile> {
+    const cacheKey = 'aliases'
+    if (!this.cache.has(cacheKey)) {
+      this.cache.set(cacheKey, this.readAliases())
+    }
+    return this.cache.get(cacheKey) as Promise<ExerciseAliasesFile>
+  }
+
+  private static async readAliases(): Promise<ExerciseAliasesFile> {
+    const filePath = path.resolve(this.dataPath, 'aliases.json')
+    let raw: unknown
+    try {
+      raw = JSON.parse(await fs.readFile(filePath, 'utf-8'))
+    } catch (error) {
+      console.warn(`⚠️ aliases.json unavailable, serving exercises without aliases: ${(error as Error).message}`)
+      return {}
+    }
+    try {
+      const knownIds = new Set((await this.loadExercises()).map((ex) => ex.id))
+      const { aliases, error, unknownIds } = parseAliasesFile(raw, knownIds)
+      if (error) {
+        console.warn(`⚠️ aliases.json has an invalid shape, serving exercises without aliases: ${error}`)
+      } else if (unknownIds.length > 0) {
+        console.warn(
+          `⚠️ aliases.json: ignoring ${unknownIds.length} entries with unknown exercise ids: ${unknownIds.join(', ')}`
+        )
+      }
+      return aliases
+    } catch (error) {
+      console.warn(
+        `⚠️ aliases.json could not be validated, serving exercises without aliases: ${(error as Error).message}`
+      )
+      return {}
+    }
   }
 
   public static loadBodyParts(): Promise<string[]> {

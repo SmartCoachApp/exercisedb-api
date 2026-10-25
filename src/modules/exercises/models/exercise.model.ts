@@ -39,6 +39,33 @@ export const ExerciseWithImagesSchema = z.object({
     description: 'Injury keys this exercise is contraindicated for',
     example: ['knee', 'lower-back']
   }),
+  aliases: z
+    .array(z.string())
+    .optional()
+    .openapi({
+      title: 'Aliases',
+      description:
+        'Curated alternative names for this exact exercise (language-agnostic, deduplicated by normalized form). Empty when none.',
+      example: ['hip thrust', 'empuje de cadera']
+    }),
+  substituteFor: z
+    .array(z.string())
+    .optional()
+    .openapi({
+      title: 'Substitute For',
+      description: 'Terms of exercises missing from the catalog that this exercise honestly covers. Empty when none.',
+      example: ['plancha']
+    }),
+  isPrimary: z.boolean().optional().openapi({
+    title: 'Is Primary',
+    description: 'Whether this is the canonical variant of its exercise family',
+    example: false
+  }),
+  nameEn: z.string().optional().openapi({
+    title: 'English Name',
+    description: 'Original English name, also returned with lang=es',
+    example: '3/4 sit-up'
+  }),
   images: ExerciseImagesSchema
 })
 

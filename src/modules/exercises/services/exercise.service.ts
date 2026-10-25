@@ -2,7 +2,8 @@ import Fuse from 'fuse.js'
 import { FileLoader } from '../../../data/load'
 import { TranslationService } from '../../../services/translation.service'
 import { signedUrlService } from '../../../services/signed-url.service'
-import type { Exercise, ExerciseWithImages } from '../../../data/types'
+import { buildCatalogFields } from '../../../data/aliases'
+import type { Exercise, ExerciseCatalogFields, ExerciseWithImages } from '../../../data/types'
 import type { SupportedLanguage } from '../../../data/i18n/types'
 import { GetExercisesUseCase } from '../use-cases/get-exercise.usecase'
 import { GetExerciseByIdUseCase } from '../use-cases'
@@ -18,13 +19,60 @@ export class ExerciseService {
   private readonly getExercisesUseCase = new GetExercisesUseCase()
   private readonly getExerciseByIdUseCase = new GetExerciseByIdUseCase()
 
+  /** Fuse instance of `searchByName` per language, rebuilt only when the source data changes. */
+  private readonly nameFuseCache = new Map<SupportedLanguage, { sources: unknown[]; fuse: Fuse<Exercise> }>()
+
+  /** id → original English name, rebuilt only when the loaded catalog array changes. */
+  private nameEnCache: { source: Exercise[]; byId: Map<string, string> } | null = null
+
+  private async getEnglishNames(): Promise<Map<string, string>> {
+    const source = await FileLoader.loadExercises()
+    if (this.nameEnCache?.source !== source) {
+      this.nameEnCache = { source, byId: new Map(source.map((ex) => [ex.id, ex.name])) }
+    }
+    return this.nameEnCache.byId
+  }
+
+  /** Adds the curated catalog fields (aliases, substituteFor, isPrimary, nameEn) without touching existing ones. */
+  private async withCatalogFields(exercises: Exercise[]): Promise<(Exercise & ExerciseCatalogFields)[]> {
+    const [aliases, englishNames] = await Promise.all([FileLoader.loadAliases(), this.getEnglishNames()])
+    return exercises.map((ex) => ({
+      ...ex,
+      ...buildCatalogFields(aliases[ex.id], englishNames.get(ex.id) ?? ex.name)
+    }))
+  }
+
   private async attachImages(exercises: Exercise[]): Promise<ExerciseWithImages[]> {
+    const enriched = await this.withCatalogFields(exercises)
     return Promise.all(
-      exercises.map(async (ex) => ({
+      enriched.map(async (ex) => ({
         ...ex,
         images: await signedUrlService.generateImageUrls(ex.id)
       }))
     )
+  }
+
+  private async getNameFuse(lang: SupportedLanguage): Promise<Fuse<Exercise>> {
+    const base = await FileLoader.loadExercises()
+    const sources: unknown[] =
+      lang !== 'en'
+        ? [base, await FileLoader.loadExerciseTranslations(lang), await FileLoader.loadCatalogTranslations(lang)]
+        : [base]
+    const cached = this.nameFuseCache.get(lang)
+    if (cached && cached.sources.length === sources.length && cached.sources.every((s, i) => s === sources[i])) {
+      return cached.fuse
+    }
+    const allExercises = lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : base
+    // Ranking unchanged: same keys and threshold as before the cache.
+    const fuse = new Fuse(allExercises, {
+      keys: [{ name: 'name', weight: 1 }],
+      threshold: 0.3,
+      includeScore: false,
+      ignoreLocation: true,
+      findAllMatches: true
+    })
+    this.nameFuseCache.set(lang, { sources, fuse })
+    return fuse
   }
 
   async getAllExercises(params: {
@@ -162,17 +210,7 @@ export class ExerciseService {
     const safeOffset = Math.max(0, offset)
     const safeLimit = Math.max(1, Math.min(100, limit))
 
-    const allExercises =
-      lang !== 'en' ? await TranslationService.getTranslatedExerciseData(lang) : await FileLoader.loadExercises()
-
-    const fuse = new Fuse(allExercises, {
-      keys: [{ name: 'name', weight: 1 }],
-      threshold: 0.3,
-      includeScore: false,
-      ignoreLocation: true,
-      findAllMatches: true
-    })
-
+    const fuse = await this.getNameFuse(lang)
     const searchResults = fuse.search(decodeURIComponent(name)).map((r) => r.item)
     const totalItems = searchResults.length
     const totalPages = Math.ceil(totalItems / safeLimit)
@@ -196,8 +234,9 @@ export class ExerciseService {
       result = await TranslationService.translateExercise(exercise, lang)
     }
 
+    const [enriched] = await this.withCatalogFields([result])
     const images = await signedUrlService.generateImageUrls(id)
-    return { ...result, images }
+    return { ...enriched, images }
   }
 
   async getBodyPartList(lang: SupportedLanguage = 'en'): Promise<string[]> {

@@ -46,7 +46,8 @@
   },
   "simple-git-hooks": {
     "pre-commit": "bun run lint && bun run format",
-    "commit-msg": "bun run commitlint --edit $1"
+    "commit-msg": "bun run commitlint --edit $1",
+    "pre-push": "bun run test"
   },
   "dependencies": {
     "@google-cloud/storage": "^7.19.0",
