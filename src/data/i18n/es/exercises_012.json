@@ -387,10 +387,10 @@
     ]
   },
   "2334": {
-    "name": "Prensa de pantorrilla tumbado en máquina de trineo",
-    "description": "Versión tumbada de la prensa de pantorrilla en trineo. Permite cargar bien gemelos y sóleo con la espalda apoyada y empujando la plataforma con las puntas de los pies.",
+    "name": "Press de pantorrilla acostado en prensa",
+    "description": "Versión tumbada de la prensa de pantorrilla. Permite cargar bien gemelos y sóleo con la espalda apoyada y empujando la plataforma con las puntas de los pies.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso cómodo.",
+      "Ajusta la prensa a un peso cómodo.",
       "Siéntate en la máquina con la espalda apoyada y los pies en la plataforma.",
       "Coloca las puntas y los metatarsos en el borde de la plataforma con los talones por fuera.",
       "Empuja la plataforma extendiendo los tobillos y manteniendo las rodillas ligeramente flexionadas.",
@@ -513,8 +513,8 @@
     ]
   },
   "2401": {
-    "name": "Curl de bíceps con mancuernas (con arm blaster)",
-    "description": "Curl tradicional con la placa de arm blaster sujeta al torso para fijar los codos. Aísla el bíceps eliminando el balanceo del brazo y favorece la conexión mente-músculo.",
+    "name": "Curl de bíceps con mancuernas y aislador de brazos",
+    "description": "Curl tradicional con la placa del aislador de brazos (arm blaster) sujeta al torso para fijar los codos. Aísla el bíceps eliminando el balanceo del brazo y favorece la conexión mente-músculo.",
     "instructions": [
       "Ponte de pie con una mancuerna en cada mano y las palmas hacia adelante.",
       "Mantén los codos pegados al torso y los brazos fijos.",
@@ -526,8 +526,8 @@
     ]
   },
   "2402": {
-    "name": "Curl martillo con mancuernas (con arm blaster)",
-    "description": "Curl en agarre neutro con la placa de arm blaster que fija los codos al torso. Trabaja braquial, braquiorradial y bíceps con un patrón muy aislado.",
+    "name": "Curl martillo con mancuernas y aislador de brazos",
+    "description": "Curl en agarre neutro con la placa del aislador de brazos (arm blaster) que fija los codos al torso. Trabaja braquial, braquiorradial y bíceps con un patrón muy aislado.",
     "instructions": [
       "Ponte de pie con una mancuerna en cada mano y las palmas hacia el torso.",
       "Mantén los codos pegados al torso y gira las palmas hasta que queden hacia adelante.",
@@ -540,11 +540,11 @@
     ]
   },
   "2403": {
-    "name": "Curl alterno de bíceps con mancuernas (con arm blaster)",
-    "description": "Curl alterno mano a mano con la placa de arm blaster para fijar los codos. Permite concentrarse en un brazo a la vez y corregir asimetrías de fuerza.",
+    "name": "Curl alterno de bíceps con mancuernas y aislador de brazos",
+    "description": "Curl alterno mano a mano con la placa del aislador de brazos (arm blaster) para fijar los codos. Permite concentrarse en un brazo a la vez y corregir asimetrías de fuerza.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros y una mancuerna en cada mano, palmas hacia adelante.",
-      "Coloca el arm blaster sobre los brazos comprobando que quede bien sujeto.",
+      "Coloca el aislador de brazos (arm blaster) sobre los brazos comprobando que quede bien sujeto.",
       "Manteniendo los brazos fijos, exhala y sube una mancuerna hacia el hombro contrayendo el bíceps.",
       "Continúa subiendo hasta que el bíceps esté totalmente contraído y la mancuerna a la altura del hombro.",
       "Mantén la contracción un instante apretando el bíceps.",
@@ -554,11 +554,11 @@
     ]
   },
   "2404": {
-    "name": "Curl de bíceps con barra EZ (con arm blaster)",
-    "description": "Curl con barra EZ y placa de arm blaster que fija los codos al torso. La barra EZ reduce la tensión en las muñecas y permite cargar más peso aislando bien el bíceps.",
+    "name": "Curl de bíceps con barra EZ y aislador de brazos",
+    "description": "Curl con barra EZ y placa del aislador de brazos (arm blaster) que fija los codos al torso. La barra EZ reduce la tensión en las muñecas y permite cargar más peso aislando bien el bíceps.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros y sujeta la barra EZ en supinación, palmas hacia arriba.",
-      "Apoya los brazos contra el arm blaster y manténlos fijos durante todo el ejercicio.",
+      "Apoya los brazos contra el aislador de brazos y manténlos fijos durante todo el ejercicio.",
       "Manteniendo los codos cerca del cuerpo, exhala y sube la barra hacia los hombros.",
       "Pausa arriba apretando los bíceps.",
       "Inhala y baja despacio la barra a la posición inicial extendiendo bien los brazos.",
@@ -566,8 +566,8 @@
     ]
   },
   "2405": {
-    "name": "Extensión de tríceps en polea con barra V (arm blaster)",
-    "description": "Pushdown en polea con agarre V y arm blaster que estabiliza los codos junto al torso. Aísla el tríceps con tensión continua a lo largo del rango.",
+    "name": "Extensión de tríceps en polea con barra V y aislador de brazos",
+    "description": "Pushdown en polea con agarre V y aislador de brazos (arm blaster) que estabiliza los codos junto al torso. Aísla el tríceps con tensión continua a lo largo del rango.",
     "instructions": [
       "Acopla un agarre en V a la polea alta.",
       "Ponte frente a la máquina con los pies a la anchura de los hombros.",
@@ -580,8 +580,8 @@
     ]
   },
   "2406": {
-    "name": "Extensión de tríceps en polea con agarre invertido y barra SZ (arm blaster)",
-    "description": "Pushdown en polea con barra SZ tomada en supinación y arm blaster fijando los codos. El agarre invertido enfatiza la cabeza medial del tríceps.",
+    "name": "Extensión de tríceps en polea con agarre invertido, barra SZ y aislador de brazos",
+    "description": "Pushdown en polea con barra SZ tomada en supinación y aislador de brazos (arm blaster) fijando los codos. El agarre invertido enfatiza la cabeza medial del tríceps.",
     "instructions": [
       "Acopla una barra recta a la polea alta.",
       "Ponte frente a la máquina con los pies a la anchura de los hombros.",
@@ -593,11 +593,11 @@
     ]
   },
   "2407": {
-    "name": "Curl de bíceps con barra (con arm blaster)",
-    "description": "Curl clásico con barra olímpica y placa de arm blaster que fija los codos. Permite aislar el bíceps y progresar carga con un patrón estricto.",
+    "name": "Curl de bíceps con barra y aislador de brazos",
+    "description": "Curl clásico con barra olímpica y placa del aislador de brazos (arm blaster) que fija los codos. Permite aislar el bíceps y progresar carga con un patrón estricto.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros y sujeta una barra en supinación, palmas hacia arriba.",
-      "Apoya los brazos contra el arm blaster y mantén los codos cerca del torso.",
+      "Apoya los brazos contra el aislador de brazos y mantén los codos cerca del torso.",
       "Manteniendo los brazos fijos, exhala y sube la barra contrayendo los bíceps.",
       "Continúa subiendo hasta que los bíceps estén totalmente contraídos y la barra a la altura de los hombros.",
       "Mantén la contracción un instante apretando los bíceps.",
@@ -997,8 +997,8 @@
     ]
   },
   "3011": {
-    "name": "Push up escapular en banco inclinado",
-    "description": "Variante regresiva del push up escapular sobre un banco inclinado. Trabaja específicamente la protracción y retracción de la escápula y el serrato anterior con menos carga.",
+    "name": "Flexión escapular en banco inclinado",
+    "description": "Variante regresiva de la flexión escapular (push up escapular) sobre un banco inclinado. Trabaja específicamente la protracción y retracción de la escápula y el serrato anterior con menos carga.",
     "instructions": [
       "Coloca un banco inclinado a 45 grados.",
       "Apoya las manos en el banco un poco más abiertas que los hombros.",
@@ -1069,7 +1069,7 @@
     ]
   },
   "3021": {
-    "name": "Push up escapular en plancha alta",
+    "name": "Flexión escapular en plancha alta",
     "description": "Movimiento de protracción y retracción escapular en posición de plancha alta sin flexionar los codos. Aísla el serrato anterior y mejora la mecánica del hombro.",
     "instructions": [
       "Comienza en plancha alta con las manos justo bajo los hombros y el cuerpo en línea recta.",

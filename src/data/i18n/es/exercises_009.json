@@ -630,9 +630,9 @@
   },
   "1383": {
     "name": "Elevación de pantorrilla en máquina hack",
-    "description": "Elevación de talones realizada en la máquina hack/sled, con los hombros apoyados en las almohadillas. La carga vertical permite trabajar las pantorrillas con peso significativo y trayectoria estable.",
+    "description": "Elevación de talones realizada en la máquina hack, con los hombros apoyados en las almohadillas. La carga vertical permite trabajar las pantorrillas con peso significativo y trayectoria estable.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso cómodo.",
+      "Ajusta la máquina hack a un peso cómodo.",
       "Párate sobre la máquina con las puntas de los pies en la plataforma y los talones suspendidos.",
       "Sujétate de los agarres para estabilizar.",
       "Eleva los talones lo más alto posible empujando con la parte delantera de los pies.",
@@ -644,7 +644,7 @@
     "name": "Elevación de pantorrilla a una pierna en máquina hack",
     "description": "Versión unilateral del ejercicio anterior. Aísla cada pantorrilla por separado y permite igualar el desarrollo, exigiendo más control y estabilidad sobre la plataforma.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso adecuado.",
+      "Ajusta la máquina hack a un peso adecuado.",
       "Párate sobre la máquina con un pie, manteniendo el otro pie suspendido.",
       "Sujétate de los agarres para estabilizar.",
       "Eleva el talón lo más alto posible, subiendo el cuerpo sobre la parte delantera del pie.",
@@ -1081,13 +1081,13 @@
     ]
   },
   "1425": {
-    "name": "Prensa de pierna a 45 grados a una pierna en máquina de trineo",
-    "description": "Versión unilateral de la prensa a 45 grados en máquina de trineo. Permite igualar fuerza entre piernas y entrenar glúteos y cuádriceps con un patrón unilateral controlado.",
+    "name": "Prensa de pierna a 45° a una pierna",
+    "description": "Versión unilateral de la prensa a 45 grados. Permite igualar fuerza entre piernas y entrenar glúteos y cuádriceps con un patrón unilateral controlado.",
     "instructions": [
-      "Ajusta la máquina de trineo a 45 grados.",
+      "Ajusta la prensa a 45 grados.",
       "Siéntate en la máquina con la espalda contra la almohadilla y los pies sobre la plataforma.",
-      "Apoya un pie sobre la plataforma y extiende la pierna, empujando el trineo lejos de ti.",
-      "Flexiona la rodilla con control y baja el trineo hasta la posición inicial.",
+      "Apoya un pie sobre la plataforma y extiende la pierna, empujando la plataforma lejos de ti.",
+      "Flexiona la rodilla con control y baja la plataforma hasta la posición inicial.",
       "Repite con la otra pierna.",
       "Continúa alternando piernas durante el número de repeticiones deseado."
     ]

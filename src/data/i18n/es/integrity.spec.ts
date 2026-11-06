@@ -195,3 +195,63 @@ describe('front squats target the quads', () => {
     expect(bad).toEqual([])
   })
 })
+
+/**
+ * QA prod 2026-11-05: «(con arm blaster)» and leg presses named «… en máquina
+ * de trineo» (literal of «sled») reached the PWA. A leg/calf press or hack
+ * squat machine is not a sled; only the HYROX sled push/pull are «trineo».
+ * The English term stays searchable as an alias.
+ */
+describe('Spanish names without untranslated or literal English terms', () => {
+  const normalize = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase()
+  const ENGLISH_FRAGMENTS = /\b(arm blaster|blaster|sled|wrist roller|push[ -]?up escapular)\b/i
+
+  it('no Spanish name carries «arm blaster», «sled», «wrist roller» or «push up escapular»', () => {
+    const bad = Object.entries(merged)
+      .filter(([, t]) => ENGLISH_FRAGMENTS.test(t.name))
+      .map(([id, t]) => `${id}: ${t.name}`)
+    expect(bad).toEqual([])
+  })
+
+  it('only real sled exercises (push/pull) are called «trineo»', () => {
+    const bad = exercises
+      .filter((e) => /trineo/.test(normalize(merged[(e as any).id]?.name ?? '')))
+      .filter((e) => !/\bsled (push|pull)\b/.test((e as any).name))
+      .map((e) => `${(e as any).id}: ${merged[(e as any).id].name}`)
+    expect(bad).toEqual([])
+  })
+
+  // Ids renamed by this QA round: their new name must not collide with another exercise.
+  const RENAMED = [
+    '0738',
+    '0739',
+    '0740',
+    '0741',
+    '0742',
+    '0743',
+    '0744',
+    '1425',
+    '1463',
+    '1464',
+    '2334',
+    '2401',
+    '2402',
+    '2403',
+    '2404',
+    '2405',
+    '2406',
+    '2407',
+    '0859',
+    '3011',
+    '3021'
+  ]
+
+  it('renamed exercises keep a unique Spanish name', () => {
+    const counts = new Map<string, number>()
+    for (const t of Object.values(merged)) counts.set(normalize(t.name), (counts.get(normalize(t.name)) ?? 0) + 1)
+    const dup = RENAMED.filter((id) => (counts.get(normalize(merged[id].name)) ?? 0) > 1).map(
+      (id) => `${id}: ${merged[id].name}`
+    )
+    expect(dup).toEqual([])
+  })
+})

@@ -911,21 +911,21 @@
     ]
   },
   "0738": {
-    "name": "Press de pantorrilla a 45° en máquina de trineo",
-    "description": "Variante de elevación de pantorrilla realizada empujando la plataforma del trineo con la planta del pie. La inclinación a 45 grados permite cargas altas mientras se aísla la flexión plantar para activar el gastrocnemio.",
+    "name": "Press de pantorrilla en prensa a 45°",
+    "description": "Variante de elevación de pantorrilla realizada empujando la plataforma de la prensa con la planta del pie. La inclinación a 45 grados permite cargas altas mientras se aísla la flexión plantar para activar el gastrocnemio.",
     "instructions": [
-      "Ajusta la máquina de trineo a un ángulo de 45 grados.",
-      "Apoya los pies en la plataforma del trineo con las puntas hacia adelante.",
+      "Ajusta la prensa a un ángulo de 45 grados.",
+      "Apoya los pies en la plataforma de la prensa con las puntas hacia adelante.",
       "Empuja la plataforma alejándola al extender los tobillos y las pantorrillas.",
       "Haz una pausa arriba y baja la plataforma lentamente hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "0739": {
-    "name": "Prensa de pierna a 45° en máquina de trineo",
-    "description": "Empuje compuesto del tren inferior en máquina de trineo a 45 grados. Carga glúteos, cuádriceps, isquiotibiales y pantorrillas, y la trayectoria guiada permite manejar cargas elevadas con un buen control de cadera y rodilla.",
+    "name": "Prensa de pierna a 45°",
+    "description": "Empuje compuesto del tren inferior en prensa a 45 grados. Carga glúteos, cuádriceps, isquiotibiales y pantorrillas, y la trayectoria guiada permite manejar cargas elevadas con un buen control de cadera y rodilla.",
     "instructions": [
-      "Ajusta el asiento y la plataforma de la máquina de trineo a una posición cómoda.",
+      "Ajusta el asiento y la plataforma de la prensa a una posición cómoda.",
       "Siéntate con la espalda contra el respaldo y los pies separados al ancho de los hombros sobre la plataforma.",
       "Sujeta los agarres laterales del asiento para estabilizarte.",
       "Empuja la plataforma alejándola del cuerpo extendiendo las piernas y manteniendo los talones apoyados.",
@@ -935,10 +935,10 @@
     ]
   },
   "0740": {
-    "name": "Prensa de pierna a 45° con apoyo amplio en máquina de trineo",
+    "name": "Prensa de pierna a 45° con apoyo amplio",
     "description": "Variante de prensa de pierna a 45 grados con apoyo más abierto que el ancho de los hombros. La postura amplia incrementa el énfasis en glúteos y aductores, manteniendo el trabajo sobre cuádriceps, isquiotibiales y pantorrillas.",
     "instructions": [
-      "Ajusta la máquina de trineo a un ángulo de 45 grados.",
+      "Ajusta la prensa a un ángulo de 45 grados.",
       "Siéntate con la espalda contra la almohadilla y los pies sobre la plataforma.",
       "Coloca los pies más abiertos que el ancho de los hombros.",
       "Empuja la plataforma extendiendo las piernas y enderezando las rodillas.",
@@ -947,10 +947,10 @@
     ]
   },
   "0741": {
-    "name": "Sentadilla hack cerrada en máquina de trineo",
-    "description": "Variante de sentadilla hack con apoyo más estrecho que pone más énfasis en los cuádriceps mientras se sigue trabajando glúteos, isquiotibiales y pantorrillas. La trayectoria guiada del trineo permite empujar con seguridad incluso con cargas altas.",
+    "name": "Sentadilla hack con apoyo cerrado en máquina",
+    "description": "Variante de sentadilla hack con apoyo más estrecho que pone más énfasis en los cuádriceps mientras se sigue trabajando glúteos, isquiotibiales y pantorrillas. La trayectoria guiada de la máquina permite empujar con seguridad incluso con cargas altas.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso cómodo y colócate con la espalda contra la almohadilla.",
+      "Ajusta la máquina a un peso cómodo y colócate con la espalda contra la almohadilla.",
       "Apoya los pies al ancho de los hombros sobre la plataforma con las puntas ligeramente hacia afuera.",
       "Sujeta los agarres laterales para estabilizarte.",
       "Activa el core y baja el cuerpo flexionando rodillas y cadera con la espalda recta.",
@@ -960,21 +960,21 @@
     ]
   },
   "0742": {
-    "name": "Elevación de pantorrilla en máquina de trineo angulada hacia adelante",
-    "description": "Variante de elevación de pantorrilla en trineo donde el cuerpo queda levemente inclinado hacia adelante. Esta orientación carga las pantorrillas en un ángulo distinto, sumando un buen estímulo a la cara posterior del muslo como apoyo.",
+    "name": "Elevación de pantorrilla en máquina inclinada hacia adelante",
+    "description": "Variante de elevación de pantorrilla en máquina donde el cuerpo queda levemente inclinado hacia adelante. Esta orientación carga las pantorrillas en un ángulo distinto, sumando un buen estímulo a la cara posterior del muslo como apoyo.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso cómodo y colócate con las puntas de los pies sobre la plataforma y los talones por fuera.",
+      "Ajusta la máquina a un peso cómodo y colócate con las puntas de los pies sobre la plataforma y los talones por fuera.",
       "Apoya las manos en los agarres o costados de la máquina para estabilizarte.",
-      "Activa las pantorrillas y eleva los talones lo más alto posible empujando contra la resistencia del trineo.",
+      "Activa las pantorrillas y eleva los talones lo más alto posible empujando contra la resistencia de la máquina.",
       "Haz una pausa arriba y baja los talones lentamente hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "0743": {
-    "name": "Sentadilla hack en máquina de trineo",
-    "description": "Sentadilla guiada en máquina de trineo en la que la espalda apoya contra la almohadilla y los pies empujan la plataforma. La trayectoria fija facilita una bajada controlada y un trabajo intenso sobre glúteos, cuádriceps, isquiotibiales y pantorrillas.",
+    "name": "Sentadilla hack en máquina",
+    "description": "Sentadilla guiada en máquina en la que la espalda apoya contra la almohadilla y los pies empujan la plataforma. La trayectoria fija facilita una bajada controlada y un trabajo intenso sobre glúteos, cuádriceps, isquiotibiales y pantorrillas.",
     "instructions": [
-      "Ajusta la máquina de trineo a una posición cómoda para tu altura.",
+      "Ajusta la máquina a una posición cómoda para tu altura.",
       "Apoya los pies al ancho de los hombros sobre la plataforma con las puntas ligeramente hacia afuera.",
       "Sujeta los agarres o las barras para estabilizarte.",
       "Baja el cuerpo flexionando rodillas y cadera con la espalda recta y el pecho arriba.",
@@ -984,16 +984,16 @@
     ]
   },
   "0744": {
-    "name": "Sentadilla acostada en máquina de trineo",
-    "description": "Sentadilla en máquina de trineo realizada boca arriba, donde se empuja la plataforma con las piernas. Es una opción amable con la columna que aún así carga con fuerza glúteos, cuádriceps, isquiotibiales y pantorrillas en una trayectoria guiada.",
+    "name": "Sentadilla acostada en máquina",
+    "description": "Sentadilla en máquina realizada boca arriba, donde se empuja la plataforma con las piernas. Es una opción amable con la columna que aún así carga con fuerza glúteos, cuádriceps, isquiotibiales y pantorrillas en una trayectoria guiada.",
     "instructions": [
-      "Ajusta la máquina de trineo a un peso cómodo.",
+      "Ajusta la máquina a un peso cómodo.",
       "Acuéstate boca arriba en la máquina con los pies apoyados sobre la plataforma.",
       "Coloca los pies al ancho de los hombros con las puntas ligeramente hacia afuera.",
       "Sujeta los agarres de la máquina para estabilizarte.",
       "Activa glúteos y core.",
-      "Empuja con los talones y extiende las piernas para elevar el trineo.",
-      "Baja el trineo flexionando rodillas y cadera con control.",
+      "Empuja con los talones y extiende las piernas para elevar la plataforma.",
+      "Baja la plataforma flexionando rodillas y cadera con control.",
       "Repite el número de repeticiones deseado."
     ]
   },

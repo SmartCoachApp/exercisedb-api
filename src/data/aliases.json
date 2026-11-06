@@ -94,6 +94,27 @@
   "2368": {
     "aliases": ["zancada estática", "estocada estática"]
   },
+  "2401": {
+    "aliases": ["arm blaster"]
+  },
+  "2402": {
+    "aliases": ["arm blaster"]
+  },
+  "2403": {
+    "aliases": ["arm blaster"]
+  },
+  "2404": {
+    "aliases": ["arm blaster"]
+  },
+  "2405": {
+    "aliases": ["arm blaster"]
+  },
+  "2406": {
+    "aliases": ["arm blaster"]
+  },
+  "2407": {
+    "aliases": ["arm blaster"]
+  },
   "2459": {
     "primary": true
   },
@@ -104,8 +125,14 @@
   "2963": {
     "aliases": ["elevación de piernas en silla romana"]
   },
+  "3011": {
+    "aliases": ["push up escapular"]
+  },
   "3016": {
     "aliases": ["curl-up de McGill"]
+  },
+  "3021": {
+    "aliases": ["push up escapular"]
   },
   "3147": {
     "aliases": ["retroversión pélvica"]
@@ -440,7 +467,8 @@
     "substituteFor": ["prensa horizontal"]
   },
   "0743": {
-    "primary": true
+    "primary": true,
+    "aliases": ["hack squat"]
   },
   "0814": {
     "aliases": ["fondos en silla"],
@@ -470,5 +498,8 @@
     "aliases": ["press antirrotación"],
     "primary": true,
     "substituteFor": ["pallof press en polea"]
+  },
+  "0859": {
+    "aliases": ["wrist roller"]
   }
 }
