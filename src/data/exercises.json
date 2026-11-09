@@ -12864,7 +12864,7 @@
     "difficulty": "advanced",
     "category": "strength",
     "measurementType": "reps",
-    "tags": ["compound", "pull", "carry", "main-lift", "minimal-equipment", "strength", "high-intensity"],
+    "tags": ["compound", "pull", "main-lift", "minimal-equipment", "strength", "high-intensity"],
     "baselineEffectiveness": 35,
     "contraindicatedFor": ["shoulder", "wrist", "elbow"]
   },
@@ -25205,7 +25205,7 @@
     "description": "The farmer's walk is a functional strength exercise where you walk while holding a dumbbell in each hand, engaging the quads, calves, forearms, and core. It improves grip strength, core stability, and overall conditioning.",
     "difficulty": "beginner",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "distance",
     "tags": ["compound", "carry", "main-lift", "minimal-equipment", "staple", "strength", "moderate"],
     "baselineEffectiveness": 78,
     "contraindicatedFor": ["lower-back", "wrist"]
@@ -29814,7 +29814,7 @@
     "description": "The dumbbell single arm overhead carry is a functional exercise that targets the deltoids while also engaging the traps and core. It challenges shoulder stability, core strength, and coordination as you walk while holding a dumbbell overhead.",
     "difficulty": "intermediate",
     "category": "strength",
-    "measurementType": "reps",
+    "measurementType": "distance",
     "tags": ["compound", "carry", "accessory", "minimal-equipment", "strength", "balance", "moderate"],
     "baselineEffectiveness": 52,
     "contraindicatedFor": ["shoulder"]

@@ -52,6 +52,23 @@ describe('FileLoader', () => {
       expect(first).not.toHaveProperty('bodyParts')
       expect(first).not.toHaveProperty('equipments')
     })
+
+    // Loaded carries are walked for meters (Hyrox «farmers carry» 5207 is the
+    // reference); measured in reps they were dosed «3×12 reps» (QA 2026-11-09).
+    it('every exercise tagged carry is a walk measured in distance', async () => {
+      const exercises = await FileLoader.loadExercises()
+      const carries = exercises.filter((e) => e.tags?.includes('carry'))
+      expect(carries.map((e) => e.id).sort()).toEqual(['2133', '3548', '5207', '5215'])
+      for (const e of carries) expect(e.measurementType).toBe('distance')
+    })
+
+    it('rope climb is a pull, not a carry', async () => {
+      const exercises = await FileLoader.loadExercises()
+      const rope = exercises.find((e) => e.id === '0680')!
+      expect(rope.tags).toContain('pull')
+      expect(rope.tags).not.toContain('carry')
+      expect(rope.measurementType).toBe('reps')
+    })
   })
 
   describe('loadBodyParts', () => {
