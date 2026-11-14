@@ -1,10 +1,12 @@
 import { Storage } from '@google-cloud/storage'
 import type { ExerciseWithImages } from '../data/types'
+import { hasMedia } from '../data/media'
 
 type ExerciseImages = ExerciseWithImages['images']
 
 const RESOLUTIONS = ['180', '360', '720', '1080'] as const
 const TTL_SECONDS = 24 * 60 * 60 // 24 hours
+const NO_IMAGES: ExerciseImages = { '180': '', '360': '', '720': '', '1080': '' }
 
 function createStorage(): Storage | null {
   const keyBase64 = process.env.GCS_SERVICE_ACCOUNT_KEY
@@ -28,9 +30,11 @@ class SignedUrlService {
   }
 
   async generateImageUrls(exerciseId: string): Promise<ExerciseImages> {
+    // No GIF in the bucket: empty URLs, never a signed URL to a missing object
+    if (!hasMedia(exerciseId)) return { ...NO_IMAGES }
     if (!this.storage || !this.bucketName) {
       // Graceful degradation when GCS is not configured (local dev)
-      return { '180': '', '360': '', '720': '', '1080': '' }
+      return { ...NO_IMAGES }
     }
 
     const bucket = this.storage.bucket(this.bucketName)

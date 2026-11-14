@@ -135,5 +135,25 @@ describe('SignedUrlService', () => {
 
       expect(mockBucket).toHaveBeenCalledWith('my-custom-bucket')
     })
+
+    it.each(['5202', '5203', '5216'])(
+      'returns empty strings without signing anything for %s, an exercise with no GIF in the bucket',
+      async (id) => {
+        process.env.GCS_SERVICE_ACCOUNT_KEY = fakeKey
+        process.env.GCS_BUCKET_NAME = 'smart-coach-exercises-media'
+
+        const { Storage } = await import('@google-cloud/storage')
+        const mockGetSignedUrl = vi.fn().mockResolvedValue(['https://url.example.com/img.gif'])
+        const mockFile = vi.fn(() => ({ getSignedUrl: mockGetSignedUrl }))
+        const mockBucket = vi.fn(() => ({ file: mockFile }))
+        ;(Storage as unknown as ReturnType<typeof vi.fn>).mockImplementation(() => ({ bucket: mockBucket }))
+
+        const { signedUrlService } = await import('./signed-url.service')
+        const result = await signedUrlService.generateImageUrls(id)
+
+        expect(result).toEqual({ '180': '', '360': '', '720': '', '1080': '' })
+        expect(mockGetSignedUrl).not.toHaveBeenCalled()
+      }
+    )
   })
 })
