@@ -1,6 +1,6 @@
 {
   "0001": {
-    "name": "Abdominal a 45 grados",
+    "name": "Abdominal de recorrido 3/4",
     "description": "El abdominal 3/4 es un sit-up con peso corporal en el que elevas el torso hasta quedar casi vertical. Trabaja el recto abdominal y los flexores de cadera sin necesidad de equipo.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
@@ -11,7 +11,7 @@
     ]
   },
   "0002": {
-    "name": "Inclinación lateral de 45 grados de pie",
+    "name": "Inclinación lateral a 45° en banco de hiperextensión",
     "description": "La inclinación lateral a 45 grados trabaja los oblicuos acostado de lado en un banco de hiperextensiones a 45 grados. Bajas y subes el torso de lado contra la gravedad, manteniendo el cuerpo alineado.",
     "instructions": [
       "Colócate de lado en un banco de hiperextensiones a 45 grados, con la cadera sobre el soporte y los pies fijos bajo los rodillos.",
@@ -243,7 +243,7 @@
     ]
   },
   "0026": {
-    "name": "Sentadilla en rack con barra",
+    "name": "Sentadilla al banco con barra",
     "description": "La sentadilla al banco con barra trabaja cuádriceps, glúteos e isquiotibiales. Bajas con la barra en la espalda hasta tocar un banco colocado detrás de ti, lo que marca una profundidad constante.",
     "instructions": [
       "Coloca un banco plano detrás de ti y una barra en un rack a la altura de los hombros.",
@@ -407,7 +407,7 @@
     ]
   },
   "0040": {
-    "name": "Elevación frontal a pullover con barra",
+    "name": "Pullover acostado con barra",
     "description": "Este ejercicio se hace acostado en un banco plano y trabaja pectorales, dorsales y deltoides anteriores. La barra describe un arco con los brazos rectos desde encima del pecho hasta detrás de la cabeza, y exige buena movilidad de hombros.",
     "instructions": [
       "Acuéstate en un banco plano con los pies en el suelo y la cabeza cerca del extremo del banco.",
@@ -526,7 +526,7 @@
     ]
   },
   "0050": {
-    "name": "Empuje vertical en banco inclinado con barra",
+    "name": "Elevación escapular en banco inclinado con barra",
     "description": "Este ejercicio se hace recostado en un banco inclinado y activa el serrato anterior. Con los brazos bloqueados, la barra sube y baja unos centímetros moviendo solo las escápulas, lo que mejora la estabilidad escapular.",
     "instructions": [
       "Ajusta un banco inclinado a unos 45 grados.",
@@ -562,7 +562,7 @@
     ]
   },
   "0053": {
-    "name": "Sentadilla con salto y barra",
+    "name": "Zancada con salto y barra",
     "description": "Este ejercicio pliométrico se hace en posición de zancada con la barra sobre la espalda alta. Saltas desde la zancada y cambias de pierna en el aire, trabajando glúteos, cuádriceps e isquiotibiales mientras desarrollas potencia.",
     "instructions": [
       "Ponte en posición de zancada, un pie adelante y otro atrás, con la barra apoyada sobre la parte alta de la espalda.",
@@ -630,7 +630,7 @@
     ]
   },
   "0059": {
-    "name": "Curl predicador acostado con barra",
+    "name": "Curl acostado boca abajo en banco con barra",
     "description": "Esta variante del curl se ejecuta acostado boca abajo en un banco plano, con los brazos colgando por el extremo. La posición elimina el impulso del torso y aísla los bíceps con una mecánica estricta.",
     "instructions": [
       "Acuéstate boca abajo en un banco plano con las puntas de los pies en el suelo y los brazos colgando por el extremo, sujetando una barra con agarre supino.",
@@ -724,7 +724,7 @@
     ]
   },
   "0068": {
-    "name": "Sentadilla a una pierna con barra",
+    "name": "Sentadilla búlgara con barra en la espalda",
     "description": "La sentadilla a una pierna con barra se hace con la barra sobre la espalda y el pie de atrás apoyado en un banco, cargando la pierna de adelante. Exige equilibrio y fuerza unilateral, y es uno de los movimientos más completos para los cuádriceps.",
     "instructions": [
       "Párate delante de un banco plano con la barra apoyada sobre la parte alta de la espalda.",
@@ -888,7 +888,7 @@
     ]
   },
   "0082": {
-    "name": "Curl de muñeca inverso sentado",
+    "name": "Curl de muñeca inverso arrodillado con barra",
     "description": "El curl de muñeca inverso aísla los extensores del antebrazo, una zona habitualmente descuidada. Se hace arrodillado junto a un banco, con los antebrazos apoyados en él, lo que obliga a las muñecas a mover la carga de manera estricta.",
     "instructions": [
       "Arrodíllate junto a un banco plano y sostén una barra con agarre prono, palmas hacia abajo.",
@@ -1051,7 +1051,7 @@
     ]
   },
   "0097": {
-    "name": "Sentadilla lateral búlgara con barra",
+    "name": "Sentadilla lateral con barra (variante)",
     "description": "Esta sentadilla lateral con barra se hace con los pies fijos en una postura amplia, desplazando el peso de un lado a otro en cada repetición. La carga unilateral activa intensamente cuádriceps, glúteos y aductores y mejora la estabilidad lateral del tren inferior.",
     "instructions": [
       "Ponte de pie con los pies más abiertos que el ancho de los hombros y las puntas ligeramente abiertas.",

@@ -11,7 +11,7 @@
     ]
   },
   "0347": {
-    "name": "Pronación de antebrazo con mancuernas acostado boca abajo",
+    "name": "Pronación de antebrazo con mancuerna acostado de lado",
     "description": "Movimiento aislado para los antebrazos centrado en la fuerza de pronación. Acostado de lado en un banco con el antebrazo apoyado sobre el borde, rotas la mancuerna de palma arriba a palma abajo.",
     "instructions": [
       "Acuéstate de lado en un banco plano y apoya el antebrazo del brazo de trabajo sobre el borde, sosteniendo una mancuerna.",
@@ -67,7 +67,7 @@
     ]
   },
   "0352": {
-    "name": "Press de banca con mancuernas en agarre neutro",
+    "name": "Extensión de tríceps tumbado con mancuernas en agarre neutro",
     "description": "Extensión de tríceps acostado en banco plano con mancuernas y palmas enfrentadas. Aísla el tríceps flexionando solo los codos mientras los brazos superiores permanecen fijos.",
     "instructions": [
       "Acuéstate en un banco plano con los pies firmes en el suelo y la espalda pegada al banco.",
@@ -271,7 +271,7 @@
     ]
   },
   "0371": {
-    "name": "Sentadilla pliométrica con tijera y mancuernas",
+    "name": "Sentadilla sumo con mancuerna",
     "description": "Sentadilla con postura amplia sosteniendo una sola mancuerna entre las piernas. Trabaja glúteos, cuádriceps y aductores.",
     "instructions": [
       "Párate con los pies más abiertos que los hombros y las puntas hacia afuera, sosteniendo una mancuerna con ambas manos entre las piernas.",
@@ -598,7 +598,7 @@
     ]
   },
   "0399": {
-    "name": "Rotación externa sentado a un brazo con mancuerna",
+    "name": "Rotación de antebrazo sentado a un brazo con mancuerna",
     "description": "Trabajo rotacional para los antebrazos. Con el brazo colgando recto, la rotación del antebrazo con la mancuerna construye fuerza y movilidad.",
     "instructions": [
       "Siéntate en un banco con una mancuerna en una mano e inclínate un poco hacia adelante.",
@@ -632,7 +632,7 @@
     ]
   },
   "0402": {
-    "name": "Curl predicador sentado a un brazo con mancuerna",
+    "name": "Curl predicador sentado con mancuernas",
     "description": "Curl predicador sentado con los brazos apoyados en la almohadilla. La toma supinada y la fijación del codo aíslan al bíceps por completo y reducen el impulso.",
     "instructions": [
       "Siéntate en un banco predicador con los pies apoyados en el suelo.",

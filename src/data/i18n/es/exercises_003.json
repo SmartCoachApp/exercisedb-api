@@ -65,7 +65,7 @@
     ]
   },
   "0232": {
-    "name": "Jalón al cuerpo de pie en polea con cuerda",
+    "name": "Curl de bíceps en polea alta con cuerda",
     "description": "Curl de bíceps en polea alta con cuerda, de pie y con los codos elevados al frente. La cuerda permite separar las manos al final del recorrido y enfatizar la contracción, exigiendo control sobre la fase de retorno.",
     "instructions": [
       "Engancha una cuerda a la máquina de polea en el ajuste más alto.",
@@ -830,7 +830,7 @@
     ]
   },
   "0316": {
-    "name": "Press inclinado con agarre prono y mancuernas",
+    "name": "Apertura inclinada con mancuernas (variante)",
     "description": "Apertura en banco inclinado con mancuernas que aísla el pectoral superior, con apoyo del deltoides anterior. Los brazos se abren en un arco amplio y vuelven a juntarse sobre el pecho.",
     "instructions": [
       "Coloca un banco inclinado a 45 grados.",
@@ -941,7 +941,7 @@
     ]
   },
   "0325": {
-    "name": "Press inclinado tipo elevación con mancuernas",
+    "name": "Elevación frontal inclinada con mancuernas",
     "description": "Elevación frontal sentado en banco inclinado que trabaja el deltoides anterior. Al recostarte, los brazos parten colgando por detrás del torso, lo que alarga el recorrido.",
     "instructions": [
       "Siéntate en un banco inclinado con una mancuerna en cada mano y recuéstate en el respaldo.",
@@ -976,7 +976,7 @@
     ]
   },
   "0328": {
-    "name": "Press de hombros inclinado con mancuernas",
+    "name": "Protracción escapular en banco inclinado con mancuernas",
     "description": "Ejercicio para el serrato anterior con apoyo de deltoides y trapecio. Recostado en un banco inclinado con los brazos extendidos hacia arriba, las mancuernas suben unos centímetros solo al llevar las escápulas hacia adelante.",
     "instructions": [
       "Coloca un banco inclinado a 45 grados y recuéstate con una mancuerna en cada mano.",

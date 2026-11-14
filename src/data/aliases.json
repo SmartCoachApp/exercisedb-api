@@ -20,6 +20,9 @@
     "aliases": ["perro boca arriba"],
     "substituteFor": ["postura de la cobra"]
   },
+  "1396": {
+    "aliases": ["smith toe raise"]
+  },
   "1410": {
     "aliases": ["estocada lateral", "desplante lateral"],
     "substituteFor": ["zancada lateral sin peso"],
@@ -134,6 +137,9 @@
   "3021": {
     "aliases": ["push up escapular"]
   },
+  "3119": {
+    "aliases": ["air squat", "sentadilla sin peso", "sentadilla tipo bacinilla"]
+  },
   "3147": {
     "aliases": ["retroversión pélvica"]
   },
@@ -147,9 +153,8 @@
   "3212": {
     "aliases": ["tocar la punta de los pies"]
   },
-  "3224": {
-    "aliases": ["polichinelas", "saltos de payaso"],
-    "primary": true
+  "3223": {
+    "substituteFor": ["jumping jack", "polichinelas", "saltos de payaso"]
   },
   "3305": {
     "primary": true
@@ -167,9 +172,6 @@
   "3523": {
     "aliases": ["puente de glúteos con pies elevados"]
   },
-  "3533": {
-    "aliases": ["air squat", "sentadilla sin peso"]
-  },
   "3548": {
     "aliases": ["waiter carry", "waiter walk", "paseo del camarero"]
   },
@@ -179,9 +181,6 @@
   },
   "3582": {
     "aliases": ["jumping lunge", "zancada pliométrica"]
-  },
-  "3665": {
-    "aliases": ["up-down plank", "plancha arriba abajo"]
   },
   "3666": {
     "aliases": ["caminata inclinada", "incline walk", "12-3-30"],
@@ -471,7 +470,6 @@
     "aliases": ["hack squat"]
   },
   "0814": {
-    "aliases": ["fondos en silla"],
     "primary": true
   },
   "0841": {
@@ -501,5 +499,17 @@
   },
   "0859": {
     "aliases": ["wrist roller"]
+  },
+  "0068": {
+    "aliases": ["barbell one leg squat"]
+  },
+  "0316": {
+    "aliases": ["dumbbell incline breeding"]
+  },
+  "0129": {
+    "aliases": ["fondos en silla"]
+  },
+  "0137": {
+    "aliases": ["up-down plank", "plancha arriba abajo"]
   }
 }

@@ -24,7 +24,7 @@
     ]
   },
   "2203": {
-    "name": "Empuje frontal sentado con rodillo (flexor-depresor de hombro)",
+    "name": "Deslizamiento sentado sobre rodillo con apoyo de manos",
     "description": "Movilidad de hombro sentado: con el rodillo bajo los muslos y las manos en el suelo detrás de ti, deslizas el cuerpo adelante y atrás sobre el rodillo, abriendo los hombros y trabajando las escápulas.",
     "instructions": [
       "Siéntate en el suelo con un rodillo de espuma bajo los muslos y las piernas extendidas.",
@@ -35,7 +35,7 @@
     ]
   },
   "2204": {
-    "name": "Body saw con rodillo en antebrazos",
+    "name": "Body saw con rodillo bajo las espinillas",
     "description": "Variante avanzada de plancha sobre antebrazos con el rodillo bajo las espinillas para oscilar el cuerpo adelante y atrás como un serrucho. Trabaja la fuerza anti-extensión del core y la estabilidad de hombros.",
     "instructions": [
       "Colócate en plancha sobre antebrazos con los codos bajo los hombros y un rodillo bajo las espinillas.",
@@ -45,7 +45,7 @@
     ]
   },
   "2205": {
-    "name": "Estiramiento dorsal-cadera con rodillo arrodillado",
+    "name": "Movilidad lateral de cadera con rodillo",
     "description": "Liberación miofascial de la cara externa de la cadera: de lado sobre el rodillo, ruedas la cadera externa mientras la pierna superior se cruza como apoyo.",
     "instructions": [
       "Acuéstate de lado con un rodillo de espuma bajo la cadera externa, apoyándote en el antebrazo.",
@@ -56,7 +56,7 @@
     ]
   },
   "2206": {
-    "name": "Crunch invertido con rodillo entre los pies",
+    "name": "Crunch invertido con rodillo bajo las pantorrillas",
     "description": "Crunch invertido sentado con apoyo de manos y el rodillo bajo las pantorrillas: acercas las rodillas al pecho haciendo rodar el rodillo y vuelves a extender. Trabaja abdomen y flexores de cadera.",
     "instructions": [
       "Siéntate en el suelo inclinado atrás sobre las manos, con un rodillo bajo las pantorrillas y las piernas extendidas.",
@@ -90,7 +90,7 @@
     ]
   },
   "2209": {
-    "name": "Elevación frontal sentado a una pierna con rodillo",
+    "name": "Deslizamiento sentado a una pierna sobre rodillo",
     "description": "Variante a una pierna de la movilidad de hombro sentada: con una pierna sobre el rodillo y la otra flexionada, apoyas las manos detrás y deslizas el cuerpo adelante y atrás.",
     "instructions": [
       "Siéntate en el suelo con una pierna extendida sobre un rodillo de espuma y la otra flexionada con el pie en el suelo.",
@@ -330,7 +330,7 @@
     ]
   },
   "2328": {
-    "name": "Flexión cerrada con manos en balón de estabilidad",
+    "name": "Flexión cerrada con pies en balón de estabilidad",
     "description": "Flexión con las manos juntas en el suelo y los pies sobre un balón de estabilidad. La superficie inestable obliga al tríceps y al core a estabilizar el movimiento.",
     "instructions": [
       "Apoya las manos juntas en el suelo bajo el pecho y coloca las espinillas o los pies sobre un balón detrás de ti.",
@@ -443,7 +443,7 @@
     ]
   },
   "2368": {
-    "name": "Sentadilla búlgara con peso corporal",
+    "name": "Sentadilla dividida con peso corporal",
     "description": "Trabajo unilateral de pierna con un pie adelantado y otro atrás que carga cuádriceps y glúteo de la pierna delantera. Útil para corregir asimetrías sin necesidad de implementos.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros.",
@@ -606,7 +606,7 @@
     ]
   },
   "2414": {
-    "name": "Curl concentrado de pie con barra (un brazo)",
+    "name": "Curl concentrado de pie con barra",
     "description": "Curl con barra de pie inclinado desde la cadera con los brazos colgando: subes la barra con ambas manos hacia el pecho, lo que elimina el impulso y obliga al bíceps a hacer todo el trabajo.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros sujetando una barra en supinación, manos a la anchura de los hombros.",
@@ -666,7 +666,7 @@
     ]
   },
   "2464": {
-    "name": "Remo Thibaudeau tipo kayak en polea (un brazo)",
+    "name": "Remo Thibaudeau tipo kayak en polea alta",
     "description": "Remo de pie en polea alta estilo kayak: con una barra sujeta con ambas manos, la llevas en diagonal hacia una cadera y luego hacia la otra, como una palada. Trabaja dorsales y romboides.",
     "instructions": [
       "Coloca una barra recta en la polea alta y sujétala en pronación, con las manos más abiertas que los hombros.",
@@ -760,7 +760,7 @@
     ]
   },
   "2705": {
-    "name": "Pronación de muñeca tumbado boca abajo con mancuernas",
+    "name": "Pronación de antebrazo tumbado boca arriba con mancuerna",
     "description": "Trabajo aislado de los pronadores de antebrazo tumbado boca arriba con el codo apoyado en el suelo y el antebrazo vertical, girando la mancuerna.",
     "instructions": [
       "Acuéstate boca arriba en el suelo con las rodillas flexionadas.",
@@ -772,7 +772,7 @@
     ]
   },
   "2706": {
-    "name": "Supinación de muñeca tumbado boca arriba con mancuernas",
+    "name": "Supinación de antebrazo tumbado de lado con mancuerna",
     "description": "Trabajo aislado de supinación de antebrazo tumbado de lado: con el codo flexionado y fijo, giras la mancuerna de palma abajo a palma arriba.",
     "instructions": [
       "Acuéstate de lado en el suelo con la cabeza apoyada.",
@@ -853,7 +853,7 @@
     ]
   },
   "2801": {
-    "name": "Elevación de piernas con giro tumbado (femenino)",
+    "name": "Elevación alterna de pierna con giro en silla romana (femenino)",
     "description": "Elevación alterna de pierna recta en silla romana, llevándola un poco cruzada para activar los oblicuos además del recto abdominal y los flexores de cadera.",
     "instructions": [
       "Colócate en la silla romana (estación de elevación de rodillas) con los antebrazos en las almohadillas, sujetando los agarres y la espalda contra el respaldo.",
@@ -865,7 +865,7 @@
     ]
   },
   "2802": {
-    "name": "Elevación de piernas rectas con giro tumbado",
+    "name": "Elevación alterna de pierna recta con giro en silla romana",
     "description": "Elevación alterna de pierna recta en silla romana con un ligero cruce hacia el lado contrario. La palanca larga y el giro reclutan recto abdominal, oblicuos y flexores de cadera.",
     "instructions": [
       "Colócate en la silla romana (estación de elevación de rodillas) con los antebrazos en las almohadillas, sujetando los agarres y la espalda contra el respaldo.",
@@ -878,7 +878,7 @@
     ]
   },
   "2803": {
-    "name": "Sentadilla apoyada con mancuernas a los costados",
+    "name": "Sentadilla al cajón con mancuerna",
     "description": "Sentadilla al cajón con una mancuerna sostenida frente al pecho. El cajón marca la profundidad y da estabilidad; buena progresión antes de pasar a sentadilla con barra.",
     "instructions": [
       "Ponte de pie frente a un cajón con los pies a la anchura de los hombros sujetando una mancuerna vertical frente al pecho.",
@@ -914,7 +914,7 @@
     ]
   },
   "2810": {
-    "name": "Sentadilla búlgara con barra",
+    "name": "Sentadilla dividida con barra en las manos",
     "description": "Sentadilla dividida estática sosteniendo una barra con las manos frente a la cadera. Permite progresar fuerza en cuádriceps y glúteos con buena estabilidad.",
     "instructions": [
       "Ponte de pie sujetando una barra en pronación frente a la cadera con los brazos rectos.",
@@ -974,7 +974,7 @@
     ]
   },
   "3007": {
-    "name": "Extensión de pierna de pie con banda de resistencia",
+    "name": "Extensión de pierna sentado con banda de resistencia",
     "description": "Extensión de pierna sentado con una banda alrededor de ambos tobillos: extiendes una pierna al frente contra la banda. Trabaja cuádriceps sin necesidad de máquina.",
     "instructions": [
       "Siéntate en un banco con las rodillas flexionadas y los pies debajo de ti.",
@@ -1010,7 +1010,7 @@
     ]
   },
   "3012": {
-    "name": "Fondos escapulares de pie",
+    "name": "Fondos escapulares en banco",
     "description": "Fondo escapular en banco: con las manos en el banco y los brazos rectos, subes y bajas el cuerpo solo con la depresión y elevación de las escápulas. Activa trapecio inferior y estabilizadores del hombro.",
     "instructions": [
       "Siéntate al borde de un banco y apoya las manos junto a la cadera, dedos al frente.",
@@ -1056,7 +1056,7 @@
     ]
   },
   "3019": {
-    "name": "Dominadas en barra de banco bajo",
+    "name": "Dominadas asistidas con pie en banco",
     "description": "Dominada asistida: cuelgas de una barra alta y apoyas un pie en un banco detrás de ti para descargar parte del peso mientras subes el mentón por encima de la barra. Progresión útil hacia la dominada completa.",
     "instructions": [
       "Coloca un banco plano detrás de una barra de dominadas.",
@@ -1109,8 +1109,8 @@
     ]
   },
   "3119": {
-    "name": "Sentadilla profunda tipo bacinilla",
-    "description": "Sentadilla profunda con peso corporal y patrón de bisagra marcado, similar a sentarse en una bacinilla baja. Mejora movilidad de tobillo, cadera y postura del core.",
+    "name": "Sentadilla a peso corporal",
+    "description": "Sentadilla libre con peso corporal y los brazos extendidos al frente. Trabaja principalmente los cuádriceps, con apoyo de glúteos e isquiotibiales, y mejora la movilidad de tobillo y cadera.",
     "instructions": [
       "Ponte de pie con los pies a la anchura de los hombros y las puntas ligeramente hacia afuera.",
       "Baja el cuerpo flexionando las rodillas y empujando las caderas atrás como si fueras a sentarte.",

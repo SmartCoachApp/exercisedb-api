@@ -65,7 +65,7 @@
     ]
   },
   "1332": {
-    "name": "Elevaciones alternas sentado sobre balón de estabilidad con mancuernas",
+    "name": "Elevaciones alternas de brazos boca abajo sobre balón de estabilidad",
     "description": "Acostado boca abajo sobre el balón, alternar elevaciones de brazo recluta los dorsales y obliga al core a estabilizar la base inestable. Es una variante útil para entrenar coordinación brazo-tronco y resistencia del tren superior.",
     "instructions": [
       "Acuéstate boca abajo sobre el balón de estabilidad con el torso apoyado en el balón y los pies en el suelo detrás de ti.",
@@ -135,7 +135,7 @@
     ]
   },
   "1339": {
-    "name": "Estiramiento del dorsal sentado sobre balón de estabilidad con mancuerna",
+    "name": "Estiramiento del dorsal arrodillado con balón de estabilidad",
     "description": "De rodillas y con los brazos sobre el balón, este estiramiento abre los dorsales al rodar el balón hacia adelante y hundir el pecho hacia el suelo. Profundiza el estiramiento de forma suave sin forzar la columna.",
     "instructions": [
       "Arrodíllate en el suelo con el balón de estabilidad delante de ti.",
@@ -287,7 +287,7 @@
     ]
   },
   "1353": {
-    "name": "Sentadilla con lanzamiento por encima de la cabeza con balón medicinal",
+    "name": "Recepción y lanzamiento por encima de la cabeza con balón medicinal",
     "description": "Movimiento explosivo de cuerpo completo: atrapar el balón, llevarlo detrás de la cabeza y lanzarlo con fuerza hacia adelante y abajo. Trabaja la potencia y la coordinación del tren superior, con énfasis en dorsales, hombros y core.",
     "instructions": [
       "Párate con los pies al ancho de los hombros, frente a una pared o un compañero, con los brazos listos para atrapar el balón.",
@@ -310,7 +310,7 @@
     ]
   },
   "1355": {
-    "name": "Empuje contra pared a una mano con peso corporal",
+    "name": "Estiramiento de dorsal a un brazo contra la pared",
     "description": "Estiramiento de pie de lado a la pared con el antebrazo apoyado por encima de la cabeza, que abre el dorsal y el costado del torso. Útil como movilidad previa a tracciones.",
     "instructions": [
       "Párate de lado junto a una pared con los pies al ancho de los hombros.",
@@ -519,7 +519,7 @@
     ]
   },
   "1374": {
-    "name": "Salto al cajón con descenso y estabilización a una pierna",
+    "name": "Salto desde el cajón con aterrizaje a una pierna",
     "description": "Combina un descenso desde el cajón con un aterrizaje y estabilización unilateral. Trabaja control excéntrico y propiocepción del tobillo, con énfasis en pantorrillas y cuádriceps.",
     "instructions": [
       "Párate sobre un cajón o plataforma con los pies al ancho de la cadera.",
@@ -782,7 +782,7 @@
     ]
   },
   "1396": {
-    "name": "Elevación de puntas en máquina Smith",
+    "name": "Elevación de talones sentado en máquina Smith",
     "description": "Elevación de talones sentado en la máquina Smith, con la barra apoyada sobre las rodillas y la parte delantera de los pies sobre una plataforma elevada. Trabaja principalmente el sóleo con un rango de movimiento amplio.",
     "instructions": [
       "Coloca un banco dentro de la máquina Smith y una plataforma elevada o discos delante.",
@@ -806,7 +806,7 @@
     ]
   },
   "1398": {
-    "name": "Estiramiento de pantorrilla de pie contra pared",
+    "name": "Estiramiento de pantorrilla de pie",
     "description": "Estiramiento estático con el talón apoyado sobre un banco y la pierna recta, tirando de la punta del pie. Trabaja gastrocnemios y permite ajustar la profundidad inclinándose más hacia adelante.",
     "instructions": [
       "Párate frente a un banco plano, a un paso de distancia.",
@@ -995,7 +995,7 @@
     ]
   },
   "1418": {
-    "name": "Abrazo de rodillas al pecho de pie",
+    "name": "Abrazo de rodillas al pecho tumbado",
     "description": "Estiramiento boca arriba llevando ambas rodillas al pecho y abrazándolas con los brazos. Estira glúteos y zona lumbar y ayuda a liberar tensión en la cadera.",
     "instructions": [
       "Recuéstate boca arriba en el suelo con las piernas extendidas.",
@@ -1018,7 +1018,7 @@
     ]
   },
   "1420": {
-    "name": "Sentadilla con salto desde rodillas con barra",
+    "name": "Paso de rodillas a sentadilla con barra",
     "description": "Movimiento avanzado que parte arrodillado con una barra sobre los hombros y pasa a una sentadilla profunda para volver a arrodillarse. Trabaja glúteos y cuádriceps y requiere buena técnica y movilidad.",
     "instructions": [
       "Empieza arrodillado en el suelo con las rodillas al ancho de la cadera y los dedos de los pies apoyados.",

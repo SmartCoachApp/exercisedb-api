@@ -58,7 +58,7 @@
     ]
   },
   "3162": {
-    "name": "Remo unilateral de pie con mancuerna",
+    "name": "Remo unilateral de pie a peso corporal",
     "description": "Remo a un brazo a peso corporal en espaldera: te inclinas atrás sujetando un barrote y tiras del cuerpo hacia él. El trabajo unilateral corrige asimetrías y exige control escapular.",
     "instructions": [
       "Ponte de pie frente a una espaldera con los pies cerca de la base.",
@@ -321,7 +321,7 @@
     ]
   },
   "3221": {
-    "name": "Media flexión de rodillas",
+    "name": "Skipping alto en el sitio",
     "description": "Elevación alternada de rodillas en el sitio como ejercicio cardiovascular ligero. Útil como movimiento de calentamiento o para elevar el ritmo cardíaco sin equipo.",
     "instructions": [
       "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados a los costados.",
@@ -354,7 +354,7 @@
     ]
   },
   "3224": {
-    "name": "Jumping jack",
+    "name": "Salto carpado",
     "description": "Salto explosivo desde sentadilla en el que llevas las piernas estiradas al frente en el aire, formando una carpa con el cuerpo. Eleva el ritmo cardíaco y trabaja cuádriceps, flexores de cadera y abdomen.",
     "instructions": [
       "Ponte de pie con los pies al ancho de las caderas y baja a una sentadilla con los brazos atrás.",
@@ -487,7 +487,7 @@
     ]
   },
   "3287": {
-    "name": "Fondos de codo en banco",
+    "name": "Fondos de codo en paralelas",
     "description": "Fondo en barras paralelas en el que bajas desde el apoyo con brazos extendidos hasta apoyar los antebrazos sobre las barras y vuelves a subir. Trabaja intensamente los tríceps y la estabilidad de hombros.",
     "instructions": [
       "Sujeta las barras paralelas y sostén el cuerpo con los brazos completamente extendidos y las piernas colgando.",
@@ -531,7 +531,7 @@
     ]
   },
   "3291": {
-    "name": "Stalder press de pie",
+    "name": "Stalder press en apoyo de manos",
     "description": "Movimiento de fuerza compresiva de gimnasia: desde el pino bajas con las piernas abiertas hasta un apoyo en straddle sobre las manos y vuelves a subir. Trabaja tríceps, hombros y core anterior.",
     "instructions": [
       "Empieza en posición de pino con las manos al ancho de los hombros en el suelo.",
@@ -543,7 +543,7 @@
     ]
   },
   "3292": {
-    "name": "Elevator (descenso lumbar de pie)",
+    "name": "Elevator (invertido en anillas)",
     "description": "Ejercicio en anillas para la espalda alta: desde una suspensión invertida flexionas y extiendes los brazos para mover el cuerpo arriba y abajo como un ascensor. Exige fuerza de espalda, brazos y control del core.",
     "instructions": [
       "Cuélgate de un par de anillas con los brazos rectos.",
@@ -720,7 +720,7 @@
     ]
   },
   "3313": {
-    "name": "Fondo en barra recta con peso",
+    "name": "Fondo en paralelas con peso",
     "description": "Fondo en barras paralelas sumando peso adicional, normalmente con cinturón de lastre, para incrementar la carga sobre pectorales y tríceps. Exige buena estabilidad escapular durante todo el recorrido.",
     "instructions": [
       "Colócate entre barras paralelas con los brazos completamente extendidos y el cuerpo recto.",
@@ -741,7 +741,7 @@
     ]
   },
   "3315": {
-    "name": "Maltese completo de pie",
+    "name": "Maltese completo en apoyo de manos",
     "description": "Sostén isométrico de gimnasia sobre el suelo donde el cuerpo se mantiene horizontal apoyado solo en las manos muy separadas, con las piernas juntas. Recluta el core, hombros y pecho en un sostén extremadamente exigente.",
     "instructions": [
       "Acuéstate boca abajo y coloca las manos en el suelo mucho más separadas que el ancho de los hombros, con los dedos hacia afuera y los brazos rectos.",
@@ -752,7 +752,7 @@
     ]
   },
   "3318": {
-    "name": "Swing 360 de brazos",
+    "name": "Swing 360 en barra",
     "description": "Movimiento dinámico avanzado en barra alta en el que el cuerpo completo gira 360 grados alrededor de la barra. Activa hombros, agarre, core y sistema cardiovascular, y exige fuerza, ritmo y coordinación.",
     "instructions": [
       "Cuélgate de una barra alta con agarre prono y los brazos completamente extendidos.",
@@ -870,7 +870,7 @@
     ]
   },
   "3533": {
-    "name": "Sentadilla a peso corporal (cuádriceps)",
+    "name": "Sentadilla búlgara a peso corporal (cuádriceps)",
     "description": "Sentadilla búlgara sin carga que activa principalmente los cuádriceps junto con glúteos e isquiotibiales. Con el pie trasero elevado en un banco, la pierna delantera hace la mayor parte del trabajo, desarrollando fuerza y equilibrio a una pierna.",
     "instructions": [
       "Ponte de pie a unos 60 cm delante de un banco, de espaldas a él, y apoya el empeine de un pie sobre el banco detrás de ti.",
@@ -1009,7 +1009,7 @@
     ]
   },
   "3562": {
-    "name": "Hip thrust con barra y dos piernas en banco",
+    "name": "Puente de glúteo con barra y pies en banco",
     "description": "Puente de glúteos con barra acostado en el suelo y con ambos pies apoyados en un banco, lo que aumenta el rango de extensión de cadera. La barra cargada genera una gran activación de glúteos e isquiotibiales.",
     "instructions": [
       "Acuéstate boca arriba en el suelo con ambos pies apoyados en un banco, al ancho de las caderas y las rodillas flexionadas.",
@@ -1072,7 +1072,7 @@
     ]
   },
   "3637": {
-    "name": "Rodada con rueda abdominal en plancha",
+    "name": "Ciclo de carrera en el sitio",
     "description": "Ejercicio de técnica de carrera en el sitio que eleva la frecuencia cardíaca y activa core, cuádriceps, isquiotibiales y pantorrillas. Las piernas hacen un ciclo como una rueda: rodilla arriba, pie hacia abajo y atrás.",
     "instructions": [
       "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados a 90 grados.",
@@ -1083,7 +1083,7 @@
     ]
   },
   "3638": {
-    "name": "Flexión a carrera",
+    "name": "Elevación de rodilla con patada frontal",
     "description": "Ejercicio cardiovascular de pie en el que subes la rodilla y la extiendes en una patada al frente, alternando piernas. Eleva la frecuencia cardíaca y trabaja equilibrio, flexores de cadera y coordinación.",
     "instructions": [
       "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados al frente.",
@@ -1107,7 +1107,7 @@
     ]
   },
   "3640": {
-    "name": "Crunch cruzado con toque de rodilla",
+    "name": "Crunch con toque de rodillas",
     "description": "Crunch en el que deslizas ambas manos por los muslos hasta tocar las rodillas al subir los hombros. Trabaja el recto abdominal con un recorrido corto y controlado.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",

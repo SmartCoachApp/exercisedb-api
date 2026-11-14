@@ -221,7 +221,7 @@
     ]
   },
   "0126": {
-    "name": "Curl de muñeca con barra sentado",
+    "name": "Curl de muñeca con barra arrodillado",
     "description": "Aislamiento clásico de los flexores del antebrazo. Al permitir que la barra ruede hasta los dedos antes de cerrarla, aumentas el rango de movimiento y la activación del músculo. Útil al final de un día de bíceps para reforzar agarre y grosor del antebrazo.",
     "instructions": [
       "Arrodíllate junto a un banco plano y apoya los antebrazos sobre él con las muñecas justo fuera del borde, sujetando una barra con agarre supino.",
@@ -277,7 +277,7 @@
     ]
   },
   "0137": {
-    "name": "Body-up (impulso a fondo desde el suelo)",
+    "name": "Body-up (plancha de antebrazos a manos)",
     "description": "Transición entre plancha sobre antebrazos y plancha alta: empujas desde el suelo hasta estirar los brazos y vuelves a bajar. Trabaja intensamente los tríceps y exige un core firme para que la cadera no se balancee.",
     "instructions": [
       "Empieza en plancha sobre los antebrazos en el suelo, con los codos bajo los hombros y el cuerpo en línea recta de la cabeza a los talones.",
@@ -299,7 +299,7 @@
     ]
   },
   "0139": {
-    "name": "Dominada supina cerrada para bíceps",
+    "name": "Remo invertido supino cerrado para bíceps",
     "description": "Remo invertido con agarre supino estrecho que dirige buena parte del trabajo a los bíceps. Acostado bajo una barra fija con los talones en el suelo, llevas el pecho a la barra; acerca los pies para facilitarlo o aléjalos para hacerlo más difícil. Codos pegados y cuerpo recto.",
     "instructions": [
       "Acuéstate bajo una barra a la altura de la cintura y sujétala con agarre supino estrecho, palmas hacia ti, con los talones en el suelo y el cuerpo recto.",
@@ -407,7 +407,7 @@
     ]
   },
   "0155": {
-    "name": "Apertura cruzada en polea (variante a media altura)",
+    "name": "Apertura cruzada en polea alta (variante)",
     "description": "Variante del crossover con las poleas altas donde las manos bajan y se juntan frente a la cadera. La tensión constante exprime al pectoral en la línea media. Mantén un leve bloqueo del codo y siente el cierre apretando el pecho 1-2 segundos abajo.",
     "instructions": [
       "Ajusta las poleas en la posición más alta.",
@@ -581,7 +581,7 @@
     ]
   },
   "0172": {
-    "name": "Pushdown inclinado para dorsales en polea",
+    "name": "Jalón al pecho en polea sentado en banco inclinado",
     "description": "Jalón con barra recta desde polea alta, sentado en un banco inclinado. El respaldo fija el torso y centra el trabajo en el dorsal, con bíceps y hombros como secundarios. Lleva la barra al pecho con los codos hacia abajo y junta las escápulas.",
     "instructions": [
       "Coloca una barra recta en una polea alta y ubica un banco inclinado frente a la máquina.",
@@ -732,7 +732,7 @@
     ]
   },
   "0186": {
-    "name": "Extensión de tríceps tumbado en polea con cuerda",
+    "name": "Extensión de tríceps tumbado en polea con barra",
     "description": "Press francés ejecutado en polea baja con barra recta, acostado en el suelo. Mantén los brazos altos quietos y guía solo con los codos para aislar el tríceps.",
     "instructions": [
       "Coloca una barra recta en una polea baja.",
@@ -916,7 +916,7 @@
     ]
   },
   "0202": {
-    "name": "Remo posterior unilateral con maneral en polea",
+    "name": "Remo posterior con estribos en polea",
     "description": "Remo para deltoides posterior sentado, con un maneral tipo estribo en cada mano llevado hacia el cuello. Los codos altos y abiertos atacan el rear delt con tensión continua. Retracción escapular firme en cada repetición.",
     "instructions": [
       "Coloca un maneral tipo estribo en cada cable y siéntate frente a la máquina con los pies firmes en el piso.",
@@ -942,7 +942,7 @@
     ]
   },
   "0204": {
-    "name": "Patada de tríceps a polea desde el frente",
+    "name": "Extensión cruzada de tríceps en polea",
     "description": "Extensión de tríceps a un brazo con el cable cruzando el pecho: el codo se extiende en horizontal y empuja el maneral hacia el costado. La tensión constante del cable reta al tríceps en todo el rango. Movimiento corto pero exigente; controla cada repetición.",
     "instructions": [
       "Coloca un maneral en una polea a la altura del hombro y párate de lado a la máquina.",
@@ -1136,7 +1136,7 @@
     ]
   },
   "0221": {
-    "name": "Crunch lateral en polea sobre balón Bosu",
+    "name": "Crunch sentado en polea sobre balón Bosu",
     "description": "Crunch sentado sobre el balón Bosu con resistencia de polea desde atrás. La inestabilidad del balón obliga al core entero a participar mientras el recto abdominal hace el trabajo principal. Variante avanzada; cuida la espalda baja.",
     "instructions": [
       "Siéntate en un balón Bosu de espaldas a la máquina con los pies firmes en el piso, sujetando el maneral detrás de la cabeza con ambas manos.",

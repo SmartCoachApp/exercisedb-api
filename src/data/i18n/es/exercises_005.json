@@ -139,7 +139,7 @@
     ]
   },
   "0472": {
-    "name": "Elevación de piernas colgado",
+    "name": "Elevación de rodillas colgado",
     "description": "Ejercicio de abdomen colgado de barra fija. Subir las rodillas flexionadas hasta que los muslos queden horizontales exige control del core y un agarre firme, trabajando con énfasis el recto abdominal inferior y los flexores de cadera.",
     "instructions": [
       "Cuélgate de una barra de dominadas con los brazos extendidos y las palmas hacia adelante.",
@@ -161,7 +161,7 @@
     ]
   },
   "0474": {
-    "name": "Elevación de cadera con piernas rectas colgado",
+    "name": "Elevación de cadera con rodillas al pecho colgado",
     "description": "Progresión de la elevación colgada que termina con un enrollamiento de la pelvis. Al llevar las rodillas flexionadas al pecho, la cadera se eleva hacia la barra para aislar más el abdomen bajo.",
     "instructions": [
       "Cuélgate de una barra de dominadas con los brazos extendidos y las palmas hacia adelante.",
@@ -249,7 +249,7 @@
     ]
   },
   "0492": {
-    "name": "Flexión de pecho inclinada con salto pliométrico",
+    "name": "Flexión declinada con salto pliométrico entre escalones",
     "description": "Flexión pliométrica con los pies elevados en un banco y las manos cayendo desde dos steps al suelo. Absorber la caída y empujar con explosividad de vuelta a los steps entrena potencia en pectoral, tríceps y hombros.",
     "instructions": [
       "Coloca dos steps bajos separados al ancho de los hombros frente a un banco.",
@@ -358,7 +358,7 @@
     ]
   },
   "0501": {
-    "name": "Burpee con jumping jack",
+    "name": "Burpee con salto y brazos arriba",
     "description": "Burpee sin flexión que combina sentadilla, salto atrás a plancha y salto vertical. La carga cardiovascular se eleva al encadenar estos movimientos en una sola repetición continua.",
     "instructions": [
       "Comienza de pie con los pies al ancho de los hombros.",
@@ -1134,7 +1134,7 @@
     ]
   },
   "0589": {
-    "name": "Remo inclinado a un brazo en máquina de palanca",
+    "name": "Remo inclinado a un brazo con barra en landmine",
     "description": "Remo inclinado a un brazo con una barra anclada al suelo por un extremo (landmine). Trabajar un lado a la vez ayuda a corregir desbalances entre dorsales y permite enfocar más rango y tensión en cada repetición.",
     "instructions": [
       "Ancla un extremo de la barra en el suelo, carga el extremo libre y párate a un lado con los pies al ancho de los hombros y las rodillas un poco flexionadas.",

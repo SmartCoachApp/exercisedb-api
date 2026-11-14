@@ -805,7 +805,7 @@
     "bodyPart": "chest",
     "equipment": "barbell",
     "id": "0040",
-    "name": "barbell front raise and pullover",
+    "name": "barbell lying pullover",
     "target": "pectorals",
     "secondaryMuscles": ["deltoids", "triceps"],
     "instructions": [
@@ -1103,7 +1103,7 @@
     "bodyPart": "upper legs",
     "equipment": "barbell",
     "id": "0053",
-    "name": "barbell jump squat",
+    "name": "barbell jumping lunge",
     "target": "glutes",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves"],
     "instructions": [
@@ -1429,7 +1429,7 @@
     "bodyPart": "upper legs",
     "equipment": "barbell",
     "id": "0068",
-    "name": "barbell one leg squat",
+    "name": "barbell bulgarian split squat",
     "target": "quads",
     "secondaryMuscles": ["glutes", "hamstrings", "calves"],
     "instructions": [
@@ -2885,7 +2885,7 @@
     "bodyPart": "upper arms",
     "equipment": "body weight",
     "id": "0139",
-    "name": "biceps narrow pull-ups",
+    "name": "biceps narrow inverted row",
     "target": "biceps",
     "secondaryMuscles": ["forearms", "shoulders"],
     "instructions": [
@@ -3420,7 +3420,7 @@
     "bodyPart": "back",
     "equipment": "cable",
     "id": "0172",
-    "name": "cable incline pushdown",
+    "name": "cable incline bench pulldown",
     "target": "lats",
     "secondaryMuscles": ["triceps", "shoulders"],
     "instructions": [
@@ -4470,7 +4470,7 @@
     "bodyPart": "waist",
     "equipment": "cable",
     "id": "0221",
-    "name": "cable side bend crunch (bosu ball)",
+    "name": "cable seated crunch (bosu ball)",
     "target": "abs",
     "secondaryMuscles": ["obliques"],
     "instructions": [
@@ -4728,7 +4728,7 @@
     "bodyPart": "upper arms",
     "equipment": "cable",
     "id": "0232",
-    "name": "cable standing pulldown (with rope)",
+    "name": "cable high curl (with rope)",
     "target": "biceps",
     "secondaryMuscles": ["forearms", "shoulders"],
     "instructions": [
@@ -6208,7 +6208,7 @@
     "bodyPart": "chest",
     "equipment": "dumbbell",
     "id": "0316",
-    "name": "dumbbell incline breeding",
+    "name": "dumbbell incline fly v. 2",
     "target": "pectorals",
     "secondaryMuscles": ["shoulders", "triceps"],
     "instructions": [
@@ -7016,7 +7016,7 @@
     "bodyPart": "upper arms",
     "equipment": "dumbbell",
     "id": "0352",
-    "name": "dumbbell neutral grip bench press",
+    "name": "dumbbell neutral grip lying triceps extension",
     "target": "triceps",
     "secondaryMuscles": ["chest", "shoulders"],
     "instructions": [
@@ -7418,7 +7418,7 @@
     "bodyPart": "upper legs",
     "equipment": "dumbbell",
     "id": "0371",
-    "name": "dumbbell plyo squat",
+    "name": "dumbbell sumo squat",
     "target": "glutes",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves"],
     "instructions": [
@@ -9457,7 +9457,7 @@
     "bodyPart": "waist",
     "equipment": "body weight",
     "id": "0474",
-    "name": "hanging straight leg hip raise",
+    "name": "hanging knee tuck hip raise",
     "target": "abs",
     "secondaryMuscles": ["hip flexors"],
     "instructions": [
@@ -9633,7 +9633,7 @@
     "bodyPart": "chest",
     "equipment": "body weight",
     "id": "0492",
-    "name": "incline push up depth jump",
+    "name": "decline push up depth jump",
     "target": "pectorals",
     "secondaryMuscles": ["triceps", "shoulders", "core"],
     "instructions": [
@@ -9841,7 +9841,7 @@
     "bodyPart": "cardio",
     "equipment": "body weight",
     "id": "0501",
-    "name": "jack burpee",
+    "name": "burpee with overhead jump",
     "target": "cardiovascular system",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves", "shoulders", "triceps", "core"],
     "instructions": [
@@ -12708,7 +12708,7 @@
     "bodyPart": "upper arms",
     "equipment": "body weight",
     "id": "0672",
-    "name": "reverse dip",
+    "name": "prone press-up",
     "target": "triceps",
     "secondaryMuscles": ["chest", "shoulders"],
     "instructions": [
@@ -12978,7 +12978,7 @@
     "bodyPart": "back",
     "equipment": "body weight",
     "id": "0690",
-    "name": "seated lower back stretch",
+    "name": "seated overhead lat stretch",
     "target": "lats",
     "secondaryMuscles": ["glutes", "hamstrings"],
     "instructions": [
@@ -14703,7 +14703,7 @@
     "bodyPart": "upper arms",
     "equipment": "body weight",
     "id": "0817",
-    "name": "triceps stretch",
+    "name": "cross-body shoulder stretch",
     "target": "triceps",
     "secondaryMuscles": ["shoulders"],
     "instructions": [
@@ -15927,7 +15927,7 @@
     "bodyPart": "upper arms",
     "equipment": "band",
     "id": "0986",
-    "name": "band one arm overhead biceps curl",
+    "name": "band one arm high biceps curl",
     "target": "biceps",
     "secondaryMuscles": ["forearms", "shoulders"],
     "instructions": [
@@ -19999,7 +19999,7 @@
     "bodyPart": "lower legs",
     "equipment": "smith machine",
     "id": "1396",
-    "name": "smith toe raise",
+    "name": "smith seated calf raise",
     "target": "calves",
     "secondaryMuscles": ["ankles", "shins"],
     "instructions": [
@@ -20474,7 +20474,7 @@
     "bodyPart": "upper legs",
     "equipment": "barbell",
     "id": "1420",
-    "name": "kneeling jump squat",
+    "name": "barbell kneeling to squat",
     "target": "glutes",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves"],
     "instructions": [
@@ -21355,7 +21355,7 @@
     "bodyPart": "upper legs",
     "equipment": "body weight",
     "id": "1476",
-    "name": "one leg squat",
+    "name": "bodyweight bulgarian split squat",
     "target": "glutes",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves"],
     "instructions": [
@@ -27635,12 +27635,12 @@
     "contraindicatedFor": []
   },
   {
-    "bodyPart": "waist",
+    "bodyPart": "upper legs",
     "equipment": "body weight",
     "id": "3119",
     "name": "potty squat",
-    "target": "abs",
-    "secondaryMuscles": ["quadriceps", "glutes"],
+    "target": "quads",
+    "secondaryMuscles": ["glutes", "hamstrings"],
     "instructions": [
       "Stand with your feet shoulder-width apart, toes pointing slightly outward.",
       "Lower your body down by bending your knees and pushing your hips back as if you were sitting on a chair.",
@@ -27649,7 +27649,7 @@
       "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
       "Repeat for the desired number of repetitions."
     ],
-    "description": "The potty squat is a bodyweight exercise that targets the abs while also engaging the quadriceps and glutes. It involves squatting down as if sitting on a chair, maintaining a straight back and upright chest, and then returning to a standing position.",
+    "description": "The bodyweight squat (air squat) targets the quadriceps while also engaging the glutes and hamstrings. Standing with the arms reaching forward, squat down as if sitting on a chair, keeping the back straight and the chest up, then return to standing.",
     "difficulty": "beginner",
     "category": "strength",
     "measurementType": "reps",
@@ -28445,7 +28445,7 @@
     "bodyPart": "cardio",
     "equipment": "body weight",
     "id": "3221",
-    "name": "half knee bends (male)",
+    "name": "high knees (male)",
     "target": "cardiovascular system",
     "secondaryMuscles": ["quadriceps", "hamstrings", "glutes"],
     "instructions": [
@@ -28511,7 +28511,7 @@
     "bodyPart": "cardio",
     "equipment": "body weight",
     "id": "3224",
-    "name": "jack jump (male)",
+    "name": "pike jump (male)",
     "target": "cardiovascular system",
     "secondaryMuscles": ["quadriceps", "calves"],
     "instructions": [
@@ -29282,7 +29282,7 @@
     "bodyPart": "chest",
     "equipment": "weighted",
     "id": "3313",
-    "name": "weighted straight bar dip",
+    "name": "weighted parallel bar dip",
     "target": "pectorals",
     "secondaryMuscles": ["triceps", "shoulders"],
     "instructions": [
@@ -29593,7 +29593,7 @@
     "bodyPart": "upper legs",
     "equipment": "body weight",
     "id": "3533",
-    "name": "quads (bodyweight squat)",
+    "name": "quads (bulgarian split squat)",
     "target": "quads",
     "secondaryMuscles": ["hamstrings", "glutes"],
     "instructions": [
@@ -30014,7 +30014,7 @@
     "bodyPart": "cardio",
     "equipment": "body weight",
     "id": "3638",
-    "name": "push to run",
+    "name": "knee drive to kick",
     "target": "cardiovascular system",
     "secondaryMuscles": ["quadriceps", "hamstrings", "calves"],
     "instructions": [
@@ -30458,7 +30458,7 @@
     "bodyPart": "cardio",
     "equipment": "body weight",
     "id": "3672",
-    "name": "back and forth step",
+    "name": "side to side lunge shuffle",
     "target": "cardiovascular system",
     "secondaryMuscles": ["quadriceps", "hamstrings", "glutes", "calves"],
     "instructions": [

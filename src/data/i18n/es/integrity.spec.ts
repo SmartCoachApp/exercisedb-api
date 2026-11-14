@@ -255,3 +255,147 @@ describe('Spanish names without untranslated or literal English terms', () => {
     expect(dup).toEqual([])
   })
 })
+
+/**
+ * GIF audit 2026-11-14: names that contradicted their GIF (a pulldown called
+ * «pushdown», a triceps extension called «bench press», «de pie» on lying
+ * exercises…) were corrected in EN and/or ES. Old names that still describe
+ * the exercise stay as aliases; misleading ones were dropped on purpose.
+ */
+describe('names corrected against the GIF', () => {
+  const normalize = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().trim()
+  const RENAMED_FROM_GIF = [
+    '0001',
+    '0002',
+    '0026',
+    '0040',
+    '0050',
+    '0053',
+    '0059',
+    '0068',
+    '0082',
+    '0097',
+    '0126',
+    '0137',
+    '0139',
+    '0155',
+    '0172',
+    '0186',
+    '0202',
+    '0204',
+    '0221',
+    '0232',
+    '0316',
+    '0325',
+    '0328',
+    '0347',
+    '0352',
+    '0371',
+    '0399',
+    '0402',
+    '0472',
+    '0474',
+    '0492',
+    '0501',
+    '0589',
+    '0672',
+    '0684',
+    '0690',
+    '0696',
+    '0710',
+    '0755',
+    '0766',
+    '0769',
+    '0814',
+    '0817',
+    '0834',
+    '0844',
+    '0853',
+    '0858',
+    '0986',
+    '1332',
+    '1339',
+    '1353',
+    '1355',
+    '1374',
+    '1396',
+    '1398',
+    '1418',
+    '1420',
+    '1476',
+    '1495',
+    '1511',
+    '1621',
+    '1649',
+    '1655',
+    '1660',
+    '1689',
+    '1735',
+    '2142',
+    '2203',
+    '2204',
+    '2205',
+    '2206',
+    '2209',
+    '2328',
+    '2368',
+    '2414',
+    '2464',
+    '2705',
+    '2706',
+    '2801',
+    '2802',
+    '2803',
+    '2810',
+    '3007',
+    '3012',
+    '3019',
+    '3119',
+    '3162',
+    '3221',
+    '3224',
+    '3287',
+    '3291',
+    '3292',
+    '3313',
+    '3315',
+    '3318',
+    '3533',
+    '3562',
+    '3637',
+    '3638',
+    '3640',
+    '3665',
+    '3671',
+    '3672'
+  ]
+
+  it('keep a unique Spanish name', () => {
+    const counts = new Map<string, number>()
+    for (const t of Object.values(merged)) counts.set(normalize(t.name), (counts.get(normalize(t.name)) ?? 0) + 1)
+    const dup = RENAMED_FROM_GIF.filter((id) => (counts.get(normalize(merged[id].name)) ?? 0) > 1).map(
+      (id) => `${id}: ${merged[id].name}`
+    )
+    expect(dup).toEqual([])
+  })
+
+  it('keep a unique English name', () => {
+    const counts = new Map<string, number>()
+    for (const e of exercises as { name: string }[])
+      counts.set(normalize(e.name), (counts.get(normalize(e.name)) ?? 0) + 1)
+    const byId = new Map((exercises as { id: string; name: string }[]).map((e) => [e.id, e.name]))
+    const dup = RENAMED_FROM_GIF.filter((id) => (counts.get(normalize(byId.get(id)!)) ?? 0) > 1)
+    expect(dup).toEqual([])
+  })
+
+  it.each([
+    ['0172', /pushdown/i, /pulldown/i],
+    ['0352', /bench press/i, /triceps extension/i],
+    ['0371', /plyo/i, /sumo squat/i],
+    ['3224', /jack/i, /pike jump/i]
+  ])('%s English name no longer says %s', (id, wrong, right) => {
+    const name = (exercises as { id: string; name: string }[]).find((e) => e.id === id)!.name
+    expect(name).not.toMatch(wrong)
+    expect(name).toMatch(right)
+  })
+})
