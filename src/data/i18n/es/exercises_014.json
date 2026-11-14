@@ -52,9 +52,9 @@
     "name": "Plancha invertida con elevación de pierna",
     "description": "En la plancha invertida la cadera se sostiene en alto con los brazos detrás del cuerpo. Al añadir la elevación alterna de piernas, los abdominales luchan por mantener la línea del cuerpo mientras glúteos, isquiotibiales y hombros estabilizan la postura.",
     "instructions": [
-      "Siéntate en el suelo con las piernas extendidas al frente y las manos apoyadas detrás, con los dedos apuntando hacia los pies.",
-      "Empuja con las manos y eleva la cadera del suelo hasta llegar a una plancha invertida.",
-      "Activa el core y levanta una pierna hacia el techo manteniéndola recta.",
+      "Siéntate en el suelo con las rodillas flexionadas, los pies apoyados y las manos detrás, con los dedos apuntando hacia los pies.",
+      "Empuja con manos y pies y eleva la cadera hasta que el tronco y los muslos formen una mesa plana.",
+      "Activa el core y extiende una pierna recta, elevándola a la altura de la cadera.",
       "Mantén un instante arriba y baja la pierna con control.",
       "Repite con la otra pierna.",
       "Continúa alternando piernas durante el número de repeticiones deseado."
@@ -65,8 +65,8 @@
     "description": "Combina la plancha lateral con una apertura inversa unilateral. La estabilización del costado y de la cadera recae en el core mientras el deltoides posterior y la espalda alta mueven la mancuerna hacia el techo, retrayendo la escápula.",
     "instructions": [
       "Comienza acostado de lado con las piernas extendidas y una sobre la otra.",
-      "Apoya el antebrazo en el suelo justo debajo del hombro, con el codo flexionado en 90 grados.",
-      "Sujeta una mancuerna con la mano de arriba y deja el brazo extendido hacia el suelo.",
+      "Apoya la mano en el suelo justo debajo del hombro con el brazo recto.",
+      "Sujeta una mancuerna con la mano de arriba y deja el brazo extendido hacia abajo, debajo del torso.",
       "Activa el core y eleva la cadera del suelo formando una línea recta desde la cabeza hasta los talones.",
       "Sin perder la plancha lateral, lleva la mancuerna hacia el techo juntando las escápulas.",
       "Baja la mancuerna con control hasta la posición inicial.",
@@ -75,14 +75,14 @@
   },
   "3665": {
     "name": "Plancha con transición a antebrazos",
-    "description": "Transiciona de plancha alta a plancha en antebrazos y vuelta, un brazo a la vez. La rotación constante alrededor del eje exige un core fuerte y hombros estables para evitar que la cadera oscile.",
+    "description": "Plancha alta dinámica en la que elevas a la vez el brazo y la pierna opuestos, alternando lados. Exige un core fuerte y hombros estables para evitar que la cadera rote.",
     "instructions": [
       "Comienza en plancha alta con las manos justo debajo de los hombros y el cuerpo en línea recta de la cabeza a los pies.",
       "Activa el core y aprieta los glúteos para mantener una posición estable.",
-      "Baja a apoyarte sobre los antebrazos, un brazo a la vez, conservando la línea recta del cuerpo.",
-      "Mantén la posición durante el tiempo deseado, con el core y los glúteos contraídos.",
-      "Para volver a la posición inicial, empuja con los antebrazos y sube de nuevo a plancha alta.",
-      "Repite el número de repeticiones deseado."
+      "Eleva el brazo derecho recto al frente y la pierna izquierda recta hacia atrás al mismo tiempo, manteniendo la cadera nivelada.",
+      "Mantén un momento y baja a la posición inicial.",
+      "Repite con el brazo izquierdo y la pierna derecha.",
+      "Continúa alternando lados el número de repeticiones deseado."
     ]
   },
   "3666": {
@@ -99,11 +99,11 @@
   },
   "3667": {
     "name": "Aducción de cadera tumbado de lado (hombre)",
-    "description": "Ejercicio de aislamiento para los aductores. Tumbado de lado, elevas la pierna superior controlando la pelvis y la columna. Útil como trabajo accesorio para movilidad de cadera y estabilidad lumbar.",
+    "description": "Ejercicio de aislamiento para los aductores. Tumbado de lado, con la pierna de arriba cruzada al frente, elevas la pierna de abajo controlando la pelvis. Útil como trabajo accesorio para movilidad de cadera y estabilidad lumbar.",
     "instructions": [
-      "Acuéstate de lado con las piernas rectas y una sobre la otra.",
-      "Coloca el brazo de abajo bajo la cabeza para apoyarte.",
-      "Activa los aductores y eleva la pierna de arriba lo más alto posible sin rotar la cadera ni inclinarte hacia atrás.",
+      "Acuéstate de lado con la pierna de abajo recta.",
+      "Apóyate sobre el antebrazo de abajo, flexiona la pierna de arriba y apoya su pie en el suelo delante de la rodilla de abajo.",
+      "Activa los aductores y eleva la pierna de abajo lo más alto posible sin rotar la cadera.",
       "Haz una pausa arriba y baja la pierna con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de lado."
     ]
@@ -123,10 +123,10 @@
   },
   "3670": {
     "name": "Abdominal en banco declinado con peso",
-    "description": "Versión más exigente del abdominal tradicional. La inclinación negativa amplía el rango y aumenta la tensión sobre el recto abdominal, mientras un disco o mancuerna sobre el pecho añade resistencia. Cuida la zona lumbar y el cuello para evitar compensaciones.",
+    "description": "Versión más exigente del abdominal tradicional. La inclinación negativa amplía el rango y aumenta la tensión sobre el recto abdominal, mientras un disco sostenido con los brazos extendidos hacia arriba añade resistencia. Cuida la zona lumbar y el cuello para evitar compensaciones.",
     "instructions": [
       "Acuéstate boca arriba en un banco declinado con los pies sujetos bajo los soportes.",
-      "Coloca las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Sujeta un disco con ambas manos y extiende los brazos rectos hacia el techo, manteniéndolos así durante todo el movimiento.",
       "Activa los abdominales y eleva el tronco lentamente del banco hasta quedar perpendicular al suelo.",
       "Haz una pausa arriba y baja el tronco con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -134,25 +134,25 @@
   },
   "3671": {
     "name": "Salto lateral estilo esquí",
-    "description": "Saltos laterales alternos que reproducen el patrón del esquí. Eleva el ritmo cardíaco y trabaja cuádriceps, isquiotibiales, glúteos y pantorrillas, además de mejorar la coordinación y la estabilidad de tobillos.",
+    "description": "Pasos alternos adelante y atrás que reproducen la zancada del esquí de fondo. Eleva el ritmo cardíaco y trabaja cuádriceps, isquiotibiales, glúteos y pantorrillas, además de mejorar la coordinación.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros.",
+      "Párate con los pies al ancho de las caderas y las manos en la cintura.",
       "Flexiona ligeramente las rodillas y mantén la espalda recta.",
-      "Salta hacia la derecha aterrizando sobre el pie derecho mientras llevas la pierna izquierda detrás de la derecha.",
-      "Salta de inmediato hacia la izquierda aterrizando sobre el pie izquierdo y pasando la pierna derecha detrás de la izquierda.",
-      "Continúa alternando saltos de lado a lado imitando la técnica del esquí.",
+      "Lleva el pie derecho al frente mientras el pie izquierdo va hacia atrás.",
+      "Cambia, llevando el pie izquierdo al frente y el derecho atrás.",
+      "Continúa alternando los pies a un ritmo constante y ligero, imitando la zancada del esquí.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3672": {
     "name": "Paso adelante y atrás alterno",
-    "description": "Patrón sencillo de paso al frente y regreso, alternando piernas. Activa el sistema cardiovascular y prepara las articulaciones del tren inferior con bajo impacto, ideal para calentar o sumar volumen aeróbico ligero.",
+    "description": "Desplazamiento lateral de un lado a otro, bajando a una zancada lateral profunda y tocando el suelo con la mano antes de cruzar al otro lado. Activa el sistema cardiovascular y el tren inferior, ideal para calentar o sumar volumen aeróbico.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros.",
-      "Da un paso al frente con el pie derecho, flexionando la rodilla y bajando el cuerpo a una zancada.",
-      "Empuja con el pie derecho y vuelve a la posición inicial.",
-      "Repite el movimiento con el pie izquierdo, alternando piernas con cada paso.",
-      "Continúa pisando hacia adelante y atrás manteniendo un ritmo constante.",
+      "Párate con los pies al ancho de los hombros en posición atlética.",
+      "Da un paso a la derecha y baja a una zancada lateral profunda, tocando el suelo con la mano derecha.",
+      "Empuja y desplázate de vuelta hacia la izquierda.",
+      "Baja a una zancada lateral profunda del lado izquierdo, tocando el suelo con la mano izquierda.",
+      "Continúa moviéndote de un lado a otro a un ritmo constante.",
       "Repite durante el tiempo o el número de repeticiones deseado."
     ]
   },
@@ -169,11 +169,11 @@
   },
   "3697": {
     "name": "Remo arrodillado para deltoides posterior con cuerda en polea (hombre)",
-    "description": "Variante de remo en polea baja con agarre en cuerda y posición de rodillas que aísla el deltoides posterior y la zona alta de la espalda. La altura baja del cable y la postura arrodillada limitan el impulso y obligan a remar usando solo escápulas y hombros.",
+    "description": "Variante de remo en polea alta con agarre en cuerda y posición de media rodilla que aísla el deltoides posterior y la zona alta de la espalda. La postura arrodillada limita el impulso y obliga a remar usando solo escápulas y hombros.",
     "instructions": [
-      "Coloca una cuerda en una polea baja y arrodíllate frente a la máquina.",
+      "Coloca una cuerda en una polea alta y apoya una rodilla en el suelo frente a la máquina.",
       "Sujeta la cuerda con agarre neutro (palmas enfrentadas) y extiende los brazos completamente al frente.",
-      "Con la espalda recta y el core activo, jala la cuerda hacia el cuerpo retrayendo las escápulas.",
+      "Con la espalda recta y el core activo, jala la cuerda hacia la cara con los codos altos, retrayendo las escápulas.",
       "Aprieta las escápulas al final del movimiento y mantén un instante.",
       "Libera la tensión con control y vuelve a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -205,7 +205,7 @@
     "name": "Press de pecho de pie en máquina de palanca",
     "description": "Press horizontal ejecutado de pie en máquina de palanca. La trayectoria guiada permite enfocarse en el pectoral con buena seguridad articular y suele usarse cuando hay limitaciones para acostarse en banco o como ejercicio accesorio de empuje.",
     "instructions": [
-      "Ajusta la altura del asiento y colócate en la máquina con los pies apoyados en el suelo.",
+      "Párate en la máquina con la espalda apoyada en el respaldo y los pies apoyados en la plataforma.",
       "Sujeta los agarres con agarre prono y posiciona las manos a la altura del pecho.",
       "Empuja los agarres al frente hasta extender los brazos, manteniendo los codos ligeramente flexionados.",
       "Haz una pausa y lleva los agarres de regreso al pecho con control durante todo el recorrido.",
@@ -217,10 +217,10 @@
     "description": "Versión guiada del buenos días en la que la máquina marca la trayectoria mientras tú haces la bisagra de cadera. Trabaja glúteos e isquiotibiales con menor exigencia técnica que la versión con barra y resulta útil para introducir el patrón de hip hinge cargado.",
     "instructions": [
       "Ajusta la altura del asiento de modo que la cadera quede ligeramente más alta que las rodillas.",
-      "Siéntate en la máquina con la espalda contra el respaldo y los pies apoyados en los soportes.",
-      "Sujeta los agarres o los costados del asiento para estabilizarte.",
-      "Manteniendo la espalda recta, inclínate al frente desde la cadera hasta que el tronco quede paralelo al suelo.",
-      "Haz una pausa y vuelve a la posición inicial empujando con glúteos e isquiotibiales.",
+      "Siéntate en la máquina con los pies apoyados en los soportes.",
+      "Inclínate al frente desde la cadera y sujeta el agarre que tienes delante.",
+      "Manteniendo la espalda recta, eleva el tronco contra la resistencia hasta quedar sentado erguido.",
+      "Haz una pausa y vuelve a inclinarte al frente desde la cadera con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -275,11 +275,11 @@
   },
   "5201": {
     "name": "Curl de bíceps tipo waiter con mancuernas",
-    "description": "Variante de curl en la que las palmas miran al frente desde el inicio y los codos quedan pegados al tronco. Esta posición fija al supinador y aísla con limpieza el bíceps braquial, con apoyo de los antebrazos en la fase final.",
+    "description": "Variante de curl con una sola mancuerna sostenida en vertical, con ambas palmas hacia arriba bajo el disco superior, como un mesero que sostiene una bandeja. Los codos pegados al tronco aíslan el bíceps braquial, con apoyo de los antebrazos.",
     "instructions": [
-      "Párate erguido con una mancuerna en cada mano y las palmas mirando al frente.",
+      "Párate erguido sosteniendo una mancuerna en vertical, con ambas palmas hacia arriba bajo el disco superior.",
       "Mantén los brazos pegados al tronco y los codos fijos.",
-      "Sube las mancuernas hacia los hombros con control, manteniendo las muñecas rectas.",
+      "Sube la mancuerna hacia el pecho con control, manteniendo las muñecas rectas.",
       "Haz una pausa arriba y baja las mancuernas con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]

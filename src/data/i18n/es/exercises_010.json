@@ -44,9 +44,9 @@
     "description": "El curl de dedos con mancuerna trabaja directamente los flexores de los dedos y los antebrazos. La mancuerna rueda hasta las puntas de los dedos antes de cerrarse, generando un rango amplio que mejora la fuerza de agarre y la masa muscular del antebrazo.",
     "instructions": [
       "Siéntate en un banco o silla con los pies apoyados en el suelo y la espalda recta.",
-      "Sujeta una mancuerna con una mano en agarre supino, apoyando el antebrazo sobre el muslo y la palma hacia arriba.",
-      "Deja que la mancuerna ruede hasta las yemas de los dedos y luego ciérrala flexionando los dedos.",
-      "Repite el número de repeticiones deseado y cambia de mano."
+      "Sujeta una mancuerna en cada mano en agarre supino, apoyando los antebrazos sobre los muslos y las palmas hacia arriba.",
+      "Deja que las mancuernas rueden hasta las yemas de los dedos y luego ciérralas flexionando los dedos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "1438": {
@@ -64,8 +64,8 @@
     "name": "Encogimiento sin agarre en máquina de palanca (variante)",
     "description": "Esta variante del encogimiento de hombros en máquina de palanca elimina la fuerza de agarre como factor limitante: los hombros sostienen la carga apoyada sobre soportes acolchados. Permite trabajar los trapecios al fallo sin que cedan los antebrazos.",
     "instructions": [
-      "Ajusta la altura del asiento y colócate en la máquina con la espalda apoyada en el respaldo.",
-      "Sujeta los agarres o las barras con agarre prono y los brazos estirados.",
+      "Párate en la máquina y coloca los hombros bajo las almohadillas, ajustando la altura para que las rodillas queden algo flexionadas.",
+      "Apoya las manos en los agarres para equilibrarte, sin apretar.",
       "Manteniendo la espalda recta, sube los hombros hacia las orejas lo más alto que puedas.",
       "Mantén la contracción un instante y baja los hombros despacio hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -75,7 +75,7 @@
     "name": "Curl invertido de muñeca a un brazo sobre banco con mancuerna",
     "description": "Apoyando el antebrazo en el banco con la palma hacia abajo, este curl invertido de muñeca aísla los extensores del antebrazo. El trabajo unilateral permite corregir asimetrías y mejorar la fuerza de los músculos que estabilizan la muñeca.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una mancuerna con una mano, palma hacia abajo.",
+      "Arrodíllate junto a un banco plano y sujeta una mancuerna con una mano, palma hacia abajo.",
       "Apoya el antebrazo en el banco con la muñeca colgando del borde.",
       "Eleva la muñeca despacio hacia arriba, llevando la mancuerna hacia el antebrazo.",
       "Pausa un instante en lo alto y baja la mancuerna despacio hasta la posición inicial.",
@@ -98,10 +98,10 @@
     "description": "El crunch sentado en máquina de palanca permite cargar el trabajo abdominal con resistencia progresiva. La posición fija aísla la flexión del tronco y evita compensaciones con flexores de cadera, lo que enfoca el esfuerzo en el recto del abdomen.",
     "instructions": [
       "Siéntate en la máquina de palanca con la espalda apoyada en el respaldo y los pies en el suelo.",
-      "Sujeta los agarres o coloca las manos en las almohadillas laterales para apoyo.",
-      "Activa los abdominales y reclínate despacio dejando que la almohadilla se mueva contigo.",
-      "Cuando el torso quede en un ángulo de 45 grados, contrae los abdominales y crunchea hacia adelante llevando el pecho hacia las rodillas.",
-      "Pausa un instante en lo alto y regresa despacio a la posición inicial.",
+      "Sujeta los agarres a los lados de la cabeza.",
+      "Siéntate erguido y activa los abdominales.",
+      "Contrae los abdominales y crunchea hacia adelante contra la resistencia, llevando el pecho hacia las rodillas.",
+      "Pausa un instante abajo y regresa despacio a la posición inicial erguida.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -128,11 +128,11 @@
   },
   "1458": {
     "name": "Curl sentado con barra EZ",
-    "description": "El curl sentado con barra EZ apoya los brazos sobre los muslos para eliminar el balanceo y aislar el bíceps. La curva de la barra EZ reduce la tensión en muñecas y antebrazos, permitiendo concentrar el esfuerzo en la flexión de codo.",
+    "description": "El curl sentado con barra EZ reduce el balanceo del cuerpo para aislar el bíceps. La curva de la barra EZ reduce la tensión en muñecas y antebrazos, permitiendo concentrar el esfuerzo en la flexión de codo.",
     "instructions": [
       "Siéntate en un banco con los pies apoyados en el suelo y la espalda recta.",
       "Sujeta la barra EZ con agarre supino, palmas hacia arriba, y las manos a la anchura de los hombros.",
-      "Apoya los brazos sobre los muslos dejando que la barra EZ cuelgue al frente.",
+      "Mantén los brazos pegados a los costados, con la barra EZ apoyada sobre los muslos.",
       "Manteniendo los brazos quietos, exhala y eleva la barra EZ hacia los hombros.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
       "Inhala y baja la barra EZ despacio hasta la posición inicial.",
@@ -216,25 +216,25 @@
   },
   "1466": {
     "name": "Elevación de cadera con giro",
-    "description": "La elevación de cadera con giro combina puente de glúteos y rotación lumbar para trabajar glúteos y oblicuos en un mismo movimiento. La torsión en la posición elevada activa el core profundo y mejora la estabilidad pélvica.",
+    "description": "La elevación de cadera con giro combina puente de glúteos y rotación del torso para trabajar glúteos y oblicuos en un mismo movimiento. El giro en la posición elevada activa el core profundo y mejora la estabilidad pélvica.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
-      "Coloca las manos a los lados para apoyo.",
+      "Coloca las manos a los lados.",
       "Activa los glúteos y eleva la cadera del suelo formando una línea recta de rodillas a hombros.",
-      "Manteniendo la cadera arriba, gira la parte baja del cuerpo a la derecha llevando las rodillas hacia el suelo.",
-      "Vuelve a la posición inicial y repite el giro al lado izquierdo.",
+      "Manteniendo la cadera arriba y las rodillas firmes, lleva un brazo por encima del cuerpo y de la cabeza, girando el torso hacia ese lado.",
+      "Vuelve a la posición inicial y repite el giro hacia el otro lado.",
       "Continúa alternando giros para el número de repeticiones deseado."
     ]
   },
   "1467": {
     "name": "Flexión sobre antebrazos",
-    "description": "La flexión sobre antebrazos cambia el punto de apoyo de las manos a los antebrazos, intensificando el trabajo del core y reduciendo la palanca del codo. Es una variante exigente que activa fuerte el abdomen y los tríceps.",
+    "description": "La flexión sobre antebrazos alterna entre plancha alta sobre las manos y plancha sobre los antebrazos. Es una variante exigente que activa fuerte el core, los tríceps y los hombros.",
     "instructions": [
-      "Comienza en posición de plancha con los antebrazos apoyados en el suelo y los codos directamente bajo los hombros.",
-      "Activa el core y mantén el cuerpo en línea recta de la cabeza a los pies.",
-      "Baja el pecho hacia el suelo flexionando los codos, manteniéndolos cerca del cuerpo.",
-      "Pausa un instante abajo y empuja para volver a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Comienza en plancha alta con las manos bajo los hombros y el cuerpo en línea recta de la cabeza a los pies.",
+      "Activa el core y mantén la cadera nivelada.",
+      "Baja un antebrazo al suelo y luego el otro, hasta quedar en plancha sobre antebrazos.",
+      "Apoya una mano en el suelo y luego la otra, y empuja para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado, alternando el brazo que inicia."
     ]
   },
   "1468": {
@@ -284,14 +284,14 @@
   },
   "1476": {
     "name": "Sentadilla a una pierna (peso corporal)",
-    "description": "La sentadilla a una pierna es un movimiento unilateral exigente que trabaja cuádriceps, glúteos y estabilizadores de la cadera. Demanda gran control de equilibrio y revela diferencias de fuerza entre piernas.",
+    "description": "La sentadilla a una pierna con el pie trasero elevado es un movimiento unilateral exigente que trabaja cuádriceps, glúteos y estabilizadores de la cadera. Demanda control de equilibrio y revela diferencias de fuerza entre piernas.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros.",
-      "Estira una pierna al frente, manteniéndola elevada.",
-      "Flexiona la pierna de apoyo y baja el cuerpo como si te sentaras en una silla.",
+      "Párate a un paso largo delante de un cajón o banco, de espaldas a él, con las manos en la cadera.",
+      "Apoya el empeine de un pie sobre el cajón detrás de ti.",
+      "Flexiona la pierna delantera y baja el cuerpo hasta que el muslo delantero quede más o menos paralelo al suelo.",
       "Mantén el pecho arriba y la espalda recta.",
-      "Empuja desde el talón para volver a la posición inicial.",
-      "Repite con la otra pierna."
+      "Empuja desde el talón delantero para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   },
   "1479": {
@@ -311,10 +311,10 @@
     "description": "El sissy squat aísla los cuádriceps en su máxima expresión: la cadera se mantiene extendida mientras las rodillas se desplazan al frente y el torso se inclina hacia atrás. Es un movimiento clásico para aumentar el desarrollo del cuádriceps anterior.",
     "instructions": [
       "Párate con los pies a la anchura de los hombros y las puntas ligeramente hacia afuera.",
-      "Sujétate de un objeto estable para equilibrarte si lo necesitas.",
-      "Baja el cuerpo despacio flexionando las rodillas y reclinándote hacia atrás, manteniendo el torso erguido.",
+      "Sujétate de un objeto estable, como el respaldo de un banco, para equilibrarte.",
+      "Sube despacio sobre las puntas de los pies y lleva las rodillas al frente mientras te reclinas, manteniendo el torso en línea con los muslos.",
       "Continúa bajando hasta que los muslos queden paralelos al suelo o tan abajo como puedas con comodidad.",
-      "Pausa un instante y empuja desde los talones para volver a la posición inicial.",
+      "Pausa un instante y empuja con la parte delantera de los pies para volver a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -337,17 +337,17 @@
       "Flexiona las rodillas y une las plantas de los pies, dejando que las rodillas caigan a los lados.",
       "Sujeta los tobillos o los pies con las manos.",
       "Siéntate erguido y alarga la columna.",
-      "Presiona suavemente las rodillas hacia el suelo, sintiendo el estiramiento en la cara interna del muslo.",
+      "Inclínate al frente desde la cadera llevando el pecho hacia los pies, sintiendo el estiramiento en la cara interna del muslo.",
       "Mantén la posición durante varias respiraciones.",
-      "Para salir, sube las rodillas despacio y estira las piernas."
+      "Para salir, vuelve despacio a la posición erguida, sube las rodillas y estira las piernas."
     ]
   },
   "1495": {
     "name": "Crunch oblicuo en suelo",
     "description": "Este crunch oblicuo añade rotación del torso al levantar los hombros del suelo, dirigiendo el trabajo hacia los oblicuos. Alternar lados activa de manera equilibrada las dos cadenas oblicuas y refuerza la cintura.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
-      "Coloca las manos detrás de la cabeza o cruzadas sobre el pecho.",
+      "Acuéstate boca arriba con las pantorrillas apoyadas sobre un banco plano y las rodillas flexionadas a unos 90 grados.",
+      "Coloca las manos detrás de la cabeza.",
       "Activa el abdomen y eleva los omóplatos del suelo girando el torso hacia un lado.",
       "Pausa un instante y baja los omóplatos despacio hasta la posición inicial.",
       "Repite hacia el otro lado.",
@@ -358,31 +358,31 @@
     "name": "Golpe con martillo (sledgehammer)",
     "description": "El golpe con martillo es un ejercicio funcional que entrena potencia rotacional del core, fuerza de antebrazos y resistencia muscular. La transferencia de fuerza desde la cadera hasta el martillo replica patrones atléticos explosivos.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros y sujeta el martillo con ambas manos.",
+      "Párate frente a un neumático grande con los pies a la anchura de los hombros y sujeta el martillo con ambas manos.",
       "Activa el core y mantén la espalda recta.",
-      "Lanza el martillo hacia abajo con fuerza usando el core y la parte alta del cuerpo.",
-      "Mientras bajas el martillo, gira la cadera y transfiere la fuerza al impacto.",
-      "Repite el número de repeticiones deseado."
+      "Lleva el martillo hacia arriba por encima de la cabeza, deslizando la mano superior hacia la cabeza del martillo.",
+      "Baja el martillo con fuerza sobre el neumático, girando la cadera y transfiriendo la fuerza al impacto.",
+      "Repite el número de repeticiones deseado, alternando lados si quieres."
     ]
   },
   "1511": {
     "name": "Estiramiento de isquiotibiales de pie",
-    "description": "Este estiramiento alarga los isquiotibiales de la pierna adelantada al inclinar el torso hacia el pie. Es una rutina simple y eficaz para liberar tensión en la cara posterior del muslo después del entrenamiento.",
+    "description": "Este estiramiento alarga los isquiotibiales boca arriba, elevando una pierna recta y llevándola hacia el torso con las manos. Es una rutina simple y eficaz para liberar tensión en la cara posterior del muslo después del entrenamiento.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros.",
-      "Da un paso al frente con el pie derecho y traslada el peso a la pierna derecha.",
-      "Manteniendo la espalda recta, inclínate al frente desde la cadera llevando ambas manos hacia el pie derecho.",
+      "Recuéstate boca arriba con ambas piernas extendidas en el suelo.",
+      "Eleva la pierna derecha recta hacia el techo, manteniendo la izquierda apoyada en el suelo.",
+      "Sujeta la parte posterior del muslo o la pantorrilla derecha con ambas manos y lleva la pierna suavemente hacia ti, manteniéndola recta.",
       "Mantén el estiramiento de 20 a 30 segundos y vuelve a la posición inicial.",
       "Repite del otro lado."
     ]
   },
   "1512": {
     "name": "Estiramiento de cuádriceps en cuatro apoyos",
-    "description": "En posición de cuatro apoyos, este estiramiento extiende una pierna hacia atrás con la rodilla flexionada para abrir el cuádriceps y los flexores de cadera. Es útil después de sesiones intensas de pierna.",
+    "description": "En posición de cuatro apoyos, este estiramiento lleva una mano atrás para sujetar el pie y acercar el talón al glúteo, abriendo el cuádriceps y los flexores de cadera. Es útil después de sesiones intensas de pierna.",
     "instructions": [
       "Comienza en cuatro apoyos con las manos directamente bajo los hombros y las rodillas bajo la cadera.",
-      "Estira una pierna hacia atrás manteniendo la rodilla flexionada y el pie en flex.",
-      "Baja la cadera despacio hacia el suelo, sintiendo el estiramiento en el cuádriceps.",
+      "Levanta un pie del suelo con la rodilla flexionada y lleva una mano atrás para sujetarlo.",
+      "Tira suavemente del talón hacia el glúteo, sintiendo el estiramiento en el cuádriceps.",
       "Mantén la posición de 20 a 30 segundos.",
       "Cambia de pierna y repite el estiramiento."
     ]
@@ -402,47 +402,47 @@
   },
   "1548": {
     "name": "Estiramiento de cuádriceps con pierna extendida en silla",
-    "description": "Sentado en el borde de una silla con una pierna extendida al frente, este estiramiento alarga el cuádriceps inclinándose hacia adelante. Es ideal para descansos de oficina o calentamiento ligero.",
+    "description": "Sentado en el borde de una silla o banco, se eleva una pierna recta al frente manteniendo el torso erguido para trabajar el cuádriceps. Es ideal para descansos de oficina o calentamiento ligero.",
     "instructions": [
-      "Siéntate en el borde de una silla con la espalda recta y los pies apoyados en el suelo.",
-      "Estira una pierna al frente manteniendo el talón apoyado en el suelo.",
-      "Inclínate al frente ligeramente, sintiendo un estiramiento en el cuádriceps.",
-      "Mantén la posición de 20 a 30 segundos.",
-      "Cambia de pierna y repite el estiramiento."
+      "Siéntate en el borde de una silla o banco con la espalda recta y los pies apoyados en el suelo.",
+      "Estira una pierna y elévala hasta que quede paralela al suelo, manteniendo el torso erguido.",
+      "Mantén la posición, sintiendo el trabajo del cuádriceps.",
+      "Sostén de 20 a 30 segundos o baja y repite las repeticiones deseadas.",
+      "Cambia de pierna y repite."
     ]
   },
   "1559": {
     "name": "Estiramiento de flexores de cadera con balón de estabilidad",
-    "description": "Apoyando un pie sobre el balón de estabilidad y la rodilla contraria en el suelo, este estiramiento abre los flexores de cadera de la pierna trasera. La inestabilidad del balón añade un componente de control activo.",
+    "description": "Sentado a horcajadas sobre el balón de estabilidad en posición de zancada, este estiramiento abre los flexores de cadera de la pierna trasera. El balón sostiene la cadera y añade un componente de control activo.",
     "instructions": [
-      "Coloca el balón de estabilidad en el suelo y arrodíllate frente a él.",
-      "Apoya el pie derecho sobre el balón con la rodilla flexionada a 90 grados.",
-      "Estira la pierna izquierda hacia atrás manteniéndola recta.",
-      "Inclínate al frente empujando la cadera hacia el balón hasta sentir un estiramiento en el flexor derecho.",
+      "Siéntate sobre el balón de estabilidad y adelanta el pie derecho con la rodilla flexionada a unos 90 grados.",
+      "Estira la pierna izquierda hacia atrás con la punta del pie en el suelo, dejando que el balón sostenga la cadera.",
+      "Mantén el torso erguido y las manos sobre la rodilla delantera o el balón para equilibrarte.",
+      "Empuja la cadera hacia adelante y abajo hasta sentir un estiramiento en la parte frontal de la cadera izquierda.",
       "Mantén el estiramiento de 20 a 30 segundos y cambia de lado."
     ]
   },
   "1560": {
     "name": "Estiramiento de isquiotibiales sentado en balón de estabilidad",
-    "description": "Este estiramiento se realiza con la espalda apoyada sobre el balón y las piernas estiradas al frente. La superficie inestable obliga a estabilizar el core mientras se alargan los isquiotibiales.",
+    "description": "Este estiramiento se realiza sentado sobre el balón con una pierna extendida al frente, inclinando el torso sobre ella. La superficie inestable obliga a estabilizar el core mientras se alargan los isquiotibiales.",
     "instructions": [
       "Siéntate en el balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
-      "Rueda el balón al frente caminando con los pies hasta apoyar la espalda alta sobre el balón y dejar las piernas extendidas al frente.",
-      "Coloca las manos en la cadera para apoyo.",
-      "Activa el core y baja el torso despacio hacia el suelo manteniendo la espalda recta y el pecho arriba.",
+      "Estira una pierna al frente, apoyando el talón en el suelo con la punta del pie hacia arriba.",
+      "Coloca las manos sobre la rodilla de la pierna flexionada para apoyo.",
+      "Manteniendo la espalda recta y el pecho arriba, inclínate desde la cadera hacia la pierna extendida.",
       "Detente cuando sientas el estiramiento en los isquiotibiales y mantén la posición de 20 a 30 segundos.",
-      "Vuelve despacio a la posición inicial empujando con los talones y usando los isquiotibiales para subir.",
-      "Repite el número de repeticiones deseado."
+      "Vuelve despacio a la posición sentada inicial.",
+      "Repite con la otra pierna el número de repeticiones deseado."
     ]
   },
   "1564": {
     "name": "Estiramiento intermedio de flexor de cadera y cuádriceps con cuerda",
-    "description": "Este estiramiento usa una cuerda para sujetar el pie y acercarlo al glúteo, alargando cuádriceps y flexores de cadera de manera profunda. La cuerda permite progresar gradualmente el rango sin compensaciones.",
+    "description": "Este estiramiento se realiza boca abajo y usa una cuerda para sujetar el pie y acercarlo al glúteo, alargando cuádriceps y flexores de cadera de manera profunda. La cuerda permite progresar gradualmente el rango sin compensaciones.",
     "instructions": [
-      "Párate erguido con los pies a la anchura de los hombros.",
-      "Sujétate de un objeto estable para apoyo.",
-      "Flexiona la rodilla derecha y lleva el pie derecho hacia el glúteo, sujetando la cuerda con la mano derecha.",
-      "Tira despacio del pie hacia el glúteo, sintiendo un estiramiento en el cuádriceps derecho.",
+      "Recuéstate boca abajo en el suelo con las piernas extendidas.",
+      "Pasa una cuerda alrededor del pie derecho y sujeta los extremos por encima del hombro derecho.",
+      "Flexiona la rodilla derecha y lleva el pie derecho hacia el glúteo.",
+      "Tira despacio de la cuerda para acercar el talón al glúteo, sintiendo un estiramiento en el cuádriceps y la cadera derechos.",
       "Mantén el estiramiento de 20 a 30 segundos.",
       "Suelta el estiramiento y repite del lado izquierdo."
     ]
@@ -472,24 +472,24 @@
   },
   "1585": {
     "name": "Estiramiento de corredor",
-    "description": "El estiramiento de corredor adopta una posición de zancada profunda con la pierna trasera estirada para alargar isquiotibiales, gemelos y flexores de cadera. Es un estiramiento clásico antes y después de correr.",
+    "description": "El estiramiento de corredor adelanta un pie con el talón apoyado y la punta hacia arriba, mantiene la pierna delantera estirada e inclina el tronco desde la cadera para alargar isquiotibiales y gemelos. Es un estiramiento clásico antes y después de correr.",
     "instructions": [
       "Párate con los pies a la anchura de la cadera.",
-      "Da un paso al frente con el pie derecho manteniendo el izquierdo apoyado.",
-      "Flexiona la rodilla derecha y baja el cuerpo manteniendo la pierna izquierda recta.",
-      "Apoya las manos sobre el muslo derecho para soporte.",
-      "Mantén el estiramiento de 20 a 30 segundos y cambia de lado."
+      "Da un paso al frente con el pie derecho apoyando el talón y con la punta hacia arriba.",
+      "Mantén la pierna derecha estirada, flexiona ligeramente la rodilla izquierda e inclínate desde la cadera con la espalda recta.",
+      "Lleva las manos hacia el pie derecho hasta sentir el estiramiento en la parte posterior de la pierna derecha.",
+      "Mantén el estiramiento de 20 a 30 segundos, vuelve a ponerte de pie y cambia de lado."
     ]
   },
   "1587": {
     "name": "Secuencia de postura sentada en ángulo amplio",
-    "description": "Esta secuencia de yoga se sienta con las piernas abiertas en ángulo amplio y se inclina al frente desde la cadera. Estira isquiotibiales, aductores y zona lumbar de manera completa.",
+    "description": "Esta secuencia de yoga se sienta con las piernas abiertas en ángulo amplio y se inclina desde la cadera hacia un pie y luego hacia el otro. Estira isquiotibiales, aductores y zona lumbar de manera completa.",
     "instructions": [
       "Siéntate en el suelo con las piernas estiradas en ángulo amplio.",
       "Flexiona los pies y activa los cuádriceps.",
-      "Apoya las manos en el suelo detrás del cuerpo para soporte.",
-      "Manteniendo la espalda recta, inclínate al frente desde la cadera.",
-      "Continúa inclinándote hasta sentir un estiramiento en los isquiotibiales.",
+      "Apoya las manos sobre los muslos.",
+      "Manteniendo la espalda recta, inclínate desde la cadera sobre la pierna derecha llevando las manos hacia el pie derecho.",
+      "Vuelve al centro e inclínate sobre la pierna izquierda hacia el pie izquierdo hasta sentir el estiramiento en los isquiotibiales.",
       "Mantén la posición durante varias respiraciones.",
       "Suelta el estiramiento despacio y vuelve a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -510,12 +510,12 @@
   },
   "1604": {
     "name": "World's greatest stretch",
-    "description": "El world's greatest stretch combina movilidad de cadera, columna torácica y cadena posterior en una sola secuencia. Trabaja flexores de cadera, isquiotibiales y rotación torácica, ideal como calentamiento dinámico completo.",
+    "description": "El world's greatest stretch combina movilidad de cadera y cadena posterior en una sola secuencia. Pasa de una zancada baja con las manos en el suelo a estirar la pierna delantera llevando la cadera atrás, ideal como calentamiento dinámico.",
     "instructions": [
       "Comienza en posición de zancada con el pie derecho al frente y el izquierdo atrás.",
       "Apoya las manos en el suelo a ambos lados del pie derecho.",
       "Baja la rodilla izquierda al suelo y estira la pierna derecha manteniendo el pie derecho plano en el suelo.",
-      "Gira el torso hacia la derecha llevando el brazo derecho hacia el techo.",
+      "Lleva la cadera hacia atrás para estirar la pierna derecha manteniendo las manos en el suelo y vuelve a la zancada.",
       "Mantén la posición unos segundos y vuelve a la posición inicial.",
       "Cambia de lado y repite con el pie izquierdo al frente."
     ]
@@ -608,9 +608,9 @@
   },
   "1621": {
     "name": "Press martillo a un brazo sentado en balón de estabilidad con mancuerna",
-    "description": "Realizado sentado en un balón de estabilidad, este press martillo a un brazo entrena hombros y tríceps mientras el core estabiliza la pelvis. La carga unilateral activa fuertemente los oblicuos y los estabilizadores escapulares.",
+    "description": "Realizado con la parte alta de la espalda apoyada en un balón de estabilidad, este press martillo a un brazo entrena hombros y tríceps mientras el core estabiliza la pelvis. La carga unilateral activa fuertemente los oblicuos y los estabilizadores escapulares.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
+      "Apoya la parte alta de la espalda en un balón de estabilidad con los pies en el suelo y la cadera baja.",
       "Sujeta una mancuerna en una mano con la palma hacia adentro y el codo flexionado a 90 grados.",
       "Coloca la otra mano en la cadera para estabilidad.",
       "Empuja la mancuerna hacia arriba extendiendo el brazo por completo.",
@@ -620,11 +620,11 @@
   },
   "1622": {
     "name": "Press de pecho a un brazo agarre invertido con mancuerna",
-    "description": "Sentado con la palma mirando al cuerpo, este press a un brazo con agarre invertido enfatiza el pectoral superior y los deltoides anteriores. La rotación del antebrazo cambia la línea de tracción y reduce el estrés en los hombros.",
+    "description": "Tendido en banco plano con la palma mirando al cuerpo, este press a un brazo con agarre invertido enfatiza el pectoral superior y los deltoides anteriores. La rotación del antebrazo cambia la línea de tracción y reduce el estrés en los hombros.",
     "instructions": [
-      "Siéntate en un banco plano con una mancuerna en una mano y la palma mirando al cuerpo.",
-      "Apoya los pies en el suelo y mantén la espalda recta.",
-      "Eleva la mancuerna a la altura del hombro manteniendo el codo cerca del cuerpo.",
+      "Acuéstate en un banco plano con una mancuerna en una mano y la palma mirando al cuerpo.",
+      "Apoya los pies en el suelo y mantén la espalda pegada al banco.",
+      "Sostén la mancuerna junto al pecho manteniendo el codo cerca del cuerpo.",
       "Empuja la mancuerna hacia arriba hasta extender el brazo por completo.",
       "Pausa un instante en lo alto y baja la mancuerna despacio hasta la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
@@ -696,8 +696,8 @@
     "name": "Spider curl con barra EZ",
     "description": "El spider curl coloca el torso apoyado sobre un banco inclinado con los brazos colgando, lo que aísla los bíceps y elimina el balanceo. La barra EZ reduce la tensión en muñecas y antebrazos durante el rango de máxima contracción.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros y sujeta la barra EZ con agarre supino, palmas hacia arriba.",
-      "Apoya los brazos sobre un banco predicador o balón de estabilidad dejando que los codos cuelguen.",
+      "Acuéstate boca abajo sobre un banco inclinado y sujeta la barra EZ con agarre supino, palmas hacia arriba.",
+      "Deja que los brazos cuelguen rectos por delante del banco.",
       "Manteniendo los brazos quietos, exhala y curla la barra hacia los hombros.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
       "Inhala y baja la barra despacio hasta la posición inicial.",
@@ -722,7 +722,7 @@
     "instructions": [
       "Engancha una barra recta a una polea baja.",
       "Párate frente a la máquina con los pies a la anchura de los hombros y las rodillas ligeramente flexionadas.",
-      "Sujeta la barra con agarre supino, las manos a la anchura de los hombros.",
+      "Sujeta la barra con agarre supino y las manos juntas.",
       "Mantén los codos pegados al cuerpo y los brazos quietos durante todo el ejercicio.",
       "Exhala y curla la barra hacia los hombros contrayendo los bíceps.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
@@ -747,7 +747,7 @@
     "instructions": [
       "Párate de frente a una máquina de polea con los pies a la anchura de los hombros.",
       "Sujeta el accesorio de polea con agarre supino, palmas hacia arriba, y los brazos extendidos.",
-      "Manteniendo los brazos quietos, exhala y curla el accesorio hacia los hombros contrayendo los bíceps.",
+      "Exhala y sube el accesorio pegado al cuerpo contrayendo los bíceps, dejando que los codos se desplacen hacia atrás.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
       "Inhala y baja el accesorio despacio hasta la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -758,7 +758,7 @@
     "description": "El curl predicador a un brazo en polea aísla el bíceps con tensión constante. La polea mantiene la resistencia incluso cerca de la extensión, donde la mancuerna pierde tensión, y el banco predicador inmoviliza el codo.",
     "instructions": [
       "Ajusta la máquina de polea de modo que la almohadilla del predicador quede a la altura del pecho.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
+      "Siéntate en el banco predicador de frente a la máquina con los pies apoyados en el suelo.",
       "Sujeta el agarre de polea con agarre supino y coloca el brazo contra la almohadilla del predicador.",
       "Mantén la espalda recta y el core activo.",
       "Curla el agarre despacio hacia el hombro manteniendo el brazo apoyado en la almohadilla.",
@@ -787,7 +787,7 @@
     "description": "Esta variante del curl predicador en polea usa agarre supino para enfocar el trabajo en el braquiorradial y los flexores del antebrazo. La polea mantiene tensión constante y el predicador aísla el codo.",
     "instructions": [
       "Ajusta la máquina de polea de modo que la polea quede en la posición más baja.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
+      "Siéntate en el banco predicador de frente a la máquina con los pies apoyados en el suelo.",
       "Sujeta el agarre de polea con agarre supino y coloca el brazo contra la almohadilla del banco predicador.",
       "Mantén la espalda recta y el core activo durante todo el ejercicio.",
       "Curla el antebrazo despacio hacia el bíceps manteniendo el brazo quieto contra la almohadilla.",
@@ -799,15 +799,15 @@
   },
   "1636": {
     "name": "Curl por encima de la cabeza en polea alta",
-    "description": "Con la barra enganchada a una polea alta, este curl trabaja los bíceps en una posición estirada con los brazos por encima de la cabeza. La cabeza larga queda en máxima extensión, lo que intensifica la activación del bíceps.",
+    "description": "Con un agarre en cada polea alta y los brazos abiertos a los lados, este curl trabaja los bíceps en una posición elevada. La cabeza larga queda en una posición exigente, lo que intensifica la activación del bíceps.",
     "instructions": [
-      "Engancha una barra recta a una polea alta.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
-      "Sujeta la barra con agarre supino, las manos a la anchura de los hombros.",
-      "Mantén los codos cerca de las orejas y los brazos quietos.",
-      "Exhala y curla la barra hacia la frente manteniendo los brazos quietos.",
-      "Pausa un instante abajo contrayendo los bíceps.",
-      "Inhala y devuelve la barra despacio hasta la posición inicial extendiendo los brazos.",
+      "Coloca las dos poleas de un cruce de poleas en la posición alta con un agarre en cada una.",
+      "Párate en el centro de la máquina con los pies a la anchura de los hombros.",
+      "Sujeta un agarre con cada mano en agarre supino.",
+      "Lleva los brazos abiertos a los lados a la altura de los hombros y mantén los brazos quietos.",
+      "Exhala y curla los agarres hacia la cabeza contrayendo los bíceps.",
+      "Pausa un instante contrayendo los bíceps.",
+      "Inhala y devuelve los agarres despacio hasta la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -815,22 +815,22 @@
     "name": "Curl por encima de la cabeza en polea sobre balón de estabilidad",
     "description": "Esta variante combina el curl por encima de la cabeza en polea con la inestabilidad del balón. El core trabaja sin descanso para mantener el equilibrio mientras los bíceps se contraen en la posición más estirada.",
     "instructions": [
-      "Siéntate en un balón de estabilidad y sujeta el agarre de polea con agarre supino.",
-      "Estira los brazos por completo por encima de la cabeza manteniendo los codos cerca de las orejas.",
-      "Curla el agarre despacio hacia la frente manteniendo los brazos quietos.",
-      "Pausa un instante abajo y vuelve despacio a la posición inicial.",
+      "Siéntate en un balón de estabilidad entre dos poleas altas y sujeta un agarre con cada mano en agarre supino.",
+      "Lleva los brazos abiertos a los lados a la altura de los hombros, completamente extendidos.",
+      "Curla los agarres despacio hacia la cabeza manteniendo los brazos quietos.",
+      "Pausa un instante y vuelve despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1638": {
     "name": "Curl de bíceps en jalón de polea alta",
-    "description": "En este curl la polea queda arriba y la barra se tira hacia los muslos en lugar de hacia los hombros. La línea de tracción trabaja los bíceps desde un ángulo poco habitual e ideal para variar el estímulo.",
+    "description": "En este curl la polea queda arriba y, sentado con los brazos por encima de la cabeza, la barra se curla hacia la cabeza. La línea de tracción trabaja los bíceps desde un ángulo poco habitual e ideal para variar el estímulo.",
     "instructions": [
       "Engancha una barra recta a la polea en la posición más alta.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
-      "Sujeta la barra con agarre supino, las manos a la anchura de los hombros.",
-      "Mantén los codos pegados al cuerpo y los brazos quietos.",
-      "Exhala y curla la barra despacio hacia los muslos manteniendo las muñecas rectas.",
+      "Siéntate debajo de la polea con los pies apoyados en el suelo.",
+      "Sujeta la barra con agarre supino, las manos a la anchura de los hombros y los brazos extendidos por encima de la cabeza.",
+      "Mantén los brazos quietos apuntando hacia arriba.",
+      "Exhala y curla la barra despacio hacia la nuca manteniendo las muñecas rectas.",
       "Pausa un instante abajo contrayendo los bíceps.",
       "Inhala y devuelve la barra despacio hasta la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -841,7 +841,7 @@
     "description": "Esta variante del curl predicador usa cuerda en polea para mantener un agarre neutro que reclute el braquial y el braquiorradial junto al bíceps. La polea genera tensión constante en todo el rango.",
     "instructions": [
       "Engancha un accesorio de cuerda a una polea baja.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
+      "Siéntate en el banco predicador de frente a la máquina con los pies apoyados en el suelo.",
       "Sujeta la cuerda con agarre neutro (palmas enfrentadas).",
       "Coloca los brazos contra la almohadilla del banco predicador con los codos ligeramente flexionados.",
       "Manteniendo los brazos quietos, exhala y curla la cuerda hacia los hombros contrayendo los bíceps.",
@@ -855,8 +855,8 @@
     "description": "Trabajar un brazo a la vez con cuerda en polea exige más control y aísla cada bíceps por separado. El agarre neutro recluta braquial y braquiorradial, ideal para mejorar simetría y grosor del brazo.",
     "instructions": [
       "Engancha un agarre de cuerda a una polea baja.",
-      "Párate de frente a la máquina con los pies a la anchura de los hombros.",
-      "Sujeta la cuerda con agarre supino, palmas hacia arriba.",
+      "Siéntate en el banco predicador de frente a la máquina con los pies apoyados en el suelo.",
+      "Sujeta la cuerda con agarre neutro, la palma hacia adentro.",
       "Coloca el brazo contra la almohadilla del banco predicador con el codo ligeramente flexionado.",
       "Mantén la espalda recta y el core activo durante todo el ejercicio.",
       "Curla la cuerda despacio hacia el hombro manteniendo el brazo quieto.",
@@ -890,12 +890,12 @@
   },
   "1643": {
     "name": "Curl sentado por encima de la cabeza en polea",
-    "description": "Sentado en un banco frente a la máquina, este curl en polea trabaja los bíceps en una posición estable que elimina el balanceo. La polea genera tensión constante en todo el recorrido.",
+    "description": "Sentado entre dos poleas altas con los brazos abiertos a los lados, este curl trabaja los bíceps en una posición estable que elimina el balanceo. La polea genera tensión constante en todo el recorrido.",
     "instructions": [
-      "Siéntate en un banco frente a la máquina de polea con los pies apoyados en el suelo.",
-      "Sujeta el accesorio de polea con agarre supino, palmas hacia arriba, y las manos a la anchura de los hombros.",
-      "Mantén los brazos quietos y los codos cerca del cuerpo.",
-      "Exhala y curla el accesorio hacia los hombros contrayendo los bíceps.",
+      "Siéntate en un banco entre dos poleas altas con los pies apoyados en el suelo.",
+      "Sujeta un agarre con cada mano en agarre supino, palmas hacia arriba.",
+      "Lleva los brazos abiertos a los lados a la altura de los hombros y mantén los brazos quietos.",
+      "Exhala y curla los agarres hacia la cabeza contrayendo los bíceps.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
       "Inhala y baja el accesorio despacio hasta la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -920,7 +920,7 @@
     "description": "Sentado en un banco inclinado, este curl con polea estira la cabeza larga del bíceps al colgar los brazos hacia atrás. La polea mantiene tensión constante en todo el recorrido, especialmente en la fase estirada.",
     "instructions": [
       "Siéntate en un banco inclinado con la espalda apoyada en el respaldo y los pies en el suelo.",
-      "Sujeta los agarres de polea con agarre supino, palmas hacia arriba, y los brazos completamente extendidos.",
+      "Sujeta los agarres de dos poleas colocadas a la altura del banco, una a cada lado, con agarre supino y los brazos extendidos hacia los lados.",
       "Manteniendo los brazos quietos, exhala y curla los agarres hacia los hombros contrayendo los bíceps.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
       "Inhala y baja los agarres despacio hasta la posición inicial extendiendo los brazos.",
@@ -931,11 +931,11 @@
     "name": "Curl predicador martillo alterno con mancuernas",
     "description": "Esta variante del curl predicador usa agarre martillo (palmas enfrentadas) y trabaja un brazo a la vez. El agarre neutro recluta braquial y braquiorradial junto al bíceps, y la almohadilla aísla los codos.",
     "instructions": [
-      "Siéntate en un banco predicador con una mancuerna en cada mano, las palmas hacia el torso y los brazos extendidos por completo.",
-      "Mantén los brazos quietos y exhala mientras curlas los pesos contrayendo los bíceps.",
-      "Sigue subiendo las mancuernas hasta que los bíceps queden contraídos por completo y las mancuernas a la altura del hombro.",
+      "Siéntate en un banco predicador con una mancuerna en cada mano, las palmas enfrentadas y los brazos extendidos por completo.",
+      "Mantén los brazos quietos y exhala mientras curlas una mancuerna contrayendo el bíceps.",
+      "Sigue subiendo la mancuerna hasta que el bíceps quede contraído por completo y la mancuerna a la altura del hombro.",
       "Mantén la posición contraída un instante apretando los bíceps.",
-      "Inhala y baja las mancuernas despacio hasta la posición inicial.",
+      "Inhala, baja la mancuerna despacio hasta la posición inicial y repite con el otro brazo.",
       "Repite el número de repeticiones recomendado."
     ]
   },
@@ -967,10 +967,10 @@
   },
   "1649": {
     "name": "Curl de bíceps alterno de pie con pierna elevada en balón de estabilidad y mancuernas",
-    "description": "Este curl alterno de pie añade equilibrio inestable al apoyar un pie sobre un balón de estabilidad. El core trabaja a tope para mantener la postura mientras los bíceps se contraen alternadamente.",
+    "description": "Este curl alterno añade equilibrio inestable al sentarte sobre un balón de estabilidad con una pierna elevada. El core trabaja a tope para mantener la postura mientras los bíceps se contraen alternadamente.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros y sujeta una mancuerna en cada mano, palmas hacia adelante.",
-      "Coloca un balón de estabilidad detrás de ti y apoya un pie encima manteniendo el equilibrio.",
+      "Siéntate en un balón de estabilidad con los pies en el suelo y sujeta una mancuerna en cada mano, palmas hacia adelante.",
+      "Estira una pierna y levántala del suelo manteniendo el equilibrio.",
       "Con los brazos extendidos y los codos cerca del cuerpo, curla una mancuerna hacia el hombro manteniendo el brazo quieto.",
       "Baja la mancuerna hasta la posición inicial y repite con el otro brazo.",
       "Continúa alternando brazos para el número de repeticiones deseado."
@@ -990,14 +990,13 @@
   },
   "1651": {
     "name": "Curl de bíceps en zancada con giro tipo bowling",
-    "description": "Este movimiento combina zancada, curl de bíceps y rotación del torso al estilo de un lanzamiento de bowling. Es un patrón funcional que trabaja piernas, bíceps y oblicuos en una secuencia integrada.",
+    "description": "Este movimiento combina una zancada al frente bajando las mancuernas junto al pie como en un lanzamiento de bowling y un curl de bíceps al volver. Es un patrón funcional que trabaja piernas, bíceps y core en una secuencia integrada.",
     "instructions": [
-      "Párate con los pies a la anchura de los hombros sujetando una mancuerna en cada mano con las palmas hacia adelante.",
+      "Párate con los pies a la anchura de los hombros y una mancuerna en cada mano, curladas a la altura de los hombros con las palmas hacia ti.",
       "Da un paso al frente con el pie derecho flexionando la rodilla y bajando el cuerpo a posición de zancada.",
-      "Mientras avanzas, curla las mancuernas hacia los hombros manteniendo los codos cerca del cuerpo.",
-      "En la parte baja de la zancada, gira el torso hacia la derecha como si lanzaras una bola de bowling.",
-      "Invierte el movimiento, devuelve el pie derecho y baja las mancuernas hasta la posición inicial.",
-      "Repite la zancada y el curl, esta vez girando el torso hacia la izquierda.",
+      "Mientras bajas, lleva las mancuernas hasta los lados del pie delantero como si soltaras una bola de bowling.",
+      "Empuja con el pie derecho para volver de pie mientras curlas las mancuernas de nuevo hacia los hombros.",
+      "Repite el movimiento, esta vez dando la zancada con el pie izquierdo.",
       "Continúa alternando lados para el número de repeticiones deseado."
     ]
   },
@@ -1015,10 +1014,10 @@
   },
   "1653": {
     "name": "Curl de bíceps en postura de cigüeña con mancuernas",
-    "description": "La postura de cigüeña (apoyo en una pierna con la otra extendida atrás sobre la punta del pie) añade un reto de equilibrio al curl de bíceps. Activa estabilizadores de cadera, glúteos y core mientras trabajan los bíceps.",
+    "description": "La postura de cigüeña (apoyo en una pierna con la otra elevada atrás y el tronco inclinado al frente) añade un reto de equilibrio al curl de bíceps. Activa estabilizadores de cadera, glúteos y core mientras trabajan los bíceps.",
     "instructions": [
       "Párate con los pies a la anchura de los hombros y sujeta una mancuerna en cada mano, palmas hacia adelante.",
-      "Estira una pierna detrás del cuerpo apoyándote sobre la punta del pie.",
+      "Levanta un pie del suelo por detrás e inclina el tronco unos 45 grados al frente, equilibrándote sobre la otra pierna.",
       "Manteniendo los brazos quietos, exhala y curla los pesos contrayendo los bíceps.",
       "Sigue subiendo los pesos hasta que los bíceps queden contraídos por completo y las mancuernas a la altura del hombro.",
       "Mantén la posición contraída un instante apretando los bíceps.",
@@ -1040,12 +1039,13 @@
   },
   "1655": {
     "name": "Curl de bíceps en sentadilla isométrica con mancuernas",
-    "description": "Realizado manteniendo una sentadilla estática, este curl combina trabajo isométrico de cuádriceps y glúteos con el dinámico de bíceps. La sentadilla baja la cadera mientras los brazos curlan, exigiendo gran control postural.",
+    "description": "Este ejercicio combina una sentadilla con un curl: subes de la sentadilla mientras curlas las mancuernas. Trabaja cuádriceps y glúteos junto a los bíceps y exige coordinación y control postural.",
     "instructions": [
       "Párate con los pies a la anchura de los hombros sujetando una mancuerna en cada mano con las palmas hacia adelante.",
-      "Manteniendo la espalda recta y los codos cerca del cuerpo, exhala y curla las mancuernas hacia los hombros.",
+      "Flexiona rodillas y cadera para bajar a una sentadilla manteniendo la espalda recta y los brazos extendidos.",
+      "Exhala y ponte de pie mientras curlas las mancuernas hacia los hombros con los codos cerca del cuerpo.",
       "Pausa un instante en lo alto contrayendo los bíceps.",
-      "Inhala y baja las mancuernas despacio hasta la posición inicial.",
+      "Inhala y baja las mancuernas mientras vuelves a la sentadilla.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -1053,7 +1053,7 @@
     "name": "Curl de bíceps en V-sit sobre balón Bosu con mancuernas",
     "description": "El V-sit sobre balón Bosu mantiene el core en contracción isométrica mientras los bíceps curlan las mancuernas. Es una integración brutal de trabajo abdominal y de brazo en un solo ejercicio.",
     "instructions": [
-      "Siéntate en un balón Bosu con los pies apoyados en el suelo y las rodillas a 90 grados.",
+      "Siéntate en un balón Bosu con las piernas extendidas al frente y los talones apoyados en el suelo.",
       "Sujeta una mancuerna en cada mano con las palmas hacia adelante y los brazos extendidos a los lados.",
       "Manteniendo los brazos quietos, exhala y curla los pesos contrayendo los bíceps.",
       "Sigue subiendo las mancuernas hasta que los bíceps queden contraídos por completo y las mancuernas a la altura del hombro.",
@@ -1068,9 +1068,9 @@
     "instructions": [
       "Párate erguido con una mancuerna en cada mano, palmas hacia el cuerpo.",
       "Mantén los codos pegados al torso y los brazos quietos.",
-      "Exhala y curla los pesos contrayendo los bíceps, llevando las mancuernas lo más cerca posible del hombro contrario.",
+      "Exhala y curla una mancuerna cruzando el cuerpo contrayendo el bíceps, llevándola lo más cerca posible del hombro contrario.",
       "Mantén la posición contraída un instante apretando los bíceps.",
-      "Inhala y baja las mancuernas despacio hasta la posición inicial.",
+      "Inhala, baja la mancuerna despacio hasta la posición inicial y repite con el otro brazo.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -1101,10 +1101,10 @@
   },
   "1660": {
     "name": "Curl de bíceps arrodillado con codos en balón de estabilidad y mancuernas",
-    "description": "Esta variante apoya los codos sobre un balón de estabilidad para imitar la posición predicador. La inestabilidad del balón añade un reto extra y obliga a los estabilizadores a trabajar.",
+    "description": "Esta variante se hace arrodillado y erguido sobre un balón de estabilidad. La inestabilidad del balón añade un reto extra y obliga al core y a los estabilizadores a trabajar mientras curlas.",
     "instructions": [
-      "Arrodíllate en el suelo con un balón de estabilidad al frente.",
-      "Apoya los codos sobre el balón sujetando una mancuerna en cada mano con las palmas hacia arriba.",
+      "Arrodíllate erguido con las rodillas y espinillas sobre un balón de estabilidad y las puntas de los pies en el suelo detrás.",
+      "Sujeta una mancuerna en cada mano con las palmas hacia arriba y los codos cerca del cuerpo.",
       "Manteniendo los brazos quietos, exhala y curla las mancuernas contrayendo los bíceps.",
       "Sigue subiendo las mancuernas hasta que los bíceps queden contraídos por completo y las mancuernas a la altura del hombro.",
       "Mantén la posición contraída un instante apretando los bíceps.",
@@ -1151,19 +1151,19 @@
   },
   "1664": {
     "name": "Curl alto con mancuernas",
-    "description": "El curl alto sube las mancuernas más allá del rango clásico, generando una contracción adicional de la cabeza larga del bíceps. Es un complemento útil para apurar la flexión de codo.",
+    "description": "El curl alto se hace con los brazos elevados a los lados a la altura de los hombros, curlando las mancuernas hacia la cabeza. Genera una contracción intensa del bíceps en una posición poco habitual.",
     "instructions": [
-      "Párate erguido con una mancuerna en cada mano, palmas hacia adelante.",
-      "Mantén los brazos quietos y curla las mancuernas lo más alto posible contrayendo los bíceps.",
+      "Párate erguido con una mancuerna en cada mano y eleva los brazos a los lados a la altura de los hombros, palmas hacia arriba.",
+      "Mantén los brazos quietos y curla las mancuernas hacia la cabeza contrayendo los bíceps.",
       "Pausa un instante en lo alto y baja las mancuernas despacio hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1665": {
     "name": "Curl prono a un brazo con mancuerna",
-    "description": "Acostado boca abajo en un banco, este curl prono permite que el brazo cuelgue y estire la cabeza larga del bíceps. Eliminar el balanceo del cuerpo concentra el trabajo en la flexión de codo pura.",
+    "description": "Acostado boca abajo en un banco inclinado, este curl prono permite que el brazo cuelgue y estire la cabeza larga del bíceps. Eliminar el balanceo del cuerpo concentra el trabajo en la flexión de codo pura.",
     "instructions": [
-      "Acuéstate boca abajo en un banco plano con una mancuerna en una mano, palma hacia abajo.",
+      "Acuéstate boca abajo en un banco inclinado con una mancuerna en una mano, palma hacia abajo, y apoya la otra mano en la parte alta del banco.",
       "Estira el brazo por completo dejándolo colgar hacia el suelo.",
       "Manteniendo el brazo quieto, curla la mancuerna hacia el hombro contrayendo el bíceps.",
       "Pausa un instante en lo alto y baja la mancuerna despacio hasta la posición inicial.",
@@ -1172,9 +1172,9 @@
   },
   "1666": {
     "name": "Curl martillo prono a un brazo con mancuerna",
-    "description": "Esta variante del curl prono usa agarre neutro (palma hacia el cuerpo) para enfatizar el braquial. Estar boca abajo en el banco elimina cualquier balanceo y aísla la flexión de codo en su versión más pura.",
+    "description": "Esta variante del curl prono usa agarre neutro (palma hacia el cuerpo) para enfatizar el braquial. Estar boca abajo en un banco inclinado elimina cualquier balanceo y aísla la flexión de codo en su versión más pura.",
     "instructions": [
-      "Acuéstate boca abajo en un banco plano con una mancuerna en una mano, palma hacia el cuerpo y el brazo extendido por completo.",
+      "Acuéstate boca abajo en un banco inclinado con una mancuerna en una mano, palma hacia el cuerpo y el brazo extendido por completo.",
       "Mantén el brazo quieto y curla la mancuerna hacia el hombro contrayendo el bíceps.",
       "Pausa un instante en lo alto y baja la mancuerna despacio hasta la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
@@ -1182,9 +1182,9 @@
   },
   "1667": {
     "name": "Spider curl invertido a un brazo con mancuerna",
-    "description": "El spider curl invertido a un brazo con mancuerna usa agarre prono para enfatizar el braquiorradial y los extensores del antebrazo. La posición invertida del agarre sumada al trabajo unilateral exige máxima concentración.",
+    "description": "El spider curl invertido a un brazo se hace boca abajo sobre un banco inclinado con agarre prono para enfatizar el braquiorradial y los extensores del antebrazo. La posición invertida del agarre sumada al trabajo unilateral exige máxima concentración.",
     "instructions": [
-      "Párate erguido con una mancuerna en una mano, palma hacia abajo y el brazo extendido por completo.",
+      "Acuéstate boca abajo sobre un banco inclinado con una mancuerna en una mano, palma hacia abajo y el brazo colgando extendido por completo.",
       "Manteniendo el brazo quieto, curla la mancuerna hacia el hombro flexionando el codo.",
       "Pausa un instante en lo alto y baja la mancuerna despacio hasta la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
@@ -1203,11 +1203,11 @@
   },
   "1669": {
     "name": "Curl martillo sentado a un brazo con mancuerna",
-    "description": "El curl martillo sentado a un brazo apoya el codo en la cara interna del muslo, replicando la posición de un curl concentrado pero con agarre neutro. Aísla por completo el bíceps y braquial sin balanceo.",
+    "description": "El curl martillo sentado a un brazo se hace con la espalda apoyada en el respaldo y el codo pegado al costado, con agarre neutro. Trabaja bíceps, braquial y braquiorradial sin balanceo.",
     "instructions": [
-      "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
+      "Siéntate en un banco con respaldo, la espalda recta contra el respaldo y los pies apoyados en el suelo.",
       "Sujeta una mancuerna en una mano con agarre neutro (palmas enfrentadas).",
-      "Apoya el codo en la cara interna del muslo, justo arriba de la rodilla.",
+      "Mantén el codo pegado al costado con el brazo colgando recto hacia abajo.",
       "Manteniendo el brazo quieto, exhala y curla la mancuerna hacia el hombro.",
       "Pausa un instante en lo alto contrayendo el bíceps.",
       "Inhala y baja la mancuerna despacio hasta la posición inicial.",

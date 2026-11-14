@@ -5,20 +5,20 @@
     "instructions": [
       "Acuéstate en el banco con la espalda y la cabeza apoyadas y los pies firmes en el suelo.",
       "Sostén una mancuerna con una mano en agarre supinado y extiende el brazo recto sobre el hombro.",
-      "Manteniendo el brazo superior fijo, baja despacio la mancuerna detrás de la cabeza flexionando el codo.",
+      "Sujeta el brazo de trabajo con la mano libre y, manteniendo el brazo superior fijo, baja despacio la mancuerna por delante de la cara hacia el hombro contrario flexionando el codo.",
       "Haz una pausa abajo y vuelve a extender el brazo hasta la posición inicial.",
       "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0347": {
     "name": "Pronación de antebrazo con mancuernas acostado boca abajo",
-    "description": "Movimiento aislado para los antebrazos centrado en la fuerza de pronación. Tumbado boca abajo en un banco, la rotación de muñeca con mancuernas trabaja la musculatura pronadora con leve apoyo de bíceps y hombros.",
+    "description": "Movimiento aislado para los antebrazos centrado en la fuerza de pronación. Acostado de lado en un banco con el antebrazo apoyado sobre el borde, rotas la mancuerna de palma arriba a palma abajo.",
     "instructions": [
-      "Acuéstate boca abajo en un banco con los brazos extendidos hacia el suelo, sosteniendo una mancuerna en cada mano.",
-      "Gira las palmas hasta que queden mirando hacia arriba.",
-      "Manteniendo los brazos superiores fijos, exhala y rota las muñecas hasta dejar las palmas mirando hacia abajo.",
+      "Acuéstate de lado en un banco plano y apoya el antebrazo del brazo de trabajo sobre el borde, sosteniendo una mancuerna.",
+      "Gira la palma hasta que quede mirando hacia arriba.",
+      "Sin mover el brazo ni el antebrazo, exhala y rota la muñeca hasta dejar la palma mirando hacia abajo.",
       "Inhala y vuelve despacio a la posición inicial.",
-      "Repite las repeticiones deseadas."
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0348": {
@@ -34,13 +34,13 @@
   },
   "0349": {
     "name": "Supinación de antebrazo con mancuernas acostado en banco",
-    "description": "Ejercicio aislado para los antebrazos enfocado en los músculos supinadores. Acostado en banco, la rotación supinada de muñecas con mancuernas refuerza el control rotacional, con bíceps y hombros como secundarios.",
+    "description": "Ejercicio aislado para los antebrazos enfocado en los músculos supinadores, con apoyo del bíceps. Acostado de lado en un banco, rotas una mancuerna de palma abajo a palma arriba con un brazo.",
     "instructions": [
-      "Acuéstate en un banco con los pies apoyados en el suelo.",
-      "Sostén una mancuerna en cada mano con las palmas hacia arriba y los brazos extendidos.",
-      "Manteniendo los brazos superiores fijos, lleva las mancuernas hacia los hombros contrayendo los antebrazos.",
-      "Haz una pausa arriba y baja despacio a la posición inicial.",
-      "Repite las repeticiones deseadas."
+      "Acuéstate de lado en un banco plano y apoya el antebrazo del brazo de trabajo en el banco, sosteniendo una mancuerna.",
+      "Comienza con la palma mirando hacia abajo.",
+      "Sin mover el brazo ni el antebrazo, rota la muñeca hasta dejar la palma mirando hacia arriba.",
+      "Haz una pausa y vuelve despacio a la posición inicial.",
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0350": {
@@ -68,12 +68,12 @@
   },
   "0352": {
     "name": "Press de banca con mancuernas en agarre neutro",
-    "description": "Variante del press de banca con mancuernas y palmas enfrentadas. El agarre neutro reduce el estrés en los hombros y traslada más carga al tríceps, con participación secundaria de pecho y deltoides.",
+    "description": "Extensión de tríceps acostado en banco plano con mancuernas y palmas enfrentadas. Aísla el tríceps flexionando solo los codos mientras los brazos superiores permanecen fijos.",
     "instructions": [
       "Acuéstate en un banco plano con los pies firmes en el suelo y la espalda pegada al banco.",
       "Sostén una mancuerna en cada mano con agarre neutro (palmas enfrentadas) y los brazos extendidos sobre el pecho.",
-      "Baja despacio las mancuernas hacia el pecho manteniendo los codos cerca del cuerpo.",
-      "Haz una pausa abajo y empuja las mancuernas hasta extender los brazos.",
+      "Manteniendo los brazos superiores fijos, flexiona despacio los codos y baja las mancuernas a los lados de la cabeza.",
+      "Haz una pausa abajo y extiende los codos hasta volver a la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
   },
@@ -142,9 +142,9 @@
     "name": "Apertura inversa con mancuerna a un brazo y apoyo",
     "description": "Aislamiento del deltoides posterior con apoyo de la mano libre en el banco. La estabilización extra reduce la inercia y enfoca el trabajo en hombros traseros, trapecios y romboides.",
     "instructions": [
-      "Siéntate en un banco con los pies firmes en el suelo y la espalda recta.",
+      "Párate junto a un banco inclinado con los pies firmes en el suelo y la espalda recta.",
       "Sostén una mancuerna con una mano y la palma hacia adentro.",
-      "Inclínate hacia adelante y apoya la mano libre en el banco para estabilizar.",
+      "Inclínate hacia adelante desde la cadera y apoya la mano libre en el banco para estabilizar.",
       "Con el brazo ligeramente flexionado, súbelo hacia un lado hasta dejarlo paralelo al suelo.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas y cambia de brazo."
@@ -164,10 +164,10 @@
     "name": "Press de hombros a un brazo con mancuerna",
     "description": "Empuje vertical unilateral de pie que enfoca al deltoides anterior y medio. La ejecución a un brazo exige coordinación, equilibrio y un core firme para evitar la inclinación lateral.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano a la altura del hombro, palma hacia adelante.",
-      "Empuja la mancuerna hacia arriba hasta extender el brazo sobre la cabeza.",
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano a la altura del hombro, palmas hacia adelante.",
+      "Empuja una mancuerna hacia arriba hasta extender el brazo sobre la cabeza, manteniendo la otra en el hombro.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
-      "Repite las repeticiones deseadas y cambia de brazo."
+      "Repite con el otro brazo y sigue alternando durante las repeticiones deseadas."
     ]
   },
   "0362": {
@@ -206,30 +206,30 @@
   },
   "0365": {
     "name": "Curl de muñeca neutro con mancuernas sobre banco",
-    "description": "Curl de muñeca con agarre neutro y antebrazos apoyados en el banco. El recorrido corto y la posición estable trabajan los flexores de muñeca y los antebrazos minimizando la participación del bíceps.",
+    "description": "Curl de muñeca con agarre neutro, de rodillas detrás del banco y con los antebrazos apoyados sobre él. Solo se mueven las muñecas, lo que trabaja los antebrazos con un recorrido corto.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas hacia arriba.",
-      "Apoya los antebrazos en el banco dejando las muñecas por fuera del borde.",
-      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas hacia los hombros.",
+      "Arrodíllate detrás de un banco plano y sostén una mancuerna en cada mano con las palmas enfrentadas.",
+      "Apoya los antebrazos en el banco con las manos por fuera del borde.",
+      "Sin mover los antebrazos, exhala y eleva las mancuernas doblando las muñecas hacia el pulgar.",
       "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
   },
   "0366": {
     "name": "Curl de muñeca neutro a un brazo con mancuerna sobre banco",
-    "description": "Variante unilateral del curl de muñeca con agarre neutro. Apoyado en el banco, el ejercicio aísla los flexores de muñeca de cada lado y permite corregir descompensaciones en la fuerza del antebrazo.",
+    "description": "Variante unilateral del curl de muñeca con agarre neutro, de rodillas detrás del banco. Solo se mueve la muñeca, lo que aísla el antebrazo de cada lado y ayuda a corregir descompensaciones.",
     "instructions": [
-      "Siéntate en un banco con una mancuerna en una mano y el brazo extendido sobre el banco, palma hacia arriba.",
-      "Mantén el brazo superior fijo y sube la mancuerna hacia el hombro con la muñeca en posición neutra.",
+      "Arrodíllate detrás de un banco plano con una mancuerna en una mano y apoya ese antebrazo en el banco, palma hacia adentro y mano por fuera del borde.",
+      "Mantén el antebrazo fijo y eleva la mancuerna doblando la muñeca hacia el pulgar.",
       "Haz una pausa arriba y baja despacio la mancuerna a la posición inicial.",
       "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0367": {
     "name": "Curl de muñeca a un brazo con mancuerna sobre banco",
-    "description": "Aislamiento unilateral de los flexores de muñeca con el antebrazo apoyado en el banco. La carga única permite enfocar la atención en una mano a la vez para mejorar fuerza y simetría.",
+    "description": "Aislamiento unilateral de los flexores de muñeca, de rodillas detrás del banco con el antebrazo apoyado y la palma hacia arriba. La carga única permite enfocar la atención en una mano a la vez para mejorar fuerza y simetría.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en una mano, palma hacia abajo.",
+      "Arrodíllate detrás de un banco plano y sostén una mancuerna en una mano, palma hacia arriba.",
       "Apoya el antebrazo en el banco con la muñeca por fuera del borde.",
       "Sube despacio la mancuerna curvando la muñeca hacia el antebrazo.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
@@ -240,7 +240,7 @@
     "name": "Curl de muñeca inverso con mancuernas sobre banco",
     "description": "Aislamiento de los extensores de muñeca con agarre pronado y antebrazos apoyados en el banco. El movimiento fortalece la cara externa del antebrazo y mejora la salud articular del codo y la muñeca.",
     "instructions": [
-      "Siéntate en un banco con los pies firmes en el suelo y sostén una mancuerna en cada mano, palmas hacia abajo.",
+      "Arrodíllate detrás de un banco plano y sostén una mancuerna en cada mano, palmas hacia abajo.",
       "Apoya los antebrazos en el banco con las muñecas por fuera del borde.",
       "Sube despacio las muñecas, llevando las mancuernas hacia el cuerpo.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
@@ -251,7 +251,7 @@
     "name": "Curl de muñeca con mancuernas sobre banco",
     "description": "Trabajo aislado de los flexores de muñeca con agarre supinado y los antebrazos apoyados en el banco. La estabilización elimina la trampa y produce una contracción estricta en los antebrazos.",
     "instructions": [
-      "Siéntate en un banco con los antebrazos apoyados sobre él y las palmas hacia arriba, sosteniendo una mancuerna en cada mano.",
+      "Arrodíllate detrás de un banco plano con los antebrazos apoyados sobre él y las palmas hacia arriba, sosteniendo una mancuerna en cada mano.",
       "Deja que las muñecas cuelguen por fuera del banco.",
       "Sube despacio las muñecas apretando los antebrazos al final del recorrido.",
       "Haz una pausa y baja despacio a la posición inicial.",
@@ -260,28 +260,25 @@
   },
   "0370": {
     "name": "Curl martillo predicador con mancuernas",
-    "description": "Curl con agarre neutro tipo martillo combinado con la mecánica del predicador. La fijación del brazo superior aísla el braquial y los antebrazos, sumando volumen al braquiorradial.",
+    "description": "Curl con agarre neutro tipo martillo en banco predicador. Sentado con los brazos superiores apoyados en la almohadilla, aísla el braquial y los antebrazos, sumando volumen al braquiorradial.",
     "instructions": [
-      "Párate con la espalda recta y una mancuerna en cada mano, palmas hacia el torso.",
-      "Mantén los codos pegados al torso y rota las palmas hasta que queden mirando al frente.",
-      "Esta será tu posición inicial.",
-      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
-      "Sigue subiendo hasta que el bíceps esté contraído por completo y las mancuernas a la altura del hombro.",
-      "Mantén la contracción un instante apretando el bíceps.",
+      "Siéntate en un banco predicador con una mancuerna en cada mano y apoya la parte trasera de los brazos superiores en la almohadilla.",
+      "Sostén las mancuernas con las palmas enfrentadas y los brazos extendidos.",
+      "Manteniendo los brazos superiores en la almohadilla, exhala y sube las mancuernas contrayendo el bíceps.",
+      "Sigue subiendo hasta que el bíceps esté contraído por completo, sin perder el agarre neutro.",
       "Inhala y baja despacio las mancuernas a la posición inicial.",
       "Repite las repeticiones recomendadas."
     ]
   },
   "0371": {
     "name": "Sentadilla pliométrica con tijera y mancuernas",
-    "description": "Sentadilla explosiva con cambio de pierna en el aire, ejecutada con mancuernas a los costados. Combina fuerza y potencia en glúteos, cuádriceps y pantorrillas, exigiendo coordinación y aterrizajes controlados.",
+    "description": "Sentadilla con postura amplia sosteniendo una sola mancuerna entre las piernas. Trabaja glúteos, cuádriceps y aductores.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y una mancuerna en cada mano a los costados.",
-      "Baja a una sentadilla flexionando rodillas y empujando la cadera hacia atrás.",
-      "Al llegar abajo, despega del suelo de manera explosiva con un salto.",
-      "En el aire, intercambia rápidamente la posición de los pies aterrizando con el pie contrario adelante.",
-      "Baja de inmediato a la sentadilla y repite el salto cambiando los pies.",
-      "Sigue alternando la posición con cada salto durante las repeticiones deseadas."
+      "Párate con los pies más abiertos que los hombros y las puntas hacia afuera, sosteniendo una mancuerna con ambas manos entre las piernas.",
+      "Baja a una sentadilla flexionando las rodillas y empujando la cadera hacia atrás, con el pecho arriba.",
+      "Baja hasta que los muslos queden más o menos paralelos al suelo.",
+      "Empuja con los talones para volver a la posición inicial.",
+      "Repite las repeticiones deseadas."
     ]
   },
   "0372": {
@@ -299,11 +296,11 @@
   },
   "0373": {
     "name": "Extensión de tríceps con mancuerna en agarre pronado",
-    "description": "Extensión de tríceps por encima de la cabeza utilizando agarre pronado a dos manos sobre una sola mancuerna. La toma con palmas hacia abajo enfatiza la cabeza medial del tríceps y suma trabajo a los antebrazos.",
+    "description": "Extensión de tríceps acostado con una mancuerna en cada mano y agarre pronado. Al flexionar solo los codos, las mancuernas bajan a los lados de la cabeza, con trabajo extra para los antebrazos.",
     "instructions": [
-      "Siéntate en un banco o silla con la espalda recta y los pies apoyados en el suelo.",
-      "Sostén una mancuerna con ambas manos, palmas hacia abajo, y extiende los brazos por encima de la cabeza.",
-      "Manteniendo los brazos superiores cerca de la cabeza y los codos al frente, baja despacio la mancuerna detrás de la cabeza flexionando los codos.",
+      "Acuéstate en un banco plano con la espalda apoyada y los pies en el suelo.",
+      "Sostén una mancuerna en cada mano, palmas hacia abajo, y extiende los brazos sobre el pecho.",
+      "Manteniendo los brazos superiores fijos, baja despacio las mancuernas a los lados de la cabeza flexionando los codos.",
       "Haz una pausa y vuelve a extender los brazos hasta la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
@@ -335,35 +332,35 @@
   },
   "0376": {
     "name": "Elevación con mancuernas",
-    "description": "Elevación lateral básica que trabaja el deltoides medio con un patrón controlado. La leve flexión de codos y la espalda recta concentran la tensión en el hombro y limitan el aporte de los trapecios.",
+    "description": "Tirón vertical con mancuernas que trabaja el deltoides y los trapecios. Las mancuernas suben pegadas al cuerpo hasta el pecho, guiadas por los codos.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia el cuerpo.",
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano delante de los muslos, palmas hacia el cuerpo.",
       "Mantén la espalda recta y activa el core.",
-      "Sube los brazos hacia los lados hasta que queden paralelos al suelo, manteniendo una ligera flexión de codos.",
+      "Sube las mancuernas pegadas al cuerpo hasta la altura del pecho, guiando con los codos altos y hacia afuera.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
   },
   "0377": {
     "name": "Remo posterior con mancuernas para deltoides",
-    "description": "Remo con mancuernas en bisagra de cadera enfocado en el deltoides posterior. La trayectoria amplia y la retracción escapular trabajan trapecio medio y romboides, mejorando la postura y la salud del hombro.",
+    "description": "Remo a un brazo con una rodilla y una mano apoyadas en el banco, enfocado en el deltoides posterior. La retracción escapular trabaja trapecio medio y romboides, mejorando la postura y la salud del hombro.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Sostén una mancuerna en cada mano con las palmas hacia el cuerpo.",
-      "Inclínate hacia adelante desde la cintura, con la espalda recta y el core activo.",
-      "Extiende los brazos hacia el suelo con una ligera flexión en los codos.",
-      "Sube las mancuernas hacia los lados juntando las escápulas.",
+      "Apoya una rodilla y la mano del mismo lado en un banco plano, con el otro pie en el suelo.",
+      "Sostén una mancuerna en la mano libre con la palma hacia el cuerpo.",
+      "Mantén la espalda recta y el torso más o menos paralelo al suelo.",
+      "Deja colgar el brazo recto hacia el suelo.",
+      "Tira de la mancuerna hacia arriba y atrás llevando el codo arriba y apretando la escápula.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
-      "Repite las repeticiones deseadas."
+      "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
   "0378": {
     "name": "Apertura posterior con mancuernas",
-    "description": "Aislamiento del deltoides posterior con bisagra de cadera y leve flexión de codos. La apertura amplia mejora la simetría del hombro y refuerza romboides y trapecio medio para una mejor postura.",
+    "description": "Aislamiento del deltoides posterior sentado en el extremo de un banco, con el torso inclinado sobre los muslos. La apertura amplia mejora la simetría del hombro y refuerza romboides y trapecio medio para una mejor postura.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
-      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
-      "Extiende los brazos hacia el suelo con las palmas enfrentadas.",
+      "Siéntate en el extremo de un banco plano con los pies apoyados y sostén una mancuerna en cada mano.",
+      "Inclina el torso sobre los muslos con la espalda recta.",
+      "Deja colgar los brazos detrás de las pantorrillas con las palmas enfrentadas.",
       "Manteniendo una ligera flexión en los codos, sube los brazos hacia los lados juntando las escápulas.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
@@ -416,11 +413,11 @@
   },
   "0383": {
     "name": "Apertura inversa con mancuernas",
-    "description": "Movimiento aislado para los hombros traseros con bisagra desde la cadera. La apertura controlada con codos suaves trabaja la parte posterior del deltoides, mejorando postura y salud del hombro.",
+    "description": "Movimiento aislado para los hombros traseros acostado boca abajo en un banco inclinado. La apertura controlada con codos suaves trabaja la parte posterior del deltoides, mejorando postura y salud del hombro.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
-      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta.",
-      "Extiende los brazos hacia adelante y hacia abajo con las palmas enfrentadas.",
+      "Ajusta un banco inclinado a un ángulo bajo y sostén una mancuerna en cada mano.",
+      "Acuéstate boca abajo con el pecho apoyado en el respaldo y los pies en el suelo.",
+      "Deja colgar los brazos rectos con las palmas enfrentadas.",
       "Manteniendo una ligera flexión en los codos, sube los brazos hacia los lados hasta dejarlos paralelos al suelo.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
@@ -428,10 +425,10 @@
   },
   "0384": {
     "name": "Curl predicador inverso con mancuernas",
-    "description": "Curl predicador con agarre supinado que combina el aislamiento del banco con la toma invertida. La almohadilla bloquea el hombro y obliga a una contracción estricta de bíceps y antebrazos.",
+    "description": "Curl predicador con agarre pronado que combina el aislamiento del banco con la toma invertida. La almohadilla bloquea el hombro y la toma con palmas hacia abajo carga el braquial y los antebrazos.",
     "instructions": [
       "Siéntate en un banco predicador con los brazos superiores en la almohadilla y el pecho contra el soporte.",
-      "Sostén una mancuerna en cada mano con agarre supinado, palmas hacia arriba.",
+      "Sostén una mancuerna en cada mano con agarre pronado, palmas hacia abajo.",
       "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas contrayendo el bíceps.",
       "Sigue subiendo hasta que el bíceps esté contraído y las mancuernas a la altura del hombro.",
       "Mantén la contracción un segundo apretando el bíceps.",
@@ -453,10 +450,10 @@
   },
   "0386": {
     "name": "Apertura inversa con rotación y mancuernas",
-    "description": "Variante de la apertura posterior con rotación de muñeca al final del recorrido. La rotación añade estímulo al manguito rotador y enfatiza el deltoides posterior junto con trapecio medio y romboides.",
+    "description": "Variante de la apertura posterior acostado boca abajo en un banco inclinado, con rotación de muñeca al final del recorrido. La rotación añade estímulo al manguito rotador y enfatiza el deltoides posterior junto con trapecio medio y romboides.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano, palmas hacia adentro.",
-      "Flexiona ligeramente las rodillas y bisagra desde la cadera con la espalda recta y el pecho arriba.",
+      "Sostén una mancuerna en cada mano, palmas hacia adentro.",
+      "Acuéstate boca abajo en un banco inclinado con el pecho en el respaldo y los pies en el suelo, dejando colgar los brazos.",
       "Sube los brazos hacia los lados con una ligera flexión en los codos hasta dejarlos paralelos al suelo.",
       "Rota los brazos para que las palmas queden mirando hacia abajo.",
       "Baja despacio los brazos a la posición inicial.",
@@ -535,10 +532,10 @@
   },
   "0393": {
     "name": "Curl interno sentado con mancuernas",
-    "description": "Curl con los brazos superiores apoyados en los muslos para anular cualquier ayuda del torso. La fijación produce una contracción muy estricta del bíceps y suma trabajo a los antebrazos.",
+    "description": "Curl sentado con la espalda apoyada en el respaldo y los brazos colgando a los costados para anular la ayuda del torso. La fijación produce una contracción muy estricta del bíceps y suma trabajo a los antebrazos.",
     "instructions": [
       "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas hacia arriba.",
-      "Apoya los brazos superiores sobre los muslos dejando colgar las mancuernas.",
+      "Apoya la espalda en el respaldo y deja colgar los brazos rectos a los costados.",
       "Manteniendo los brazos superiores fijos, sube las mancuernas hacia los hombros contrayendo el bíceps.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
@@ -583,8 +580,8 @@
     "description": "Curl de muñeca con agarre neutro y antebrazos apoyados en los muslos. La toma martillo trabaja braquiorradial y flexores de muñeca, sumando grosor al antebrazo con un recorrido corto.",
     "instructions": [
       "Siéntate en un banco con los pies apoyados en el suelo y sostén una mancuerna en cada mano, palmas enfrentadas.",
-      "Apoya los antebrazos en los muslos dejando colgar las mancuernas.",
-      "Manteniendo las muñecas en posición neutra, sube las mancuernas hacia los hombros.",
+      "Apoya los antebrazos en los muslos con las manos por delante de las rodillas.",
+      "Sin mover los antebrazos, eleva las mancuernas doblando las muñecas hacia el pulgar.",
       "Haz una pausa arriba y baja despacio a la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
@@ -602,12 +599,12 @@
   },
   "0399": {
     "name": "Rotación externa sentado a un brazo con mancuerna",
-    "description": "Trabajo rotacional para los antebrazos y el manguito rotador. La rotación externa con la mancuerna construye control articular y mejora la salud del hombro como ejercicio prehabilitador.",
+    "description": "Trabajo rotacional para los antebrazos. Con el brazo colgando recto, la rotación del antebrazo con la mancuerna construye fuerza y movilidad.",
     "instructions": [
-      "Siéntate en un banco con la espalda recta y sostén una mancuerna en una mano, apoyada en el muslo.",
-      "Sube la mancuerna a la altura del hombro manteniendo el codo cerca del cuerpo.",
-      "Rota el antebrazo hacia afuera, alejándolo del cuerpo, sin mover el brazo superior.",
-      "Haz una pausa arriba y rota despacio el antebrazo a la posición inicial.",
+      "Siéntate en un banco con una mancuerna en una mano e inclínate un poco hacia adelante.",
+      "Deja colgar el brazo de trabajo recto junto a la pierna.",
+      "Sin mover el brazo, rota el antebrazo para girar la mancuerna lo más que puedas hacia un lado.",
+      "Haz una pausa y rota despacio hacia el otro lado.",
       "Repite las repeticiones deseadas y cambia de brazo."
     ]
   },
@@ -636,13 +633,13 @@
   },
   "0402": {
     "name": "Curl predicador sentado a un brazo con mancuerna",
-    "description": "Curl predicador unilateral con la espalda apoyada en la almohadilla. La toma supinada y la fijación del codo aíslan al bíceps por completo, ideal para corregir descompensaciones entre brazos.",
+    "description": "Curl predicador sentado con los brazos apoyados en la almohadilla. La toma supinada y la fijación del codo aíslan al bíceps por completo y reducen el impulso.",
     "instructions": [
       "Siéntate en un banco predicador con los pies apoyados en el suelo.",
-      "Sostén una mancuerna en una mano con agarre supinado, apoyando el brazo superior contra la almohadilla.",
-      "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro.",
+      "Sostén una mancuerna en cada mano con agarre supinado, apoyando los brazos superiores contra la almohadilla.",
+      "Manteniendo los brazos superiores fijos, exhala y sube las mancuernas hacia los hombros.",
       "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
-      "Repite las repeticiones deseadas y cambia de brazo."
+      "Repite las repeticiones deseadas."
     ]
   },
   "0403": {
@@ -662,7 +659,7 @@
     "description": "Empuje vertical sentado con agarre neutro y palmas enfrentadas. El agarre paralelo es más amable con el hombro y enfatiza el deltoides anterior junto con tríceps y espalda alta.",
     "instructions": [
       "Siéntate en un banco con una mancuerna en cada mano, palmas enfrentadas.",
-      "Sube las mancuernas a la altura del hombro, codos flexionados y palmas hacia adelante.",
+      "Sube las mancuernas a la altura del hombro, codos flexionados y palmas enfrentadas.",
       "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
       "Haz una pausa arriba y baja despacio las mancuernas a la altura del hombro.",
       "Repite las repeticiones deseadas."
@@ -694,8 +691,8 @@
     "name": "Inclinación lateral con mancuerna",
     "description": "Trabajo de oblicuos y abdominales con carga a un lado del cuerpo. La inclinación lateral controlada exige al core anti-lateroflexión y construye fuerza funcional en la zona media.",
     "instructions": [
-      "Párate con la espalda recta, los pies al ancho de los hombros y sostén una mancuerna en una mano colgando al costado.",
-      "Manteniendo la espalda recta y el core activo, inclínate despacio hacia el lado opuesto a la mancuerna bajando el peso lo más que puedas con comodidad.",
+      "Párate con la espalda recta, los pies al ancho de los hombros, sostén una mancuerna en una mano colgando al costado y coloca la otra mano detrás de la cabeza.",
+      "Manteniendo la espalda recta y el core activo, inclínate despacio hacia el lado de la mancuerna bajando el peso a lo largo de la pierna lo más que puedas con comodidad.",
       "Haz una pausa y vuelve despacio a la posición inicial.",
       "Repite las repeticiones deseadas, cambia de lado y repite."
     ]
@@ -713,12 +710,12 @@
   },
   "0409": {
     "name": "Elevación de pantorrilla a una pierna con mancuerna",
-    "description": "Trabajo unilateral de gemelo y sóleo de pie con la punta apoyada en un escalón. La mancuerna aumenta la sobrecarga y la pierna libre fuerza al gemelo trabajado a hacer todo el esfuerzo.",
+    "description": "Trabajo unilateral de gemelo y sóleo de pie sobre una sola pierna. La mancuerna aumenta la sobrecarga y la pierna libre obliga al gemelo trabajado a hacer todo el esfuerzo y a mantener el equilibrio.",
     "instructions": [
-      "Párate al borde de un escalón o plataforma con los talones por fuera y las puntas en el escalón.",
-      "Sostén una mancuerna en una mano y apoya la otra en una pared o baranda para estabilizar.",
+      "Párate sobre una pierna en el suelo, con el otro pie despegado.",
+      "Sostén una mancuerna en una mano al costado.",
       "Eleva el talón lo más alto posible, subiendo el cuerpo sobre las puntas de los pies.",
-      "Haz una pausa arriba y baja despacio el talón por debajo del escalón.",
+      "Haz una pausa arriba y baja despacio el talón hasta el suelo.",
       "Repite las repeticiones deseadas y cambia de pierna."
     ]
   },
@@ -735,10 +732,10 @@
   },
   "0411": {
     "name": "Sentadilla a una pierna con mancuernas",
-    "description": "Sentadilla unilateral con la pierna libre extendida al frente, ejecutada con mancuernas para sumar carga. Demanda gran equilibrio y control de cadera, recompensando con fuerza pura en glúteos y cuádriceps.",
+    "description": "Sentadilla unilateral con la pierna libre extendida al frente, ejecutada con una mancuerna para sumar carga. Demanda gran equilibrio y control de cadera, recompensando con fuerza pura en glúteos y cuádriceps.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano.",
-      "Extiende una pierna al frente y mantenla separada del suelo durante todo el ejercicio.",
+      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en una mano al costado.",
+      "Extiende una pierna al frente y mantenla separada del suelo durante todo el ejercicio, llevando el brazo libre al frente para equilibrarte.",
       "Flexiona la pierna de apoyo y baja como si fueras a sentarte en una silla.",
       "Mantén el pecho arriba y la espalda recta.",
       "Haz una pausa abajo y empuja con el talón para volver a la posición inicial.",
@@ -796,17 +793,17 @@
     "name": "Elevación de pantorrilla de pie con mancuernas",
     "description": "Trabajo bilateral de gemelos sosteniendo mancuernas a los lados para sumar carga. La cadencia controlada en la subida y la bajada genera tensión sostenida en la pantorrilla.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en cada mano.",
-      "Eleva los talones del suelo lo más alto posible empujando con las pantorrillas.",
-      "Haz una pausa arriba y baja despacio los talones a la posición inicial.",
+      "Párate con la parte delantera de los pies sobre un escalón bajo y los talones por fuera, sosteniendo una mancuerna en cada mano.",
+      "Eleva los talones lo más alto posible empujando con las pantorrillas.",
+      "Haz una pausa arriba y baja despacio los talones por debajo del escalón.",
       "Repite las repeticiones deseadas."
     ]
   },
   "0418": {
     "name": "Curl concentrado de pie con mancuerna",
-    "description": "Curl concentrado en posición de pie con la mano libre apoyada en el muslo. La fijación del brazo superior aísla el bíceps y construye un pico marcado con una contracción muy estricta.",
+    "description": "Curl concentrado de pie con el torso inclinado hacia adelante y la mano libre apoyada en el muslo. La fijación del brazo superior aísla el bíceps y construye un pico marcado con una contracción muy estricta.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano con el brazo extendido y la palma hacia adentro.",
+      "Párate con los pies más abiertos que los hombros, inclínate hacia adelante desde la cadera y deja colgar la mancuerna de una mano con el brazo extendido y la palma hacia adentro.",
       "Apoya la mano libre en el muslo para estabilizar.",
       "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
       "Sigue subiendo hasta que el bíceps esté contraído y la mancuerna a la altura del hombro.",
@@ -840,7 +837,7 @@
     "name": "Curl concentrado a un brazo de pie con mancuerna",
     "description": "Curl concentrado unilateral de pie, ideal para enfocarse en un solo bíceps a la vez. La mano libre sobre el muslo limita la trampa y permite un trabajo de calidad para corregir asimetrías.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano, palma hacia arriba.",
+      "Párate con los pies al ancho de los hombros, inclínate hacia adelante desde la cadera y sostén una mancuerna en una mano con el brazo colgando, palma hacia arriba.",
       "Apoya la mano libre en el muslo para estabilizar.",
       "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
       "Sigue subiendo hasta que el bíceps esté contraído y la mancuerna a la altura del hombro.",
@@ -851,10 +848,10 @@
   },
   "0422": {
     "name": "Curl de pie a un brazo con apoyo en banco inclinado y mancuerna",
-    "description": "Curl unilateral de pie con la mano libre apoyada en un banco inclinado. La estabilización extra elimina el balanceo y permite manejar cargas con una técnica muy estricta.",
+    "description": "Curl unilateral de pie detrás de un banco inclinado, con el brazo de trabajo apoyado sobre el respaldo al estilo predicador. El apoyo elimina el balanceo y permite manejar cargas con una técnica muy estricta.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros sosteniendo una mancuerna en una mano con la palma hacia adelante.",
-      "Apoya la otra mano en un banco inclinado para estabilizar.",
+      "Párate detrás de un banco inclinado sosteniendo una mancuerna en una mano con la palma hacia adelante.",
+      "Apoya la parte trasera del brazo de trabajo sobre el borde superior del respaldo, con el brazo extendido.",
       "Manteniendo el brazo superior fijo, exhala y sube la mancuerna hacia el hombro contrayendo el bíceps.",
       "Haz una pausa arriba e inhala mientras bajas despacio a la posición inicial.",
       "Repite las repeticiones deseadas y cambia de brazo."
@@ -940,12 +937,12 @@
   },
   "0430": {
     "name": "Extensión de tríceps de pie con mancuerna",
-    "description": "Extensión por encima de la cabeza con una sola mancuerna en posición de pie. El recorrido completo estira la cabeza larga del tríceps y demanda al core para mantener la columna neutra bajo la carga.",
+    "description": "Extensión por encima de la cabeza con una sola mancuerna sostenida con ambas manos, de pie. El recorrido completo estira la cabeza larga del tríceps y demanda al core para mantener la columna neutra bajo la carga.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en una mano.",
-      "Eleva la mancuerna por encima de la cabeza manteniendo el brazo recto.",
-      "Flexiona el codo y baja la mancuerna detrás de la cabeza manteniendo el brazo superior fijo.",
-      "Extiende el brazo hasta la posición inicial.",
+      "Párate con los pies al ancho de los hombros y sostén una mancuerna con ambas manos.",
+      "Eleva la mancuerna por encima de la cabeza manteniendo los brazos rectos.",
+      "Flexiona los codos y baja la mancuerna detrás de la cabeza manteniendo los brazos superiores fijos.",
+      "Extiende los brazos hasta la posición inicial.",
       "Repite las repeticiones deseadas."
     ]
   },
@@ -995,12 +992,12 @@
   },
   "0436": {
     "name": "Press Tate con mancuernas",
-    "description": "Press de tríceps específico con un patrón angular que dirige los codos hacia afuera. Trabaja la cabeza medial del tríceps con una mecánica única, ideal como accesorio para fortalecer el bloqueo del press.",
+    "description": "Press de tríceps acostado con un patrón angular que dirige los codos hacia afuera. Las mancuernas bajan juntas sobre el pecho, lo que trabaja el tríceps con una mecánica única, ideal como accesorio para fortalecer el bloqueo del press.",
     "instructions": [
-      "Siéntate en un banco plano con una mancuerna en cada mano, palmas enfrentadas.",
-      "Sube las mancuernas a la altura del hombro y rota las muñecas hasta que las palmas miren hacia afuera.",
-      "Empuja las mancuernas hacia arriba hasta extender los brazos y baja a la altura del hombro.",
-      "Rota las muñecas a la posición inicial y repite las repeticiones deseadas."
+      "Acuéstate en un banco plano con una mancuerna en cada mano y extiende los brazos sobre el pecho.",
+      "Gira las palmas hacia los pies para que los extremos de las mancuernas queden enfrentados.",
+      "Sin mover los brazos superiores, abre los codos hacia los lados y baja las mancuernas juntas hasta el pecho.",
+      "Extiende los codos para volver a la posición inicial y repite las repeticiones deseadas."
     ]
   },
   "0437": {
@@ -1016,9 +1013,9 @@
   },
   "0438": {
     "name": "Press en W con mancuernas",
-    "description": "Empuje vertical sentado en el que los brazos forman una W al inicio del recorrido. Trabaja deltoides, tríceps y pecho con un patrón de aducción escapular que favorece la salud del hombro.",
+    "description": "Empuje vertical de pie en el que los brazos forman una W al inicio del recorrido. Trabaja deltoides, tríceps y pecho con un patrón de aducción escapular que favorece la salud del hombro.",
     "instructions": [
-      "Siéntate en un banco con una mancuerna en cada mano, palmas hacia adelante.",
+      "Párate con los pies al ancho de los hombros y una mancuerna en cada mano, palmas hacia adelante.",
       "Sube las mancuernas a la altura del hombro con los codos flexionados y palmas al frente.",
       "Empuja las mancuernas hacia arriba hasta extender los brazos por encima de la cabeza.",
       "Baja las mancuernas a la altura del hombro.",
@@ -1052,19 +1049,19 @@
   },
   "0445": {
     "name": "Press anti gravedad con barra EZ",
-    "description": "Empuje vertical de pie con barra EZ. La curvatura de la barra es más amable con las muñecas que la barra recta y permite enfocar el trabajo en deltoides, tríceps y pecho durante el recorrido completo.",
+    "description": "Empuje con barra EZ acostado boca abajo en un banco inclinado. La posición con el pecho apoyado obliga a deltoides y espalda alta a empujar la barra hacia adelante y arriba, con apoyo del tríceps.",
     "instructions": [
-      "Comienza de pie con los pies al ancho de los hombros sosteniendo la barra EZ con agarre pronado.",
-      "Sube la barra a la altura del hombro manteniendo los codos ligeramente flexionados y las palmas hacia adelante.",
-      "Empuja la barra por encima de la cabeza extendiendo los brazos por completo.",
-      "Baja la barra a la altura del hombro y repite las repeticiones deseadas."
+      "Acuéstate boca abajo en un banco inclinado con el pecho en el respaldo y los pies en el suelo, sosteniendo la barra EZ con agarre pronado.",
+      "Lleva la barra delante de la cabeza con los codos flexionados y hacia los lados.",
+      "Empuja la barra hacia adelante y arriba hasta extender por completo los brazos en línea con el torso.",
+      "Baja la barra delante de la cabeza y repite las repeticiones deseadas."
     ]
   },
   "0446": {
     "name": "Curl con agarre cerrado y barra EZ",
     "description": "Curl con barra EZ y manos juntas que enfatiza la cabeza externa del bíceps. La curvatura de la barra reduce el estrés sobre las muñecas y permite manejar cargas con una técnica estricta.",
     "instructions": [
-      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado y manos al ancho de los hombros.",
+      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado y las manos juntas cerca del centro de la barra.",
       "Mantén los codos pegados al torso y los brazos superiores fijos durante todo el movimiento.",
       "Sube la barra hacia los hombros contrayendo el bíceps.",
       "Haz una pausa arriba y baja despacio la barra a la posición inicial.",
@@ -1087,7 +1084,7 @@
     "description": "Press de tríceps en banco declinado con barra EZ y agarre cerrado, llevando la barra hacia la frente. Combina aspectos del press cerrado y la extensión de tríceps para un trabajo intenso en la cabeza larga.",
     "instructions": [
       "Acuéstate en un banco declinado con la cabeza más baja que los pies.",
-      "Toma la barra EZ con agarre cerrado y palmas enfrentadas.",
+      "Toma la barra EZ con agarre pronado cerrado.",
       "Extiende los brazos rectos sobre el pecho manteniendo los codos cerca del cuerpo.",
       "Baja la barra hacia la frente flexionando los codos.",
       "Haz una pausa y empuja la barra hasta la posición inicial.",
@@ -1111,8 +1108,8 @@
     "description": "Híbrido entre press cerrado y extensión de tríceps creado por el powerlifter JM Blakley. La barra EZ y el agarre cerrado dirigen casi todo el trabajo al tríceps, ideal para mejorar el bloqueo del press.",
     "instructions": [
       "Acuéstate en un banco plano con los pies firmes en el suelo y la espalda pegada al banco.",
-      "Toma la barra EZ con agarre pronado un poco más ancho que los hombros.",
-      "Baja la barra hacia el pecho manteniendo los codos pegados al cuerpo.",
+      "Toma la barra EZ con agarre pronado cerrado, con las manos por dentro del ancho de los hombros.",
+      "Baja la barra hacia la parte alta del pecho y el mentón manteniendo los codos pegados al cuerpo.",
       "Empuja la barra hasta la posición inicial extendiendo los brazos por completo.",
       "Repite las repeticiones deseadas."
     ]
@@ -1121,7 +1118,7 @@
     "name": "Curl inverso con barra EZ",
     "description": "Curl con barra EZ y agarre pronado. La toma invertida desplaza la tensión hacia el braquial y los antebrazos, sumando grosor al brazo y fuerza de agarre.",
     "instructions": [
-      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre supinado.",
+      "Párate con la espalda recta y los pies al ancho de los hombros sosteniendo la barra EZ con agarre pronado, palmas hacia abajo.",
       "Mantén los codos pegados al torso y los brazos superiores fijos durante todo el ejercicio.",
       "Sube la barra contrayendo el bíceps mientras exhalas.",
       "Sigue subiendo hasta que el bíceps esté contraído y la barra a la altura del hombro.",
@@ -1135,7 +1132,7 @@
     "description": "Curl predicador con barra EZ y agarre invertido. La almohadilla bloquea el hombro y la toma pronada desvía el trabajo al braquial y los antebrazos para construir un brazo más completo.",
     "instructions": [
       "Siéntate en un banco predicador con el pecho contra la almohadilla y los pies apoyados en el suelo.",
-      "Toma la barra EZ con agarre supinado y manos al ancho de los hombros.",
+      "Toma la barra EZ con agarre pronado y manos al ancho de los hombros.",
       "Apoya los brazos superiores en la almohadilla dejando colgar los antebrazos.",
       "Manteniendo los brazos superiores fijos, exhala y sube la barra hacia los hombros.",
       "Haz una pausa arriba e inhala mientras bajas despacio la barra a la posición inicial.",

@@ -1,24 +1,24 @@
 {
   "0001": {
     "name": "Abdominal a 45 grados",
-    "description": "El abdominal a 45 grados limita el rango del sit-up tradicional para mantener tensión continua sobre el recto abdominal. Al detener el ascenso a 45 grados se evita el descanso en el rango alto y se intensifica el trabajo del core sin necesidad de equipo.",
+    "description": "El abdominal 3/4 es un sit-up con peso corporal en el que elevas el torso hasta quedar casi vertical. Trabaja el recto abdominal y los flexores de cadera sin necesidad de equipo.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
       "Coloca las manos detrás de la cabeza con los codos abiertos hacia los lados.",
-      "Activa el abdomen y eleva lentamente la parte superior del torso curvando la espalda hasta formar un ángulo de 45 grados.",
+      "Activa el abdomen y eleva lentamente el torso curvando la espalda hasta quedar casi vertical.",
       "Haz una pausa breve arriba y desciende con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "0002": {
     "name": "Inclinación lateral de 45 grados de pie",
-    "description": "Esta inclinación lateral de pie aísla los oblicuos mediante una flexión controlada del torso hacia un costado. La ausencia de equipo permite enfocarse en la conexión mente-músculo y en mantener la columna alineada durante todo el recorrido.",
+    "description": "La inclinación lateral a 45 grados trabaja los oblicuos acostado de lado en un banco de hiperextensiones a 45 grados. Bajas y subes el torso de lado contra la gravedad, manteniendo el cuerpo alineado.",
     "instructions": [
-      "Ponte de pie con los pies separados al ancho de los hombros y los brazos extendidos a lo largo del cuerpo.",
-      "Mantén la espalda recta y el core activo, e inclina lentamente el torso hacia un lado bajando la mano hacia la rodilla.",
-      "Haz una pausa breve abajo y regresa con control a la posición inicial.",
-      "Repite hacia el otro lado.",
-      "Continúa alternando lados durante el número de repeticiones deseado."
+      "Colócate de lado en un banco de hiperextensiones a 45 grados, con la cadera sobre el soporte y los pies fijos bajo los rodillos.",
+      "Coloca las manos detrás de la cabeza y mantén el cuerpo en línea recta.",
+      "Inclina lentamente el torso de lado, bajando la parte superior del cuerpo hacia el piso.",
+      "Contrae los oblicuos para subir el torso de nuevo un poco por encima de la línea inicial y haz una pausa.",
+      "Completa las repeticiones de un lado y luego cambia de lado."
     ]
   },
   "0003": {
@@ -48,10 +48,10 @@
     "description": "El jalón lateral alterno en polea trabaja la espalda de forma unilateral, halando una manija a la vez para enfatizar la activación de cada dorsal. La alternancia ayuda a corregir asimetrías y a mejorar la conexión con el centro de la espalda.",
     "instructions": [
       "Siéntate en la máquina de polea con la espalda recta y los pies apoyados en el suelo.",
-      "Sujeta las manijas con agarre prono, ligeramente más abierto que el ancho de los hombros.",
-      "Inclínate ligeramente hacia atrás y hala las manijas hacia el pecho juntando las escápulas.",
+      "Sujeta una sola manija por encima de la cabeza con una mano y el brazo completamente extendido.",
+      "Inclínate ligeramente hacia atrás y hala la manija hacia el hombro, llevando el codo hacia el costado.",
       "Haz una pausa breve en el pico del movimiento y suelta las manijas con control hasta la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Completa las repeticiones con un brazo y luego cambia de brazo."
     ]
   },
   "0009": {
@@ -71,7 +71,7 @@
     "instructions": [
       "Cuélgate de una barra de dominadas con los brazos completamente extendidos y las palmas hacia adelante.",
       "Activa el core y lleva las rodillas hacia el pecho manteniendo las piernas juntas.",
-      "Cuando las rodillas estén a la altura del pecho, lanza explosivamente las piernas hacia el suelo extendiéndolas por completo.",
+      "Cuando las rodillas estén a la altura del pecho, pide a tu compañero que empuje tus piernas hacia el suelo y frena el movimiento para no balancearte.",
       "Deja que las piernas regresen con impulso hacia arriba y repite el movimiento durante las repeticiones deseadas."
     ]
   },
@@ -88,28 +88,28 @@
   },
   "0012": {
     "name": "Elevación de piernas acostado asistida con lanzamiento lateral",
-    "description": "Esta variante combina la elevación de piernas acostado con un descenso lateral controlado, lo que añade trabajo intenso para los oblicuos. La asistencia permite mantener la espalda baja pegada al piso y enfocarse en la rotación lenta del torso.",
+    "description": "La elevación de piernas acostado con lanzamiento lateral es un ejercicio en pareja para abdomen y oblicuos. Acostado boca arriba sujetas los tobillos de un compañero de pie, subes las piernas hacia él y frenas mientras él las lanza hacia un lado.",
     "instructions": [
-      "Acuéstate boca arriba con las piernas extendidas y los brazos a los lados del cuerpo.",
-      "Coloca las manos debajo de los glúteos para dar soporte a la zona lumbar.",
-      "Activa el abdomen y eleva las piernas del suelo manteniéndolas rectas.",
-      "Con las piernas juntas, bájalas hacia un lado hasta que queden unos centímetros sobre el piso.",
-      "Haz una pausa breve y vuelve a llevar las piernas a la posición inicial.",
+      "Acuéstate boca arriba con las piernas extendidas y la cabeza junto a los pies de un compañero de pie.",
+      "Lleva los brazos hacia atrás y sujeta los tobillos de tu compañero.",
+      "Activa el abdomen y sube las piernas rectas hacia las manos de tu compañero.",
+      "Deja que tu compañero empuje tus piernas hacia abajo y a un lado, y frénalas antes de que toquen el piso.",
+      "Vuelve a subir las piernas de inmediato hacia tu compañero.",
       "Repite el movimiento hacia el otro lado.",
       "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0013": {
     "name": "Elevación de piernas acostado asistida con lanzamiento",
-    "description": "La elevación de piernas acostado con lanzamiento añade un componente excéntrico explosivo en el descenso para retar el control del core. La asistencia ayuda a estabilizar la zona lumbar y permite mantener las piernas rectas durante todo el recorrido.",
+    "description": "La elevación de piernas acostado con lanzamiento es un ejercicio en pareja para abdomen y flexores de cadera. Acostado boca arriba sujetas los tobillos de un compañero de pie, subes las piernas hacia él y frenas mientras él las lanza hacia abajo.",
     "instructions": [
-      "Acuéstate boca arriba con las piernas extendidas y los brazos a los lados del cuerpo.",
-      "Coloca las manos debajo de los glúteos para dar soporte.",
+      "Acuéstate boca arriba con las piernas extendidas y la cabeza junto a los pies de un compañero de pie.",
+      "Lleva los brazos hacia atrás y sujeta los tobillos de tu compañero.",
       "Activa el core y eleva las piernas del suelo manteniéndolas rectas.",
-      "Sube las piernas hasta que queden perpendiculares al suelo.",
-      "Baja las piernas con control hasta la posición inicial.",
-      "De manera explosiva, lanza las piernas hacia el suelo manteniéndolas rectas.",
-      "Vuelve a subir las piernas a la posición inicial.",
+      "Sube las piernas hasta que lleguen a las manos de tu compañero.",
+      "Deja que tu compañero empuje tus piernas hacia el piso.",
+      "Frena el descenso con el abdomen y detente antes de que los talones toquen el piso.",
+      "Vuelve a subir las piernas hacia tu compañero.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -143,8 +143,8 @@
     "description": "El curl femoral prono asistido aísla los isquiotibiales con apoyo de un compañero o una banda de resistencia que regula la carga. Es ideal para quienes no pueden completar la versión convencional o para añadir volumen controlado a la cadena posterior.",
     "instructions": [
       "Acuéstate boca abajo sobre una colchoneta o banco con las piernas completamente extendidas.",
-      "Pide a un compañero que sujete los tobillos o usa una banda de resistencia para fijarlos.",
-      "Activa los isquiotibiales y lleva los pies hacia los glúteos manteniendo las rodillas alineadas.",
+      "Pide a un compañero que se arrodille detrás de ti y sujete tus tobillos para ofrecer resistencia.",
+      "Activa los isquiotibiales y flexiona las rodillas llevando los talones hacia los glúteos contra la resistencia de tu compañero.",
       "Haz una pausa breve arriba y baja las piernas con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -164,9 +164,9 @@
   },
   "0018": {
     "name": "Extensión de tríceps de pie asistida con toalla",
-    "description": "Esta extensión de tríceps usa una toalla como herramienta de tensión: una mano resiste mientras la otra extiende. Es un recurso útil para activar los tríceps sin pesas, manteniendo los codos pegados a la cabeza durante todo el recorrido.",
+    "description": "Esta extensión de tríceps usa una toalla y un compañero como resistencia: tú extiendes los brazos mientras él tira del otro extremo. Es un recurso útil para activar los tríceps sin pesas, manteniendo los codos pegados a la cabeza.",
     "instructions": [
-      "Ponte de pie con los pies separados al ancho de los hombros y sujeta la toalla con ambas manos detrás de la cabeza.",
+      "Ponte de pie con los pies separados al ancho de los hombros y sujeta un extremo de la toalla con ambas manos detrás de la cabeza, mientras un compañero detrás de ti sujeta el otro extremo.",
       "Mantén los codos cerca de las orejas y los brazos superiores quietos.",
       "Extiende lentamente los antebrazos hacia arriba apretando los tríceps en la parte alta.",
       "Haz una pausa breve y baja la toalla con control hasta la posición inicial.",
@@ -186,13 +186,13 @@
   },
   "0020": {
     "name": "Equilibrio sobre tabla de balance",
-    "description": "Pararse sobre una tabla de balance reta la propiocepción de tobillos, rodillas y core para mantener la postura. Es un trabajo unilateral excelente como activación previa a entrenamientos de pierna o como rehabilitación de tobillo.",
+    "description": "Pararse con ambos pies sobre una tabla de balance reta la propiocepción de tobillos, rodillas y core para mantener la postura. Es una buena activación previa a entrenamientos de pierna o un trabajo de rehabilitación de tobillo.",
     "instructions": [
       "Coloca la tabla de balance sobre una superficie plana.",
-      "Sube a la tabla con un solo pie asegurándote de que quede centrado.",
-      "Cambia el peso lentamente al pie apoyado manteniendo el core activo.",
+      "Sube a la tabla con ambos pies, repartidos a cada lado del centro.",
+      "Pasa lentamente todo el peso a la tabla con las rodillas suaves y el core activo.",
       "Mantén el equilibrio y la estabilidad sosteniendo la posición durante el tiempo deseado.",
-      "Repite el ejercicio con el otro pie."
+      "Bájate, descansa y repite las series deseadas."
     ]
   },
   "0022": {
@@ -244,14 +244,14 @@
   },
   "0026": {
     "name": "Sentadilla en rack con barra",
-    "description": "La sentadilla con barra ejecutada desde un rack permite cargar peso con seguridad para trabajar cuádriceps, glúteos e isquiotibiales. Bajar con control y empujar desde los talones manteniendo el pecho arriba es la clave del patrón.",
+    "description": "La sentadilla al banco con barra trabaja cuádriceps, glúteos e isquiotibiales. Bajas con la barra en la espalda hasta tocar un banco colocado detrás de ti, lo que marca una profundidad constante.",
     "instructions": [
-      "Coloca una barra en un rack a la altura del pecho.",
-      "Ponte de espaldas al rack con los pies separados al ancho de los hombros.",
-      "Flexiona rodillas y caderas para bajar a la posición de sentadilla manteniendo la espalda recta y el pecho arriba.",
-      "Sujeta la barra con agarre prono ligeramente más abierto que el ancho de los hombros.",
-      "Levanta la barra del rack y da un paso atrás manteniendo los pies al ancho de los hombros.",
-      "Baja a la sentadilla manteniendo las rodillas alineadas con la punta de los pies.",
+      "Coloca un banco plano detrás de ti y una barra en un rack a la altura de los hombros.",
+      "Coloca la barra sobre la espalda alta y sujétala un poco más abierta que el ancho de los hombros.",
+      "Saca la barra del rack y retrocede hasta que el banco quede justo detrás de tus talones.",
+      "Separa los pies al ancho de los hombros, activa el core y mantén el pecho arriba.",
+      "Lleva la cadera atrás y flexiona las rodillas para bajar con control.",
+      "Baja hasta que los glúteos toquen suavemente el banco, con las rodillas alineadas con la punta de los pies.",
       "Haz una pausa breve abajo y empuja desde los talones para volver a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -298,7 +298,7 @@
     "description": "El press de banca con agarre cerrado desplaza la carga del pectoral hacia los tríceps al estrechar el agarre y mantener los codos pegados al torso. Es uno de los mejores ejercicios para desarrollar fuerza en la extensión del codo bajo cargas elevadas.",
     "instructions": [
       "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la espalda pegada al banco.",
-      "Sujeta la barra con agarre cerrado, ligeramente más estrecho que el ancho de los hombros.",
+      "Sujeta la barra con agarre muy cerrado, con las manos a pocos centímetros entre sí en el centro de la barra.",
       "Saca la barra del soporte y bájala lentamente hacia el pecho manteniendo los codos cerca del cuerpo.",
       "Haz una pausa breve cuando la barra toque el pecho.",
       "Empuja la barra de regreso a la posición inicial extendiendo completamente los brazos.",
@@ -408,13 +408,13 @@
   },
   "0040": {
     "name": "Elevación frontal a pullover con barra",
-    "description": "Este combo encadena una elevación frontal con un pullover detrás de la cabeza para trabajar pectorales, deltoides anteriores y dorsales en una sola serie. Demanda buena movilidad de hombros y control postural durante todo el rango.",
+    "description": "Este ejercicio se hace acostado en un banco plano y trabaja pectorales, dorsales y deltoides anteriores. La barra describe un arco con los brazos rectos desde encima del pecho hasta detrás de la cabeza, y exige buena movilidad de hombros.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono, palmas hacia abajo.",
-      "Mantén los brazos rectos y eleva la barra al frente hasta la altura de los hombros.",
-      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
-      "Luego baja la barra detrás de la cabeza manteniendo los brazos rectos.",
-      "Haz una pausa breve abajo y sube la barra de regreso a la posición inicial.",
+      "Acuéstate en un banco plano con los pies en el suelo y la cabeza cerca del extremo del banco.",
+      "Sujeta una barra con agarre prono al ancho de los hombros, con los brazos extendidos sobre el pecho.",
+      "Manteniendo los brazos rectos, baja la barra lentamente en arco por detrás de la cabeza.",
+      "Baja hasta que los brazos queden en línea con el torso o sientas estiramiento en pecho y dorsales.",
+      "Regresa la barra por el mismo arco hasta encima del pecho.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -527,27 +527,27 @@
   },
   "0050": {
     "name": "Empuje vertical en banco inclinado con barra",
-    "description": "Este movimiento sobre banco inclinado activa el serrato anterior al elevar la barra desde la altura de los hombros hasta por encima de la cabeza. Es un trabajo poco común pero muy útil para mejorar la estabilidad escapular y la salud del hombro.",
+    "description": "Este ejercicio se hace recostado en un banco inclinado y activa el serrato anterior. Con los brazos bloqueados, la barra sube y baja unos centímetros moviendo solo las escápulas, lo que mejora la estabilidad escapular.",
     "instructions": [
-      "Ajusta un banco inclinado a 45 grados.",
-      "Siéntate en el banco con la espalda contra la almohadilla y los pies apoyados en el suelo.",
+      "Ajusta un banco inclinado a unos 45 grados.",
+      "Recuéstate en el banco con la espalda contra la almohadilla y los pies apoyados en el suelo.",
       "Sostén una barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
-      "Eleva la barra a la altura de los hombros manteniendo los codos ligeramente flexionados.",
-      "Sube la barra por encima de la cabeza extendiendo completamente los brazos.",
-      "Haz una pausa breve arriba y baja la barra con control hasta la altura de los hombros.",
+      "Empuja la barra hasta extender por completo los brazos y bloquea los codos.",
+      "Con los codos bloqueados, eleva la barra un poco más separando las escápulas y despegando los hombros del respaldo.",
+      "Haz una pausa breve y deja que las escápulas se junten de nuevo para bajar la barra ligeramente.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "0051": {
     "name": "Sentadilla Jefferson con barra",
-    "description": "La sentadilla Jefferson sitúa la barra entre las piernas con una postura escalonada, alternando el pie adelantado en cada repetición. Esta carga asimétrica desafía glúteos, cuádriceps y core, y es una opción interesante cuando se buscan estímulos nuevos.",
+    "description": "La sentadilla Jefferson sitúa la barra entre las piernas, de adelante hacia atrás, con una postura amplia y una mano delante y otra detrás del cuerpo. Esta carga desafía glúteos, cuádriceps y core, y es una opción interesante cuando se buscan estímulos nuevos.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
-      "Sujeta la barra con agarre mixto al frente del cuerpo, justo debajo de la cintura.",
-      "Adelanta el pie izquierdo y atrasa el derecho manteniendo los pies separados al ancho de los hombros.",
+      "Colócate con la barra en el suelo entre los pies, orientada de adelante hacia atrás, y los pies más abiertos que los hombros.",
+      "Baja y sujeta la barra con una mano delante del cuerpo y la otra detrás.",
+      "Activa el core, mantén el pecho arriba y ponte de pie con la barra.",
       "Flexiona las rodillas y baja a la sentadilla con la espalda recta y el pecho arriba.",
       "Empuja desde los talones para volver a la posición inicial.",
-      "Repite el movimiento alternando el pie adelantado en cada repetición."
+      "Repite el número de repeticiones deseado y cambia la mano que va adelante en cada serie."
     ]
   },
   "0052": {
@@ -563,13 +563,13 @@
   },
   "0053": {
     "name": "Sentadilla con salto y barra",
-    "description": "La sentadilla con salto y barra es un ejercicio pliométrico cargado que entrena la potencia explosiva del tren inferior. La fase concéntrica explosiva combinada con un aterrizaje suave desarrolla glúteos y cuádriceps con un componente atlético claro.",
+    "description": "Este ejercicio pliométrico se hace en posición de zancada con la barra sobre la espalda alta. Saltas desde la zancada y cambias de pierna en el aire, trabajando glúteos, cuádriceps e isquiotibiales mientras desarrollas potencia.",
     "instructions": [
-      "Comienza de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
-      "Baja a la posición de sentadilla flexionando las rodillas y empujando las caderas atrás.",
-      "En el punto bajo, salta explosivamente despegando los pies del suelo.",
-      "Al saltar, extiende caderas, rodillas y tobillos empujando con la planta del pie.",
-      "Aterriza suavemente en la sentadilla y repite inmediatamente el movimiento durante el número de repeticiones deseado."
+      "Ponte en posición de zancada, un pie adelante y otro atrás, con la barra apoyada sobre la parte alta de la espalda.",
+      "Baja a la zancada flexionando ambas rodillas hasta que la rodilla de atrás quede cerca del suelo.",
+      "Desde abajo, salta explosivamente despegando los pies del suelo.",
+      "En el aire, cambia de pierna para que el pie de atrás pase adelante.",
+      "Aterriza suavemente en zancada con la otra pierna adelante y repite de inmediato durante el número de repeticiones deseado."
     ]
   },
   "0054": {
@@ -602,7 +602,7 @@
       "Acuéstate sobre un banco plano con los pies apoyados en el suelo y la cabeza al final del banco.",
       "Sujeta la barra con agarre cerrado al ancho de los hombros, palmas hacia arriba.",
       "Extiende los brazos completamente subiendo la barra por encima del pecho.",
-      "Mantén los brazos superiores quietos y baja la barra lentamente hacia la frente flexionando los codos.",
+      "Mantén los brazos superiores quietos y baja la barra lentamente por detrás de la cabeza flexionando los codos.",
       "Haz una pausa breve abajo y extiende los brazos para volver a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -620,20 +620,20 @@
   },
   "0058": {
     "name": "Empuje de cadera acostado con barra",
-    "description": "Este empuje de cadera acostado en banco coloca la barra sobre la cadera para desarrollar potencia en los glúteos. Aunque comparte familia con el hip thrust clásico, su rango es más corto y se ejecuta sobre el banco mismo.",
+    "description": "Este empuje de cadera con barra (hip thrust) apoya la espalda alta en el borde de un banco y coloca la barra sobre la cadera para trabajar los glúteos. También involucra isquiotibiales y cuádriceps.",
     "instructions": [
-      "Acuéstate boca arriba sobre un banco con los pies apoyados en el suelo y las rodillas flexionadas.",
-      "Sujeta la barra con agarre prono y colócala sobre la cadera.",
-      "Activa los glúteos y eleva las caderas del banco hasta formar una línea recta de las rodillas a los hombros.",
-      "Haz una pausa breve arriba y baja las caderas con control hasta la posición inicial.",
+      "Siéntate en el suelo con la espalda alta apoyada en el borde de un banco, las rodillas flexionadas y los pies en el suelo.",
+      "Rueda la barra sobre las piernas hasta la cadera y sujétala con agarre prono.",
+      "Activa los glúteos y eleva la cadera hasta formar una línea recta de las rodillas a los hombros.",
+      "Haz una pausa breve arriba y baja la cadera con control hacia el suelo.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "0059": {
     "name": "Curl predicador acostado con barra",
-    "description": "Esta variante del curl predicador se ejecuta apoyado en el banco predicador con el pecho contra la almohadilla. La posición elimina el impulso del torso y aísla los bíceps con la mecánica más estricta posible.",
+    "description": "Esta variante del curl se ejecuta acostado boca abajo en un banco plano, con los brazos colgando por el extremo. La posición elimina el impulso del torso y aísla los bíceps con una mecánica estricta.",
     "instructions": [
-      "Siéntate en un banco predicador con el pecho contra la almohadilla y los brazos extendidos sobre el borde, sujetando una barra con agarre supino.",
+      "Acuéstate boca abajo en un banco plano con las puntas de los pies en el suelo y los brazos colgando por el extremo, sujetando una barra con agarre supino.",
       "Mantén los brazos superiores quietos, exhala y flexiona los codos contrayendo los bíceps.",
       "Sigue subiendo hasta que los bíceps estén completamente contraídos y la barra a la altura del hombro.",
       "Sostén la posición contraída un instante apretando los bíceps.",
@@ -667,7 +667,7 @@
     "name": "Sentadilla con stance estrecho y barra",
     "description": "La sentadilla con pies juntos cambia el ángulo de trabajo y dirige el énfasis hacia los cuádriceps externos y los aductores. Exige más movilidad de tobillo que la sentadilla tradicional y es un buen recurso para variar el estímulo en piernas.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
+      "Ponte de pie con los pies juntos, más cerca que el ancho de la cadera, y las puntas al frente.",
       "Coloca la barra sobre la parte alta de la espalda apoyada en los trapecios o los deltoides posteriores.",
       "Activa el core y mantén el pecho arriba mientras bajas el cuerpo flexionando las rodillas y empujando las caderas atrás.",
       "Continúa bajando hasta que los muslos queden paralelos al suelo o ligeramente por debajo.",
@@ -679,10 +679,10 @@
     "name": "Remo unilateral inclinado con barra",
     "description": "El remo unilateral con barra obliga al core a estabilizar la asimetría mientras un solo brazo hala el peso. Es una variante exigente que ayuda a corregir desbalances entre lados y a desarrollar grosor en la espalda alta.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, las rodillas ligeramente flexionadas, y sujeta una barra con una sola mano usando agarre prono.",
+      "Apoya un extremo de la barra en el suelo (o en un landmine) y párate junto al extremo cargado con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
       "Inclínate hacia adelante desde las caderas manteniendo la espalda recta y la cabeza en posición neutra.",
-      "Hala la barra hacia el pecho manteniendo el codo cerca del cuerpo y juntando las escápulas.",
-      "Baja la barra a la posición inicial de manera controlada.",
+      "Sujeta la barra cerca del extremo cargado con una mano y hálala hacia el torso manteniendo el codo cerca del cuerpo.",
+      "Baja la barra de manera controlada sin dejar que los discos toquen el suelo.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
@@ -690,8 +690,8 @@
     "name": "Press unilateral en el suelo con barra",
     "description": "El press unilateral en el suelo con barra reta el core de forma intensa al estabilizar la barra con un solo brazo. El piso limita el rango y protege los hombros, lo que permite enfocarse en la potencia de los tríceps y en el control postural.",
     "instructions": [
-      "Acuéstate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados.",
-      "Sostén la barra con una mano, palma hacia arriba, y extiende el brazo recto por encima del pecho.",
+      "Acuéstate boca arriba en el suelo con las piernas extendidas.",
+      "Sujeta la barra por el centro con una mano, agarre prono, y extiende el brazo recto por encima del pecho.",
       "Baja la barra lentamente hacia el pecho manteniendo el codo cerca del cuerpo.",
       "Haz una pausa breve abajo y empuja la barra hasta la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
@@ -714,23 +714,23 @@
     "description": "La arrancada unilateral con barra es un movimiento explosivo de cuerpo entero que lleva la barra del suelo a una posición sobre la cabeza con un solo brazo. Trabaja deltoides, trapecios y core, y exige técnica precisa antes de cargar peso.",
     "instructions": [
       "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente abiertas.",
-      "Sujeta la barra con agarre prono, manos un poco más abiertas que el ancho de los hombros.",
+      "Sujeta la barra por el centro con una mano en agarre prono y apoya la mano libre en la rodilla.",
       "Flexiona las rodillas y baja las caderas a la posición de sentadilla manteniendo la espalda recta y el pecho arriba.",
       "Extiende explosivamente caderas, rodillas y tobillos impulsando la barra hacia arriba.",
       "Cuando la barra llegue a la altura del pecho, hálala con el brazo manteniéndola cerca del cuerpo.",
-      "Gira el codo por debajo de la barra y extiende el brazo completamente por encima de la cabeza, bloqueando el codo.",
-      "Baja la barra a la posición inicial de manera controlada.",
+      "Métete bajo la barra en sentadilla con el brazo bloqueado arriba y ponte de pie con la barra sobre la cabeza.",
+      "Baja la barra al suelo de manera controlada.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
   "0068": {
     "name": "Sentadilla a una pierna con barra",
-    "description": "La sentadilla a una pierna con barra es un test brutal de fuerza, movilidad y equilibrio unilateral. Exige una base sólida en sentadilla bilateral antes de intentarse y es uno de los movimientos más completos para los cuádriceps.",
+    "description": "La sentadilla a una pierna con barra se hace con la barra sobre la espalda y el pie de atrás apoyado en un banco, cargando la pierna de adelante. Exige equilibrio y fuerza unilateral, y es uno de los movimientos más completos para los cuádriceps.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
-      "Despega un pie del suelo y extiéndelo al frente manteniéndolo paralelo al piso.",
-      "Flexiona la pierna de apoyo y baja como si te sentaras en una silla, con el pecho arriba y la espalda recta.",
-      "Baja hasta que el muslo quede paralelo al suelo y empuja desde el talón para regresar a la posición inicial.",
+      "Párate delante de un banco plano con la barra apoyada sobre la parte alta de la espalda.",
+      "Apoya el empeine de un pie sobre el banco detrás de ti y adelanta el otro pie.",
+      "Flexiona la rodilla de adelante y baja el cuerpo en vertical, con el pecho arriba y la espalda recta.",
+      "Baja hasta que el muslo de adelante quede paralelo al suelo y empuja desde el talón para regresar a la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   },
@@ -759,12 +759,12 @@
   },
   "0071": {
     "name": "Abdominal con press de barra",
-    "description": "Este abdominal añade un press de pecho con barra al patrón clásico del sit-up para retar core, hombros y pectorales en simultáneo. La coordinación entre la curva del torso y el empuje de los brazos lo convierte en un ejercicio avanzado.",
+    "description": "Este abdominal se hace en un banco declinado y combina un sit-up completo con un press de barra. Reta core, hombros y pectorales en simultáneo, y la coordinación entre la subida del torso y el empuje lo convierte en un ejercicio avanzado.",
     "instructions": [
-      "Acuéstate boca arriba sobre una colchoneta con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Recuéstate en un banco declinado con los pies sujetos bajo los rodillos.",
       "Sostén la barra con agarre prono apoyada sobre el pecho.",
-      "Activa el abdomen y eleva lentamente el torso curvando la espalda hasta formar un ángulo de 45 grados.",
-      "Haz una pausa breve arriba y baja con control hasta la posición inicial.",
+      "Activa el abdomen y sube el torso hasta quedar erguido mientras empujas la barra hacia arriba hasta extender los brazos.",
+      "Haz una pausa breve arriba y baja la barra al pecho mientras te recuestas con control.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -808,12 +808,12 @@
   },
   "0075": {
     "name": "Elevación posterior con barra",
-    "description": "La elevación posterior con barra aísla los deltoides posteriores con un patrón inclinado y los brazos rectos. Es un ejercicio simple pero muy eficaz para mejorar la postura y equilibrar el desarrollo del hombro frente a la dominancia del frontal.",
+    "description": "La elevación posterior con barra trabaja los deltoides posteriores, con apoyo de trapecios y romboides. Se hace de pie y erguido con la barra detrás de la cadera, subiéndola atrás y arriba al llevar los codos hacia atrás.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono, palmas hacia abajo.",
-      "Flexiona ligeramente las rodillas y bisagra hacia adelante desde las caderas manteniendo la espalda recta.",
-      "Eleva la barra hacia los lados con los brazos rectos hasta que queden paralelos al piso.",
-      "Haz una pausa breve arriba y baja la barra con control hasta la posición inicial.",
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra detrás de la cadera con agarre prono.",
+      "Mantén el torso erguido, el pecho arriba y el core activo.",
+      "Lleva los codos hacia atrás y arriba, subiendo la barra por detrás del cuerpo.",
+      "Haz una pausa breve arriba apretando los deltoides posteriores y baja la barra con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -833,8 +833,8 @@
     "name": "Zancada inversa con barra (variante)",
     "description": "Esta variante de zancada inversa apoya la punta del pie atrás al dar el paso, generando un patrón ligeramente distinto al de la versión clásica. Carga glúteos y cuádriceps con un componente unilateral fuerte y exige buen control del torso.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
-      "Da un paso atrás con el pie derecho aterrizando sobre la punta.",
+      "Párate sobre un step con los pies al ancho de los hombros y la barra apoyada sobre la parte alta de la espalda.",
+      "Da un paso atrás bajando del step con el pie derecho y apoya la punta en el suelo.",
       "Flexiona ambas rodillas para bajar el cuerpo hasta que el muslo izquierdo quede paralelo al piso.",
       "Empuja desde el talón izquierdo para regresar a la posición inicial.",
       "Repite con la otra pierna."
@@ -889,10 +889,10 @@
   },
   "0082": {
     "name": "Curl de muñeca inverso sentado",
-    "description": "El curl de muñeca inverso aísla los extensores del antebrazo, una zona habitualmente descuidada. Apoyar los antebrazos en los muslos elimina cualquier ayuda y obliga a las muñecas a mover la carga de manera estricta.",
+    "description": "El curl de muñeca inverso aísla los extensores del antebrazo, una zona habitualmente descuidada. Se hace arrodillado junto a un banco, con los antebrazos apoyados en él, lo que obliga a las muñecas a mover la carga de manera estricta.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y sostén una barra con agarre prono, palmas hacia abajo.",
-      "Apoya los antebrazos sobre los muslos dejando que las muñecas sobresalgan del borde.",
+      "Arrodíllate junto a un banco plano y sostén una barra con agarre prono, palmas hacia abajo.",
+      "Apoya los antebrazos sobre el banco dejando que las muñecas sobresalgan del borde.",
       "Eleva lentamente las muñecas llevando la barra hacia el cuerpo.",
       "Haz una pausa breve arriba y baja la barra con lentitud hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -902,10 +902,10 @@
     "name": "Rollout con barra desde banco",
     "description": "El rollout desde banco con barra es una variante avanzada del rollout abdominal que extiende el rango y obliga al core a frenar el descenso del torso. Demanda un control absoluto de la pelvis y la columna para mantener la zona lumbar segura.",
     "instructions": [
-      "Comienza arrodillado en el suelo con una barra apoyada sobre un banco frente a ti.",
+      "Arrodíllate en el extremo de un banco plano con una barra cargada en el suelo frente a él.",
       "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
-      "Mantén el core activo y la espalda recta, y rueda la barra hacia adelante extendiendo los brazos.",
-      "Continúa rodando la barra hasta que el cuerpo esté completamente extendido y los brazos por encima de la cabeza.",
+      "Mantén el core activo y la espalda recta, y rueda la barra hacia adelante por el suelo extendiendo los brazos.",
+      "Continúa rodando hasta que el cuerpo quede casi paralelo al suelo.",
       "Haz una pausa breve en la extensión máxima y rueda la barra de vuelta hacia el cuerpo con control.",
       "Repite el número de repeticiones deseado."
     ]
@@ -953,17 +953,17 @@
     "instructions": [
       "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
       "Sujeta la barra con agarre prono, ligeramente más abierto que el ancho de los hombros.",
-      "Eleva la barra a la altura de los hombros con los codos ligeramente flexionados y apuntando al frente.",
-      "Empuja la barra por encima de la cabeza extendiendo completamente los brazos.",
-      "Baja la barra a la altura de los hombros y repite el número de repeticiones deseado."
+      "Comienza con la barra apoyada al frente de los hombros y los codos apuntando al frente.",
+      "Empuja la barra justo por encima de la cabeza y bájala por detrás de la nuca.",
+      "Empuja de nuevo justo por encima de la cabeza y bájala al frente de los hombros; sigue alternando el número de repeticiones deseado."
     ]
   },
   "0088": {
     "name": "Elevación de pantorrilla sentado con barra",
-    "description": "Esta elevación de pantorrilla sentada coloca la barra sobre los muslos y trabaja principalmente el sóleo gracias al ángulo de las rodillas. Es una alternativa al equipo específico cuando solo se dispone de una barra y un step.",
+    "description": "Esta elevación de pantorrilla sentada coloca la barra sobre los muslos y trabaja principalmente el sóleo gracias al ángulo de las rodillas. Es una alternativa al equipo específico cuando solo se dispone de una barra y un banco.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y la barra apoyada sobre los muslos.",
-      "Coloca las puntas de los pies sobre una plataforma elevada como un bloque o un step.",
+      "Siéntate en un banco con los pies apoyados en el suelo, separados al ancho de la cadera.",
+      "Apoya la barra sobre la parte baja de los muslos, justo arriba de las rodillas.",
       "Posiciona la barra sobre los muslos y sujétala con firmeza con las manos.",
       "Mantén la espalda recta y el core activo, y eleva los talones extendiendo los tobillos.",
       "Haz una pausa breve arriba y baja los talones con lentitud hasta la posición inicial.",
@@ -974,7 +974,7 @@
     "name": "Curl concentrado sentado con agarre cerrado y barra",
     "description": "Esta variante sentada del curl concentrado apoya los brazos contra la cara interna de los muslos para aislar los bíceps con un agarre cerrado. Elimina el impulso por completo y exige una contracción muy estricta en cada repetición.",
     "instructions": [
-      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una barra con agarre supino, manos al ancho de los hombros.",
+      "Siéntate en un banco con los pies apoyados en el suelo y sujeta una barra con agarre supino, manos juntas en el centro de la barra.",
       "Apoya los brazos superiores contra la cara interna de los muslos, justo arriba de las rodillas, y deja que la barra cuelgue al frente.",
       "Mantén los brazos superiores quietos, exhala y flexiona los codos llevando la barra hacia los hombros, contrayendo los bíceps.",
       "Sostén la posición contraída un instante, inhala y baja la barra con lentitud hasta la posición inicial.",
@@ -1020,7 +1020,7 @@
     "description": "El giro sentado con barra utiliza el peso de la barra para añadir resistencia a la rotación del torso. Trabaja oblicuos y estabilizadores de la columna, y conviene ejecutarlo con cargas ligeras y rangos cortos para evitar tensión lumbar.",
     "instructions": [
       "Siéntate en un banco plano con los pies apoyados en el suelo y las rodillas flexionadas.",
-      "Sostén una barra con ambas manos frente al pecho manteniendo los codos ligeramente flexionados.",
+      "Apoya una barra sobre la parte alta de la espalda, detrás de la nuca, y sujétala con agarre amplio.",
       "Activa el core y gira lentamente el torso hacia un lado manteniendo la espalda recta.",
       "Haz una pausa breve al final del giro y rota lentamente al centro.",
       "Repite el giro hacia el otro lado.",
@@ -1031,7 +1031,7 @@
     "name": "Encogimiento de hombros con barra",
     "description": "El encogimiento de hombros con barra aísla los trapecios superiores con un movimiento simple pero potente. Levantar los hombros directamente hacia las orejas, sin rotarlos, es la clave para concentrar el trabajo en el músculo objetivo.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sostén una barra al frente con agarre prono.",
+      "Ponte de pie con los pies al ancho de los hombros y sostén una barra detrás de la cadera con agarre prono.",
       "Mantén los brazos rectos y la espalda recta durante todo el ejercicio.",
       "Eleva los hombros hacia las orejas tan alto como puedas apretando los trapecios arriba.",
       "Sostén la posición un instante y baja los hombros con lentitud hasta la posición inicial.",
@@ -1040,11 +1040,11 @@
   },
   "0096": {
     "name": "Inclinación lateral con barra de pie",
-    "description": "Esta variante de inclinación lateral con barra al frente carga los oblicuos al flexionar el torso hacia un lado mientras se sostiene la barra. La carga frontal exige un control estricto del core para evitar movimiento de la pelvis.",
+    "description": "Esta variante de inclinación lateral carga los oblicuos al flexionar el torso hacia un lado con la barra apoyada sobre la espalda alta. Exige un control estricto del core para evitar movimiento de la pelvis.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sostén una barra con ambas manos, palmas hacia abajo.",
+      "Ponte de pie con los pies al ancho de los hombros y apoya una barra sobre la parte alta de la espalda, sujetándola con agarre prono.",
       "Mantén la espalda recta y el core activo durante todo el ejercicio.",
-      "Inclina lentamente el torso hacia el lado derecho bajando la barra hacia la rodilla derecha.",
+      "Inclina lentamente el torso hacia el lado derecho, dejando que la barra se incline con los hombros.",
       "Haz una pausa breve y regresa a la posición inicial.",
       "Repite el movimiento hacia el lado izquierdo.",
       "Continúa alternando lados durante el número de repeticiones deseado."
@@ -1052,36 +1052,36 @@
   },
   "0097": {
     "name": "Sentadilla lateral búlgara con barra",
-    "description": "Esta sentadilla lateral con barra ejecuta el patrón paso a paso, cambiando de pierna en cada repetición. La carga unilateral activa intensamente cuádriceps, glúteos y aductores y mejora la estabilidad lateral del tren inferior.",
+    "description": "Esta sentadilla lateral con barra se hace con los pies fijos en una postura amplia, desplazando el peso de un lado a otro en cada repetición. La carga unilateral activa intensamente cuádriceps, glúteos y aductores y mejora la estabilidad lateral del tren inferior.",
     "instructions": [
       "Ponte de pie con los pies más abiertos que el ancho de los hombros y las puntas ligeramente abiertas.",
       "Sostén una barra sobre la parte alta de la espalda apoyada en los hombros.",
-      "Da un paso amplio hacia el lado con el pie derecho manteniendo el izquierdo plantado.",
+      "Con ambos pies plantados, desplaza el peso hacia el pie derecho.",
       "Flexiona la rodilla derecha y baja a la sentadilla manteniendo el pecho arriba y la espalda recta.",
-      "Empuja desde el talón derecho para regresar a la posición inicial.",
-      "Repite hacia el otro lado dando un paso con el pie izquierdo.",
+      "Empuja desde el talón derecho para volver al centro.",
+      "Repite hacia el otro lado desplazando el peso hacia el pie izquierdo.",
       "Continúa alternando lados durante el número de repeticiones deseado."
     ]
   },
   "0098": {
     "name": "Sentadilla lateral con stance abierto y barra",
-    "description": "Esta sentadilla con stance amplio carga los cuádriceps mientras enfatiza el trabajo de glúteos y aductores gracias a la apertura de los pies. La barra sobre los trapecios estabiliza el patrón y permite cargar peso considerable.",
+    "description": "Esta sentadilla lateral con stance amplio carga los cuádriceps y enfatiza glúteos y aductores. Con la barra sobre los trapecios, flexionas una rodilla en zancada lateral mientras la otra pierna permanece recta.",
     "instructions": [
       "Ponte de pie con los pies más abiertos que el ancho de los hombros y las puntas ligeramente abiertas.",
       "Sostén una barra sobre la parte alta de la espalda apoyada en los trapecios.",
-      "Activa el core y mantén el pecho arriba mientras bajas a la sentadilla flexionando rodillas y caderas.",
-      "Empuja las rodillas hacia afuera y mantén el peso en los talones durante el descenso.",
-      "Baja hasta que los muslos queden paralelos al piso y empuja desde los talones para volver a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Activa el core, mantén el pecho arriba y lleva la cadera hacia un lado flexionando esa rodilla.",
+      "Mantén la otra pierna recta con el pie apoyado y el peso en el talón de la pierna flexionada.",
+      "Baja hasta que el muslo flexionado quede paralelo al piso y empuja desde ese talón para volver a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
   "0099": {
     "name": "Sentadilla búlgara con una pierna y barra",
     "description": "La sentadilla búlgara con barra es uno de los ejercicios unilaterales más completos para el tren inferior. Cargar la pierna adelantada con la mayor parte del peso desarrolla cuádriceps y glúteos con un componente de equilibrio muy demandante.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros sosteniendo una barra sobre la parte alta de la espalda.",
-      "Da un paso amplio al frente con una pierna manteniendo el torso erguido.",
-      "Baja el cuerpo flexionando la rodilla y la cadera de la pierna delantera mientras la trasera permanece recta.",
+      "Párate delante de un banco plano sosteniendo una barra sobre la parte alta de la espalda.",
+      "Apoya el empeine de un pie en el banco detrás de ti y adelanta el otro pie, con el torso erguido.",
+      "Baja el cuerpo flexionando la rodilla y la cadera de la pierna delantera mientras la rodilla trasera baja hacia el suelo.",
       "Continúa bajando hasta que el muslo de la pierna delantera quede paralelo al piso.",
       "Haz una pausa breve y empuja desde el talón delantero para regresar a la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de pierna."
@@ -1089,12 +1089,12 @@
   },
   "0100": {
     "name": "Esquiador con barra",
-    "description": "El esquiador con barra combina una bisagra de cadera con un pequeño salto y un tirón explosivo de la barra hacia los hombros. Es un ejercicio dinámico que entrena potencia en hombros, trapecios y core con un componente atlético claro.",
+    "description": "El esquiador con barra imita el empuje de los bastones de esquí. Inclinado hacia adelante, llevas la barra atrás más allá de la cadera con los brazos rectos, trabajando deltoides posteriores, dorsales y tríceps mientras el core estabiliza.",
     "instructions": [
       "Ponte de pie con los pies al ancho de los hombros y sostén una barra al frente de los muslos con agarre prono.",
       "Flexiona ligeramente las rodillas y bisagra desde las caderas manteniendo la espalda recta y el pecho arriba.",
-      "Eleva la barra hacia los hombros mientras saltas ligeramente del suelo.",
-      "Al llegar arriba, invierte rápidamente el movimiento y baja la barra a la posición inicial.",
+      "Con los brazos rectos, empuja la barra hacia atrás más allá de la cadera tanto como puedas.",
+      "Haz una pausa breve y regresa la barra al frente con control hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -1116,9 +1116,9 @@
     "instructions": [
       "Comienza arrodillado en el suelo con las rodillas separadas al ancho de las caderas y las puntas de los pies hacia adelante.",
       "Coloca una barra sobre los hombros sujetándola con agarre prono y las manos un poco más abiertas que el ancho de los hombros.",
-      "Activa el core y mantén el pecho elevado mientras bajas el cuerpo flexionando las rodillas con la espalda recta.",
-      "Continúa bajando hasta que los muslos queden paralelos al piso o tan bajo como puedas con buena técnica.",
-      "Haz una pausa breve y empuja desde los talones para regresar a la posición inicial.",
+      "Activa el core y mantén el pecho elevado mientras llevas la cadera hacia atrás, en dirección a los talones, con la espalda recta.",
+      "Continúa bajando hasta que los glúteos queden cerca de los talones o tan bajo como puedas con buena técnica.",
+      "Haz una pausa breve, aprieta los glúteos y lleva la cadera al frente para volver a quedar arrodillado y erguido.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -1126,10 +1126,10 @@
     "name": "Rollout abdominal de pie con barra",
     "description": "El rollout abdominal de pie con barra es la versión más exigente del rollout, ya que parte desde la postura erguida y obliga al core a frenar todo el peso del cuerpo durante el descenso. Solo es adecuado para atletas con un core muy desarrollado.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sostén la barra con ambas manos al frente de los muslos.",
+      "Ponte de pie con los pies al ancho de los hombros, inclínate y coloca ambas manos sobre una barra apoyada en el suelo frente a tus pies.",
       "Activa el core y rueda lentamente la barra hacia el suelo manteniendo la espalda recta y los brazos extendidos.",
-      "Continúa rodando la barra hasta que el cuerpo esté completamente extendido y las manos queden por encima de la cabeza.",
-      "Haz una pausa breve y rueda la barra de vuelta hacia los muslos manteniendo el control y el core activo.",
+      "Continúa rodando la barra hasta que el cuerpo quede casi paralelo al suelo, con los brazos extendidos al frente.",
+      "Haz una pausa breve y rueda la barra de vuelta hacia los pies manteniendo el control y el core activo.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -1137,8 +1137,8 @@
     "name": "Curl de muñeca por detrás de pie con barra",
     "description": "Esta variante del curl de muñeca trabaja los extensores del antebrazo desde una posición erguida con la barra apoyada en la parte posterior de las manos. La postura permite cargar peso y aislar específicamente los músculos del dorso del antebrazo.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra con agarre prono.",
-      "Apoya la barra sobre el dorso de las manos con las palmas hacia abajo y los dedos apuntando al cuerpo.",
+      "Ponte de pie con los pies al ancho de los hombros y sujeta una barra detrás de los muslos con los brazos rectos.",
+      "Deja que la barra ruede hacia los dedos, con las palmas mirando hacia atrás.",
       "Mantén los brazos superiores quietos, exhala y eleva las muñecas tanto como puedas.",
       "Sostén la posición contraída un instante, inhala y baja la barra con lentitud hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -1149,9 +1149,9 @@
     "description": "El press Bradford de pie alterna empujes al frente y detrás de la cabeza sin pausa, manteniendo tensión continua sobre los deltoides. Es un clásico del entrenamiento de hombros que demanda movilidad y control para ejecutarse con seguridad.",
     "instructions": [
       "Ponte de pie con los pies al ancho de los hombros y sostén la barra al frente de los hombros con agarre prono.",
-      "Empuja la barra por encima de la cabeza extendiendo completamente los brazos.",
-      "Baja la barra a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Empuja la barra justo por encima de la cabeza y bájala por detrás de la nuca.",
+      "Empuja de nuevo justo por encima de la cabeza y bájala al frente de los hombros.",
+      "Sigue alternando adelante y atrás el número de repeticiones deseado."
     ]
   },
   "0106": {

@@ -1,14 +1,14 @@
 {
   "0227": {
     "name": "Apertura de pie en polea",
-    "description": "La apertura de pie en polea aísla los pectorales mediante un arco amplio con resistencia constante. Mantén un ligero codo flexionado durante todo el recorrido para evitar tensión en el hombro y enfoca la contracción al juntar las manos al frente del pecho.",
+    "description": "La apertura de pie en polea alta aísla los pectorales mediante un arco descendente con resistencia constante. Mantén un ligero codo flexionado durante todo el recorrido para evitar tensión en el hombro y enfoca la contracción al juntar las manos frente a la cadera.",
     "instructions": [
-      "Sujeta los agarres a las poleas a la altura del pecho.",
+      "Sujeta los agarres a las poleas altas.",
       "Párate con los pies al ancho de los hombros, dando la espalda a la máquina de polea.",
       "Toma los agarres con palmas hacia adelante en agarre prono.",
       "Da un paso al frente para crear tensión en los cables.",
       "Mantén el core activado y la espalda recta durante todo el ejercicio.",
-      "Con una ligera flexión de codos, lleva lentamente los brazos hacia el frente y júntalos delante del pecho.",
+      "Con una ligera flexión de codos, baja lentamente los brazos y júntalos delante de la cadera.",
       "Aprieta los pectorales en el punto máximo del movimiento.",
       "Invierte el movimiento lentamente y regresa los brazos a la posición inicial.",
       "Repite el número deseado de repeticiones."
@@ -18,7 +18,7 @@
     "name": "Extensión de cadera de pie en polea",
     "description": "Este ejercicio en polea baja aísla los glúteos mediante una extensión de cadera unilateral. La resistencia constante del cable mantiene tensión en el glúteo durante todo el rango y permite trabajar cada lado de forma independiente para corregir asimetrías.",
     "instructions": [
-      "Engancha un cable a una polea baja y párate dando la espalda a la máquina.",
+      "Engancha un cable a una polea baja y párate frente a la máquina, sujetándote de ella como apoyo.",
       "Coloca el cable alrededor del tobillo y párate con los pies al ancho de los hombros.",
       "Mantén el core activado y la espalda recta durante todo el ejercicio.",
       "Extiende lentamente la pierna hacia atrás, apretando el glúteo en la parte alta del movimiento.",
@@ -29,14 +29,14 @@
   },
   "0229": {
     "name": "Curl interno de bíceps de pie en polea",
-    "description": "El curl en polea baja con agarre supino mantiene tensión continua sobre el bíceps a lo largo de todo el recorrido. La línea de cable horizontal exige fijar los codos al costado y trabajar la contracción pico al final del movimiento.",
+    "description": "El curl en poleas altas con agarre supino mantiene tensión continua sobre el bíceps a lo largo de todo el recorrido. Con los brazos abiertos a la altura del hombro, fija los codos y trabaja la contracción pico al final del movimiento.",
     "instructions": [
-      "Párate frente a la máquina de polea con los pies al ancho de los hombros.",
-      "Toma el agarre del cable con agarre supino, palmas hacia arriba.",
-      "Mantén los codos cerca del costado y los brazos superiores inmóviles.",
-      "Exhala y eleva el agarre hacia los hombros, contrayendo los bíceps.",
+      "Párate en medio de la máquina con dos poleas altas y los pies al ancho de los hombros.",
+      "Toma un agarre en cada mano con agarre supino, palmas hacia arriba, y los brazos extendidos a los lados a la altura del hombro.",
+      "Mantén los brazos superiores a la altura del hombro e inmóviles.",
+      "Exhala y lleva ambos agarres hacia la cabeza, contrayendo los bíceps.",
       "Haz una pausa en la parte alta y aprieta los bíceps.",
-      "Inhala y baja lentamente el agarre hasta la posición inicial.",
+      "Inhala y extiende lentamente los brazos de nuevo hacia los lados.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -44,10 +44,10 @@
     "name": "Levantamiento diagonal de pie en polea",
     "description": "Movimiento de patrón cruzado con polea que reta la rotación del tronco y los oblicuos. La resistencia diagonal entrena la capacidad anti-rotacional y conecta core con cadera, ideal como ejercicio funcional para deportistas.",
     "instructions": [
-      "Párate frente a la máquina de polea con los pies al ancho de los hombros.",
-      "Sujeta el agarre con ambas manos a la altura de la cintura.",
+      "Párate de lado a una polea baja con los pies al ancho de los hombros.",
+      "Sujeta el agarre con ambas manos junto a la cadera más cercana a la máquina.",
       "Activa el core y mantén la espalda recta durante todo el ejercicio.",
-      "Manteniendo los brazos rectos, exhala y eleva el agarre hacia el hombro contrario, rotando el tronco.",
+      "Manteniendo los brazos rectos, exhala y eleva el agarre en diagonal cruzando el cuerpo hasta por encima del hombro contrario, rotando el tronco.",
       "Haz una pausa en la parte alta, luego inhala y baja lentamente el agarre a la posición inicial.",
       "Repite el número deseado de repeticiones y luego cambia de lado."
     ]
@@ -56,24 +56,24 @@
     "name": "Extensión de tríceps a un brazo de pie en polea",
     "description": "Aislamiento unilateral del tríceps con polea que permite corregir desequilibrios entre brazos. La resistencia constante demanda fijar el codo al costado y controlar tanto la fase concéntrica como la excéntrica para maximizar la contracción.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros, frente a la máquina de polea.",
-      "Sujeta el agarre con la mano derecha, palma hacia abajo, y posiciona el brazo totalmente extendido y paralelo al piso.",
-      "Mantén el codo inmóvil y pegado al cuerpo.",
-      "Flexiona lentamente el codo, llevando el agarre hacia la parte trasera de la cabeza.",
-      "Haz una pausa en la parte baja y luego extiende el brazo a la posición inicial.",
+      "Párate con los pies al ancho de los hombros, frente a una polea alta.",
+      "Sujeta el agarre con la mano derecha, palma hacia abajo, con el codo flexionado y el agarre a la altura del pecho.",
+      "Mantén el codo inmóvil y pegado al costado.",
+      "Extiende el codo empujando el agarre hacia abajo hasta que el brazo quede recto junto al muslo.",
+      "Haz una pausa abajo y deja que el agarre regrese lentamente a la altura del pecho.",
       "Repite el número deseado de repeticiones, luego cambia de lado y haz el ejercicio con el brazo izquierdo."
     ]
   },
   "0232": {
     "name": "Jalón al cuerpo de pie en polea con cuerda",
-    "description": "Variante de jalón vertical hacia los muslos que combina trabajo de bíceps y dorsales. La cuerda permite separar las manos al final del recorrido y enfatizar la contracción, exigiendo control sobre la fase de retorno.",
+    "description": "Curl de bíceps en polea alta con cuerda, de pie y con los codos elevados al frente. La cuerda permite separar las manos al final del recorrido y enfatizar la contracción, exigiendo control sobre la fase de retorno.",
     "instructions": [
       "Engancha una cuerda a la máquina de polea en el ajuste más alto.",
       "Párate frente a la máquina con los pies al ancho de los hombros.",
-      "Toma la cuerda con agarre prono, palmas hacia abajo.",
-      "Mantén la espalda recta y el core activado durante todo el ejercicio.",
-      "Tira de la cuerda hacia los muslos, apretando los bíceps.",
-      "Haz una pausa breve abajo y luego suelta lentamente la cuerda hacia arriba.",
+      "Toma la cuerda con ambas manos, palmas enfrentadas, con los brazos estirados hacia arriba y al frente, hacia la polea.",
+      "Mantén los codos altos y los brazos superiores quietos durante todo el ejercicio.",
+      "Lleva la cuerda hacia la frente flexionando los codos y apretando los bíceps.",
+      "Haz una pausa breve y luego extiende lentamente los brazos hacia la polea.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -94,7 +94,7 @@
     "description": "Remo horizontal con agarre neutro estrecho que enfoca el trabajo en la zona media de la espalda. La barra V exige retracción escapular potente y mantiene los codos pegados al cuerpo para activar dorsales y trapecios medios.",
     "instructions": [
       "Párate frente a la máquina de polea con los pies al ancho de los hombros.",
-      "Toma la barra V con agarre prono, palmas hacia abajo.",
+      "Toma la barra V con agarre neutro, palmas enfrentadas.",
       "Mantén la espalda recta y el core activado.",
       "Tira de la barra V hacia el cuerpo, apretando los omóplatos.",
       "Haz una pausa en el pico del movimiento, luego suelta lentamente la tensión y regresa a la posición inicial.",
@@ -105,10 +105,10 @@
     "name": "Rotación externa de hombro de pie en polea",
     "description": "Ejercicio de aislamiento para el manguito rotador, en particular el infraespinoso. Movimiento clave para prehabilitación del hombro, que entrena la rotación externa con cargas controladas y mejora la estabilidad articular en presses y jalones.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Sujeta el agarre del cable con el brazo extendido al frente, paralelo al piso.",
-      "Mantén el codo ligeramente flexionado y los omóplatos retraídos.",
-      "Rota lentamente el brazo hacia afuera, alejándolo del cuerpo, manteniendo el codo en la misma posición.",
+      "Párate de lado a una polea ajustada a la altura del codo, con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta el agarre con la mano más alejada de la máquina, el codo flexionado a 90 grados y pegado al costado, con el antebrazo frente al abdomen.",
+      "Mantén el codo pegado al costado y los omóplatos retraídos.",
+      "Rota lentamente el antebrazo hacia afuera, alejándolo del cuerpo, manteniendo el codo en la misma posición.",
       "Haz una pausa al final del movimiento y luego regresa lentamente a la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
@@ -119,7 +119,7 @@
     "instructions": [
       "Coloca un accesorio de barra V en la máquina de polea a la altura del pecho.",
       "Párate frente a la máquina de polea con los pies al ancho de los hombros.",
-      "Toma la barra V con agarre prono, palmas hacia abajo.",
+      "Toma la barra V con agarre neutro, palmas enfrentadas.",
       "Da un paso atrás para crear tensión en el cable.",
       "Mantén la espalda recta y el core activado durante todo el ejercicio.",
       "Tira de la barra V hacia el torso retrayendo los omóplatos y flexionando los codos.",
@@ -168,12 +168,12 @@
   },
   "0240": {
     "name": "Apertura inversa supina en polea",
-    "description": "Apertura inversa acostado boca abajo que enfoca el deltoides posterior y los romboides. La posición prono elimina el impulso del tronco y obliga a aislar el movimiento desde el hombro, ideal para corregir desequilibrios posturales.",
+    "description": "Apertura inversa acostado boca arriba entre dos poleas altas con los cables cruzados, que enfoca el deltoides posterior y los romboides. El banco elimina el impulso del tronco y obliga a aislar el movimiento desde el hombro.",
     "instructions": [
-      "Engancha un agarre tipo D a una polea baja y acuéstate boca abajo en un banco plano.",
-      "Sujeta un agarre D con cada mano, palmas hacia abajo, y extiende los brazos al frente.",
-      "Manteniendo los brazos rectos, elévalos hacia los lados hasta que queden paralelos al piso.",
-      "Haz una pausa arriba y baja lentamente los brazos hasta la posición inicial.",
+      "Engancha un agarre tipo D en cada polea alta y acuéstate boca arriba en un banco plano ubicado entre ellas.",
+      "Sujeta los agarres con los cables cruzados (la mano izquierda toma el cable derecho y la derecha el izquierdo) y extiende los brazos rectos sobre el pecho.",
+      "Manteniendo los brazos rectos, ábrelos hacia los lados y abajo hasta que queden a la altura del banco.",
+      "Haz una pausa y sube lentamente los brazos de nuevo sobre el pecho.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -183,7 +183,7 @@
     "instructions": [
       "Coloca un accesorio de barra V en la máquina de polea en el ajuste más alto.",
       "Párate frente a la máquina de polea con los pies al ancho de los hombros.",
-      "Toma la barra V con agarre prono, palmas hacia abajo y manos al ancho de los hombros.",
+      "Toma la barra V con agarre neutro, palmas enfrentadas y las manos juntas.",
       "Mantén los codos cerca del costado y los brazos superiores inmóviles durante todo el ejercicio.",
       "Activa los tríceps y exhala mientras empujas la barra V hacia abajo hasta extender los brazos por completo.",
       "Haz una pausa abajo, apretando los tríceps.",
@@ -195,8 +195,8 @@
     "name": "Crunch inverso con rodillas al pecho en polea",
     "description": "Crunch inverso con resistencia añadida del cable que carga la porción inferior de los abdominales. El movimiento combinado de cadera y pelvis exige control para evitar usar impulso y mantener la tensión sobre el recto abdominal.",
     "instructions": [
-      "Engancha un cable a una polea baja y acuéstate boca arriba sobre una colchoneta.",
-      "Sujeta el cable con ambas manos y extiende los brazos rectos por encima del pecho.",
+      "Engancha una tobillera a una polea baja y acuéstate boca arriba sobre una colchoneta con la tobillera en los pies y la cabeza hacia una segunda polea baja.",
+      "Sujeta con ambas manos el agarre de la polea que queda detrás de ti, junto a la cabeza y con los codos flexionados.",
       "Flexiona las rodillas y eleva las piernas, llevando las rodillas hacia el pecho.",
       "Al mismo tiempo, enrolla la pelvis hacia el pecho, levantando las caderas del piso.",
       "Haz una pausa arriba y baja lentamente las piernas y caderas hasta la posición inicial.",
@@ -207,22 +207,22 @@
     "name": "Giro en polea",
     "description": "Rotación de tronco con resistencia del cable que carga los oblicuos en un plano horizontal. La resistencia constante exige control en ambas direcciones y entrena la fuerza rotacional, clave para deportes y movimientos funcionales.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros, frente a la máquina de polea.",
-      "Sujeta el agarre del cable con ambas manos al frente del pecho, manteniendo los brazos ligeramente flexionados.",
-      "Activa el core y gira el tronco hacia la derecha, jalando el cable cruzando el cuerpo.",
+      "Párate con los pies al ancho de los hombros, de lado a una polea ajustada a la altura del pecho.",
+      "Sujeta el agarre del cable con ambas manos al frente del pecho, con los brazos extendidos.",
+      "Activa el core y gira el tronco alejándote de la máquina, jalando el cable cruzando el cuerpo.",
       "Haz una pausa al final del movimiento, sintiendo la contracción en abdomen y oblicuos.",
       "Regresa lentamente a la posición inicial, resistiendo el jalón del cable.",
-      "Repite el movimiento hacia el lado izquierdo.",
-      "Continúa alternando lados durante el número deseado de repeticiones."
+      "Repite las repeticiones deseadas y luego date la vuelta para trabajar el otro lado.",
+      "Continúa hasta completar el número deseado de repeticiones en ambos lados."
     ]
   },
   "0244": {
     "name": "Tirón con giro a un brazo en polea",
     "description": "Patrón de tirón unilateral con rotación de tronco que combina trabajo de espalda y oblicuos. La rotación amplifica la activación del dorsal y enseña la transferencia de fuerza desde la cadera hasta el brazo.",
     "instructions": [
-      "Engancha un agarre de cable a una polea baja y párate frente a la máquina.",
+      "Engancha un agarre de cable a una polea a la altura de la rodilla y párate frente a la máquina.",
       "Toma el agarre con la mano izquierda y aléjate de la máquina, extendiendo el brazo por completo.",
-      "Coloca los pies al ancho de los hombros, con las rodillas ligeramente flexionadas.",
+      "Adopta una postura amplia con el pie derecho adelante e inclina el torso hasta quedar casi paralelo al piso, con la mano derecha apoyada en el muslo.",
       "Mantén la espalda recta y el core activado durante todo el ejercicio.",
       "Tira del agarre hacia el cuerpo, rotando el tronco hacia la derecha mientras lo haces.",
       "Aprieta los músculos de la espalda al final del movimiento.",
@@ -259,9 +259,9 @@
     "description": "Aislamiento para los flexores del antebrazo con resistencia constante del cable. Mantener los antebrazos apoyados elimina la trampa y obliga a usar solamente la articulación de la muñeca para fortalecer agarre y prevenir lesiones.",
     "instructions": [
       "Coloca una barra recta en una polea baja de una máquina de polea.",
-      "Párate frente a la máquina con los pies al ancho de los hombros.",
+      "Siéntate en un banco frente a la máquina con los pies firmes en el piso.",
       "Toma la barra con agarre supino, palmas hacia arriba, y manos al ancho de los hombros.",
-      "Apoya los antebrazos sobre un banco o almohadilla, con las muñecas colgando del borde.",
+      "Apoya los antebrazos sobre los muslos, con las muñecas colgando por delante de las rodillas.",
       "Manteniendo los antebrazos inmóviles, exhala y flexiona las muñecas hacia arriba lo más posible.",
       "Haz una pausa arriba, luego inhala y baja lentamente la barra hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
@@ -271,9 +271,9 @@
     "name": "Remo acostado con barra curva",
     "description": "Remo en posición acostada boca abajo que aísla la espalda alta y elimina el balanceo del tronco. La barra curva facilita un agarre cómodo y exige control puro de los dorsales para llevar el peso al pecho.",
     "instructions": [
-      "Coloca una barra en el piso y acuéstate boca abajo sobre un banco con el pecho apenas saliendo del borde.",
+      "Coloca una barra en el piso bajo un banco plano elevado y acuéstate boca abajo con el pecho apoyado en el banco.",
       "Alcanza la barra y tómala con agarre prono, un poco más ancho que el ancho de los hombros.",
-      "Con las piernas rectas y los pies en el piso, levanta la barra del piso extendiendo los brazos.",
+      "Con las piernas apoyadas en el banco, levanta la barra del piso sosteniéndola con los brazos extendidos.",
       "Tira de la barra hacia el pecho, apretando los omóplatos.",
       "Baja la barra hasta la posición inicial y repite el número deseado de repeticiones."
     ]
@@ -303,22 +303,22 @@
     "name": "Círculos de rodillas",
     "description": "Movilidad articular para rodillas que prepara la articulación antes de tren inferior. Los círculos lubrican la cápsula articular y activan estabilizadores, ideal como calentamiento previo a sentadillas o cualquier trabajo de impacto.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y las manos en la cintura.",
-      "Flexiona las rodillas ligeramente y levanta los talones del piso, equilibrándote sobre la punta de los pies.",
+      "Párate con los pies juntos y las manos en la cintura.",
+      "Flexiona las rodillas ligeramente, manteniendo los talones apoyados en el piso.",
       "Manteniendo las rodillas flexionadas, hazlas rotar en círculos, primero en sentido horario y luego antihorario.",
       "Realiza el movimiento durante el número deseado de repeticiones."
     ]
   },
   "0258": {
     "name": "Flexión de pecho en reloj",
-    "description": "Variante avanzada de flexión que añade rotación del torso al subir, integrando trabajo del core con empuje horizontal. La rotación reta el equilibrio y los oblicuos, convirtiendo una flexión clásica en un ejercicio de cuerpo completo.",
+    "description": "Variante dinámica de flexión en la que, tras cada repetición, caminas con las manos en arco pivotando sobre los pies, como la aguja de un reloj. Integra core, hombros y empuje horizontal en un ejercicio de cuerpo completo.",
     "instructions": [
       "Comienza en posición de plancha alta con las manos directamente debajo de los hombros y el cuerpo en línea recta.",
-      "Baja el cuerpo hacia el piso flexionando los codos, manteniéndolos cerca del costado.",
-      "Mientras bajas, rota el cuerpo hacia la izquierda, extendiendo el brazo izquierdo recto hacia el costado.",
-      "Empuja de regreso a la posición inicial, rotando el cuerpo al centro.",
-      "Repite la flexión, esta vez rotando el cuerpo hacia la derecha y extendiendo el brazo derecho hacia el costado.",
-      "Continúa alternando lados en cada repetición."
+      "Baja el cuerpo hacia el piso flexionando los codos y empuja de regreso arriba.",
+      "Camina con las manos un paso hacia la izquierda en arco, pivotando sobre los pies y manteniendo el cuerpo recto.",
+      "Haz otra flexión en la nueva posición.",
+      "Sigue avanzando con las manos por el arco, haciendo una flexión en cada posición, y luego invierte la dirección.",
+      "Continúa durante el número deseado de repeticiones."
     ]
   },
   "0259": {
@@ -335,10 +335,10 @@
     "name": "Cocoons",
     "description": "Movimiento de abdomen completo que combina flexión de tronco con flexión de cadera. La acción de plegarse como un capullo recluta tanto la porción superior como la inferior del recto abdominal en una sola repetición controlada.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies planos en el piso.",
-      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Activando el abdomen, levanta lentamente el tronco del piso, enrollándote hacia adelante hasta que el torso quede a 45 grados.",
-      "Haz una pausa arriba y baja lentamente el tronco hasta la posición inicial.",
+      "Acuéstate boca arriba con las piernas rectas y los brazos extendidos por encima de la cabeza.",
+      "Mantén piernas y brazos ligeramente despegados del piso y activa el core.",
+      "Enrolla el tronco hacia arriba mientras llevas las rodillas al pecho, trayendo los brazos al frente para abrazar las rodillas.",
+      "Haz una pausa en la posición recogida y extiende lentamente brazos y piernas hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -383,7 +383,7 @@
     "instructions": [
       "Siéntate en el balón de estabilidad con los pies planos en el piso y las rodillas a 90 grados.",
       "Recuéstate sobre el balón hasta que la zona lumbar quede apoyada y el tronco quede paralelo al piso.",
-      "Coloca las manos detrás de la cabeza o crúzalas sobre el pecho.",
+      "Extiende los brazos rectos hacia el techo y mantenlos así durante todo el movimiento.",
       "Activa el abdomen y eleva el tronco fuera del balón, enrollando los hombros hacia las caderas.",
       "Haz una pausa arriba y baja lentamente el tronco hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
@@ -402,14 +402,14 @@
   },
   "0276": {
     "name": "Dead bug",
-    "description": "Ejercicio de control anti-extensión que entrena la estabilidad del core mediante movimientos contralaterales de brazos y piernas. Mantener la zona lumbar pegada al piso mientras se mueven las extremidades es la clave de su efecto protector lumbar.",
+    "description": "Ejercicio de control anti-extensión que entrena la estabilidad del core mientras extiendes las piernas de forma alternada con los brazos apuntando al techo. Mantener la zona lumbar pegada al piso mientras se mueven las piernas es la clave de su efecto protector lumbar.",
     "instructions": [
       "Acuéstate boca arriba con los brazos extendidos hacia el techo.",
       "Flexiona las rodillas y levanta las piernas, formando un ángulo de 90 grados en caderas y rodillas.",
       "Activa el core y la zona lumbar para presionar la espalda baja contra el piso.",
-      "Baja lentamente el brazo derecho y la pierna izquierda hacia el piso, manteniéndolos rectos y flotando justo por encima del suelo.",
+      "Manteniendo los brazos apuntando al techo, extiende lentamente la pierna izquierda hacia el piso hasta que quede flotando justo por encima del suelo.",
       "Haz una pausa breve y regresa a la posición inicial.",
-      "Repite el movimiento con el brazo izquierdo y la pierna derecha.",
+      "Repite el movimiento con la pierna derecha.",
       "Continúa alternando lados durante el número deseado de repeticiones."
     ]
   },
@@ -461,8 +461,8 @@
     "name": "Elevación de pantorrilla en burro",
     "description": "Elevación de pantorrillas con tronco inclinado hacia adelante que enfatiza el gastrocnemio. La posición flexionada de cadera permite mayor estiramiento al inicio y un rango completo en la contracción de los gemelos.",
     "instructions": [
-      "Párate con la punta de los pies sobre una superficie elevada, como un escalón o bloque.",
-      "Coloca las manos sobre un soporte estable, como una pared o barandilla, para equilibrarte.",
+      "Párate con la punta de los pies sobre una superficie elevada, como un escalón o bloque, frente a un banco plano.",
+      "Inclínate desde las caderas hasta que el torso quede casi paralelo al piso y apoya las manos en el banco, con las piernas rectas.",
       "Eleva los talones lo más alto posible, levantando el peso corporal sobre la punta de los pies.",
       "Haz una pausa arriba y baja lentamente los talones hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
@@ -494,7 +494,7 @@
     "name": "Press Arnold con mancuernas (variante)",
     "description": "Variante del press Arnold sentado que combina rotación de muñeca y empuje vertical. La rotación durante el press recluta deltoides anterior, lateral y posterior en una sola repetición, ofreciendo trabajo completo del hombro.",
     "instructions": [
-      "Siéntate en un banco con respaldo y sostén una mancuerna en cada mano a la altura del hombro, palmas hacia el cuerpo y codos flexionados.",
+      "Siéntate en un banco plano y sostén una mancuerna en cada mano a la altura del hombro, palmas hacia el cuerpo y codos flexionados.",
       "Empuja las mancuernas hacia arriba hasta que los brazos queden totalmente extendidos y las palmas hacia adelante.",
       "Rota las muñecas mientras subes, de modo que las palmas terminen mirando hacia adelante en la parte alta del movimiento.",
       "Haz una pausa arriba y baja lentamente las mancuernas hasta la posición inicial.",
@@ -503,12 +503,12 @@
   },
   "0288": {
     "name": "Pullover en arco con mancuerna",
-    "description": "Pullover acostado con una sola mancuerna a dos manos que estira pectoral y dorsal. El arco amplio detrás de la cabeza moviliza la articulación del hombro y trabaja la conexión entre torso y brazos.",
+    "description": "Pullover acostado con una mancuerna en cada mano que recorre un arco amplio desde las caderas hasta detrás de la cabeza. Estira pectoral y dorsal y moviliza la articulación del hombro en todo su rango.",
     "instructions": [
       "Acuéstate plano sobre un banco con la cabeza en un extremo y los pies firmes en el piso.",
-      "Sujeta una mancuerna con ambas manos y extiende los brazos rectos por encima del pecho.",
-      "Manteniendo los brazos rectos, baja lentamente la mancuerna detrás de la cabeza en un arco.",
-      "Haz una pausa abajo y eleva la mancuerna de regreso a la posición inicial.",
+      "Sujeta una mancuerna en cada mano con los brazos extendidos a los costados, junto a las caderas.",
+      "Manteniendo los brazos rectos, lleva lentamente las mancuernas hacia los lados en un arco amplio hasta quedar detrás de la cabeza.",
+      "Haz una pausa y regresa las mancuernas por el mismo arco hasta las caderas.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -525,10 +525,10 @@
   },
   "0290": {
     "name": "Press sentado en banco con mancuernas",
-    "description": "Press de pecho realizado sentado y reclinado, con énfasis en la fase concéntrica de empuje. Útil cuando el banco plano no está disponible y la posición sentada permite establecer una base estable para empujar con seguridad.",
+    "description": "Press de hombro sentado en banco con mancuernas, con el tronco erguido. La posición sentada estabiliza la base y concentra el trabajo en los deltoides y los tríceps.",
     "instructions": [
       "Siéntate en un banco con una mancuerna en cada mano apoyada sobre los muslos.",
-      "Recuéstate y posiciona las mancuernas a los costados del pecho, palmas hacia adelante.",
+      "Siéntate erguido y lleva las mancuernas a la altura de los hombros, palmas hacia adelante.",
       "Empuja las mancuernas hacia arriba hasta extender los brazos por completo.",
       "Haz una pausa arriba y baja lentamente las mancuernas hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
@@ -538,7 +538,7 @@
     "name": "Sentadilla a banco con mancuerna",
     "description": "Sentadilla con punto de referencia en el banco para enseñar profundidad y patrón de cadera. Tocar el banco con los glúteos garantiza profundidad consistente y construye confianza para sentadilla libre.",
     "instructions": [
-      "Coloca una mancuerna en el piso al frente de un banco.",
+      "Sostén una mancuerna en cada mano a los costados, con los brazos extendidos.",
       "Párate dando la espalda al banco con los pies al ancho de los hombros.",
       "Flexiona rodillas y caderas para bajar hacia el banco, manteniendo el pecho arriba y la espalda recta.",
       "Una vez que los glúteos toquen el banco, empuja con los talones para regresar a la posición inicial.",
@@ -549,8 +549,8 @@
     "name": "Remo a un brazo inclinado con mancuerna",
     "description": "Remo unilateral que aísla el dorsal y permite mayor recorrido al evitar contacto del torso. Cargar un solo lado obliga al core a resistir rotación, sumando trabajo anti-rotacional al ejercicio principal de espalda.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en una mano con la palma hacia el cuerpo.",
-      "Flexiona ligeramente las rodillas y bisagra hacia adelante desde las caderas, manteniendo la espalda recta y el core activado.",
+      "Apoya la rodilla y la mano izquierdas sobre un banco plano, con el pie derecho en el piso, y sostén una mancuerna en la mano derecha con la palma hacia el cuerpo.",
+      "Mantén la espalda recta y casi paralela al piso, con el core activado.",
       "Deja que la mancuerna cuelgue recta hacia el piso, con el brazo totalmente extendido.",
       "Tira de la mancuerna hacia el pecho, manteniendo el codo cerca del cuerpo y apretando los omóplatos.",
       "Haz una pausa arriba y baja lentamente la mancuerna hasta la posición inicial.",
@@ -587,9 +587,9 @@
     "instructions": [
       "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano con agarre prono.",
       "Flexiona las rodillas y baja las caderas a una posición de sentadilla, manteniendo la espalda recta y el pecho arriba.",
-      "Extiende explosivamente caderas y rodillas, empujando con los talones para despegar del piso.",
-      "Mientras saltas, encoge los hombros y tira de las mancuernas hacia los hombros, manteniéndolas cerca del cuerpo.",
-      "Recibe las mancuernas a la altura del hombro, con los codos apuntando al frente y las palmas hacia arriba.",
+      "Extiende explosivamente caderas y rodillas, empujando con los talones.",
+      "Mientras te extiendes, encoge los hombros y tira de las mancuernas hacia los hombros, manteniéndolas cerca del cuerpo.",
+      "Baja a una sentadilla para recibir las mancuernas a la altura del hombro, palmas enfrentadas, y luego ponte de pie.",
       "Baja las mancuernas hasta la posición inicial invirtiendo el movimiento.",
       "Repite el número deseado de repeticiones."
     ]
@@ -598,10 +598,10 @@
     "name": "Press cerrado con mancuernas",
     "description": "Press de banca con mancuernas juntas que sesga la carga hacia tríceps y pectoral interno. Mantener las mancuernas tocándose durante todo el recorrido aumenta drásticamente la activación del tríceps comparado con el press tradicional.",
     "instructions": [
-      "Siéntate en un banco plano con una mancuerna en cada mano apoyada sobre los muslos.",
-      "Usando los muslos para ayudar, lleva las mancuernas una a una al frente, sosteniéndolas al ancho de los hombros.",
-      "En el ancho de los hombros, rota las muñecas hacia adelante de modo que las palmas miren hacia afuera. Esa será la posición inicial.",
-      "Mientras inhalas, baja lentamente las mancuernas al costado hasta que queden a la altura del pecho.",
+      "Acuéstate en un banco plano con una mancuerna en cada mano y los pies firmes en el piso.",
+      "Empuja las mancuernas sobre el pecho y júntalas hasta que se toquen.",
+      "Gira las palmas para que queden enfrentadas, manteniendo las mancuernas juntas. Esa será la posición inicial.",
+      "Mientras inhalas, baja lentamente las mancuernas juntas hasta el pecho, con los codos cerca del cuerpo.",
       "Mientras exhalas, usa los tríceps para empujar las mancuernas de regreso a la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
@@ -625,21 +625,21 @@
     "instructions": [
       "Párate erguido con una mancuerna en cada mano, palmas hacia el cuerpo.",
       "Mantén los codos cerca del torso y los brazos superiores inmóviles.",
-      "Exhala y eleva las mancuernas contrayendo los bíceps, llevándolas cruzadas al cuerpo hacia el hombro contrario.",
-      "Continúa elevando las mancuernas hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura del hombro.",
+      "Exhala y eleva una mancuerna cruzándola al cuerpo hacia el hombro contrario mientras contraes el bíceps.",
+      "Continúa elevando la mancuerna hasta que el bíceps quede totalmente contraído y la mancuerna a la altura del hombro.",
       "Mantén la posición contraída una pausa breve y aprieta los bíceps.",
-      "Inhala y baja lentamente las mancuernas hasta la posición inicial.",
-      "Repite el número deseado de repeticiones."
+      "Inhala y baja lentamente la mancuerna hasta la posición inicial, luego repite con el otro brazo.",
+      "Continúa alternando brazos durante el número deseado de repeticiones."
     ]
   },
   "0299": {
     "name": "Press cubano con mancuernas",
     "description": "Combinación de remo al mentón, rotación externa y press de hombro en un solo movimiento fluido. Excelente para movilidad escapular, salud del manguito rotador y como calentamiento previo a presses pesados.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano a la altura del hombro con palmas hacia abajo.",
-      "Manteniendo el core activado y los codos ligeramente flexionados, empuja las mancuernas hacia arriba y por encima de la cabeza hasta extender los brazos.",
-      "Rota las muñecas de modo que las palmas miren hacia adelante.",
-      "Baja lentamente las mancuernas a la posición inicial, rotando las muñecas de regreso mientras lo haces.",
+      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano frente a los muslos, palmas hacia ti.",
+      "Eleva las mancuernas guiando con los codos hasta que los codos queden a la altura de los hombros y los antebrazos cuelguen hacia abajo.",
+      "Sin mover los codos, rota los antebrazos hacia arriba hasta que las mancuernas queden sobre los codos y luego empújalas por encima de la cabeza hasta extender los brazos.",
+      "Invierte lentamente el movimiento: baja a la posición rotada, rota los antebrazos hacia abajo y baja las mancuernas hasta los muslos.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -747,12 +747,12 @@
   },
   "0309": {
     "name": "Elevación frontal con mancuernas (variante)",
-    "description": "Elevación frontal bilateral con palmas hacia los muslos al inicio. Aísla el deltoides anterior y la porción superior del pectoral, ofreciendo trabajo directo de hombro frontal con énfasis en el control del peso.",
+    "description": "Elevación frontal alternada con palmas hacia los muslos al inicio. Aísla el deltoides anterior y la porción superior del pectoral, ofreciendo trabajo directo de hombro frontal con énfasis en el control del peso.",
     "instructions": [
       "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano con palmas hacia los muslos.",
       "Mantén la espalda recta y activa el core.",
-      "Eleva lentamente las mancuernas al frente, con los brazos rectos, hasta la altura del hombro.",
-      "Haz una pausa arriba y baja lentamente las mancuernas hasta la posición inicial.",
+      "Eleva lentamente una mancuerna al frente, con el brazo recto, hasta la altura del hombro.",
+      "Haz una pausa arriba, bájala lentamente y repite con el otro brazo.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -779,10 +779,10 @@
   },
   "0312": {
     "name": "Curl martillo con mancuernas (variante)",
-    "description": "Variante del curl martillo con rotación inicial de la palma. Trabaja braquial y braquiorradial, además del bíceps. El agarre neutro es amable con las muñecas y permite cargar más peso que un curl supino.",
+    "description": "Variante del curl martillo con ambos brazos a la vez y agarre neutro. Trabaja braquial y braquiorradial, además del bíceps. El agarre neutro es amable con las muñecas y permite cargar más peso que un curl supino.",
     "instructions": [
       "Párate erguido con una mancuerna en cada mano, palmas hacia el torso.",
-      "Mantén los codos cerca del torso y rota las palmas hasta que queden mirando hacia adelante.",
+      "Mantén los codos cerca del torso y las palmas enfrentadas durante todo el movimiento.",
       "Esa será la posición inicial.",
       "Ahora, manteniendo los brazos superiores inmóviles, exhala y eleva las mancuernas contrayendo los bíceps.",
       "Continúa elevando las mancuernas hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura del hombro.",
@@ -796,12 +796,12 @@
     "description": "Curl con agarre neutro que enfatiza el braquial y el braquiorradial. Movimiento esencial para construir el grosor del brazo, ya que el braquial empuja al bíceps hacia afuera y aumenta el volumen visible.",
     "instructions": [
       "Párate erguido con una mancuerna en cada mano, palmas hacia el torso.",
-      "Mantén los codos cerca del torso y rota las palmas hasta que queden mirando hacia adelante.",
+      "Mantén los codos cerca del torso y las palmas enfrentadas durante todo el movimiento.",
       "Esa será la posición inicial.",
-      "Ahora, manteniendo los brazos superiores inmóviles, exhala y eleva las mancuernas contrayendo los bíceps.",
-      "Continúa elevando las mancuernas hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura del hombro.",
+      "Ahora, manteniendo los brazos superiores inmóviles, exhala y eleva una mancuerna contrayendo el bíceps.",
+      "Continúa elevándola hasta que el bíceps quede totalmente contraído y la mancuerna a la altura del hombro.",
       "Mantén la posición contraída una pausa breve y aprieta los bíceps.",
-      "Inhala y baja lentamente las mancuernas hasta la posición inicial.",
+      "Inhala, baja lentamente la mancuerna hasta la posición inicial y repite con el otro brazo.",
       "Repite el número recomendado de repeticiones."
     ]
   },
@@ -831,14 +831,14 @@
   },
   "0316": {
     "name": "Press inclinado con agarre prono y mancuernas",
-    "description": "Press inclinado con agarre prono y palmas hacia adelante que enfatiza pectoral superior y deltoides anterior. La técnica con codos a 90 grados maximiza el rango y carga el pecho durante todo el recorrido.",
+    "description": "Apertura en banco inclinado con mancuernas que aísla el pectoral superior, con apoyo del deltoides anterior. Los brazos se abren en un arco amplio y vuelven a juntarse sobre el pecho.",
     "instructions": [
       "Coloca un banco inclinado a 45 grados.",
       "Siéntate en el banco con la espalda apoyada y los pies planos en el piso.",
-      "Sostén una mancuerna en cada mano con agarre prono, palmas hacia adelante.",
-      "Comienza con los brazos totalmente extendidos, perpendiculares al piso.",
-      "Baja lentamente las mancuernas a los costados del pecho, manteniendo los codos a 90 grados.",
-      "Haz una pausa abajo y empuja las mancuernas de regreso a la posición inicial.",
+      "Sostén una mancuerna en cada mano con las palmas enfrentadas.",
+      "Comienza con los brazos extendidos sobre el pecho y una ligera flexión en los codos.",
+      "Baja las mancuernas hacia los lados en un arco amplio hasta sentir el estiramiento en el pecho, manteniendo la ligera flexión de codos.",
+      "Haz una pausa abajo y vuelve a juntar las mancuernas sobre el pecho siguiendo el mismo arco.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -859,12 +859,12 @@
     "description": "Curl en banco inclinado a 45 grados con brazos completamente extendidos hacia abajo. El estiramiento del bíceps al inicio del movimiento es máximo en este ejercicio y por eso enfatiza la cabeza larga.",
     "instructions": [
       "Coloca un banco inclinado a 45 grados y siéntate con una mancuerna en cada mano, palmas hacia adelante.",
-      "Apoya los brazos superiores en el banco inclinado y deja que los codos cuelguen, extendiendo los brazos por completo.",
-      "Manteniendo los brazos superiores inmóviles, exhala y eleva las mancuernas contrayendo los bíceps.",
-      "Continúa elevando las mancuernas hasta que los bíceps queden totalmente contraídos y las mancuernas a la altura del hombro.",
-      "Mantén la posición contraída una pausa breve y aprieta los bíceps.",
-      "Inhala y baja lentamente las mancuernas hasta la posición inicial.",
-      "Repite el número deseado de repeticiones."
+      "Deja colgar los brazos rectos desde los hombros, totalmente extendidos, con la espalda alta apoyada en el banco.",
+      "Manteniendo los brazos superiores inmóviles, exhala y eleva una mancuerna contrayendo el bíceps.",
+      "Continúa elevando la mancuerna hasta que el bíceps quede totalmente contraído y la mancuerna a la altura del hombro.",
+      "Mantén la posición contraída una pausa breve y aprieta el bíceps.",
+      "Inhala y baja lentamente la mancuerna hasta la posición inicial, luego sube el otro brazo.",
+      "Alterna los brazos durante el número deseado de repeticiones."
     ]
   },
   "0319": {
@@ -918,14 +918,13 @@
   },
   "0323": {
     "name": "Elevación lateral inclinada a un brazo con mancuerna",
-    "description": "Elevación lateral unilateral con torso inclinado que cambia el ángulo de carga sobre el deltoides medio. La inclinación elimina la dominancia del trapecio y obliga al hombro a trabajar de manera más aislada.",
+    "description": "Elevación lateral unilateral acostado de lado sobre un banco inclinado. Trabaja el deltoides medio en un recorrido largo, desde la cadera hasta la vertical.",
     "instructions": [
-      "Siéntate en un banco inclinado con una mancuerna en una mano, apoyada sobre el muslo.",
-      "Inclínate hacia adelante y posiciona el brazo superior contra la parte interna del muslo.",
-      "Eleva la mancuerna hacia el lado, manteniendo el brazo ligeramente flexionado y la palma hacia abajo.",
-      "Continúa elevando hasta que el brazo quede paralelo al piso.",
-      "Haz una pausa arriba y baja lentamente la mancuerna hasta la posición inicial.",
-      "Repite el número deseado de repeticiones, luego cambia al otro brazo."
+      "Acuéstate de lado sobre un banco inclinado, apoyado en el brazo de abajo, con una mancuerna en la mano de arriba apoyada sobre la cadera.",
+      "Mantén el brazo de arriba recto con una ligera flexión de codo y la palma hacia abajo.",
+      "Eleva la mancuerna en arco alejándola de la cadera hasta que el brazo apunte hacia arriba.",
+      "Haz una pausa arriba y baja lentamente la mancuerna hasta la cadera.",
+      "Repite el número deseado de repeticiones, luego cambia de lado."
     ]
   },
   "0324": {
@@ -943,12 +942,12 @@
   },
   "0325": {
     "name": "Press inclinado tipo elevación con mancuernas",
-    "description": "Press inclinado con énfasis en el ascenso completo por encima de la cabeza, transicionando entre press de pecho y press de hombro. La trayectoria larga moviliza pectoral superior y deltoides anterior en una misma repetición.",
+    "description": "Elevación frontal sentado en banco inclinado que trabaja el deltoides anterior. Al recostarte, los brazos parten colgando por detrás del torso, lo que alarga el recorrido.",
     "instructions": [
-      "Siéntate en un banco inclinado con una mancuerna en cada mano apoyada sobre los muslos.",
-      "Recuéstate en el banco y eleva las mancuernas a la altura del hombro, palmas hacia adelante.",
-      "Manteniendo la espalda contra el banco, exhala y eleva las mancuernas por encima de la cabeza, extendiendo los brazos por completo.",
-      "Haz una pausa arriba e inhala mientras bajas lentamente las mancuernas a la altura del hombro.",
+      "Siéntate en un banco inclinado con una mancuerna en cada mano y recuéstate en el respaldo.",
+      "Deja colgar los brazos rectos a los lados del banco, palmas hacia el cuerpo.",
+      "Manteniendo la espalda contra el banco y los brazos rectos, exhala y eleva las mancuernas al frente hasta la altura del hombro.",
+      "Haz una pausa arriba e inhala mientras bajas lentamente las mancuernas a la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -978,13 +977,12 @@
   },
   "0328": {
     "name": "Press de hombros inclinado con mancuernas",
-    "description": "Press de hombros realizado en banco inclinado que combina trabajo de pectoral superior y deltoides anterior. Útil como puente entre press inclinado y press militar, cargando ambos grupos en una misma serie.",
+    "description": "Ejercicio para el serrato anterior con apoyo de deltoides y trapecio. Recostado en un banco inclinado con los brazos extendidos hacia arriba, las mancuernas suben unos centímetros solo al llevar las escápulas hacia adelante.",
     "instructions": [
-      "Coloca un banco inclinado a 45 grados y siéntate con una mancuerna en cada mano, palmas hacia abajo.",
-      "Apoya las mancuernas sobre los muslos y recuéstate en el banco.",
-      "Usa los muslos para ayudar a llevar las mancuernas a la altura del hombro y rota las muñecas hasta que las palmas miren hacia adelante.",
-      "Exhala y eleva lentamente las mancuernas por encima de la cabeza, manteniendo una ligera flexión en los codos.",
-      "Haz una pausa arriba e inhala mientras bajas lentamente las mancuernas a la altura del hombro.",
+      "Coloca un banco inclinado a 45 grados y recuéstate con una mancuerna en cada mano.",
+      "Empuja las mancuernas hacia arriba hasta extender por completo los brazos sobre los hombros.",
+      "Con los codos bloqueados, exhala y sube un poco más las mancuernas despegando los hombros del banco y separando las escápulas.",
+      "Haz una pausa arriba e inhala mientras dejas que las escápulas vuelvan despacio hacia el banco sin flexionar los codos.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -1024,11 +1022,12 @@
   },
   "0332": {
     "name": "Cruz de hierro con mancuernas",
-    "description": "Elevación lateral isométrica al estilo cruz de hierro que combina deltoides medio y trapecios. La forma de T desafía la resistencia muscular y suma un componente postural al fortalecer la espalda alta y los hombros.",
+    "description": "Ejercicio de cuerpo completo que combina una sentadilla con un barrido de hombros. Te pones de pie desde la sentadilla mientras abres las mancuernas desde el frente hacia los lados hasta formar una T.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano a los costados.",
-      "Eleva los brazos hacia los lados hasta quedar paralelos al piso, formando una T con el cuerpo.",
-      "Haz una pausa breve y baja lentamente los brazos hasta la posición inicial.",
+      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano.",
+      "Baja a una sentadilla y eleva los brazos rectos al frente hasta la altura del hombro.",
+      "Ponte de pie mientras abres los brazos hacia los lados a la altura del hombro hasta formar una T con el cuerpo.",
+      "Vuelve a bajar a la sentadilla llevando los brazos de nuevo al frente.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -1036,12 +1035,12 @@
     "name": "Patada de tríceps con mancuerna",
     "description": "Aislamiento de tríceps en posición de bisagra con extensión hacia atrás. La patada exige fijar el codo a la altura del torso y trabajar la extensión pura, lo que recluta el tríceps en su rango contraído.",
     "instructions": [
-      "Párate con los pies al ancho de los hombros y sostén una mancuerna en cada mano.",
-      "Flexiona ligeramente las rodillas y bisagra hacia adelante desde las caderas, manteniendo la espalda recta.",
-      "Lleva los brazos superiores cerca del costado, con los codos flexionados a 90 grados.",
-      "Extiende los brazos rectos hacia atrás, apretando los tríceps en la parte alta del movimiento.",
-      "Haz una pausa breve y baja lentamente las mancuernas hasta la posición inicial.",
-      "Repite el número deseado de repeticiones."
+      "Apoya una rodilla y la mano del mismo lado en un banco plano, con el otro pie en el piso y una mancuerna en la mano libre.",
+      "Mantén la espalda recta y el torso más o menos paralelo al piso.",
+      "Lleva el brazo superior cerca del costado, con el codo flexionado a 90 grados.",
+      "Extiende el brazo recto hacia atrás, apretando el tríceps en la parte alta del movimiento.",
+      "Haz una pausa breve y baja lentamente la mancuerna hasta la posición inicial.",
+      "Repite el número deseado de repeticiones, luego cambia de brazo."
     ]
   },
   "0334": {
@@ -1062,9 +1061,8 @@
       "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano con palmas hacia el cuerpo.",
       "Mantén la espalda recta y activa el core.",
       "Eleva los brazos hacia los lados hasta quedar paralelos al piso, manteniendo una ligera flexión en los codos.",
-      "Haz una pausa arriba y baja lentamente los brazos hasta la posición inicial.",
-      "Después, eleva los brazos al frente hasta quedar paralelos al piso, manteniendo nuevamente una ligera flexión en los codos.",
-      "Haz una pausa arriba y baja lentamente los brazos hasta la posición inicial.",
+      "Sin bajarlos de la altura del hombro, lleva los brazos hacia el frente.",
+      "Baja lentamente los brazos hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
   },
@@ -1082,13 +1080,13 @@
   },
   "0337": {
     "name": "Extensión de tríceps acostado al rostro con mancuerna",
-    "description": "Extensión de tríceps acostado con mancuerna llevada en arco hasta la cara, que enfatiza la cabeza larga del tríceps. Variante con trayectoria distinta al press francés clásico, útil para variar el estímulo sobre el tríceps.",
+    "description": "Extensión de tríceps acostado en banco plano, bajando una mancuerna a la vez por delante de la cara hacia el hombro contrario.",
     "instructions": [
       "Acuéstate plano sobre un banco con los pies en el piso y la cabeza al final del banco.",
-      "Sostén una mancuerna con ambas manos y extiende los brazos rectos por encima del pecho, palmas enfrentadas.",
-      "Manteniendo los brazos superiores inmóviles, baja lentamente la mancuerna en arco detrás de la cabeza hasta que los antebrazos queden paralelos al piso.",
-      "Haz una pausa breve y contrae los tríceps para llevar la mancuerna de regreso a la posición inicial.",
-      "Repite el número deseado de repeticiones."
+      "Sostén una mancuerna en cada mano y extiende los brazos rectos por encima del pecho.",
+      "Con un brazo extendido, flexiona el codo del otro y baja lentamente la mancuerna por delante de la cara hacia el hombro contrario.",
+      "Haz una pausa breve y contrae el tríceps para llevar la mancuerna de regreso a la posición inicial.",
+      "Alterna los brazos durante el número deseado de repeticiones."
     ]
   },
   "0338": {
@@ -1103,10 +1101,10 @@
   },
   "0339": {
     "name": "Curl femoral acostado con mancuerna",
-    "description": "Curl femoral con mancuerna sostenida sobre el abdomen, simulando el patrón de la máquina de leg curl. Útil cuando no hay máquina disponible, aunque requiere control para evitar que la mancuerna se desestabilice.",
+    "description": "Curl femoral boca abajo en banco con una mancuerna sujeta entre los pies, simulando el patrón de la máquina de leg curl. Útil cuando no hay máquina disponible, aunque requiere control para que la mancuerna no se suelte.",
     "instructions": [
-      "Acuéstate boca arriba con las piernas extendidas y una mancuerna apoyada sobre la zona baja del abdomen.",
-      "Flexiona las rodillas y lleva la mancuerna hacia los glúteos, manteniendo los pies planos en el piso.",
+      "Acuéstate boca abajo en un banco plano con las rodillas al final del banco y una mancuerna bien sujeta entre los pies.",
+      "Flexiona las rodillas y lleva la mancuerna hacia los glúteos, manteniendo la cadera pegada al banco.",
       "Haz una pausa arriba y baja lentamente la mancuerna hasta la posición inicial.",
       "Repite el número deseado de repeticiones."
     ]
@@ -1127,7 +1125,7 @@
     "instructions": [
       "Acuéstate boca abajo en un banco plano con una mancuerna en una mano, palma hacia adentro.",
       "Extiende el brazo recto hacia el piso, manteniéndolo cerca del cuerpo.",
-      "Eleva el brazo hacia arriba y atrás, apretando el omóplato hacia la columna.",
+      "Eleva el brazo hacia arriba y atrás, dejando que el codo se flexione a unos 90 grados y apretando el omóplato hacia la columna.",
       "Haz una pausa arriba y baja lentamente el brazo hasta la posición inicial.",
       "Repite el número deseado de repeticiones, luego cambia de brazo."
     ]
@@ -1161,7 +1159,7 @@
     "instructions": [
       "Acuéstate plano sobre un banco con la espalda y la cabeza apoyadas y los pies planos en el piso.",
       "Sostén una mancuerna en una mano con la palma hacia abajo y extiende el brazo recto por encima del hombro.",
-      "Manteniendo el brazo superior inmóvil, baja lentamente la mancuerna detrás de la cabeza flexionando el codo.",
+      "Sujeta el brazo de trabajo con la mano libre y, manteniendo el brazo superior inmóvil, baja lentamente la mancuerna por delante de la cara hacia el hombro contrario flexionando el codo.",
       "Haz una pausa abajo y extiende el brazo de regreso a la posición inicial.",
       "Repite el número deseado de repeticiones, luego cambia de brazo."
     ]

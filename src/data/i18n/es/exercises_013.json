@@ -25,70 +25,70 @@
   },
   "3156": {
     "name": "Remo unilateral con agarre cerrado a peso corporal",
-    "description": "Versión a un solo brazo del remo de pie con agarre cerrado, donde el desafío unilateral exige más estabilidad del core y combate las asimetrías. Trabaja la espalda alta, dorsales y bíceps con un patrón cercano al cuerpo.",
+    "description": "Remo unilateral a peso corporal en espaldera: sujetando un barrote con una mano, te inclinas atrás y tiras del cuerpo hacia la espaldera. Trabaja espalda alta, dorsales y bíceps y exige estabilidad del core.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, rodillas ligeramente flexionadas y sujeta una mancuerna en una mano con agarre neutro.",
-      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activo.",
-      "Tira de la mancuerna hacia el pecho, manteniendo el codo cerca del cuerpo y juntando las escápulas.",
-      "Pausa un momento arriba y luego baja la mancuerna lentamente a la posición inicial.",
-      "Repite el número de repeticiones deseado y cambia de lado."
+      "Ponte de pie frente a una espaldera con los pies cerca de la base.",
+      "Sujeta un barrote a la altura del pecho con una mano.",
+      "Inclínate hacia atrás hasta estirar el brazo, con el cuerpo en línea recta.",
+      "Tira del pecho hacia la espaldera llevando el codo atrás y juntando la escápula.",
+      "Baja despacio hasta extender el brazo por completo; repite y cambia de brazo."
     ]
   },
   "3158": {
     "name": "Remo de pie con agarre cerrado a peso corporal",
     "description": "Remo bilateral de pie con un agarre cerrado que enfatiza el centro de la espalda y los romboides. Útil como ejercicio de calentamiento o trabajo accesorio para mejorar la postura y la retracción escapular.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y el core activo.",
-      "Extiende los brazos al frente y sujeta la barra o las asas con agarre cerrado.",
-      "Tira de la barra o las asas hacia el cuerpo, juntando las escápulas.",
-      "Pausa un momento en la parte alta del movimiento y luego suelta lentamente para regresar a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Ponte de pie frente a una espaldera con los pies cerca de la base.",
+      "Sujeta un barrote a la altura del pecho con ambas manos juntas.",
+      "Inclínate hacia atrás hasta estirar los brazos, con el cuerpo en línea recta.",
+      "Tira del pecho hacia la espaldera llevando los codos atrás y juntando las escápulas.",
+      "Pausa un instante.",
+      "Baja despacio hasta extender los brazos por completo."
     ]
   },
   "3161": {
     "name": "Remo unilateral de pie con toalla",
     "description": "Versión a un brazo del remo con toalla, donde la fricción del agarre añade trabajo de antebrazo. Ideal para entrenar dorsales y romboides cuando no se dispone de mancuernas o máquinas.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, rodillas ligeramente flexionadas y sujeta una toalla con una mano.",
-      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activo.",
-      "Tira de la toalla hacia el pecho, juntando las escápulas.",
-      "Pausa un momento arriba y luego baja la toalla lentamente a la posición inicial.",
-      "Repite el número de repeticiones deseado y cambia al otro brazo."
+      "Ponte de pie frente a una espaldera con los pies cerca de la base.",
+      "Sujeta con una mano los extremos de una toalla pasada alrededor de un barrote a la altura del pecho.",
+      "Inclínate hacia atrás hasta estirar el brazo, con el cuerpo en línea recta.",
+      "Tira del pecho hacia la espaldera llevando el codo atrás y juntando la escápula.",
+      "Baja despacio hasta extender el brazo por completo; repite y cambia de brazo."
     ]
   },
   "3162": {
     "name": "Remo unilateral de pie con mancuerna",
-    "description": "Remo a un brazo desde posición de pie inclinada, donde el trabajo unilateral permite mayor rango de movimiento y corrige asimetrías entre lados. La mancuerna recorre una trayectoria libre que exige control escapular durante toda la fase concéntrica.",
+    "description": "Remo a un brazo a peso corporal en espaldera: te inclinas atrás sujetando un barrote y tiras del cuerpo hacia él. El trabajo unilateral corrige asimetrías y exige control escapular.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, rodillas ligeramente flexionadas y sujeta una mancuerna en una mano.",
-      "Inclínate hacia adelante desde las caderas, manteniendo la espalda recta y el core activo.",
-      "Deja que la mancuerna cuelgue recta hacia abajo frente a ti con el brazo completamente extendido.",
-      "Tira de la mancuerna hacia el pecho, manteniendo el codo cerca del cuerpo.",
-      "Junta las escápulas en la parte alta del movimiento.",
-      "Baja la mancuerna a la posición inicial.",
-      "Repite el número de repeticiones deseado y cambia de lado."
+      "Ponte de pie frente a una espaldera con los pies cerca de la base.",
+      "Sujeta un barrote a la altura del pecho con una mano.",
+      "Inclínate hacia atrás hasta estirar el brazo, con el cuerpo en línea recta.",
+      "Activa el core y evita que la cadera rote.",
+      "Tira del pecho hacia la espaldera llevando el codo atrás y juntando la escápula.",
+      "Pausa un instante.",
+      "Baja despacio hasta extender el brazo por completo; repite y cambia de brazo."
     ]
   },
   "3165": {
     "name": "Remo de pie con toalla",
-    "description": "Remo bilateral usando una toalla como agarre, ideal para entrenar la espalda en casa o en viajes sin equipo. La fricción del tejido y la tensión isométrica reclutan también los antebrazos.",
+    "description": "Remo con el peso corporal usando una toalla enganchada a una barra fija, ideal para entrenar la espalda sin equipo pesado. Te inclinas hacia atrás y tiras del cuerpo hacia el anclaje, y el agarre de la toalla recluta también los antebrazos.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sujeta una toalla frente a ti con ambas manos.",
-      "Flexiona ligeramente las rodillas y bisagra desde las caderas, manteniendo la espalda recta.",
-      "Tira de la toalla hacia el pecho, juntando las escápulas.",
-      "Pausa un momento arriba y luego suelta lentamente la tensión y vuelve a la posición inicial.",
+      "Pasa una toalla alrededor de una barra firme (por ejemplo, un peldaño de espaldera) a la altura de la cintura y sujeta un extremo con cada mano.",
+      "Acerca los pies a la barra e inclínate hacia atrás hasta extender los brazos por completo, con el cuerpo recto.",
+      "Tira del pecho hacia la barra, juntando las escápulas.",
+      "Pausa un momento arriba y luego inclínate lentamente hacia atrás hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3166": {
     "name": "Remo de pie a peso corporal",
-    "description": "Remo bilateral en posición inclinada con agarre prono, sin carga adicional, enfocado en activar dorsales y trapecio medio. Sirve como ejercicio de movilidad o calentamiento previo a remos pesados.",
+    "description": "Remo bilateral reclinado hacia atrás sujetando una barra fija con agarre prono, sin carga adicional, enfocado en activar dorsales y trapecio medio. Sirve como ejercicio de movilidad o calentamiento previo a remos pesados.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Sujeta una barra o asas con agarre prono, palmas hacia abajo.",
+      "Párate frente a una barra firme (por ejemplo, un peldaño de espaldera) a la altura de la cintura, con los pies cerca de ella.",
+      "Sujeta la barra con agarre prono e inclínate hacia atrás hasta extender los brazos, con el cuerpo recto.",
       "Mantén la espalda recta y el core activo.",
-      "Tira de la barra o las asas hacia el cuerpo, juntando las escápulas.",
+      "Tira del pecho hacia la barra, juntando las escápulas.",
       "Pausa un momento en la parte alta del movimiento.",
       "Suelta lentamente y extiende los brazos a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -96,23 +96,23 @@
   },
   "3167": {
     "name": "Remo en sentadilla con toalla",
-    "description": "Combina el patrón de sentadilla con un remo simultáneo usando una toalla. Trabaja piernas y espalda en un movimiento integrado, útil para acondicionamiento metabólico o entrenamientos en casa.",
+    "description": "Remo con el peso corporal desde una sentadilla sostenida, tirando del cuerpo hacia una toalla enganchada a una barra fija. Trabaja espalda y piernas en un movimiento integrado, útil para acondicionamiento o entrenamientos en casa.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, sujetando una toalla frente a ti con las palmas hacia abajo.",
-      "Flexiona las rodillas y baja a posición de sentadilla, manteniendo la espalda recta y el pecho arriba.",
-      "Mientras bajas a la sentadilla, tira de la toalla hacia el pecho, juntando las escápulas.",
-      "Pausa un momento al final de la sentadilla y luego regresa lentamente a la posición inicial mientras extiendes los brazos.",
+      "Pasa una toalla alrededor de una barra firme (por ejemplo, un peldaño de espaldera) y sujeta un extremo con cada mano, con los pies cerca de la barra.",
+      "Baja a una sentadilla profunda e inclínate hacia atrás hasta extender los brazos, manteniendo la espalda recta y el pecho arriba.",
+      "Sin salir de la sentadilla, tira del pecho hacia la barra, juntando las escápulas.",
+      "Pausa un momento y luego extiende lentamente los brazos inclinándote hacia atrás hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3168": {
     "name": "Remo en sentadilla a peso corporal",
-    "description": "Sentadilla acompañada de un tirón unilateral o bilateral hacia un objeto fijo, integrando piernas y espalda. Excelente para entrenamientos funcionales y para fortalecer el patrón de tirón en suspensión.",
+    "description": "Remo con ambos brazos desde una sentadilla sostenida, tirando del cuerpo hacia una barra fija. Integra piernas y espalda y es excelente para fortalecer el patrón de tirón en entrenamientos funcionales.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, sujetando un objeto fijo o un entrenador de suspensión con los brazos extendidos.",
-      "Baja el cuerpo a posición de sentadilla, manteniendo la espalda recta y las rodillas detrás de la punta de los pies.",
-      "Desde la sentadilla, tira del cuerpo hacia el objeto o entrenador de suspensión, juntando las escápulas.",
-      "Pausa un momento arriba y luego baja lentamente a la posición inicial.",
+      "Párate frente a una barra firme (por ejemplo, un peldaño de espaldera) con los pies cerca de ella y sujétala con ambas manos.",
+      "Baja a una sentadilla profunda e inclínate hacia atrás hasta extender los brazos, manteniendo la espalda recta.",
+      "Sin salir de la sentadilla, tira del pecho hacia la barra, juntando las escápulas.",
+      "Pausa un momento y luego extiende lentamente los brazos hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -120,20 +120,20 @@
     "name": "Glute-ham raise",
     "description": "Ejercicio avanzado para isquiotibiales y glúteos realizado en máquina específica, donde la cadena posterior trabaja contra la gravedad de forma intensa. La doble función de los isquios (extensión de cadera y flexión de rodilla) los recluta de manera particularmente eficaz.",
     "instructions": [
-      "Ajusta la máquina de glute-ham raise a tu cuerpo.",
-      "Colócate boca abajo en la máquina con los tobillos asegurados.",
-      "Pon las manos sobre el pecho o crúzalas frente al pecho.",
-      "Activa los isquiotibiales y glúteos para elevar el tronco hacia el techo.",
-      "Continúa subiendo hasta que el cuerpo esté en línea recta de la cabeza a los talones.",
-      "Pausa un momento arriba y baja lentamente el cuerpo a la posición inicial.",
+      "Ajusta la máquina de glute-ham raise para que las rodillas queden justo detrás del cojín y los tobillos asegurados bajo los rodillos.",
+      "Arrodíllate erguido sobre el cojín con el cuerpo en línea recta de las rodillas a la cabeza.",
+      "Cruza los brazos sobre el pecho.",
+      "Con la cadera extendida, baja lentamente el tronco hacia adelante estirando las rodillas hasta quedar casi paralelo al suelo.",
+      "Activa los isquiotibiales y glúteos para volver a subir el cuerpo.",
+      "Continúa hasta regresar a la posición erguida de rodillas, manteniendo la línea recta de las rodillas a la cabeza.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3194": {
     "name": "Sentadilla Frankenstein con barra",
-    "description": "Variante de sentadilla donde la barra se sostiene con los brazos extendidos al frente, lo que obliga a mantener un torso muy vertical. Excelente como ejercicio técnico para corregir errores de postura en la sentadilla frontal y desarrollar fuerza del core.",
+    "description": "Variante de sentadilla donde la barra descansa sobre la parte frontal de los hombros mientras los brazos se extienden al frente sin sujetarla, lo que obliga a mantener un torso muy vertical. Excelente como ejercicio técnico para corregir errores de postura en la sentadilla frontal y desarrollar fuerza del core.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y sujeta la barra frente al cuerpo con los brazos rectos.",
+      "Ponte de pie con los pies al ancho de los hombros, apoya la barra sobre la parte frontal de los hombros y extiende los brazos al frente sin sujetarla.",
       "Manteniendo la espalda recta, baja el cuerpo flexionando rodillas y caderas, como si te sentaras en una silla.",
       "Continúa bajando hasta que los muslos queden paralelos al suelo, o tan bajo como te resulte cómodo.",
       "Pausa un momento y empuja con los talones para regresar a la posición inicial.",
@@ -142,22 +142,22 @@
   },
   "3195": {
     "name": "Curl femoral acostado a una pierna en máquina de palanca",
-    "description": "Variante unilateral del curl femoral acostado en máquina, útil para detectar y corregir desequilibrios entre piernas. La carga concentrada en una sola pierna intensifica el trabajo de los isquiotibiales.",
+    "description": "Variante del curl femoral acostado en máquina en la que subes la palanca con ambas piernas y la bajas con una sola. La fase de bajada concentrada en una pierna intensifica el trabajo de los isquiotibiales y ayuda a detectar desequilibrios.",
     "instructions": [
-      "Ajusta la máquina a tu cuerpo y siéntate con la espalda contra el respaldo.",
-      "Coloca las piernas en la palanca, justo encima de los tobillos.",
+      "Ajusta la máquina y acuéstate boca abajo con las rodillas justo fuera del borde del cojín.",
+      "Coloca la parte trasera de los tobillos bajo la palanca.",
       "Sujeta las agarraderas de los lados de la máquina para mayor estabilidad.",
-      "Manteniendo el tronco quieto, exhala y curva las piernas hacia los glúteos.",
-      "Pausa un momento arriba y luego inhala mientras bajas las piernas lentamente a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Manteniendo la cadera pegada al cojín, exhala y lleva ambas piernas hacia los glúteos.",
+      "Pausa arriba, retira una pierna de la palanca y baja lentamente el peso con la otra hasta la posición inicial.",
+      "Repite el número de repeticiones deseado, alternando la pierna que baja."
     ]
   },
   "3200": {
     "name": "Remo inclinado en máquina de palanca con barra V",
     "description": "Remo en máquina de palanca usando una barra V que permite agarre neutro y cerrado. La trayectoria fija reduce la carga sobre estabilizadores y dirige el esfuerzo a dorsales y romboides.",
     "instructions": [
-      "Ajusta la altura del asiento y colócate frente a la máquina.",
-      "Sujeta la barra V con agarre prono, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Párate con la barra entre las piernas e inclínate al frente desde la cadera.",
+      "Sujeta la barra V con agarre neutro (palmas enfrentadas), manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
       "Tira de la barra V hacia el abdomen, juntando las escápulas.",
       "Pausa un momento en la parte alta del movimiento y luego suelta lentamente la carga a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -167,20 +167,20 @@
     "name": "Cuarto de abdominal",
     "description": "Versión de rango parcial del abdominal clásico, donde solo se elevan los hombros y la parte alta de la espalda. Ideal para principiantes o para enfocar la contracción en la parte superior del recto abdominal.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
-      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta que el torso quede a 45 grados.",
+      "Acuéstate boca arriba con las piernas estiradas sobre el suelo.",
+      "Coloca los brazos a los lados del cuerpo, con las palmas hacia abajo.",
+      "Activando el abdomen, eleva lentamente la cabeza y los hombros del suelo, curvando solo la parte alta del tronco.",
       "Pausa un momento arriba y luego baja lentamente el tronco a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3202": {
     "name": "Medio abdominal",
-    "description": "Abdominal de medio rango con manos detrás de la cabeza, que activa el recto abdominal sin involucrar tanto los flexores de cadera. Muy usado como ejercicio base de fortalecimiento del core.",
+    "description": "Abdominal con las piernas estiradas y los brazos a los costados, en el que subes el tronco hasta quedar sentado. Activa el recto abdominal con apoyo de los flexores de cadera y es muy usado como ejercicio base de fortalecimiento del core.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
-      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta que el torso quede a 45 grados.",
+      "Acuéstate boca arriba con las piernas estiradas sobre el suelo.",
+      "Coloca los brazos a los lados del cuerpo.",
+      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta quedar erguido.",
       "Pausa un momento arriba y luego baja lentamente el tronco a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -189,9 +189,9 @@
     "name": "Medio abdominal estilo prisionero",
     "description": "Variante del medio abdominal donde las manos se entrelazan detrás de la cabeza imitando la posición de un prisionero. La postura mantiene los codos abiertos y obliga a un trabajo más estricto del recto abdominal.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Acuéstate boca arriba con las piernas estiradas sobre el suelo.",
       "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta que el torso quede a 45 grados.",
+      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta quedar erguido.",
       "Pausa un momento arriba y luego baja lentamente el tronco a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -200,9 +200,9 @@
     "name": "Abdominal completo con brazos por encima de la cabeza",
     "description": "Abdominal de rango completo con los brazos extendidos por encima de la cabeza, lo que aumenta la palanca y exige más trabajo del recto abdominal. Excelente progresión cuando el abdominal estándar se vuelve fácil.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Acuéstate boca arriba con las piernas estiradas sobre el suelo.",
       "Extiende los brazos por encima de la cabeza, manteniéndolos rectos.",
-      "Activando el abdomen, eleva lentamente el tronco del suelo, curvándote hacia adelante hasta quedar erguido.",
+      "Activando el abdomen, eleva lentamente el tronco del suelo hasta sentarte y lleva las manos al frente hacia los pies.",
       "Pausa un momento arriba y luego baja lentamente el tronco a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -212,7 +212,7 @@
     "description": "Versión regresiva de la flexión clásica donde se apoyan las rodillas en el suelo, reduciendo la carga sobre los brazos. Ideal para principiantes que están construyendo fuerza en pecho, hombros y tríceps.",
     "instructions": [
       "Empieza arrodillado en el suelo con las manos al ancho de los hombros y los dedos apuntando hacia adelante.",
-      "Extiende las piernas detrás del cuerpo apoyándote en las puntas de los pies, formando una línea recta de la cabeza a los talones.",
+      "Avanza las manos hasta que el cuerpo forme una línea recta de la cabeza a las rodillas, manteniendo las rodillas apoyadas en el suelo.",
       "Activa el core y baja el cuerpo hacia el suelo flexionando los codos y manteniéndolos cerca del torso.",
       "Continúa bajando hasta que el pecho quede justo encima del suelo y luego empuja para volver a la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -222,8 +222,8 @@
     "name": "Toque de puntas básico de pie",
     "description": "Inclinación frontal de pie donde las manos buscan las puntas de los pies, estirando la cadena posterior y trabajando isquiotibiales y glúteos. Útil como ejercicio de movilidad y activación.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos a los costados.",
-      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Ponte de pie con los pies al ancho de los hombros y los brazos elevados por encima de la cabeza.",
+      "Inclínate hacia adelante desde la cintura, dejando que la espalda se redondee de forma natural y con las rodillas ligeramente flexionadas.",
       "Lleva las manos hacia las puntas de los pies, manteniendo las piernas tan rectas como sea posible.",
       "Pausa un momento abajo y luego regresa lentamente a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -231,35 +231,35 @@
   },
   "3213": {
     "name": "Toque de puntas alternado lateral",
-    "description": "Inclinación lateral alternada hacia cada pie, que trabaja oblicuos y la flexibilidad lateral del tronco. Ideal para calentamientos dinámicos y activación del core.",
+    "description": "Flexión del tronco hacia adelante alternando hacia cada pie, que trabaja oblicuos y la flexibilidad del tronco. Ideal para calentamientos dinámicos y activación del core.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos extendidos a los lados.",
-      "Inclínate desde la cintura hacia la derecha, llevando la mano derecha hacia el pie derecho mientras mantienes el brazo izquierdo extendido al lado.",
-      "Regresa a la posición inicial y luego inclínate desde la cintura hacia la izquierda, llevando la mano izquierda hacia el pie izquierdo mientras mantienes el brazo derecho extendido al lado.",
+      "Ponte de pie con los pies al ancho de los hombros y los brazos elevados por encima de la cabeza.",
+      "Flexiona el tronco hacia adelante desde la cintura girando un poco a la derecha y lleva ambas manos hacia el pie derecho.",
+      "Regresa a la posición inicial y luego flexiona el tronco hacia adelante girando un poco a la izquierda, llevando ambas manos hacia el pie izquierdo.",
       "Repite el movimiento alternado de un lado a otro el número de repeticiones deseado."
     ]
   },
   "3214": {
     "name": "Toque de puntas circular con brazos abiertos",
-    "description": "Toque de puntas alternado con elevación contralateral de pierna y brazos extendidos a los lados. Trabaja equilibrio, glúteos e isquiotibiales en un patrón cruzado.",
+    "description": "Ejercicio de movilidad con los brazos elevados y separados en el que te inclinas hasta las puntas de los pies y subes describiendo un círculo por un costado. Trabaja la cadena posterior, la columna y la movilidad de hombros.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos extendidos a los lados.",
-      "Manteniendo las piernas rectas, inclínate hacia adelante desde la cintura y lleva la mano derecha hacia las puntas de los pies.",
-      "Mientras te inclinas, eleva la pierna izquierda recta hacia atrás, manteniendo el equilibrio.",
-      "Regresa a la posición inicial y repite el movimiento llevando la mano izquierda hacia las puntas y elevando la pierna derecha hacia atrás.",
+      "Ponte de pie con los pies al ancho de los hombros y los brazos elevados por encima de la cabeza, ligeramente separados.",
+      "Manteniendo las piernas rectas, inclínate hacia adelante desde la cintura y lleva ambas manos hacia las puntas de los pies.",
+      "Desde abajo, sube los brazos y el tronco hacia un costado en un movimiento circular amplio.",
+      "Completa el círculo por arriba hasta la posición inicial y repite girando hacia el otro lado.",
       "Continúa alternando lados el número de repeticiones deseado."
     ]
   },
   "3215": {
     "name": "Toque de puntas circular con manos entrelazadas inversas",
-    "description": "Variante de toque de puntas con un movimiento circular amplio donde las manos se entrelazan en posición invertida detrás de las piernas. Combina movilidad de hombros y cadera con estiramiento de la cadena posterior.",
+    "description": "Variante de toque de puntas con un movimiento circular amplio y las manos entrelazadas con las palmas invertidas por encima de la cabeza. Combina movilidad de hombros y cadera con estiramiento de la cadena posterior.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos extendidos a los lados.",
-      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
-      "Lleva las manos hacia abajo y entrelázalas detrás de las piernas.",
-      "Eleva lentamente las manos hacia arriba y por encima de la cabeza en un movimiento circular, manteniendo las piernas rectas.",
-      "Continúa el movimiento circular hasta que las manos toquen las puntas de los pies.",
-      "Revierte el movimiento y vuelve las manos a la posición inicial.",
+      "Ponte de pie con los pies al ancho de los hombros, entrelaza los dedos y empuja las palmas hacia arriba por encima de la cabeza.",
+      "Con las manos entrelazadas, inclínate hacia adelante desde la cintura con las rodillas ligeramente flexionadas.",
+      "Lleva las manos entrelazadas hacia las puntas de los pies.",
+      "Sube lentamente las manos y el tronco hacia un costado en un movimiento circular, manteniendo las piernas rectas.",
+      "Completa el círculo por arriba hasta que las manos vuelvan sobre la cabeza.",
+      "Repite el círculo en la dirección contraria.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -280,54 +280,54 @@
     "description": "Versión simplificada de la flexión hindú con un movimiento ondulatorio que recorre desde una posición de pico hacia abajo. Recluta pectorales, hombros y core en un patrón fluido inspirado en el yoga.",
     "instructions": [
       "Empieza en posición de flexión con las manos un poco más separadas que el ancho de los hombros y los pies al ancho de las caderas.",
-      "Baja el cuerpo hacia el suelo flexionando los codos y manteniendo el core activo.",
-      "Mientras bajas, desplaza el peso hacia atrás y eleva las caderas hacia el techo, formando una V invertida con el cuerpo.",
-      "Continúa bajando hasta que el pecho quede justo encima del suelo y luego revierte el movimiento, empujando las caderas hacia abajo y extendiendo los brazos para volver a la posición inicial.",
+      "Flexiona los codos y baja el pecho hacia el suelo manteniendo el core activo.",
+      "Empuja con las manos y eleva las caderas hacia el techo, formando una V invertida con el cuerpo.",
+      "Desplaza el peso hacia adelante y baja las caderas para volver a la posición de flexión.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3218": {
     "name": "Toque de puntas circular con manos entrelazadas",
-    "description": "Inclinación frontal con manos entrelazadas frente al pecho que trabaja la cadena posterior y la movilidad de cadera. Variante simple del toque de puntas para sesiones de movilidad o calentamiento.",
+    "description": "Toque de puntas con las manos entrelazadas por encima de la cabeza y un movimiento circular del tronco, que trabaja la cadena posterior y la movilidad de cadera y columna. Variante simple para sesiones de movilidad o calentamiento.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las manos entrelazadas frente al pecho.",
-      "Flexiona ligeramente las rodillas y bisagra desde las caderas, manteniendo la espalda recta.",
-      "Baja las manos hacia las puntas de los pies en un movimiento circular, llegando tan lejos como puedas sin forzar.",
-      "Pausa un momento abajo y luego regresa lentamente a la posición inicial.",
+      "Ponte de pie con los pies al ancho de los hombros y las manos entrelazadas por encima de la cabeza.",
+      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde la cintura.",
+      "Baja las manos hacia las puntas de los pies y luego súbelas por un costado en un movimiento circular hasta quedar sobre la cabeza.",
+      "Repite el círculo en la dirección contraria.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3219": {
     "name": "Saltos de tijera",
-    "description": "Salto explosivo donde se cruzan las piernas en el aire alternando rápido la posición. Ejercicio cardiovascular ágil que mejora la coordinación y la potencia de tren inferior.",
+    "description": "Salto en el que las piernas cambian de adelante hacia atrás en el aire, alternando rápido la posición. Ejercicio cardiovascular ágil que mejora la coordinación y la potencia de tren inferior.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros.",
-      "Salta del suelo y simultáneamente cruza la pierna derecha frente a la izquierda.",
-      "Al aterrizar, cambia rápidamente las piernas, cruzando la izquierda frente a la derecha.",
+      "Ponte de pie en posición de zancada con el pie derecho adelante y el izquierdo atrás.",
+      "Salta del suelo y cambia las piernas en el aire, llevando el pie izquierdo adelante y el derecho atrás.",
+      "Al aterrizar, salta de inmediato y vuelve a cambiar a pie derecho adelante.",
       "Continúa alternando piernas y saltando lo más rápido posible.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3220": {
     "name": "Saltos a horcajadas",
-    "description": "Salto explosivo desde sentadilla donde se abren brazos y piernas en el aire. Combina pliometría de tren inferior con un componente de movilidad y coordinación general.",
+    "description": "Salto en el que separas las piernas y abres los brazos a los lados a la altura de los hombros, para luego volver a juntarlos. Ejercicio cardiovascular que trabaja el tren inferior y la coordinación general.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros.",
-      "Flexiona las rodillas y baja el cuerpo a posición de sentadilla.",
-      "Salta explosivamente hacia arriba, extendiendo piernas y brazos.",
-      "En el aire, separa las piernas y abre los brazos a los lados.",
-      "Aterriza suavemente con los pies al ancho de los hombros, flexionando las rodillas para absorber el impacto.",
+      "Ponte de pie con los pies juntos y los brazos a los costados.",
+      "Mantén las rodillas ligeramente flexionadas y el pecho arriba.",
+      "Salta y separa ampliamente las piernas.",
+      "Al mismo tiempo, abre los brazos a los lados hasta la altura de los hombros.",
+      "Aterriza suavemente con los pies separados y luego salta de vuelta a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3221": {
     "name": "Media flexión de rodillas",
-    "description": "Media sentadilla con cadencia controlada como ejercicio cardiovascular ligero. Útil como movimiento de calentamiento o regresión para personas con poco condicionamiento.",
+    "description": "Elevación alternada de rodillas en el sitio como ejercicio cardiovascular ligero. Útil como movimiento de calentamiento o para elevar el ritmo cardíaco sin equipo.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros.",
-      "Flexiona las rodillas y baja el cuerpo como si fueras a sentarte en una silla.",
-      "Mantén el pecho arriba y el peso en los talones.",
-      "Pausa un momento abajo y empuja con los talones para regresar a la posición inicial.",
+      "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados a los costados.",
+      "Sube la rodilla derecha hacia el pecho mientras balanceas el brazo contrario al frente.",
+      "Baja el pie derecho e inmediatamente sube la rodilla izquierda, apoyándote suave sobre las puntas de los pies.",
+      "Sigue alternando las rodillas a un ritmo rápido y constante, con el pecho arriba.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -355,11 +355,11 @@
   },
   "3224": {
     "name": "Jumping jack",
-    "description": "Saltos clásicos donde pies y brazos se abren y cierran al unísono. Ejercicio cardiovascular básico que prepara el cuerpo para sesiones más intensas y eleva la temperatura corporal.",
+    "description": "Salto explosivo desde sentadilla en el que llevas las piernas estiradas al frente en el aire, formando una carpa con el cuerpo. Eleva el ritmo cardíaco y trabaja cuádriceps, flexores de cadera y abdomen.",
     "instructions": [
-      "Ponte de pie con los pies juntos y los brazos a los costados.",
-      "Salta separando los pies y elevando los brazos por encima de la cabeza.",
-      "Al aterrizar, salta de vuelta rápidamente a la posición inicial.",
+      "Ponte de pie con los pies al ancho de las caderas y baja a una sentadilla con los brazos atrás.",
+      "Salta con fuerza llevando ambas piernas estiradas al frente y las manos hacia los pies.",
+      "Aterriza suavemente de nuevo en sentadilla, flexionando las rodillas para absorber el impacto.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -367,8 +367,8 @@
     "name": "Toque de puntas a dos manos",
     "description": "Inclinación frontal de pie tocando las puntas de los pies con ambas manos. Estira la cadena posterior, mejora la flexibilidad de isquiotibiales y descomprime la columna.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos extendidos a los lados.",
-      "Inclínate hacia adelante desde la cintura, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Ponte de pie con los pies al ancho de los hombros y los brazos elevados por encima de la cabeza.",
+      "Inclínate hacia adelante desde la cintura, dejando que la espalda se redondee de forma natural y con las rodillas ligeramente flexionadas.",
       "Lleva ambas manos hacia las puntas de los pies, manteniendo las piernas rectas.",
       "Pausa un momento abajo y luego regresa lentamente a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -376,9 +376,9 @@
   },
   "3234": {
     "name": "Apertura Hyght con mancuernas",
-    "description": "Variante de apertura en banco plano nombrada por Joe Hyght, que enfatiza la elongación del pectoral. La trayectoria amplia y el ligero codo flexionado aíslan el pecho minimizando la implicación de los tríceps.",
+    "description": "Variante de apertura en banco inclinado nombrada por Joe Hyght, que enfatiza la elongación del pectoral. La trayectoria amplia y el ligero codo flexionado aíslan el pecho minimizando la implicación de los tríceps.",
     "instructions": [
-      "Acuéstate boca arriba en un banco con una mancuerna en cada mano y las palmas mirándose entre sí.",
+      "Recuéstate en un banco inclinado con una mancuerna en cada mano y las palmas mirándose entre sí.",
       "Extiende los brazos rectos por encima del pecho, con una ligera flexión en los codos.",
       "Manteniendo la flexión ligera en los codos, baja las mancuernas a los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
       "Pausa un momento, revierte el movimiento y lleva las mancuernas a la posición inicial.",
@@ -387,27 +387,27 @@
   },
   "3235": {
     "name": "Curl femoral inverso asistido con polea",
-    "description": "Curl femoral acostado con asistencia de cable que ayuda a controlar el descenso. Ideal para reforzar la fase excéntrica y construir fuerza en isquiotibiales con un patrón controlado.",
+    "description": "Curl nórdico de rodillas asistido con polea: una barra sobre la espalda alta conectada al cable te ayuda a controlar la bajada del cuerpo. Ideal para reforzar la fase excéntrica y construir fuerza en isquiotibiales.",
     "instructions": [
-      "Ajusta la máquina de polea para que el accesorio de tobillo quede en el ajuste más bajo.",
-      "Acuéstate boca abajo en el banco con las piernas rectas y el accesorio de tobillo asegurado a los tobillos.",
-      "Sujeta las agarraderas del banco para mayor estabilidad.",
-      "Manteniendo el tronco quieto, exhala y curva las piernas hacia los glúteos flexionando las rodillas.",
-      "Pausa un momento en la parte alta del movimiento, contrayendo los isquiotibiales.",
-      "Inhala y baja lentamente las piernas a la posición inicial.",
+      "Engancha una barra a una polea a la altura de los hombros detrás de ti.",
+      "Arrodíllate sobre un cojín de espaldas a la máquina con los tobillos sujetos.",
+      "Apoya la barra sobre la espalda alta y sujétala con ambas manos.",
+      "Manteniendo una línea recta de las rodillas a la cabeza, baja lentamente el cuerpo hacia adelante extendiendo las rodillas.",
+      "Baja hasta donde puedas controlar, dejando que el cable soporte parte de tu peso.",
+      "Exhala y vuelve a subir hasta la posición de rodillas erguida usando los isquiotibiales.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3236": {
     "name": "Hip thrust de rodillas con banda de resistencia",
-    "description": "Hip thrust desde posición de rodillas usando banda de resistencia alrededor de los muslos, ideal para activar y aislar los glúteos. Perfecto como ejercicio de calentamiento o trabajo accesorio en casa.",
+    "description": "Hip thrust de rodillas con una banda de resistencia alrededor de la cadera anclada detrás de ti, ideal para activar y aislar los glúteos. Llevas la cadera hacia los talones y la empujas al frente contra la banda.",
     "instructions": [
-      "Empieza arrodillada en el suelo con las rodillas al ancho de las caderas y los pies en flexión.",
-      "Envuelve la banda de resistencia alrededor de los muslos, justo encima de las rodillas.",
+      "Ancla una banda de resistencia baja detrás de ti y arrodíllate en el suelo con las rodillas al ancho de las caderas.",
+      "Coloca la banda alrededor de la parte delantera de la cadera.",
       "Coloca las manos en las caderas o extiéndelas frente a ti para mantener el equilibrio.",
       "Activa los glúteos y los músculos del core.",
-      "Empuja las caderas hacia adelante y contrae los glúteos mientras elevas las rodillas del suelo, extendiendo las caderas hasta que los muslos queden paralelos al suelo.",
-      "Mantén la posición un momento y baja lentamente las rodillas a la posición inicial.",
+      "Lleva la cadera hacia los talones y luego empújala al frente contra la banda, contrayendo los glúteos hasta extenderla por completo.",
+      "Mantén la posición un momento y vuelve lentamente a sentarte hacia los talones.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -415,9 +415,9 @@
     "name": "Elevación lateral con landmine",
     "description": "Elevación lateral usando una barra anclada en landmine, donde el ángulo del aparato genera una resistencia variable distinta a la mancuerna. Trabaja el deltoides lateral con una trayectoria diagonal que reduce la tensión en hombros sensibles.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Sujeta la barra con agarre prono, apoyándola al frente de los hombros.",
-      "Manteniendo el core activo y la espalda recta, eleva la barra hacia arriba y lejos del cuerpo, llevándola a la altura del hombro.",
+      "Párate de lado respecto al landmine con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
+      "Sujeta el extremo de la barra con la mano más alejada, frente a la cadera y con el brazo casi recto.",
+      "Manteniendo el core activo y la espalda recta, eleva la barra hacia el lado hasta que el brazo llegue a la altura del hombro.",
       "Pausa un momento arriba y luego baja lentamente la barra a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -427,7 +427,7 @@
     "description": "Plancha desde una variante de rodillas donde se alterna el toque cruzado a cada hombro. Trabaja anti-rotación del core y estabilidad escapular con una intensidad menor que la versión completa.",
     "instructions": [
       "Empieza en posición de rodillas con las manos en el suelo, al ancho de los hombros.",
-      "Extiende las piernas detrás del cuerpo apoyándote en los dedos de los pies y eleva el cuerpo a posición de plancha.",
+      "Avanza las manos hasta que el cuerpo forme una línea recta de la cabeza a las rodillas, manteniendo las rodillas apoyadas en el suelo.",
       "Manteniendo el core activo y las caderas estables, eleva una mano del suelo y toca el hombro opuesto.",
       "Regresa la mano al suelo y repite con la otra mano.",
       "Continúa alternando lados el número de repeticiones deseado."
@@ -435,10 +435,10 @@
   },
   "3240": {
     "name": "Elevación de pantorrillas en pared con balón y pelota entre rodillas",
-    "description": "Elevación de talones contra la pared usando un balón en la zona lumbar, mancuernas en las manos y una pelota de tenis entre las rodillas para activar aductores. Combina trabajo de pantorrillas con activación isométrica de cadera.",
+    "description": "Elevación de talones de frente a la pared con un balón entre el pecho y la pared, mancuernas en las manos y una pelota de tenis entre las rodillas para activar aductores. Combina trabajo de pantorrillas con activación isométrica de cadera.",
     "instructions": [
-      "Ponte de pie con la espalda contra una pared y coloca un balón de ejercicio entre la zona lumbar y la pared.",
-      "Coloca los pies al ancho de los hombros y ligeramente al frente.",
+      "Ponte de pie frente a una pared y sujeta un balón de ejercicio entre el pecho y la pared.",
+      "Mantén los pies juntos debajo de la cadera.",
       "Sujeta una mancuerna en cada mano, con los brazos extendidos a los costados.",
       "Coloca una pelota de tenis entre las rodillas.",
       "Eleva los talones del suelo, subiendo el cuerpo hasta apoyarte en las puntas.",
@@ -450,8 +450,8 @@
     "name": "Elevación de pantorrillas en pared con balón y pelota entre tobillos",
     "description": "Variante de la elevación de pantorrillas en pared donde la pelota de tenis se ubica entre los tobillos en vez de las rodillas, lo que cambia el patrón de activación de los gemelos. Útil como progresión técnica del ejercicio.",
     "instructions": [
-      "Ponte de pie frente a una pared con los pies al ancho de los hombros.",
-      "Coloca un balón de ejercicio entre la pared y la zona lumbar.",
+      "Ponte de pie frente a una pared con los pies juntos.",
+      "Sujeta un balón de ejercicio entre la pared y el pecho.",
       "Sujeta una mancuerna en cada mano, con los brazos extendidos a los costados.",
       "Coloca una pelota de tenis entre los tobillos.",
       "Eleva los talones del suelo, subiendo el cuerpo hasta apoyarte en las puntas.",
@@ -467,33 +467,33 @@
       "Ponte de pie con los pies al ancho de los hombros y las puntas ligeramente hacia afuera.",
       "Métete bajo la barra y colócala en la espalda alta, apoyada sobre los trapecios.",
       "Sujeta la barra con las manos un poco más separadas que el ancho de los hombros.",
-      "Saca la barra y da un paso atrás, manteniendo una postura estable.",
+      "Saca la barra girándola fuera de los ganchos, manteniendo los pies debajo de la barra.",
       "Manteniendo el pecho arriba y el core activo, inicia la sentadilla empujando las caderas atrás y flexionando las rodillas.",
-      "Baja el cuerpo hasta que los muslos queden paralelos al suelo, o tan bajo como te lo permita la flexibilidad.",
+      "Baja el cuerpo hasta que la cadera quede por debajo de las rodillas, tan profundo como te lo permita la movilidad.",
       "Pausa un momento abajo y empuja con los talones para regresar a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3286": {
     "name": "Muscle up con peso",
-    "description": "Versión avanzada del muscle up cargando peso adicional, normalmente con cinturón de lastre. Combina dominada explosiva y fondo en una transición fluida, exigiendo gran fuerza relativa de dorsales, pectorales y tríceps.",
+    "description": "Versión avanzada del muscle up en anillas cargando peso adicional, normalmente con cinturón de lastre. Combina dominada explosiva y fondo en una transición fluida, exigiendo gran fuerza relativa de dorsales, pectorales y tríceps.",
     "instructions": [
-      "Empieza colgado de una barra de dominadas con las palmas hacia adelante y las manos un poco más separadas que el ancho de los hombros.",
+      "Cuelga un peso del cinturón de lastre y sujétate de las anillas con agarre falso, con los brazos completamente extendidos.",
       "Activa el core y tira del cuerpo hacia la barra, llevando el pecho como guía.",
-      "Al llegar arriba, transiciona el agarre para que las palmas miren hacia ti.",
-      "Continúa subiendo hasta que el pecho llegue a la barra y pausa un momento.",
+      "Cuando las anillas lleguen al pecho, inclínate al frente y gira las muñecas para pasar por encima de ellas.",
+      "Empuja hasta extender los brazos y quedar apoyado sobre las anillas, y pausa un momento.",
       "Baja lentamente a la posición inicial, manteniendo el control durante todo el movimiento.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3287": {
     "name": "Fondos de codo en banco",
-    "description": "Variante de fondo en banco apoyado sobre los codos, lo que reduce la palanca y trabaja los tríceps con un rango menor. Ideal para principiantes o como variante de baja intensidad.",
+    "description": "Fondo en barras paralelas en el que bajas desde el apoyo con brazos extendidos hasta apoyar los antebrazos sobre las barras y vuelves a subir. Trabaja intensamente los tríceps y la estabilidad de hombros.",
     "instructions": [
-      "Siéntate en el borde de un banco o silla con las manos sujetando el borde junto a las caderas.",
-      "Desliza las caderas hacia adelante fuera del banco y estira las piernas, manteniendo los talones en el suelo.",
-      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda cerca del banco.",
-      "Pausa un momento abajo y empuja con las manos para extender los brazos y levantar el cuerpo a la posición inicial.",
+      "Sujeta las barras paralelas y sostén el cuerpo con los brazos completamente extendidos y las piernas colgando.",
+      "Mantén el cuerpo erguido y el core activo.",
+      "Flexiona los codos y baja el cuerpo hasta apoyar los antebrazos sobre las barras.",
+      "Pausa un momento y empuja con las manos para despegar los antebrazos y extender los brazos hasta la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -509,10 +509,10 @@
   },
   "3289": {
     "name": "Fondos imposibles",
-    "description": "Variante extrema de fondo en paralelas con piernas cruzadas y cuerpo suspendido en el aire, exigiendo fuerza máxima de tríceps y estabilidad escapular. Movimiento de calistenia avanzada.",
+    "description": "Variante extrema de fondo en paralelas con las piernas rectas y juntas y el cuerpo suspendido en el aire, exigiendo fuerza máxima de tríceps y estabilidad escapular. Movimiento de calistenia avanzada.",
     "instructions": [
       "Colócate entre dos barras paralelas con los brazos completamente extendidos y el cuerpo suspendido en el aire.",
-      "Flexiona las rodillas y cruza los tobillos.",
+      "Mantén las piernas rectas y juntas.",
       "Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo.",
       "Pausa un momento y empújate de vuelta a la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -522,7 +522,7 @@
     "name": "Dominada a una mano con peso",
     "description": "Variante extrema de dominada realizada con una sola mano y carga adicional, requiere una fuerza relativa muy alta. Pone enorme tensión sobre dorsales, bíceps y musculatura del agarre del lado activo.",
     "instructions": [
-      "Sujeta la barra de dominadas con agarre prono, un poco más separado que el ancho de los hombros.",
+      "Sujeta la barra de dominadas con una mano en agarre prono y sostén una mancuerna con la otra mano al costado.",
       "Cuélgate de la barra con el brazo completamente extendido y el cuerpo recto.",
       "Activa el core y tira del cuerpo hacia la barra flexionando el codo y contrayendo la espalda.",
       "Continúa tirando hasta que el mentón quede por encima de la barra.",
@@ -532,24 +532,24 @@
   },
   "3291": {
     "name": "Stalder press de pie",
-    "description": "Movimiento de fuerza compresiva donde se simula la posición de pino con piernas abiertas. Trabaja tríceps, hombros y core anterior en un patrón inspirado en la gimnasia.",
+    "description": "Movimiento de fuerza compresiva de gimnasia: desde el pino bajas con las piernas abiertas hasta un apoyo en straddle sobre las manos y vuelves a subir. Trabaja tríceps, hombros y core anterior.",
     "instructions": [
-      "Empieza de pie con los pies al ancho de los hombros y los brazos extendidos por encima de la cabeza.",
-      "Flexiona ligeramente las rodillas y activa el core.",
-      "Baja el cuerpo a posición de sentadilla manteniendo los brazos extendidos arriba.",
-      "Mientras bajas, presiona los brazos hacia el suelo, activando los tríceps.",
-      "Pausa un momento al final de la sentadilla y empuja con los talones para incorporarte mientras subes los brazos de vuelta arriba.",
+      "Empieza en posición de pino con las manos al ancho de los hombros en el suelo.",
+      "Abre las piernas en un straddle amplio y activa el core.",
+      "Lleva los hombros al frente y baja la cadera y las piernas abiertas a los lados de los brazos.",
+      "Continúa hasta que las piernas queden bajas sin tocar el suelo, apoyado solo sobre las manos.",
+      "Pausa un momento y luego comprime la cadera y empuja con los hombros para volver al pino.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3292": {
     "name": "Elevator (descenso lumbar de pie)",
-    "description": "Inclinación frontal lenta y controlada de pie, semejante al patrón del good morning sin carga, que trabaja el control de la zona lumbar y la cadena posterior. Útil como aprendizaje del patrón de bisagra de cadera.",
+    "description": "Ejercicio en anillas para la espalda alta: desde una suspensión invertida flexionas y extiendes los brazos para mover el cuerpo arriba y abajo como un ascensor. Exige fuerza de espalda, brazos y control del core.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Coloca las manos en las caderas o crúzalas frente al pecho.",
-      "Manteniendo la espalda recta, baja lentamente desde la cintura, llevando el tronco hacia el suelo.",
-      "Pausa un momento abajo y eleva lentamente el tronco de vuelta a la posición inicial.",
+      "Cuélgate de un par de anillas con los brazos rectos.",
+      "Recoge las rodillas y sube la cadera hasta quedar cabeza abajo, luego extiende las piernas hacia el techo.",
+      "Manteniendo el cuerpo invertido, flexiona los codos y lleva las anillas hacia la cadera.",
+      "Pausa un momento y luego extiende lentamente los brazos hasta volver a la suspensión invertida.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -557,7 +557,7 @@
     "name": "Dominada de arquero",
     "description": "Variante avanzada de dominada donde un brazo trabaja activamente y el otro se mantiene extendido como apoyo, simulando el gesto del arquero. Construye fuerza unilateral hacia la dominada a una mano.",
     "instructions": [
-      "Empieza colgado de una barra de dominadas con agarre prono, un poco más separado que el ancho de los hombros.",
+      "Empieza colgado de una barra de dominadas con agarre prono, a unas dos veces el ancho de los hombros.",
       "Activa el core y baja las escápulas hacia atrás y abajo.",
       "Mientras subes, flexiona un brazo llevando el codo hacia el costado, manteniendo el otro brazo recto.",
       "Continúa subiendo hasta que el mentón quede por encima de la barra y el brazo flexionado esté completamente contraído.",
@@ -567,13 +567,13 @@
   },
   "3294": {
     "name": "Flexión de arquero",
-    "description": "Variante avanzada de flexión donde un brazo se mantiene extendido lateralmente mientras el otro flexiona, generando un trabajo unilateral intenso del pectoral. Progresión hacia la flexión a una mano.",
+    "description": "Variante avanzada de flexión en la que bajas hacia una mano mientras el otro brazo se mantiene recto hacia el lado con la mano apoyada, generando un trabajo unilateral intenso del pectoral. Progresión hacia la flexión a una mano.",
     "instructions": [
-      "Empieza en posición de flexión con las manos un poco más separadas que el ancho de los hombros.",
-      "Extiende un brazo recto al costado, paralelo al suelo.",
-      "Baja el cuerpo flexionando los codos, manteniendo la espalda recta y el core activo.",
+      "Empieza en posición de flexión con las manos muy separadas, a unas dos veces el ancho de los hombros.",
+      "Desplaza el peso hacia una mano.",
+      "Baja el cuerpo hacia esa mano flexionando su codo, con el otro brazo recto y la mano apoyada en el suelo.",
       "Empuja para regresar a la posición inicial.",
-      "Repite del otro lado, extendiendo el brazo opuesto al costado.",
+      "Repite del otro lado, bajando hacia la mano opuesta.",
       "Continúa alternando lados el número de repeticiones deseado."
     ]
   },
@@ -583,9 +583,9 @@
     "instructions": [
       "Cuélgate de una barra de dominadas con agarre prono, palmas hacia adelante.",
       "Activa el core y baja las escápulas hacia atrás y abajo.",
-      "Manteniendo el cuerpo recto, eleva las piernas hasta que queden paralelas al suelo.",
-      "Mantén esta posición tanto como puedas, apuntando a 10-20 segundos.",
-      "Baja lentamente las piernas a la posición inicial.",
+      "Manteniendo el cuerpo recto, elévalo hasta que quede paralelo al suelo.",
+      "Sin perder la horizontal, flexiona los codos y lleva la cadera hacia la barra.",
+      "Extiende lentamente los brazos para volver a la posición horizontal.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -604,13 +604,13 @@
   },
   "3297": {
     "name": "Back lever",
-    "description": "Sostén isométrico avanzado donde el cuerpo se mantiene horizontal de espaldas al suelo, colgado de una barra. Trabaja la cadena anterior, dorsales y bíceps en una posición exigente.",
+    "description": "Sostén isométrico avanzado donde el cuerpo se mantiene horizontal boca abajo por debajo de la barra, con los brazos extendidos detrás del cuerpo. Trabaja la cadena anterior, dorsales y bíceps en una posición exigente.",
     "instructions": [
       "Empieza colgado de una barra de dominadas con agarre prono, manos un poco más separadas que el ancho de los hombros.",
       "Activa el core y baja las escápulas hacia atrás y abajo.",
-      "Flexiona las rodillas y llévalas hacia el pecho.",
-      "Eleva lentamente las piernas, manteniéndolas rectas, hasta que el cuerpo quede paralelo al suelo.",
-      "Mantén esta posición unos segundos y baja lentamente las piernas a la posición inicial.",
+      "Recoge las rodillas y rota hacia atrás entre los brazos hasta quedar cabeza abajo.",
+      "Baja lentamente el cuerpo recto por detrás hasta quedar paralelo al suelo, boca abajo.",
+      "Mantén esta posición unos segundos y luego recoge las piernas y rota de vuelta a la suspensión.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -619,10 +619,10 @@
     "description": "Posición de planche con piernas separadas en straddle, un paso intermedio hacia el planche completo. La apertura de piernas reduce la palanca y permite progresar gradualmente al sostén horizontal.",
     "instructions": [
       "Empieza en posición de flexión con las manos al ancho de los hombros y los pies bien separados.",
-      "Activa el core y desplaza lentamente el peso hacia adelante, llevando los hombros sobre las manos.",
-      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniéndolos cerca del torso.",
-      "Pausa un momento abajo y empuja con las manos para extender los brazos y elevar el cuerpo a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Activa el core y desplaza lentamente el peso hacia adelante, llevando los hombros más allá de las manos.",
+      "Con los brazos rectos, despega los pies del suelo y mantén el cuerpo paralelo al suelo con las piernas bien separadas.",
+      "Sostén tanto como puedas con control y luego baja los pies al suelo.",
+      "Repite el número de sostenes deseado."
     ]
   },
   "3299": {
@@ -652,11 +652,11 @@
     "name": "Plancha rana",
     "description": "Variante de equilibrio sobre las manos donde las rodillas se apoyan sobre los codos como una rana. Es la primera progresión hacia el planche y enseña el control del balance y la presión sobre los antebrazos.",
     "instructions": [
-      "Empieza en posición de flexión con las manos al ancho de los hombros y los pies juntos.",
-      "Flexiona los codos y baja el cuerpo hacia el suelo, manteniendo la espalda recta.",
-      "Mientras bajas, eleva los pies del suelo y lleva las rodillas hacia el pecho.",
-      "Mantén esta posición unos segundos, extiende las piernas y empújate de vuelta a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Ponte en cuclillas y coloca las manos en el suelo al ancho de los hombros, con los dedos hacia adelante.",
+      "Flexiona un poco los codos y apoya las rodillas sobre la parte de atrás de los brazos.",
+      "Inclínate hacia adelante, pasando el peso a las manos hasta que los pies se despeguen del suelo.",
+      "Mantén esta posición unos segundos y luego baja los pies al suelo con control.",
+      "Repite el número de sostenes deseado."
     ]
   },
   "3302": {
@@ -665,7 +665,7 @@
     "instructions": [
       "Encuentra un espacio abierto con suficiente lugar para hacer el pino.",
       "Coloca las manos en el suelo al ancho de los hombros, con los dedos apuntando hacia adelante.",
-      "Patea las piernas hacia la pared, usando core y hombros para mantener el equilibrio.",
+      "Patea las piernas por encima de la cabeza hasta que el cuerpo quede vertical, usando core y hombros para mantener el equilibrio.",
       "Una vez en posición de pino, activa los tríceps para sostener el peso del cuerpo.",
       "Mantén el pino tanto como puedas conservar el equilibrio.",
       "Para bajar, lentamente lleva las piernas de regreso al suelo.",
@@ -686,9 +686,9 @@
   },
   "3304": {
     "name": "Skin the cat",
-    "description": "Movimiento de gimnasia donde el cuerpo pasa entre los brazos colgado de una barra, rotando hacia atrás. Excelente para movilidad de hombros y fuerza en la zona lumbar y dorsal.",
+    "description": "Movimiento de gimnasia donde el cuerpo pasa entre los brazos colgado de unas anillas, rotando hacia atrás. Excelente para movilidad de hombros y fuerza en la zona lumbar y dorsal.",
     "instructions": [
-      "Empieza colgado de una barra con los brazos completamente extendidos y el cuerpo relajado.",
+      "Empieza colgado de un par de anillas con los brazos completamente extendidos y el cuerpo relajado.",
       "Activa el core y eleva las piernas, llevando las rodillas hacia el pecho.",
       "Continúa elevando las piernas por encima de la cabeza, dejando que el cuerpo pase entre los brazos.",
       "Una vez que las piernas estén completamente extendidas por encima de la cabeza, comienza a bajarlas hacia la posición inicial.",
@@ -721,7 +721,7 @@
   },
   "3313": {
     "name": "Fondo en barra recta con peso",
-    "description": "Fondo realizado en una barra recta horizontal, sumando peso adicional para incrementar la carga sobre pectorales y tríceps. La barra recta exige más estabilidad escapular que las paralelas.",
+    "description": "Fondo en barras paralelas sumando peso adicional, normalmente con cinturón de lastre, para incrementar la carga sobre pectorales y tríceps. Exige buena estabilidad escapular durante todo el recorrido.",
     "instructions": [
       "Colócate entre barras paralelas con los brazos completamente extendidos y el cuerpo recto.",
       "Baja el cuerpo flexionando los codos hasta que los brazos queden paralelos al suelo.",
@@ -731,44 +731,44 @@
   },
   "3314": {
     "name": "Maltese straddle",
-    "description": "Sostén isométrico extremo de gimnasia donde se mantiene una posición horizontal frente a anillas con piernas abiertas. La separación de piernas reduce la palanca para hacerla un poco más accesible que el maltese completo.",
+    "description": "Sostén isométrico extremo de gimnasia sobre el suelo donde el cuerpo se mantiene horizontal sobre las manos muy separadas y con las piernas abiertas. La separación de piernas reduce la palanca para hacerlo un poco más accesible que el maltese completo.",
     "instructions": [
-      "Empieza colgado de un par de anillas con los brazos completamente extendidos y el cuerpo en línea recta.",
+      "Acuéstate boca abajo y coloca las manos en el suelo mucho más separadas que el ancho de los hombros, con los dedos hacia afuera y los brazos rectos.",
       "Separa bien las piernas, formando una posición de straddle.",
-      "Activa el core y baja lentamente el cuerpo hasta que los brazos queden paralelos al suelo.",
-      "Mantén esta posición unos segundos y empújate de vuelta a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Activa el core, lleva los hombros al frente y empuja con las manos para despegar todo el cuerpo del suelo, manteniéndolo paralelo al suelo.",
+      "Mantén esta posición unos segundos y luego baja al suelo con control.",
+      "Repite el número de sostenes deseado."
     ]
   },
   "3315": {
     "name": "Maltese completo de pie",
-    "description": "Variante de pie del maltese donde el tronco se inclina hacia el frente con los brazos extendidos lateralmente paralelos al suelo. Recluta el core y la musculatura escapular en un sostén isométrico exigente.",
+    "description": "Sostén isométrico de gimnasia sobre el suelo donde el cuerpo se mantiene horizontal apoyado solo en las manos muy separadas, con las piernas juntas. Recluta el core, hombros y pecho en un sostén extremadamente exigente.",
     "instructions": [
-      "Empieza de pie con los pies al ancho de los hombros y los brazos extendidos rectos a los lados.",
-      "Inclínate lentamente hacia adelante manteniendo los brazos rectos hasta que el tronco quede paralelo al suelo.",
-      "Activa el core y mantén esta posición unos segundos.",
-      "Regresa a la posición inicial empujando con los pies y enderezándote.",
-      "Repite el número de repeticiones deseado."
+      "Acuéstate boca abajo y coloca las manos en el suelo mucho más separadas que el ancho de los hombros, con los dedos hacia afuera y los brazos rectos.",
+      "Mantén las piernas rectas y juntas.",
+      "Activa el core, lleva los hombros al frente y empuja con las manos para despegar todo el cuerpo del suelo, manteniéndolo paralelo al suelo.",
+      "Mantén esta posición unos segundos y luego baja al suelo con control.",
+      "Repite el número de sostenes deseado."
     ]
   },
   "3318": {
     "name": "Swing 360 de brazos",
-    "description": "Movimiento circular continuo de los brazos con rotación del torso, que activa hombros, oblicuos y sistema cardiovascular. Ideal como ejercicio dinámico de calentamiento o movilidad.",
+    "description": "Movimiento dinámico avanzado en barra alta en el que el cuerpo completo gira 360 grados alrededor de la barra. Activa hombros, agarre, core y sistema cardiovascular, y exige fuerza, ritmo y coordinación.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y las rodillas ligeramente flexionadas.",
-      "Mantén los brazos extendidos al frente, paralelos al suelo.",
-      "Activa el core y mueve los brazos en círculo, rotando el tronco al mismo tiempo.",
-      "Continúa el movimiento circular, balanceando los brazos y rotando el tronco el número de repeticiones deseado.",
-      "Recuerda respirar durante todo el ejercicio."
+      "Cuélgate de una barra alta con agarre prono y los brazos completamente extendidos.",
+      "Activa el core y toma impulso balanceando el cuerpo hacia adelante y hacia atrás.",
+      "En un balanceo fuerte, mantén brazos y cuerpo rectos y continúa el giro por encima de la barra.",
+      "Completa la rotación de 360 grados alrededor de la barra y vuelve a la suspensión, controlando el balanceo al pasar por debajo.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "3327": {
     "name": "Flexión en planche completo",
     "description": "Una de las flexiones más avanzadas de la calistenia, donde el cuerpo se mantiene en posición de planche horizontal mientras se realiza la flexión. Demanda fuerza extrema de pectorales, hombros y core.",
     "instructions": [
-      "Empieza en posición de flexión con las manos un poco más separadas que el ancho de los hombros.",
-      "Activa el core y baja el cuerpo hacia el suelo, manteniendo los codos cerca del torso.",
-      "Mientras bajas, inclínate hacia adelante y eleva los pies del suelo, equilibrándote en las manos.",
+      "Empieza en planche completo: manos en el suelo aproximadamente al ancho de los hombros, brazos rectos, cuerpo horizontal y pies sin tocar el suelo.",
+      "Activa el core y flexiona los codos para bajar el cuerpo hacia el suelo, manteniendo los codos cerca del torso.",
+      "Sigue inclinado hacia adelante para que los pies no toquen el suelo durante todo el movimiento.",
       "Continúa bajando hasta que el pecho quede justo encima del suelo.",
       "Empuja con las manos y extiende los brazos para subir el cuerpo a la posición inicial.",
       "Mantén una línea recta de la cabeza a los talones durante todo el movimiento.",
@@ -805,7 +805,7 @@
     "description": "Dominada con piernas mantenidas paralelas al suelo en posición de L durante toda la repetición. Combina el patrón de dominada con un sostén isométrico intenso del recto abdominal.",
     "instructions": [
       "Sujeta la barra de dominadas con agarre prono, un poco más separado que el ancho de los hombros.",
-      "Cuélgate con los brazos completamente extendidos y el cuerpo recto.",
+      "Cuélgate con los brazos completamente extendidos y eleva las piernas rectas al frente hasta que queden paralelas al suelo, formando una L.",
       "Activa los dorsales y bíceps para tirar del cuerpo hacia la barra, manteniendo los codos cerca del cuerpo.",
       "Continúa tirando hasta que el mentón quede por encima de la barra.",
       "Pausa un momento arriba y baja lentamente el cuerpo a la posición inicial.",
@@ -829,9 +829,9 @@
     "name": "V-sit en el suelo",
     "description": "Variante avanzada del L-sit donde piernas y tronco se elevan formando una V. Demanda gran control del core y flexibilidad de la cadena posterior.",
     "instructions": [
-      "Siéntate en el suelo con las piernas extendidas al frente.",
+      "Siéntate en el suelo con las piernas extendidas al frente y las manos apoyadas junto a las caderas.",
       "Inclínate ligeramente hacia atrás y eleva las piernas del suelo, manteniéndolas rectas.",
-      "Simultáneamente, levanta el tronco del suelo y lleva los brazos hacia las piernas.",
+      "Manteniendo las manos en el suelo, eleva el pecho y sube más las piernas hasta que el cuerpo forme una V.",
       "Mantén esta posición unos segundos y baja lentamente el tronco y las piernas a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -842,7 +842,7 @@
     "instructions": [
       "Acuéstate boca abajo en una colchoneta con los brazos extendidos por encima de la cabeza.",
       "Activa el core y eleva pecho y piernas del suelo simultáneamente.",
-      "Patea las piernas arriba y abajo en un movimiento de aleteo, como si estuvieras nadando.",
+      "Eleva de forma alterna el brazo y la pierna opuestos, como si estuvieras nadando.",
       "Continúa pateando el número de repeticiones deseado.",
       "Baja pecho y piernas a la posición inicial."
     ]
@@ -862,32 +862,32 @@
     "name": "Puente de glúteos con dos piernas en banco",
     "description": "Puente de glúteos donde los pies se apoyan sobre un banco, aumentando el rango de movimiento de extensión de cadera. La elevación añade demanda sobre glúteos e isquiotibiales.",
     "instructions": [
-      "Siéntate en el borde de un banco con la espalda apoyada en él y los pies en el suelo.",
-      "Coloca las manos sobre el banco, junto a las caderas, para apoyo.",
-      "Activa glúteos e isquiotibiales y eleva las caderas hasta que el cuerpo forme una línea recta de las rodillas a los hombros.",
+      "Acuéstate boca arriba en el suelo y apoya ambos pies sobre un banco, con las rodillas flexionadas.",
+      "Coloca los brazos en el suelo junto al cuerpo para apoyo.",
+      "Activa glúteos e isquiotibiales y eleva las caderas del suelo hasta que el cuerpo forme una línea recta de las rodillas a los hombros.",
       "Pausa un momento arriba y baja lentamente las caderas a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "3533": {
     "name": "Sentadilla a peso corporal (cuádriceps)",
-    "description": "Sentadilla básica sin carga que activa principalmente los cuádriceps junto con glúteos y core. Es el patrón de movimiento fundamental para iniciar el aprendizaje de la sentadilla con cargas externas.",
+    "description": "Sentadilla búlgara sin carga que activa principalmente los cuádriceps junto con glúteos e isquiotibiales. Con el pie trasero elevado en un banco, la pierna delantera hace la mayor parte del trabajo, desarrollando fuerza y equilibrio a una pierna.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros.",
-      "Baja el cuerpo flexionando las rodillas y empujando las caderas atrás como si te sentaras en una silla.",
+      "Ponte de pie a unos 60 cm delante de un banco, de espaldas a él, y apoya el empeine de un pie sobre el banco detrás de ti.",
+      "Baja el cuerpo flexionando la rodilla delantera y llevando la rodilla trasera hacia el suelo.",
       "Mantén el pecho arriba y la espalda recta.",
-      "Baja hasta que los muslos queden paralelos al suelo.",
-      "Empuja con los talones para regresar a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Baja hasta que el muslo delantero quede paralelo al suelo.",
+      "Empuja con el talón delantero para regresar a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   },
   "3541": {
     "name": "Elevación en Y inclinada con mancuernas",
     "description": "Elevación de los brazos en forma de Y desde un banco inclinado, ideal para activar el trapecio inferior y los rotadores externos del hombro. Excelente para mejorar la postura y la salud del manguito rotador.",
     "instructions": [
-      "Ajusta un banco inclinado a 45 grados y siéntate sobre él con una mancuerna en cada mano, palmas mirándose entre sí.",
-      "Inclínate ligeramente hacia adelante y deja que los brazos cuelguen rectos hacia abajo, con una ligera flexión en los codos.",
-      "Eleva los brazos a los lados y arriba en forma de Y hasta quedar paralelos al suelo.",
+      "Ajusta un banco inclinado a 45 grados y acuéstate boca abajo sobre él con una mancuerna en cada mano, palmas mirándose entre sí.",
+      "Deja que los brazos cuelguen rectos hacia abajo, con una ligera flexión en los codos.",
+      "Eleva los brazos hacia adelante y afuera en forma de Y hasta que queden en línea con el cuerpo.",
       "Pausa un momento arriba y baja lentamente los brazos a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -896,8 +896,8 @@
     "name": "Elevación en T inclinada con mancuernas",
     "description": "Elevación lateral en banco inclinado donde los brazos forman una T paralela al suelo. Trabaja el deltoides posterior, romboides y trapecio medio en una posición que minimiza el uso de inercia.",
     "instructions": [
-      "Ajusta un banco inclinado a 45 grados y siéntate sobre él con una mancuerna en cada mano, palmas mirándose entre sí.",
-      "Inclínate hacia adelante y deja que los brazos cuelguen rectos hacia abajo, perpendiculares al suelo.",
+      "Ajusta un banco inclinado a 45 grados y acuéstate boca abajo sobre él con una mancuerna en cada mano, palmas mirándose entre sí.",
+      "Deja que los brazos cuelguen rectos hacia abajo, perpendiculares al suelo.",
       "Manteniendo los brazos rectos, elévalos a los lados hasta quedar paralelos al suelo, formando una 'T' con el cuerpo.",
       "Pausa un momento arriba y baja lentamente los brazos a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -919,11 +919,11 @@
     "name": "Plancha lateral inclinada a peso corporal",
     "description": "Plancha lateral con apoyo elevado o inclinado para trabajar oblicuos y estabilizadores laterales del tronco. Ideal como progresión inicial hacia la plancha lateral completa.",
     "instructions": [
-      "Empieza acostado de lado con las piernas extendidas y apiladas una sobre otra.",
-      "Coloca el antebrazo en el suelo directamente debajo del hombro, con el codo flexionado a 90 grados.",
-      "Activa el core y eleva las caderas del suelo, formando una línea recta de la cabeza a los pies.",
+      "Colócate de lado junto a un banco con las piernas extendidas y apiladas una sobre otra.",
+      "Apoya el antebrazo sobre el banco directamente debajo del hombro, con el codo flexionado a 90 grados.",
+      "Activa el core y eleva las caderas, formando una línea recta de la cabeza a los pies.",
       "Mantén esta posición durante el tiempo deseado.",
-      "Baja las caderas al suelo y repite del otro lado."
+      "Baja las caderas y repite del otro lado."
     ]
   },
   "3545": {
@@ -943,7 +943,7 @@
     "description": "Press de hombros sentado donde los brazos trabajan alternados, manteniendo siempre tensión en uno mientras el otro empuja. Mejora la estabilidad del core y reduce la fatiga simultánea de ambos hombros.",
     "instructions": [
       "Siéntate en un banco con la espalda recta y los pies apoyados en el suelo.",
-      "Sujeta una mancuerna en cada mano, palmas mirándose entre sí, y elévalas a la altura de los hombros.",
+      "Sujeta una mancuerna en cada mano, palmas mirando al frente, y elévalas a la altura de los hombros.",
       "Empuja una mancuerna por encima de la cabeza mientras mantienes la otra a la altura del hombro.",
       "Baja la mancuerna elevada a la altura del hombro mientras simultáneamente empujas la otra hacia arriba.",
       "Continúa alternando brazos el número de repeticiones deseado."
@@ -977,7 +977,7 @@
     "name": "Pies rápidos",
     "description": "Carrera estática rápida sobre los metatarsos con cadencia muy alta, usada como ejercicio de coordinación y agilidad. Eleva la frecuencia cardíaca y mejora la velocidad de pies.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros y los brazos a los costados.",
+      "Ponte de pie con los pies al ancho de los hombros, las rodillas flexionadas en posición atlética y las manos juntas frente al pecho.",
       "Comienza a mover los pies rápidamente arriba y abajo, como si corrieras en el sitio.",
       "Mantén los movimientos rápidos y ligeros, apoyándote sobre los metatarsos.",
       "Continúa por la duración o número de repeticiones deseado."
@@ -989,15 +989,11 @@
     "instructions": [
       "Ponte de pie con una mancuerna en cada mano, palmas mirando al cuerpo.",
       "Mantén los codos cerca del torso y la espalda recta.",
-      "Exhala y sube la mancuerna de la mano derecha hacia el hombro, manteniendo el brazo superior quieto.",
-      "Continúa subiendo la mancuerna hasta que el bíceps esté completamente contraído y la mancuerna llegue a la altura del hombro.",
-      "Inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Repite el curl con la mano izquierda.",
-      "Tras completar el curl con la izquierda, exhala y empuja la mancuerna de la derecha por encima de la cabeza.",
-      "Extiende el brazo por completo y mantén un momento arriba.",
-      "Inhala y baja lentamente la mancuerna a la posición inicial.",
-      "Repite el press con la mano izquierda.",
-      "Continúa alternando entre curls y presses el número de repeticiones deseado."
+      "Sube la mancuerna de la mano derecha hacia el hombro, manteniendo la palma hacia adentro.",
+      "Desde el hombro, empuja esa misma mancuerna por encima de la cabeza hasta extender el brazo por completo.",
+      "Baja la mancuerna al hombro y luego al costado.",
+      "Repite el curl y el press con la mano izquierda.",
+      "Continúa alternando brazos el número de repeticiones deseado."
     ]
   },
   "3561": {
@@ -1014,11 +1010,11 @@
   },
   "3562": {
     "name": "Hip thrust con barra y dos piernas en banco",
-    "description": "Variante del hip thrust donde la espalda alta se apoya en un banco y los pies se mantienen en otro banco elevado. La barra cargada genera la máxima activación de glúteos e isquiotibiales.",
+    "description": "Puente de glúteos con barra acostado en el suelo y con ambos pies apoyados en un banco, lo que aumenta el rango de extensión de cadera. La barra cargada genera una gran activación de glúteos e isquiotibiales.",
     "instructions": [
-      "Empieza sentado en el borde de un banco con la espalda alta apoyada y los pies en el suelo, al ancho de las caderas.",
+      "Acuéstate boca arriba en el suelo con ambos pies apoyados en un banco, al ancho de las caderas y las rodillas flexionadas.",
       "Coloca una barra cruzada sobre las caderas, sujetándola firme con ambas manos.",
-      "Activa glúteos y core, y empuja con los talones para elevar las caderas del banco, formando una línea recta de las rodillas a los hombros.",
+      "Activa glúteos y core, y empuja con los talones para elevar las caderas del suelo, formando una línea recta de las rodillas a los hombros.",
       "Pausa un momento arriba contrayendo los glúteos.",
       "Baja lentamente las caderas a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -1032,7 +1028,7 @@
       "Ponte de pie frente a la máquina con los pies al ancho de los hombros.",
       "Sujeta el agarre con agarre prono y extiende el brazo por completo.",
       "Mantén la espalda recta y el core activo.",
-      "Tira del agarre hacia el costado del cuerpo, manteniendo el codo cerca del torso.",
+      "Con el brazo recto, lleva el agarre hacia abajo en arco hasta que llegue al costado del muslo.",
       "Pausa un momento al final del movimiento, contrayendo el dorsal.",
       "Suelta lentamente el agarre a la posición inicial.",
       "Repite el número de repeticiones deseado.",
@@ -1041,25 +1037,25 @@
   },
   "3582": {
     "name": "Zancada con salto",
-    "description": "Zancada explosiva pliométrica donde se cambia la pierna delantera en el aire entre cada repetición. Trabaja potencia, agilidad y resistencia del tren inferior con alta demanda metabólica.",
+    "description": "Zancada explosiva pliométrica en la que saltas desde la zancada y aterrizas con la misma pierna adelante. Trabaja potencia, agilidad y resistencia del tren inferior con alta demanda metabólica.",
     "instructions": [
       "Empieza de pie con los pies al ancho de los hombros.",
       "Da un paso adelante con el pie derecho, bajando el cuerpo a posición de zancada.",
-      "Empuja con el pie derecho y salta en el aire, intercambiando la posición de los pies en el aire.",
-      "Aterriza suavemente con el pie izquierdo adelante y baja inmediatamente el cuerpo a posición de zancada.",
-      "Continúa alternando entre zancadas y saltos el número de repeticiones deseado."
+      "Empuja de forma explosiva y salta en el aire, manteniendo la misma pierna adelante.",
+      "Aterriza suavemente con el pie derecho todavía adelante y baja inmediatamente el cuerpo a posición de zancada.",
+      "Continúa el número de repeticiones deseado y luego cambia de pierna."
     ]
   },
   "3635": {
     "name": "Zancada al frente contralateral con mancuerna",
     "description": "Zancada al frente sosteniendo mancuerna en la mano contraria a la pierna que avanza, generando una carga asimétrica que demanda más control del core. Útil para entrenar estabilidad anti-rotación junto con fuerza de piernas.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, sujetando una mancuerna en cada mano.",
+      "Ponte de pie con los pies al ancho de los hombros, sujetando una sola mancuerna en la mano izquierda al costado.",
       "Da un paso adelante con el pie derecho, manteniendo la espalda recta y el core activo.",
       "Baja el cuerpo flexionando ambas rodillas hasta que el muslo derecho quede paralelo al suelo.",
       "Empuja con el talón derecho para regresar a la posición inicial.",
-      "Repite con la pierna izquierda.",
-      "Alterna piernas el número de repeticiones deseado."
+      "Completa las repeticiones con esta pierna, luego pasa la mancuerna a la mano derecha y avanza con la pierna izquierda.",
+      "Alterna lados el número de repeticiones deseado, siempre con la mancuerna en el lado contrario a la pierna que avanza."
     ]
   },
   "3636": {
@@ -1077,24 +1073,24 @@
   },
   "3637": {
     "name": "Rodada con rueda abdominal en plancha",
-    "description": "Rodada hacia adelante usando una rueda abdominal desde posición de plancha, exigiendo gran control del core anterior. Trabaja recto abdominal, dorsales y la fuerza anti-extensión del tronco.",
+    "description": "Ejercicio de técnica de carrera en el sitio que eleva la frecuencia cardíaca y activa core, cuádriceps, isquiotibiales y pantorrillas. Las piernas hacen un ciclo como una rueda: rodilla arriba, pie hacia abajo y atrás.",
     "instructions": [
-      "Empieza en posición de plancha con las manos sobre la rueda y el cuerpo recto.",
-      "Activa el core y comienza a rodar la rueda hacia adelante extendiendo los brazos.",
-      "Continúa rodando hasta que el cuerpo quede completamente extendido y los brazos por encima de la cabeza.",
-      "Revierte el movimiento jalando la rueda de vuelta hacia el cuerpo, usando core y brazos.",
-      "Repite el número de repeticiones deseado."
+      "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados a 90 grados.",
+      "Sube una rodilla hacia el pecho mientras balanceas el brazo opuesto hacia adelante.",
+      "Extiende la pierna y lleva el pie hacia abajo y atrás, debajo de la cadera, en un movimiento circular como una rueda.",
+      "Cuando ese pie vuelva al suelo, sube la otra rodilla y repite el ciclo del otro lado.",
+      "Continúa alternando piernas rápidamente durante el tiempo deseado."
     ]
   },
   "3638": {
     "name": "Flexión a carrera",
-    "description": "Combinación de flexión completa seguida de mountain climbers explosivos, generando un ejercicio cardiovascular metabólico de cuerpo entero. Excelente para circuitos de alta intensidad.",
+    "description": "Ejercicio cardiovascular de pie en el que subes la rodilla y la extiendes en una patada al frente, alternando piernas. Eleva la frecuencia cardíaca y trabaja equilibrio, flexores de cadera y coordinación.",
     "instructions": [
-      "Empieza en posición de flexión con las manos al ancho de los hombros y el cuerpo en línea recta.",
-      "Baja el pecho hacia el suelo flexionando los codos y manteniendo el cuerpo recto.",
-      "Empuja con las manos para extender los brazos y volver a la posición inicial.",
-      "Lleva rápidamente una rodilla hacia el pecho y luego cambia llevando la otra rodilla al pecho.",
-      "Continúa alternando rodillas tan rápido como puedas, manteniendo buena técnica.",
+      "Ponte de pie con los pies al ancho de las caderas y los brazos flexionados al frente.",
+      "Sube la rodilla derecha hacia el pecho.",
+      "Extiende la pierna derecha al frente en una patada a la altura de la cadera.",
+      "Baja la pierna y vuelve a la posición inicial.",
+      "Repite con la pierna izquierda, alternando piernas a ritmo rápido.",
       "Continúa por la duración o número de repeticiones deseado."
     ]
   },
@@ -1102,9 +1098,9 @@
     "name": "Giro lumbar acostado con rodillas flexionadas",
     "description": "Movimiento de movilidad lumbar y de cadera donde las rodillas se llevan a un lado mientras los hombros permanecen apoyados. Combina trabajo de oblicuos con liberación de tensión en zona lumbar.",
     "instructions": [
-      "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Acuéstate boca arriba y eleva las piernas con cadera y rodillas flexionadas a 90 grados, sin apoyar los pies.",
       "Extiende los brazos a los lados, perpendiculares al cuerpo.",
-      "Manteniendo las rodillas juntas, bájalas lentamente a un lado, intentando tocar el suelo con las rodillas.",
+      "Manteniendo las rodillas juntas, bájalas lentamente a un lado hacia el suelo.",
       "Pausa un momento, activa el core y eleva las rodillas lentamente a la posición inicial.",
       "Repite el movimiento al otro lado.",
       "Continúa alternando lados el número de repeticiones deseado."
@@ -1112,35 +1108,35 @@
   },
   "3640": {
     "name": "Crunch cruzado con toque de rodilla",
-    "description": "Crunch alternado donde la mano contraria toca la rodilla opuesta, activando oblicuos y recto abdominal. Excelente para trabajar el patrón de rotación del core.",
+    "description": "Crunch en el que deslizas ambas manos por los muslos hasta tocar las rodillas al subir los hombros. Trabaja el recto abdominal con un recorrido corto y controlado.",
     "instructions": [
       "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo.",
-      "Coloca las manos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Activando el abdomen, eleva los omóplatos del suelo y lleva la mano derecha hacia la rodilla izquierda.",
-      "Regresa a la posición inicial y repite, esta vez llevando la mano izquierda hacia la rodilla derecha.",
-      "Continúa alternando lados el número de repeticiones deseado."
+      "Apoya las manos sobre la parte delantera de los muslos.",
+      "Activando el abdomen, eleva los omóplatos del suelo y desliza ambas manos por los muslos hasta tocar las rodillas.",
+      "Baja lentamente los hombros a la posición inicial.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "3641": {
     "name": "Paso de rodillas con balanceo y peso",
-    "description": "Movimiento dinámico desde posición de rodillas donde se balancean pesas por encima de la cabeza, integrando hombros, core y caderas. Útil para trabajo metabólico y estabilidad lumbopélvica.",
+    "description": "Movimiento dinámico en el que pasas de estar arrodillado a media rodilla mientras balanceas un disco por encima de la cabeza, integrando hombros, core y caderas. Útil para trabajo metabólico y estabilidad lumbopélvica.",
     "instructions": [
       "Empieza arrodillado con las rodillas al ancho de las caderas y la espalda recta.",
-      "Sujeta una pesa en cada mano, con los brazos extendidos rectos hacia abajo al frente.",
-      "Activa el core y balancea las pesas hacia arriba y por encima de la cabeza, manteniendo los brazos rectos.",
-      "Baja las pesas a la posición inicial y repite el número de repeticiones deseado."
+      "Sujeta un disco con ambas manos, con los brazos extendidos hacia abajo al frente.",
+      "Adelanta un pie hasta quedar a media rodilla y, al mismo tiempo, balancea el disco hacia arriba y por encima de la cabeza, manteniendo los brazos rectos.",
+      "Baja el disco y regresa el pie a la posición de rodillas; repite con la otra pierna el número de repeticiones deseado."
     ]
   },
   "3642": {
     "name": "Zancada con peso (estiramiento)",
-    "description": "Zancada al frente con peso adicional, énfasis en el estiramiento del flexor de cadera y glúteo en la fase baja. Trabaja fuerza unilateral del tren inferior con un componente de movilidad.",
+    "description": "Zancada estática sosteniendo un disco, con énfasis en el estiramiento del flexor de cadera y glúteo en la fase baja. Los pies se mantienen fijos mientras bajas y subes el cuerpo.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros.",
-      "Da un paso adelante con el pie derecho, manteniendo la espalda recta.",
+      "Sujeta un disco con ambas manos frente al cuerpo.",
+      "Adelanta el pie derecho para quedar en posición de zancada, manteniendo la espalda recta.",
       "Baja el cuerpo flexionando las rodillas hasta que el muslo derecho quede paralelo al suelo.",
-      "Empuja con el talón derecho para regresar a la posición inicial.",
-      "Repite con la pierna izquierda.",
-      "Continúa alternando piernas el número de repeticiones deseado."
+      "Empuja con el talón derecho para subir de nuevo, sin mover los pies.",
+      "Completa las repeticiones y luego cambia a la pierna izquierda adelante.",
+      "Continúa el número de repeticiones deseado en cada lado."
     ]
   },
   "3643": {
@@ -1157,12 +1153,12 @@
   },
   "3644": {
     "name": "Zancada con balanceo y peso",
-    "description": "Zancada al frente sosteniendo pesas que se balancean adelante y arriba con cada repetición, añadiendo trabajo de hombros y core anterior. Combina fuerza de piernas con movilidad y coordinación.",
+    "description": "Zancada al frente sosteniendo un disco que balanceas adelante y por encima de la cabeza con cada repetición, añadiendo trabajo de hombros y core anterior. Combina fuerza de piernas con movilidad y coordinación.",
     "instructions": [
-      "Ponte de pie con los pies al ancho de los hombros, sujetando una pesa en cada mano.",
+      "Ponte de pie con los pies al ancho de los hombros, sujetando un disco con ambas manos frente a la cadera.",
       "Da un paso adelante con el pie derecho, bajando el cuerpo a posición de zancada.",
-      "Mientras avanzas la zancada, balancea las pesas hacia adelante y arriba, manteniendo los brazos rectos.",
-      "Empuja con el pie derecho y vuelve a la posición inicial mientras bajas las pesas.",
+      "Mientras avanzas la zancada, balancea el disco hacia adelante y por encima de la cabeza, manteniendo los brazos rectos.",
+      "Empuja con el pie derecho y vuelve a la posición inicial mientras bajas el disco.",
       "Repite con el pie izquierdo y continúa alternando piernas el número de repeticiones deseado."
     ]
   }

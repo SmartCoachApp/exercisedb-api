@@ -1,49 +1,4 @@
 {
-  "0996": {
-    "name": "Rotación interna de cadera sentado con banda",
-    "description": "Sentado en silla con la banda alrededor de los muslos, abres las rodillas hacia afuera contra la resistencia para activar los glúteos y mejorar la movilidad de cadera. Es un ejercicio suave, ideal como calentamiento o trabajo de rehabilitación.",
-    "instructions": [
-      "Siéntate en una silla o banco con la espalda recta y los pies apoyados en el suelo.",
-      "Coloca una banda de resistencia alrededor de los muslos, justo por encima de las rodillas.",
-      "Mantén las rodillas flexionadas a 90 grados y los pies separados al ancho de los hombros.",
-      "Activa los glúteos y rota lentamente las rodillas hacia afuera, empujando contra la resistencia de la banda.",
-      "Haz una pausa breve al final del movimiento y vuelve despacio a la posición inicial.",
-      "Repite el número de repeticiones deseado."
-    ]
-  },
-  "0997": {
-    "name": "Press de hombros con banda",
-    "description": "El press de hombros con banda replica el patrón del press militar usando la resistencia elástica para cargar deltoides y tríceps. La tensión variable de la banda exige más control en la parte alta del recorrido.",
-    "instructions": [
-      "Párate con los pies separados al ancho de los hombros y coloca la banda debajo de los pies.",
-      "Sujeta la banda con las palmas hacia adelante y lleva las manos a la altura de los hombros con los codos flexionados.",
-      "Empuja la banda por encima de la cabeza, extendiendo los brazos por completo.",
-      "Haz una pausa arriba y baja despacio hasta la altura de los hombros.",
-      "Repite el número de repeticiones deseado."
-    ]
-  },
-  "0998": {
-    "name": "Extensión lateral de tríceps con banda",
-    "description": "Una variante de aislamiento para tríceps que parte con los brazos abiertos en cruz. La banda mantiene tensión constante mientras flexionas los codos hacia los hombros, sumando trabajo accesorio sobre los deltoides.",
-    "instructions": [
-      "Párate con los pies separados al ancho de los hombros y sujeta la banda con ambas manos, palmas hacia abajo.",
-      "Extiende los brazos rectos hacia los lados, paralelos al suelo.",
-      "Flexiona los codos lentamente y lleva las manos hacia los hombros, manteniendo los brazos quietos.",
-      "Haz una pausa breve y extiende los brazos otra vez hacia los lados.",
-      "Repite el número de repeticiones deseado."
-    ]
-  },
-  "0999": {
-    "name": "Elevación de pantorrilla a una pierna con banda",
-    "description": "Trabajo unilateral de gemelos con banda bajo la planta del pie. Al cargar una sola pierna se incrementa la demanda de equilibrio y se aísla cada lado para corregir asimetrías.",
-    "instructions": [
-      "Párate con los pies separados al ancho de las caderas y coloca la banda alrededor de la planta del pie izquierdo.",
-      "Apóyate en un objeto estable para mantener el equilibrio si lo necesitas.",
-      "Eleva lentamente el talón izquierdo del suelo, llevando el peso del cuerpo a la punta del pie.",
-      "Haz una pausa arriba y baja el talón despacio a la posición inicial.",
-      "Repite el número de repeticiones deseado y cambia de pierna."
-    ]
-  },
   "1000": {
     "name": "Elevación inversa de pantorrilla a una pierna con banda",
     "description": "Variante unilateral que combina elevación de talón con activación de la cadena posterior. La banda añade tensión y exige estabilidad en el tobillo, mientras isquiotibiales y glúteos colaboran para sostener la postura.",
@@ -57,10 +12,10 @@
   },
   "1001": {
     "name": "Sentadilla búlgara con banda",
-    "description": "Sentadilla unilateral con un pie adelantado y la banda en los tobillos para aumentar la tensión en cuádriceps y glúteos. La asimetría obliga a estabilizar la cadera y a controlar el descenso con cada repetición.",
+    "description": "Sentadilla unilateral con el pie trasero elevado en un banco y la banda pisada con el pie delantero para aumentar la tensión en cuádriceps y glúteos. La asimetría obliga a estabilizar la cadera y a controlar el descenso con cada repetición.",
     "instructions": [
-      "Párate con los pies separados al ancho de las caderas y coloca una banda de resistencia alrededor de los tobillos.",
-      "Da un paso largo adelante con el pie derecho y un paso corto atrás con el pie izquierdo.",
+      "Párate delante de un banco o cajón, pisa la banda con el pie derecho y sujeta los extremos con ambas manos.",
+      "Apoya el empeine del pie izquierdo en el banco detrás de ti, con el pie derecho bien adelantado.",
       "Flexiona las rodillas y baja el cuerpo hasta que el muslo derecho quede paralelo al suelo, dejando la rodilla izquierda apenas por encima del piso.",
       "Empuja con el talón derecho para volver a la posición inicial.",
       "Repite del otro lado."
@@ -71,7 +26,7 @@
     "description": "Tendido boca arriba con la banda en los pies, elevas las piernas extendidas hasta la vertical para reclutar abdominales y flexores de cadera. La resistencia de la banda añade carga al recorrido.",
     "instructions": [
       "Acuéstate boca arriba con las piernas estiradas y los pies juntos.",
-      "Coloca la banda alrededor de los arcos de los pies y sujeta los extremos con las manos.",
+      "Pasa alrededor de los pies una banda anclada abajo, más allá de los pies, y coloca las manos junto a la cabeza.",
       "Activa el abdomen y eleva las piernas hasta que queden perpendiculares al suelo.",
       "Haz una pausa arriba y baja las piernas despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -84,17 +39,17 @@
       "Fija la banda a un anclaje firme a la altura de la cintura.",
       "Párate frente al anclaje con los pies separados al ancho de los hombros.",
       "Sujeta los agarres con las palmas enfrentadas y los brazos extendidos al frente.",
-      "Flexiona las rodillas y baja a una sentadilla, manteniendo la espalda recta y el pecho elevado.",
-      "Desde la sentadilla, tira de los agarres hacia el cuerpo apretando las escápulas.",
-      "Haz una pausa arriba y libera la tensión despacio para volver a la posición inicial.",
+      "Flexiona las rodillas y baja a una sentadilla con los brazos extendidos, manteniendo la espalda recta y el pecho elevado.",
+      "Sube a la posición de pie mientras tiras de los agarres hacia el cuerpo apretando las escápulas.",
+      "Haz una pausa arriba y extiende los brazos mientras bajas de nuevo a la sentadilla.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1004": {
     "name": "Sentadilla con banda",
-    "description": "Sentadilla con la banda colocada justo encima de las rodillas. La tensión hacia adentro obliga a empujar las rodillas hacia afuera, lo que potencia la activación de glúteos durante todo el descenso y el ascenso.",
+    "description": "Sentadilla con la banda pisada bajo los pies y los agarres sostenidos a la altura de los hombros. La tensión de la banda aumenta hacia la parte alta, lo que exige empujar con fuerza durante todo el ascenso y potencia la activación de glúteos y cuádriceps.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y la banda colocada justo por encima de las rodillas.",
+      "Párate sobre la banda con los pies separados al ancho de los hombros y sostén los agarres a la altura de los hombros.",
       "Mantén el pecho elevado y el core activo, lleva las caderas atrás y flexiona las rodillas para bajar a la sentadilla.",
       "Asegúrate de que las rodillas viajen sobre las puntas de los pies y de mantener el peso en los talones.",
       "Haz una pausa abajo y empuja desde los talones para volver a la posición inicial.",
@@ -105,7 +60,7 @@
     "name": "Crunch de pie con banda",
     "description": "Variante de crunch realizada de pie con la banda anclada por encima. Tiras de la banda hacia abajo flexionando el tronco para reclutar el recto abdominal sin necesidad de tumbarse en el suelo.",
     "instructions": [
-      "Fija la banda a un anclaje firme a la altura de la cintura.",
+      "Fija la banda a un anclaje firme por encima de la cabeza.",
       "Párate de espaldas al anclaje con los pies separados al ancho de los hombros.",
       "Sujeta la banda con ambas manos y llévala al pecho, manteniendo los codos flexionados y pegados al cuerpo.",
       "Activa el abdomen y crunch hacia adelante despacio, llevando el pecho hacia las rodillas.",
@@ -115,11 +70,11 @@
   },
   "1007": {
     "name": "Crunch de pie con giro y banda",
-    "description": "Crunch de pie con rotación de tronco usando la banda cruzada al frente. La fase de giro carga los oblicuos mientras el resto del core estabiliza, sumando trabajo rotacional al patrón de flexión.",
+    "description": "Crunch de pie con rotación de tronco usando una banda anclada en alto detrás de ti. La fase de giro carga los oblicuos mientras el resto del core estabiliza, sumando trabajo rotacional al patrón de flexión.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de la espalda alta, cruzándola por delante del pecho.",
-      "Sujeta los extremos de la banda con las manos, con los codos flexionados y pegados a los costados.",
-      "Activa el abdomen y gira el tronco hacia un lado, llevando el codo hacia la rodilla opuesta.",
+      "Fija la banda a un anclaje alto detrás de ti y párate con los pies separados al ancho de los hombros.",
+      "Sujeta la banda con ambas manos a los lados de la cabeza, con los codos flexionados.",
+      "Activa el abdomen y flexiona el tronco hacia adelante girándolo, llevando un codo hacia la rodilla opuesta.",
       "Haz una pausa breve y vuelve a la posición inicial.",
       "Repite del otro lado.",
       "Continúa alternando lados durante el número de repeticiones deseado."
@@ -127,22 +82,21 @@
   },
   "1008": {
     "name": "Subida al cajón con banda",
-    "description": "Subida al cajón con la banda alrededor de los muslos para incrementar la activación de glúteo medio. Al alternar piernas se trabaja la fuerza unilateral, el equilibrio y la estabilidad de cadera.",
+    "description": "Subida al cajón con la banda bajo el pie de apoyo y sujeta a la altura de los hombros. Al trabajar una pierna a la vez se desarrolla la fuerza unilateral, el equilibrio y la estabilidad de cadera.",
     "instructions": [
-      "Coloca una banda alrededor de los muslos, justo por encima de las rodillas.",
-      "Párate frente a un escalón o plataforma con los pies separados al ancho de las caderas.",
-      "Sube a la plataforma con el pie derecho, empujando desde el talón.",
-      "Extiende la pierna izquierda detrás, manteniéndola recta.",
-      "Baja el pie izquierdo de regreso al suelo.",
-      "Repite subiendo con el pie izquierdo a la plataforma.",
-      "Continúa alternando piernas durante el número de repeticiones deseado."
+      "Párate frente a un escalón o plataforma y apoya el pie derecho encima, con la banda bajo ese pie.",
+      "Sujeta los extremos de la banda a la altura de los hombros.",
+      "Sube a la plataforma empujando desde el talón derecho hasta extender la pierna.",
+      "Lleva el pie izquierdo junto al derecho.",
+      "Baja el pie izquierdo al suelo con control.",
+      "Repite el número de repeticiones deseado y luego cambia de pierna."
     ]
   },
   "1009": {
     "name": "Peso muerto piernas rígidas con banda",
-    "description": "Hinge de cadera con piernas casi rectas y la banda en los tobillos. La tensión sube por la cadena posterior y carga isquiotibiales, glúteos y zona lumbar mientras llevas las caderas atrás con la espalda neutra.",
+    "description": "Hinge de cadera con piernas casi rectas pisando la banda. La tensión sube por la cadena posterior y carga isquiotibiales, glúteos y zona lumbar mientras llevas las caderas atrás con la espalda neutra.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de los tobillos.",
+      "Párate sobre la banda con los pies separados al ancho de los hombros.",
       "Sujeta la banda con ambas manos delante de los muslos, con las palmas hacia el cuerpo.",
       "Manteniendo la espalda recta y el core activo, haz bisagra en la cadera y baja el tronco despacio hacia el suelo.",
       "A medida que bajas, lleva las caderas atrás y deja que las rodillas se flexionen ligeramente.",
@@ -166,27 +120,25 @@
   },
   "1011": {
     "name": "Giro sentado con banda",
-    "description": "Sentado en el suelo con la banda alrededor de la cintura, giras el tronco a un lado y al otro contra la resistencia. Es un trabajo rotacional para oblicuos con bajo impacto sobre la columna.",
+    "description": "Sentado en el suelo con la banda anclada a un lado a la altura del pecho, giras el tronco con los brazos extendidos contra la resistencia. Es un trabajo rotacional para oblicuos con bajo impacto sobre la columna.",
     "instructions": [
-      "Siéntate en el suelo con las piernas extendidas al frente y la espalda recta.",
-      "Envuelve la banda alrededor de la cintura y sujeta los extremos con ambas manos.",
-      "Activa el abdomen y gira el tronco lentamente hacia un lado, manteniendo la espalda recta y los pies en el suelo.",
+      "Fija la banda a un anclaje a la altura del pecho a tu lado y siéntate en el suelo con las piernas extendidas y la espalda recta.",
+      "Sujeta la banda con ambas manos, con los brazos extendidos frente al pecho.",
+      "Activa el abdomen y gira el tronco despacio alejándote del anclaje, con los brazos rectos y los pies en el suelo.",
       "Haz una pausa al final del giro y vuelve despacio a la posición inicial.",
-      "Repite el giro hacia el otro lado.",
-      "Continúa alternando lados durante el número de repeticiones deseado."
+      "Repite el número de repeticiones deseado y luego cambia de lado."
     ]
   },
   "1012": {
     "name": "Press militar con giro y banda",
-    "description": "Press militar combinado con rotación de tronco. Mientras los deltoides empujan la banda por encima de la cabeza, el giro suma trabajo rotacional para los oblicuos y exige coordinación con la cadera fija.",
+    "description": "Press diagonal por encima de la cabeza combinado con rotación de tronco desde un anclaje bajo lateral. Mientras los deltoides empujan, el giro suma trabajo rotacional para los oblicuos y exige coordinación entre piernas y tronco.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y pisa la banda.",
-      "Sujeta los agarres a la altura de los hombros con las palmas hacia adelante.",
-      "Activa el core y empuja la banda por encima de la cabeza, extendiendo los brazos por completo.",
-      "Mientras empujas, gira el tronco hacia un lado manteniendo las caderas estables.",
+      "Fija la banda a un anclaje bajo a tu lado y párate con las piernas abiertas.",
+      "Sujeta el agarre a la altura del hombro más alejado del anclaje, con las rodillas ligeramente flexionadas.",
+      "Activa el core y empuja con las piernas mientras giras el tronco alejándote del anclaje.",
+      "Empuja la banda en diagonal por encima de la cabeza hasta extender el brazo por completo.",
       "Haz una pausa arriba y vuelve a la posición inicial.",
-      "Repite el press y el giro al lado opuesto.",
-      "Continúa alternando lados durante el número de repeticiones deseado."
+      "Repite el número de repeticiones deseado y luego cambia de lado."
     ]
   },
   "1013": {
@@ -194,7 +146,7 @@
     "description": "Jalón con banda anclada en alto y agarre supino que enfatiza el trabajo de los dorsales con asistencia de bíceps y antebrazos. Replica el patrón del jalón al pecho con un setup minimalista.",
     "instructions": [
       "Fija la banda a un anclaje alto, como una barra de dominadas o una viga firme.",
-      "Párate frente al anclaje con los pies separados al ancho de los hombros.",
+      "Siéntate en un banco o cajón bajo el anclaje con los pies apoyados en el suelo.",
       "Sujeta la banda con agarre supino y las manos un poco más abiertas que el ancho de los hombros.",
       "Extiende los brazos completamente por encima de la cabeza, con los codos ligeramente flexionados.",
       "Activa los dorsales y tira de la banda hacia el pecho, apretando las escápulas.",
@@ -214,14 +166,14 @@
   },
   "1015": {
     "name": "Pallof press vertical con banda",
-    "description": "Ejercicio anti-rotación clásico con banda anclada al lado del cuerpo. Al empujar al frente debes resistir la fuerza que intenta girarte, lo que activa de forma intensa los oblicuos y todo el cilindro abdominal.",
+    "description": "Ejercicio anti-rotación con banda anclada al lado del cuerpo. Al empujar por encima de la cabeza debes resistir la fuerza que intenta girarte, lo que activa de forma intensa los oblicuos y todo el cilindro abdominal.",
     "instructions": [
       "Párate con los pies separados al ancho de los hombros y enrolla la banda alrededor de un objeto firme a la altura del pecho.",
       "Sujeta la banda con ambas manos y aléjate del anclaje para crear tensión.",
       "Colócate perpendicular al anclaje, con un costado mirando hacia la banda.",
-      "Extiende los brazos rectos al frente, manteniendo las manos a la altura del pecho.",
-      "Activa el core y empuja la banda lejos del pecho, extendiendo los brazos por completo.",
-      "Mantén la posición unos segundos y lleva la banda despacio de vuelta al pecho.",
+      "Junta las manos en el centro del pecho.",
+      "Activa el core y empuja la banda hacia arriba por encima de la cabeza, extendiendo los brazos por completo sin dejar que el tronco gire.",
+      "Mantén la posición un instante y lleva la banda despacio de vuelta al pecho.",
       "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
@@ -260,21 +212,21 @@
   },
   "1022": {
     "name": "Remo de pie para deltoides posterior con banda",
-    "description": "Remo con banda pisada y torso inclinado al frente. Al llevar los codos hacia los costados se enfocan los deltoides posteriores junto con romboides y trapecios, ideal para reforzar el equilibrio postural del hombro.",
+    "description": "Remo con banda anclada al frente a la altura de los hombros y el torso erguido. Al llevar los codos altos hacia atrás se enfocan los deltoides posteriores junto con romboides y trapecios, ideal para reforzar el equilibrio postural del hombro.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y pisa la banda.",
-      "Sujeta los agarres con las palmas enfrentadas y los brazos extendidos al frente.",
-      "Flexiona ligeramente las rodillas e inclínate hacia adelante desde la cadera, manteniendo la espalda recta.",
-      "Tira de la banda hacia el pecho apretando las escápulas.",
-      "Haz una pausa arriba y libera la tensión despacio para volver a la posición inicial.",
+      "Fija la banda a un anclaje a la altura de los hombros y párate frente a él con los pies escalonados.",
+      "Sujeta los agarres con los brazos extendidos al frente a la altura de los hombros.",
+      "Mantén el torso erguido y el core activo.",
+      "Tira de la banda hacia atrás llevando los codos altos y abiertos, apretando las escápulas.",
+      "Haz una pausa y libera la tensión despacio para volver a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1023": {
     "name": "Peso muerto rumano con banda",
-    "description": "Bisagra de cadera con la espalda recta y la banda alrededor de los muslos. Bajas el tronco al frente sintiendo el estiramiento en isquiotibiales y vuelves apretando glúteos. La banda añade resistencia constante a la cadena posterior.",
+    "description": "Bisagra de cadera con la espalda recta pisando la banda. Bajas el tronco al frente sintiendo el estiramiento en isquiotibiales y vuelves apretando glúteos. La banda añade resistencia constante a la cadena posterior.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros y coloca la banda alrededor de los muslos.",
+      "Párate sobre la banda con los pies separados al ancho de los hombros.",
       "Sujeta la banda con ambas manos delante de los muslos, palmas hacia el cuerpo.",
       "Manteniendo la espalda recta y las rodillas ligeramente flexionadas, haz bisagra en la cadera y baja la banda hacia el suelo.",
       "Siente el estiramiento en los isquiotibiales mientras bajas la banda.",
@@ -300,25 +252,23 @@
     "description": "Movilidad para pecho, hombros y tríceps con movimientos controlados de brazos. Es un estiramiento dinámico apto como calentamiento previo a sesiones de empuje.",
     "instructions": [
       "Párate erguido con los pies separados al ancho de los hombros.",
-      "Extiende los brazos rectos hacia los lados, paralelos al suelo.",
-      "Lleva los brazos despacio hacia adelante, cruzándolos al frente del cuerpo.",
+      "Extiende los brazos rectos al frente a la altura de los hombros.",
+      "Abre los brazos hacia los lados, llevándolos un poco por detrás del cuerpo y paralelos al suelo.",
       "Siente el estiramiento en los músculos del pecho.",
-      "Mantén el estiramiento entre 10 y 30 segundos.",
-      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+      "Vuelve a llevar los brazos al frente con control.",
+      "Repite el movimiento de forma continua el número de repeticiones deseado."
     ]
   },
   "1201": {
     "name": "Burpee con mancuernas",
-    "description": "Variante avanzada del burpee que añade un press militar con mancuernas al final del salto. El acoplamiento de patrones eleva la demanda metabólica y trabaja piernas, hombros, tríceps y core en cada ciclo.",
+    "description": "Variante del burpee sujetando una mancuerna en cada mano. Al apoyar las mancuernas, pasar a plancha y volver a ponerte de pie con la carga se eleva la demanda metabólica y se trabajan piernas, hombros y core en cada ciclo.",
     "instructions": [
-      "Empieza de pie con los pies separados al ancho de los hombros y una mancuerna en cada mano.",
+      "Empieza de pie con los pies separados al ancho de los hombros y una mancuerna en cada mano a los costados.",
       "Baja a una sentadilla y apoya las mancuernas en el suelo al frente.",
-      "Lanza los pies atrás hasta la posición de flexión, manteniendo el cuerpo en línea recta.",
-      "Realiza una flexión de pecho, bajando el pecho hacia el suelo.",
+      "Lanza los pies atrás hasta la posición de flexión, con el cuerpo en línea recta y las manos sobre las mancuernas.",
       "Lleva los pies de un salto hacia las manos, cayendo en posición de sentadilla.",
-      "Levántate con explosividad, despegando las mancuernas del suelo y llevándolas a los hombros.",
-      "Empuja las mancuernas por encima de la cabeza, extendiendo los brazos por completo.",
-      "Baja las mancuernas a los hombros y repite la secuencia el número de repeticiones deseado."
+      "Levántate con explosividad, despegando las mancuernas del suelo y sosteniéndolas a los costados.",
+      "Repite la secuencia el número de repeticiones deseado."
     ]
   },
   "1253": {
@@ -394,11 +344,12 @@
   },
   "1259": {
     "name": "Estiramiento de pecho con manos detrás de la cabeza",
-    "description": "Estiramiento estático para abrir el pecho llevando los codos hacia afuera con los dedos entrelazados detrás de la cabeza. Útil al final de una sesión de empuje para movilizar pectorales y hombros.",
+    "description": "Estiramiento asistido para abrir el pecho: sentado en el suelo con los dedos entrelazados detrás de la cabeza, un compañero lleva tus codos hacia atrás. Útil al final de una sesión de empuje para movilizar pectorales y hombros.",
     "instructions": [
-      "Párate erguido con los pies separados al ancho de los hombros.",
+      "Siéntate en el suelo con las piernas extendidas y la espalda erguida.",
       "Entrelaza los dedos detrás de la cabeza con los codos apuntando hacia afuera.",
-      "Aprieta despacio las escápulas y empuja el pecho al frente.",
+      "Pide a un compañero que se coloque detrás de ti y sujete tus codos.",
+      "Deja que tu compañero lleve tus codos hacia atrás con suavidad mientras empujas el pecho al frente.",
       "Mantén el estiramiento entre 15 y 30 segundos.",
       "Suelta el estiramiento y repite las veces que necesites."
     ]
@@ -407,11 +358,11 @@
     "name": "Press declinado a un brazo con polea",
     "description": "Press unilateral en polea sobre banco declinado, dirigido al pectoral inferior. Trabajar a un brazo a la vez exige estabilizar el tronco y permite igualar la fuerza entre lados.",
     "instructions": [
-      "Ajusta la máquina de polea a una posición declinada.",
-      "Párate de espaldas a la máquina y sujeta el agarre con una mano.",
-      "Colócate con la espalda contra el banco declinado y el brazo extendido al frente.",
-      "Flexiona el codo y baja el agarre hacia el pecho manteniendo el brazo superior quieto.",
-      "Haz una pausa abajo y empuja el agarre hasta la posición inicial.",
+      "Coloca un banco declinado junto a una polea baja.",
+      "Acuéstate en el banco declinado con los pies sujetos y la cabeza más baja que las caderas, y sujeta el agarre con una mano.",
+      "Lleva el agarre al costado del pecho con el codo flexionado.",
+      "Empuja el agarre hacia arriba hasta extender el brazo por completo sobre el pecho.",
+      "Haz una pausa arriba y baja el agarre despacio hacia el pecho.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
@@ -419,11 +370,11 @@
     "name": "Press declinado con polea",
     "description": "Press declinado en polea con tensión continua durante todo el recorrido. La polea mantiene la carga sobre el pectoral inferior incluso al final del empuje, donde la barra perdería tensión.",
     "instructions": [
-      "Ajusta la máquina de polea a una posición declinada.",
-      "Siéntate en el banco declinado de cara a la máquina.",
+      "Coloca un banco declinado entre dos poleas bajas.",
+      "Acuéstate en el banco declinado con las piernas sujetas y la cabeza más baja que las caderas.",
       "Sujeta los agarres en pronación y colócalos a la altura del pecho.",
-      "Mantén los pies apoyados en el suelo y la espalda firme contra el banco.",
-      "Exhala y empuja los agarres lejos del cuerpo, extendiendo los brazos por completo.",
+      "Mantén la espalda firme contra el banco.",
+      "Exhala y empuja los agarres hacia arriba lejos del cuerpo, extendiendo los brazos por completo.",
       "Haz una pausa al final del movimiento, apretando el pecho.",
       "Inhala y vuelve a llevar los agarres despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -443,24 +394,24 @@
   },
   "1263": {
     "name": "Apertura a un brazo sentado en balón con polea",
-    "description": "Apertura unilateral en polea ejecutada sentado sobre un balón de estabilidad. La superficie inestable suma trabajo de core y obliga a mantener una postura erguida durante todo el rango.",
+    "description": "Apertura unilateral en polea con la espalda alta apoyada sobre un balón de estabilidad. La superficie inestable suma trabajo de core y glúteos para mantener el puente durante todo el rango.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
-      "Sujeta un agarre de polea con una mano y extiende el brazo hacia el costado, paralelo al suelo.",
-      "Mantén el codo ligeramente flexionado y la palma hacia adelante.",
-      "Lleva el brazo despacio cruzando el cuerpo, apretando el pecho.",
-      "Haz una pausa al final del movimiento y vuelve despacio a la posición inicial.",
+      "Siéntate en un balón de estabilidad junto a una polea baja y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada.",
+      "Sujeta el agarre con la mano más cercana a la polea, con el brazo extendido hacia el costado.",
+      "Mantén el codo ligeramente flexionado y la palma hacia arriba.",
+      "Lleva el brazo despacio hacia arriba por encima del pecho, apretando el pecho.",
+      "Haz una pausa arriba y vuelve despacio a la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
   "1264": {
     "name": "Apertura inclinada a un brazo sentado en balón con polea",
-    "description": "Apertura unilateral inclinada con polea, sentado en un balón apoyado contra un banco inclinado. Combina trabajo de pectoral superior con un fuerte componente de equilibrio y control postural.",
+    "description": "Apertura unilateral inclinada con polea, recostado sobre un balón de estabilidad. Combina trabajo de pectoral superior con un fuerte componente de equilibrio y control postural.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda contra un banco inclinado.",
-      "Sujeta un agarre de polea con una mano, brazo extendido y palma hacia adentro.",
-      "Manteniendo una ligera flexión en el codo, baja el brazo despacio hacia el costado hasta que la mano quede en línea con el hombro.",
-      "Haz una pausa y aprieta el pecho para llevar el brazo a la posición inicial.",
+      "Siéntate en un balón de estabilidad junto a una polea baja y avanza los pies hasta recostar la espalda en el balón con una inclinación.",
+      "Sujeta el agarre con la mano más cercana a la polea, con el brazo extendido hacia el costado.",
+      "Manteniendo una ligera flexión en el codo, aprieta el pecho y lleva el brazo hacia arriba por encima del pecho.",
+      "Haz una pausa y baja el brazo despacio hacia el costado hasta que la mano quede en línea con el hombro.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
@@ -479,9 +430,9 @@
   },
   "1266": {
     "name": "Press inclinado a un brazo sentado en balón con polea",
-    "description": "Press inclinado unilateral con polea ejecutado con la espalda apoyada en un banco inclinado y sentado sobre un balón. La inestabilidad del balón añade un componente extra de core y equilibrio.",
+    "description": "Press inclinado unilateral con polea, recostado sobre un balón de estabilidad. La inestabilidad del balón añade un componente extra de core y equilibrio.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda apoyada contra un banco inclinado.",
+      "Siéntate en un balón de estabilidad junto a una polea baja y avanza los pies hasta recostar la espalda en el balón con una inclinación.",
       "Sujeta un agarre de polea con una mano y coloca el brazo a 90 grados con el codo flexionado.",
       "Empuja el agarre hacia adelante y arriba, extendiendo el brazo por completo.",
       "Haz una pausa arriba y baja despacio el agarre a la posición inicial.",
@@ -490,23 +441,23 @@
   },
   "1267": {
     "name": "Press a un brazo sentado en balón con polea",
-    "description": "Press horizontal unilateral en polea sentado sobre balón de estabilidad. El componente anti-rotación del core es protagonista, ya que la fuerza tiende a girar el tronco en cada empuje.",
+    "description": "Press unilateral en polea con la espalda alta apoyada sobre un balón de estabilidad y la cadera elevada. El componente anti-rotación del core es protagonista, ya que la fuerza tiende a girar el tronco en cada empuje.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
-      "Sujeta un agarre de polea con una mano a la altura del pecho, codo flexionado.",
-      "Apoya la otra mano en la cadera para estabilizarte.",
-      "Empuja el agarre al frente, extendiendo el brazo por completo.",
+      "Siéntate en un balón de estabilidad junto a una polea baja y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada.",
+      "Sujeta el agarre con la mano más cercana a la polea a la altura del pecho, codo flexionado.",
+      "Mantén la cadera nivelada y el core firme.",
+      "Empuja el agarre hacia arriba, extendiendo el brazo por completo.",
       "Haz una pausa breve y vuelve despacio a la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
   "1268": {
     "name": "Press sentado en balón con polea",
-    "description": "Press horizontal en polea ejecutado sentado sobre balón de estabilidad. La inestabilidad del balón obliga al core a trabajar mientras el pecho empuja los agarres al frente.",
+    "description": "Press en polea con la espalda alta apoyada sobre un balón de estabilidad y la cadera elevada. La inestabilidad del balón obliga al core a trabajar mientras el pecho empuja los agarres hacia arriba.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
-      "Sujeta los agarres de la polea a la altura del pecho con las palmas hacia abajo y los codos flexionados.",
-      "Activa el core y empuja los agarres al frente hasta extender los brazos por completo.",
+      "Siéntate en un balón de estabilidad entre dos poleas bajas y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada y las rodillas a 90 grados.",
+      "Sujeta los agarres a la altura del pecho con las palmas hacia adelante y los codos flexionados.",
+      "Activa el core y empuja los agarres hacia arriba hasta extender los brazos por completo.",
       "Haz una pausa breve y libera la tensión despacio devolviendo los agarres a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -524,13 +475,13 @@
   },
   "1270": {
     "name": "Cruce de cables para pecho superior",
-    "description": "Variante de cruce con poleas a la altura del pecho enfocada al pectoral superior. El pequeño cruce arriba intensifica la contracción y suma trabajo accesorio sobre deltoides anteriores.",
+    "description": "Variante de cruce con poleas bajas enfocada al pectoral superior. Llevar las manos hacia arriba hasta la altura de la frente intensifica la contracción y suma trabajo accesorio sobre deltoides anteriores.",
     "instructions": [
-      "Ajusta los agarres en las poleas a la altura del pecho.",
+      "Ajusta los agarres en las poleas en la posición más baja.",
       "Párate en el centro de la máquina con un pie ligeramente adelantado.",
-      "Sujeta los agarres con las palmas hacia abajo y los brazos extendidos hacia los lados.",
+      "Sujeta los agarres con las palmas hacia arriba y los brazos extendidos hacia los lados.",
       "Conserva una ligera flexión en los codos y activa el core.",
-      "Tira de los cables juntándolos delante del pecho y cruzándolos uno sobre otro.",
+      "Lleva los cables hacia arriba y hacia el centro hasta juntar las manos delante de la frente.",
       "Aprieta los pectorales en el pico del movimiento.",
       "Suelta los cables despacio y vuelve a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -538,26 +489,25 @@
   },
   "1271": {
     "name": "Estiramiento de pecho y hombro frontal",
-    "description": "Estiramiento de pecho y deltoides anteriores cruzando los brazos al frente y empujando las palmas. Útil como cooldown tras sesiones de empuje o para abrir la postura tras horas sentado.",
+    "description": "Estiramiento de pecho y deltoides anteriores sujetando un palo con agarre amplio y llevándolo por encima y detrás de la cabeza. Útil como cooldown tras sesiones de empuje o para abrir la postura tras horas sentado.",
     "instructions": [
       "Párate erguido con los pies separados al ancho de los hombros.",
-      "Extiende los brazos rectos al frente a la altura de los hombros.",
-      "Cruza los brazos delante del cuerpo, con el brazo derecho sobre el izquierdo.",
-      "Entrelaza los dedos y aprieta las palmas una contra la otra.",
-      "Aprieta despacio las escápulas y empuja las manos al frente, sintiendo el estiramiento en pecho y hombros.",
-      "Mantén el estiramiento entre 20 y 30 segundos y suelta.",
+      "Sujeta un palo o una toalla con agarre amplio en pronación delante de la cadera.",
+      "Con los brazos largos, eleva el palo por encima de la cabeza.",
+      "Llévalo hacia atrás por detrás de la cabeza hasta donde te resulte cómodo, sintiendo el estiramiento en pecho y hombros.",
+      "Mantén un instante y regresa el palo a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1272": {
     "name": "Estiramiento de pecho con balón de estabilidad",
-    "description": "Estiramiento sentado con balón en las manos. Llevas el balón hacia el pecho desde una posición extendida para abrir los pectorales, ideal en rutinas de movilidad y enfriamiento.",
+    "description": "Estiramiento en cuadrupedia con un brazo apoyado sobre el balón de estabilidad. Al hundir el pecho hacia el suelo se abren los pectorales, ideal en rutinas de movilidad y enfriamiento.",
     "instructions": [
-      "Siéntate en el balón de estabilidad con los pies apoyados en el suelo y la espalda recta.",
-      "Sujeta el balón con ambas manos y extiende los brazos rectos al frente.",
-      "Lleva el balón despacio hacia el pecho, sintiendo el estiramiento en los músculos del pecho.",
+      "Ponte en cuadrupedia con un balón de estabilidad a tu lado.",
+      "Apoya una mano sobre el balón con el brazo extendido hacia el costado y la otra mano en el suelo.",
+      "Rueda el balón despacio hacia afuera y baja el pecho hacia el suelo, sintiendo el estiramiento en el pecho y la parte frontal del hombro.",
       "Mantén el estiramiento unos segundos y vuelve despacio a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
   "1273": {
@@ -583,12 +533,12 @@
   },
   "1275": {
     "name": "Flexión con caída de rodillas",
-    "description": "Variante regresiva de flexión donde, al llegar abajo, apoyas las rodillas para empujar y volver arriba con todo el cuerpo. Permite extender la serie cuando la fuerza falla manteniendo el patrón completo.",
+    "description": "Flexión pliométrica entre dos bancos: dejas caer las manos desde los bancos al suelo, amortiguas la caída y empujas de forma explosiva para volver arriba. Trabaja potencia en pectorales, tríceps y hombros.",
     "instructions": [
-      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros.",
-      "Baja el pecho hacia el suelo manteniendo los codos pegados al cuerpo.",
-      "Cuando el pecho esté cerca del suelo, apoya rápido las rodillas en el piso.",
-      "Empuja con los brazos para volver a la posición inicial.",
+      "Coloca dos bancos en paralelo, un poco más separados que el ancho de los hombros, y empieza en plancha alta con las manos sobre los bancos.",
+      "Retira las manos de los bancos y déjate caer, apoyando las manos en el suelo entre ambos.",
+      "Amortigua la caída flexionando los codos y bajando el pecho hacia el suelo.",
+      "Empuja el suelo de forma explosiva para volver a apoyar las manos sobre los bancos.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -618,11 +568,11 @@
   },
   "1278": {
     "name": "Apertura inclinada sobre balón con mancuernas",
-    "description": "Apertura inclinada con la espalda apoyada en un banco inclinado y sentado sobre un balón. Combina trabajo de pectoral superior con un fuerte componente de equilibrio que mantiene el core activo.",
+    "description": "Apertura inclinada recostado sobre un balón de estabilidad con la cadera baja. Combina trabajo de pectoral superior con un fuerte componente de equilibrio que mantiene el core activo.",
     "instructions": [
-      "Configura un banco inclinado a 45 grados.",
-      "Siéntate en un balón de estabilidad y rueda hacia adelante hasta que la espalda alta quede apoyada en el banco inclinado.",
-      "Sujeta una mancuerna en cada mano con las palmas enfrentadas y los brazos extendidos sobre el pecho.",
+      "Siéntate en un balón de estabilidad con una mancuerna en cada mano.",
+      "Avanza un poco los pies y recuéstate hasta apoyar la espalda media y alta en el balón, con la cadera baja para que el torso quede inclinado.",
+      "Sujeta las mancuernas con las palmas enfrentadas y los brazos extendidos sobre el pecho.",
       "Baja las mancuernas hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
       "Haz una pausa breve y aprieta el pecho para llevar las mancuernas a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -763,10 +713,10 @@
   },
   "1290": {
     "name": "Press unilateral sobre balón con mancuerna",
-    "description": "Press horizontal unilateral con mancuerna sentado sobre un balón de estabilidad. El esfuerzo anti-rotación es alto: el core debe impedir que el tronco gire hacia el lado libre durante cada empuje.",
+    "description": "Press unilateral con mancuerna con la espalda alta apoyada en un balón de estabilidad y la cadera elevada. El esfuerzo anti-rotación es alto: el core debe impedir que el tronco gire hacia el lado libre durante cada empuje.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
-      "Sujeta una mancuerna con una mano y colócala a la altura del hombro con el codo flexionado y la palma hacia adelante.",
+      "Siéntate en un balón de estabilidad con una mancuerna en una mano y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada y las rodillas a 90 grados.",
+      "Coloca la mancuerna a la altura del hombro con el codo flexionado y la palma hacia adelante.",
       "Empuja la mancuerna lentamente hacia arriba hasta extender el brazo por completo, manteniendo el core activo y el equilibrio sobre el balón.",
       "Haz una pausa arriba y baja la mancuerna despacio a la posición inicial.",
       "Repite el número de repeticiones deseado y cambia de brazo."
@@ -774,9 +724,9 @@
   },
   "1291": {
     "name": "Pullover a un brazo sobre balón con mancuerna",
-    "description": "Pullover unilateral sentado sobre un balón. El trabajo a un brazo activa con fuerza el dorsal y los romboides del lado de carga, mientras el balón añade exigencia al equilibrio y al core.",
+    "description": "Pullover unilateral con la espalda alta apoyada en un balón y la cadera elevada. El trabajo a un brazo activa con fuerza el dorsal y los romboides del lado de carga, mientras el balón añade exigencia al equilibrio y al core.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y las rodillas a 90 grados.",
+      "Siéntate en un balón de estabilidad y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada y las rodillas a 90 grados.",
       "Sujeta una mancuerna con una mano y extiende el brazo recto sobre el pecho.",
       "Baja la mancuerna despacio detrás de la cabeza manteniendo el brazo recto.",
       "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
@@ -785,11 +735,11 @@
   },
   "1292": {
     "name": "Apertura a una pierna sobre balón con mancuernas",
-    "description": "Apertura sentado sobre un balón con una pierna extendida al frente. Combina aducción horizontal de pectoral con un alto componente de equilibrio sobre una superficie inestable y una sola base de apoyo.",
+    "description": "Apertura con la espalda alta apoyada en un balón y una pierna extendida al frente. Combina aducción horizontal de pectoral con un alto componente de equilibrio sobre una superficie inestable y una sola base de apoyo.",
     "instructions": [
-      "Siéntate en un balón de estabilidad con una mancuerna en cada mano y las palmas enfrentadas.",
-      "Apoya un pie en el suelo y extiende la otra pierna recta al frente.",
-      "Inclínate ligeramente al frente y abre los brazos hacia los lados manteniendo una ligera flexión en los codos.",
+      "Siéntate en un balón de estabilidad con una mancuerna en cada mano y avanza los pies hasta apoyar la espalda alta en el balón, con la cadera elevada.",
+      "Mantén un pie apoyado en el suelo y extiende la otra pierna recta al frente.",
+      "Extiende los brazos sobre el pecho con las palmas enfrentadas y una ligera flexión en los codos.",
       "Baja despacio las mancuernas hacia abajo y hacia los lados, sintiendo un estiramiento en el pecho.",
       "Haz una pausa abajo y aprieta el pecho para llevar las mancuernas a la posición inicial.",
       "Repite el número de repeticiones deseado, cambia de pierna y repite."
@@ -797,10 +747,10 @@
   },
   "1293": {
     "name": "Press sobre balón con mancuernas",
-    "description": "Press para pecho ejecutado con la espalda baja apoyada en un balón de estabilidad. La inestabilidad eleva la activación del core respecto al banco fijo manteniendo el énfasis principal en el pectoral.",
+    "description": "Press para pecho ejecutado con la espalda alta apoyada en un balón de estabilidad. La inestabilidad eleva la activación del core respecto al banco fijo manteniendo el énfasis principal en el pectoral.",
     "instructions": [
       "Siéntate en un balón de estabilidad con los pies apoyados en el suelo y una mancuerna en cada mano apoyadas sobre los muslos.",
-      "Camina los pies al frente lentamente, rodando el balón hasta que la zona lumbar quede apoyada en él y las rodillas queden a 90 grados.",
+      "Camina los pies al frente lentamente, rodando el balón hasta que la espalda alta quede apoyada en él y las rodillas queden a 90 grados.",
       "Eleva las mancuernas a la altura de los hombros con las palmas hacia adelante.",
       "Empuja las mancuernas hacia arriba hasta extender los brazos por completo.",
       "Haz una pausa arriba y baja las mancuernas despacio a la posición inicial.",
@@ -825,7 +775,7 @@
     "name": "Pullover sobre balón con mancuerna",
     "description": "Pullover clásico ejecutado con la espalda alta apoyada en un balón. Los brazos rectos llevan la mancuerna detrás de la cabeza estirando pectorales y dorsales mientras el core sostiene la posición.",
     "instructions": [
-      "Siéntate en un balón de estabilidad y sujeta una mancuerna con ambas manos sobre el pecho con los brazos extendidos.",
+      "Siéntate en un balón de estabilidad y avanza los pies hasta apoyar la espalda alta en el balón con la cadera elevada; sujeta una mancuerna con ambas manos sobre el pecho con los brazos extendidos.",
       "Baja la mancuerna despacio detrás de la cabeza manteniendo los brazos rectos.",
       "Haz una pausa breve y eleva la mancuerna a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -833,13 +783,13 @@
   },
   "1296": {
     "name": "Flexión pike sobre balón de estabilidad",
-    "description": "Variante avanzada de flexión pike con las espinillas sobre un balón. Al rodar el balón y elevar las caderas el cuerpo forma una V invertida y el press cae sobre los deltoides con fuerte exigencia del core.",
+    "description": "Variante avanzada que combina una flexión con un pike, con las espinillas sobre un balón. Tras cada flexión ruedas el balón y elevas las caderas formando una V invertida, con fuerte exigencia de pecho, hombros y core.",
     "instructions": [
       "Empieza en posición de flexión con las manos en el suelo y las espinillas apoyadas en el balón de estabilidad.",
-      "Activa el core y eleva las caderas hacia el techo, rodando el balón hacia las manos.",
-      "Mantén las piernas rectas y el cuerpo en posición pike, formando una V invertida.",
-      "Flexiona los codos y baja la parte superior del cuerpo hacia el suelo, manteniendo la cabeza alineada con las manos.",
-      "Empuja con las manos y extiende los brazos para volver a la posición inicial.",
+      "Flexiona los codos y baja el pecho hacia el suelo, manteniendo el cuerpo en línea recta.",
+      "Empuja con las manos para extender los brazos.",
+      "Activa el core y eleva las caderas hacia el techo, rodando el balón hacia las manos con las piernas rectas hasta formar una V invertida.",
+      "Baja las caderas para volver a la posición de flexión.",
       "Repite el número de repeticiones deseado."
     ]
   },
@@ -859,10 +809,10 @@
     "name": "Press en el suelo a un brazo con pesa rusa",
     "description": "Press unilateral tendido en el suelo con pesa rusa. El suelo limita el descenso del codo y reduce el estrés del hombro, mientras el lado opuesto del core trabaja para mantener el cuerpo alineado.",
     "instructions": [
-      "Acuéstate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados en el suelo.",
+      "Acuéstate boca arriba en el suelo con las piernas extendidas.",
       "Sujeta la pesa rusa con una mano, palma hacia los pies, y extiende el brazo recto hacia el techo.",
       "Baja la pesa rusa hacia el pecho despacio flexionando el codo y manteniendo el brazo cerca del cuerpo.",
-      "Haz una pausa breve cuando la pesa rusa quede sobre el pecho y empújala hasta la posición inicial extendiendo el codo.",
+      "Haz una pausa breve cuando el brazo toque el suelo y empuja la pesa rusa hasta la posición inicial extendiendo el codo.",
       "Repite el número de repeticiones deseado y cambia de brazo."
     ]
   },
@@ -915,33 +865,32 @@
   },
   "1303": {
     "name": "Empuje de pecho con balón medicinal desde apoyo en tres puntos",
-    "description": "Apoyo en tres puntos con una mano sobre el balón medicinal y la otra en el suelo. Empujas explosivamente el balón al frente combinando trabajo de pectoral, hombro y core en una postura que exige equilibrio.",
+    "description": "Desde una posición inclinada con el balón medicinal en el suelo, te incorporas de forma explosiva llevándolo al pecho y lo empujas al frente. Combina el impulso de piernas y cadera con el trabajo de pectoral, hombro y tríceps.",
     "instructions": [
-      "Empieza en apoyo de tres puntos con una mano sobre el balón medicinal y la otra en el suelo.",
-      "Extiende las piernas y coloca el cuerpo en línea recta.",
-      "Baja el pecho hacia el suelo manteniendo la espalda recta.",
-      "Empuja el balón medicinal lejos del cuerpo extendiendo el brazo por completo.",
-      "Vuelve a la posición inicial y repite el número de repeticiones deseado."
+      "Párate con los pies escalonados y flexiona la cadera, llevando las manos al balón medicinal en el suelo frente a ti.",
+      "Toma el balón e impúlsate con piernas y cadera, llevándolo al pecho mientras te incorporas.",
+      "Empuja el balón medicinal de forma explosiva al frente, extendiendo los brazos por completo.",
+      "Vuelve a la posición inclinada con el balón en el suelo y repite el número de repeticiones deseado."
     ]
   },
   "1304": {
     "name": "Empuje de pecho repetido con balón medicinal",
-    "description": "Empujes repetidos de un balón medicinal desde el pecho buscando un ritmo continuo. Trabaja la coordinación de empuje y la fuerza del pectoral con un patrón sencillo y muy escalable.",
+    "description": "Lanzamiento explosivo del balón medicinal desde el pecho en posición de rodillas. Tras soltar el balón dejas caer el cuerpo al frente y te recibes con las manos, trabajando la potencia de pectorales, tríceps y hombros de forma repetida.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros sujetando un balón medicinal a la altura del pecho.",
-      "Extiende los brazos al frente empujando el balón medicinal lejos del pecho.",
-      "Haz una pausa breve y lleva el balón medicinal despacio de vuelta al pecho.",
-      "Repite el número de repeticiones deseado."
+      "Arrodíllate con el torso erguido y las rodillas al ancho de la cadera, sujetando un balón medicinal a la altura del pecho.",
+      "Empuja el balón medicinal al frente de forma explosiva y suéltalo, dejando caer el cuerpo hacia adelante.",
+      "Recíbete con las manos y los codos ligeramente flexionados para amortiguar la caída.",
+      "Empuja para volver a la posición de rodillas, recupera el balón y repite el número de repeticiones deseado."
     ]
   },
   "1305": {
     "name": "Empuje de pecho único con balón medicinal",
-    "description": "Empuje único y controlado del balón medicinal desde el pecho, ideal para iniciar el patrón pliométrico. Pone el foco en la calidad del empuje más que en la velocidad.",
+    "description": "Lanzamiento único y explosivo del balón medicinal desde el pecho en posición de rodillas. Tras soltarlo caes al frente y te recibes en posición de flexión, ideal para iniciar el patrón pliométrico de empuje.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros sujetando el balón medicinal a la altura del pecho.",
-      "Extiende los brazos al frente empujando el balón medicinal lejos del pecho.",
-      "Haz una pausa breve y lleva el balón medicinal despacio de vuelta al pecho.",
-      "Repite el número de repeticiones deseado."
+      "Arrodíllate con el torso erguido y las rodillas al ancho de la cadera, sujetando el balón medicinal a la altura del pecho.",
+      "Empuja el balón medicinal al frente de forma explosiva y suéltalo, dejando caer el cuerpo hacia adelante.",
+      "Recíbete con las manos en posición de flexión, flexionando los codos para amortiguar el impacto.",
+      "Empuja para volver a la posición de rodillas, recupera el balón y repite el número de repeticiones deseado."
     ]
   },
   "1306": {
@@ -957,10 +906,10 @@
   },
   "1307": {
     "name": "Flexión sobre balón Bosu",
-    "description": "Variante de flexión con las manos en los bordes externos de un balón Bosu (lado plano hacia arriba). La superficie inestable obliga al core a trabajar y suma demanda sobre los hombros estabilizadores.",
+    "description": "Variante de flexión con las manos sobre la cúpula de un balón Bosu (lado curvo hacia arriba). La superficie inestable obliga al core a trabajar y suma demanda sobre los hombros estabilizadores.",
     "instructions": [
-      "Coloca el balón Bosu en el suelo con el lado plano hacia arriba.",
-      "Adopta la posición de flexión con las manos en los bordes externos del balón Bosu.",
+      "Coloca el balón Bosu en el suelo con la cúpula hacia arriba.",
+      "Adopta la posición de flexión con las manos sobre la cúpula, separadas aproximadamente al ancho de los hombros.",
       "Activa el core y baja el cuerpo hacia el balón Bosu flexionando los codos.",
       "Empuja para volver a la posición inicial extendiendo los brazos.",
       "Repite el número de repeticiones deseado."
@@ -994,15 +943,13 @@
   },
   "1310": {
     "name": "Flexión pliométrica con cambio de manos y peso",
-    "description": "Flexión pliométrica avanzada en la que alternas posiciones de manos amplia y estrecha entre repetición y repetición, con un chaleco lastrado. Demanda potencia, control y coordinación de alto nivel.",
+    "description": "Flexión pliométrica avanzada con un disco sobre la espalda: desde dos bancos dejas caer las manos al suelo, amortiguas y empujas de forma explosiva para volver arriba. Demanda potencia, control y coordinación de alto nivel.",
     "instructions": [
-      "Empieza en plancha alta con las manos un poco más abiertas que el ancho de los hombros y los pies juntos.",
-      "Baja el pecho hacia el suelo manteniendo los codos pegados al cuerpo.",
-      "Cuando el pecho esté cerca del suelo, empuja con explosividad despegando las manos del suelo.",
-      "Mientras subes, mueve rápido las manos hacia los lados y un poco al frente, dejando que el cuerpo caiga hacia el suelo.",
-      "Atrapa el cuerpo con las manos en la posición más amplia y baja el pecho hacia el suelo otra vez.",
-      "Repite el patrón de flexión cayendo y atrapando el cuerpo con las manos en la posición más estrecha.",
-      "Continúa alternando posiciones amplia y estrecha durante el número de repeticiones deseado."
+      "Coloca dos bancos en paralelo, un poco más separados que el ancho de los hombros, y empieza en plancha alta con las manos sobre los bancos y un disco sobre la espalda alta.",
+      "Retira las manos de los bancos y déjate caer, apoyando las manos en el suelo entre ambos.",
+      "Amortigua la caída flexionando los codos y bajando el pecho hacia el suelo.",
+      "Empuja el suelo de forma explosiva para volver a apoyar las manos sobre los bancos.",
+      "Repite el número de repeticiones deseado."
     ]
   },
   "1311": {
@@ -1011,32 +958,30 @@
     "instructions": [
       "Empieza en plancha alta con las manos más abiertas que el ancho de los hombros.",
       "Mantén el cuerpo en línea recta de la cabeza a los pies.",
-      "Baja el pecho hacia el suelo flexionando los codos y manteniéndolos cerca de los costados.",
+      "Baja el pecho hacia el suelo flexionando los codos y dejando que se abran hacia los lados.",
       "Empuja con las palmas para extender los brazos y volver a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
   },
   "1312": {
     "name": "Empuje de pecho con balón medicinal y carrera de recogida",
-    "description": "Empuje del balón medicinal seguido de una carrera para atraparlo antes de que toque el suelo. Mezcla potencia de empuje, agilidad y trabajo cardiovascular en un solo patrón dinámico.",
+    "description": "Combina una bisagra de cadera con un empuje explosivo del balón medicinal desde el pecho. Mezcla potencia de piernas y cadera con el trabajo de pectoral, tríceps y hombros en un solo patrón dinámico.",
     "instructions": [
-      "Párate con los pies separados al ancho de los hombros sujetando un balón medicinal a la altura del pecho.",
-      "Da un paso al frente con el pie derecho y empuja el balón medicinal al frente extendiendo los brazos por completo.",
-      "Al empujar, suelta el balón y deja que ruede hacia adelante.",
-      "Corre rápido al frente y atrapa el balón antes de que toque el suelo.",
-      "Una vez atrapado, llévalo de vuelta al pecho y repite el movimiento dando un paso al frente con el pie izquierdo.",
-      "Continúa alternando piernas y repitiendo durante el número de repeticiones deseado."
+      "Párate con los pies escalonados y flexiona la cadera, llevando las manos al balón medicinal en el suelo frente a ti.",
+      "Toma el balón e impúlsate con piernas y cadera, llevándolo al pecho mientras te incorporas.",
+      "Empuja el balón medicinal de forma explosiva al frente, extendiendo los brazos por completo y soltándolo.",
+      "Recupera el balón, vuelve a la posición inclinada inicial y repite el número de repeticiones deseado."
     ]
   },
   "1313": {
     "name": "Remo unilateral en máquina de palanca",
     "description": "Remo unilateral en máquina de palanca, donde tiras del agarre con un lado a la vez. La trayectoria guiada permite enfocarse en la retracción escapular y corregir asimetrías entre lados.",
     "instructions": [
-      "Ajusta la altura del asiento y colócate frente a la máquina.",
-      "Sujeta los agarres en pronación y mantén la espalda recta.",
-      "Tira de los agarres hacia el cuerpo apretando las escápulas.",
-      "Haz una pausa en el pico del movimiento y libera la tensión despacio extendiendo los brazos a la posición inicial.",
-      "Repite el número de repeticiones deseado."
+      "Apoya una rodilla en la almohadilla de la máquina y el otro pie en el suelo, inclínate desde la cadera y apóyate con una mano en el soporte delantero.",
+      "Sujeta el agarre con la mano libre y mantén la espalda recta.",
+      "Tira del agarre hacia la cadera apretando la escápula hacia la columna.",
+      "Haz una pausa en el pico del movimiento y libera la tensión despacio extendiendo el brazo a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de lado."
     ]
   },
   "1314": {
@@ -1154,13 +1099,13 @@
   },
   "1324": {
     "name": "Remo alto con barra en polea",
-    "description": "Remo de pie con barra recta en polea a la altura del pecho. El ángulo alto de tirón enfatiza la espalda alta y los deltoides posteriores con asistencia de bíceps.",
+    "description": "Remo sentado con barra recta en polea a la altura del pecho. El ángulo alto de tirón enfatiza la espalda alta y los deltoides posteriores con asistencia de bíceps.",
     "instructions": [
-      "Conecta una barra recta a la máquina de polea a la altura del pecho.",
-      "Párate frente a la máquina con los pies separados al ancho de los hombros.",
+      "Conecta una barra recta a la máquina de polea a la altura del pecho y siéntate en un banco frente a la máquina.",
+      "Apoya los pies en el suelo delante de ti.",
       "Sujeta la barra en pronación con las manos un poco más abiertas que el ancho de los hombros.",
       "Mantén la espalda recta y el core activo.",
-      "Tira de la barra hacia el pecho alto apretando las escápulas.",
+      "Tira de la barra hacia el pecho alto, elevando los codos hacia los lados y apretando las escápulas.",
       "Haz una pausa arriba del movimiento.",
       "Suelta la barra despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
@@ -1172,8 +1117,8 @@
     "instructions": [
       "Ajusta la máquina de polea para que la barra de jalón quede a una altura por encima de la cabeza.",
       "Siéntate en el asiento y sujeta la barra con un agarre amplio en pronación.",
-      "Mantén la espalda recta y el pecho elevado, inclinándote ligeramente hacia atrás.",
-      "Tira de la barra hacia el pecho alto apretando las escápulas.",
+      "Mantén la espalda recta y la cabeza ligeramente adelantada.",
+      "Tira de la barra por detrás de la cabeza hacia la base de la nuca apretando las escápulas.",
       "Haz una pausa abajo del movimiento y libera la barra despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
     ]
@@ -1187,6 +1132,51 @@
       "Sigue tirando hasta que la barbilla supere la barra.",
       "Haz una pausa arriba y baja el cuerpo despacio a la posición inicial.",
       "Repite el número de repeticiones deseado."
+    ]
+  },
+  "0996": {
+    "name": "Rotación interna de cadera sentado con banda",
+    "description": "Sentado con la banda alrededor de un tobillo, llevas el pie hacia afuera manteniendo la rodilla quieta, rotando la cadera hacia adentro para activar los glúteos y mejorar la movilidad de cadera. Es un ejercicio suave, ideal como calentamiento o trabajo de rehabilitación.",
+    "instructions": [
+      "Siéntate en una silla o banco con la espalda recta y los pies apoyados en el suelo.",
+      "Engancha a un tobillo una banda de resistencia anclada a tu costado.",
+      "Mantén las rodillas flexionadas a 90 grados y la rodilla de la pierna que trabaja quieta.",
+      "Activa los glúteos y lleva lentamente el pie hacia afuera, alejándolo de la otra pierna, rotando la cadera hacia adentro contra la banda.",
+      "Haz una pausa breve al final del movimiento y vuelve despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
+    ]
+  },
+  "0997": {
+    "name": "Press de hombros con banda",
+    "description": "El press de hombros con banda replica el patrón del press militar usando la resistencia elástica para cargar deltoides y tríceps. La tensión variable de la banda exige más control en la parte alta del recorrido.",
+    "instructions": [
+      "Párate con un pie adelantado respecto al otro y coloca la banda debajo del pie delantero.",
+      "Sujeta la banda con las palmas hacia adelante y lleva las manos a la altura de los hombros con los codos flexionados.",
+      "Empuja la banda por encima de la cabeza, extendiendo los brazos por completo.",
+      "Haz una pausa arriba y baja despacio hasta la altura de los hombros.",
+      "Repite el número de repeticiones deseado."
+    ]
+  },
+  "0998": {
+    "name": "Extensión lateral de tríceps con banda",
+    "description": "Una variante de aislamiento para tríceps con un brazo elevado al costado. La banda, anclada del lado contrario, mantiene tensión constante mientras extiendes el codo hacia afuera, sumando trabajo accesorio sobre los deltoides.",
+    "instructions": [
+      "Párate con los pies separados al ancho de los hombros junto a una banda anclada a la altura del hombro del lado contrario y sujétala con la mano más lejana, palma hacia abajo; apoya la otra mano en la cadera.",
+      "Eleva el brazo que trabaja hacia el lado, paralelo al suelo, con el codo flexionado y la mano cerca de la cabeza.",
+      "Extiende lentamente el codo llevando la mano hacia afuera hasta que el brazo quede recto, manteniendo el brazo quieto.",
+      "Haz una pausa breve y flexiona el codo con control hasta la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de brazo."
+    ]
+  },
+  "0999": {
+    "name": "Elevación de pantorrilla a una pierna con banda",
+    "description": "Trabajo unilateral de gemelos con banda bajo la planta del pie. Al cargar una sola pierna se incrementa la demanda de equilibrio y se aísla cada lado para corregir asimetrías.",
+    "instructions": [
+      "Párate con los pies separados al ancho de las caderas y coloca la banda alrededor de la planta del pie izquierdo.",
+      "Apóyate en un objeto estable para mantener el equilibrio si lo necesitas.",
+      "Eleva lentamente el talón izquierdo del suelo, llevando el peso del cuerpo a la punta del pie.",
+      "Haz una pausa arriba y baja el talón despacio a la posición inicial.",
+      "Repite el número de repeticiones deseado y cambia de pierna."
     ]
   }
 }
